@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-11T09:46:44+00:00",
+ "updated": "2026-10-11T16:19:26+00:00",
  "sources": [
   {
    "name": "OpenAI",
@@ -13,9 +13,9 @@
    "name": "Google DeepMind",
    "url": "https://deepmind.google/blog/rss.xml",
    "kind": "lab",
-   "ok": false,
-   "count": 0,
-   "error": "ParseError: not well-formed (invalid token): line 1, column 0"
+   "ok": true,
+   "count": 40,
+   "error": null
   },
   {
    "name": "Google AI",
@@ -91,6 +91,43 @@
   }
  ],
  "items": [
+  {
+   "id": "ba5db8106c64fb8b",
+   "title": "These execs think voice AI hasn’t reached its ChatGPT moment yet",
+   "link": "https://techcrunch.com/2026/10/11/these-execs-think-voice-ai-hasnt-reached-its-chatgpt-moment-yet/",
+   "source": "TechCrunch",
+   "kind": "press",
+   "summary": "Voice AI's often misses important points for its context layer, and causes the whole pipeline to break",
+   "published": "2026-10-11T14:00:00+00:00",
+   "topics": [],
+   "first_seen": "2026-10-11T16:19:26+00:00"
+  },
+  {
+   "id": "ea95eacbd85b4f83",
+   "title": "Learning to use local AI is exciting, overwhelming, and frustrating",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/1008484/learning-local-ai-hermes-qwen-model-mac-studio-testing-diary-progress",
+   "source": "The Verge",
+   "kind": "press",
+   "summary": "I'm embarking on a journey I've so far been hesitant to go on: actually using AI on the regular. Giving my most personal data to cloud services has been a major hold up for me, but it's increasingly possible to run powerful models locally to see what they're capable of. Is this…",
+   "published": "2026-10-11T04:53:46+00:00",
+   "topics": [
+    "Models"
+   ],
+   "first_seen": "2026-10-11T16:19:26+00:00"
+  },
+  {
+   "id": "68fdf4ebf9ab7162",
+   "title": "500B Tokens Later: Letting AI Agents Decompile a First-Person Shooter",
+   "link": "https://momo5502.com/posts/2026-10-09-game-decompilation/",
+   "source": "Hacker News",
+   "kind": "community",
+   "summary": "Article URL: https://momo5502.com/posts/2026-10-09-game-decompilation/ Comments URL: https://news.ycombinator.com/item?id=50039092 Points: 121 # Comments: 88",
+   "published": "2026-10-11T02:02:38+00:00",
+   "topics": [
+    "Tools"
+   ],
+   "first_seen": "2026-10-11T16:19:26+00:00"
+  },
   {
    "id": "a786585932c30cce",
    "title": "Dwarf Fortress uses version control now",
@@ -171,7 +208,7 @@
    "link": "https://www.ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://www.ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a Comments URL: https://news.ycombinator.com/item?id=50035886 Points: 162 # Comments: 105",
+   "summary": "Article URL: https://www.ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a Comments URL: https://news.ycombinator.com/item?id=50035886 Points: 172 # Comments: 110",
    "published": "2026-10-10T18:48:35+00:00",
    "topics": [
     "Models",
@@ -226,7 +263,7 @@
    "link": "https://github.com/rociiu/talorys",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://github.com/rociiu/talorys Comments URL: https://news.ycombinator.com/item?id=50031614 Points: 292 # Comments: 133",
+   "summary": "Article URL: https://github.com/rociiu/talorys Comments URL: https://news.ycombinator.com/item?id=50031614 Points: 312 # Comments: 144",
    "published": "2026-10-10T10:52:09+00:00",
    "topics": [
     "Tools"
@@ -307,7 +344,7 @@
    "link": "https://www.nbcphiladelphia.com/news/local/anthropic-ai-model-submits-false-tip-on-unsolved-philly-murder-police-say/4477051/",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://www.nbcphiladelphia.com/news/local/anthropic-ai-model-submits-false-tip-on-unsolved-philly-murder-police-say/4477051/ Comments URL: https://news.ycombinator.com/item?id=50027118 Points: 208 # Comments: 154",
+   "summary": "Article URL: https://www.nbcphiladelphia.com/news/local/anthropic-ai-model-submits-false-tip-on-unsolved-philly-murder-police-say/4477051/ Comments URL: https://news.ycombinator.com/item?id=50027118 Points: 211 # Comments: 154",
    "published": "2026-10-09T22:00:35+00:00",
    "topics": [
     "Models"
@@ -429,7 +466,7 @@
    "link": "https://typesafe.ai/blog/series-ai",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://typesafe.ai/blog/series-ai Comments URL: https://news.ycombinator.com/item?id=50023450 Points: 437 # Comments: 347",
+   "summary": "Article URL: https://typesafe.ai/blog/series-ai Comments URL: https://news.ycombinator.com/item?id=50023450 Points: 441 # Comments: 351",
    "published": "2026-10-09T17:02:31+00:00",
    "topics": [
     "Business"
@@ -568,7 +605,7 @@
    "link": "https://github.com/franzenzenhofer/big-arrow-on-the-screen",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://github.com/franzenzenhofer/big-arrow-on-the-screen Comments URL: https://news.ycombinator.com/item?id=50018817 Points: 413 # Comments: 188",
+   "summary": "Article URL: https://github.com/franzenzenhofer/big-arrow-on-the-screen Comments URL: https://news.ycombinator.com/item?id=50018817 Points: 414 # Comments: 192",
    "published": "2026-10-09T11:03:48+00:00",
    "topics": [
     "Tools"
@@ -877,7 +914,7 @@
    "link": "https://www.reddit.com/r/ClaudeAI/s/mbe5IY2LF9",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://www.reddit.com/r/ClaudeAI/s/mbe5IY2LF9 Comments URL: https://news.ycombinator.com/item?id=50002665 Points: 294 # Comments: 130",
+   "summary": "Article URL: https://www.reddit.com/r/ClaudeAI/s/mbe5IY2LF9 Comments URL: https://news.ycombinator.com/item?id=50002665 Points: 296 # Comments: 131",
    "published": "2026-10-08T07:07:34+00:00",
    "topics": [
     "Models"
@@ -890,7 +927,7 @@
    "link": "https://github.com/pingdotgg/ts-rust",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://github.com/pingdotgg/ts-rust Comments URL: https://news.ycombinator.com/item?id=50000676 Points: 115 # Comments: 220",
+   "summary": "Article URL: https://github.com/pingdotgg/ts-rust Comments URL: https://news.ycombinator.com/item?id=50000676 Points: 117 # Comments: 221",
    "published": "2026-10-08T00:46:00+00:00",
    "topics": [
     "Models"
@@ -975,7 +1012,7 @@
    "link": "https://www.rswebsols.com/news/meta-and-microsoft-take-steps-to-reduce-employee-usage-of-claude-ai/",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://www.rswebsols.com/news/meta-and-microsoft-take-steps-to-reduce-employee-usage-of-claude-ai/ Comments URL: https://news.ycombinator.com/item?id=49997161 Points: 376 # Comments: 385",
+   "summary": "Article URL: https://www.rswebsols.com/news/meta-and-microsoft-take-steps-to-reduce-employee-usage-of-claude-ai/ Comments URL: https://news.ycombinator.com/item?id=49997161 Points: 376 # Comments: 386",
    "published": "2026-10-07T18:49:40+00:00",
    "topics": [
     "Models"
@@ -988,7 +1025,7 @@
    "link": "https://www.anthropic.com/claude-haiku-5-5",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://www.anthropic.com/claude-haiku-5-5 Comments URL: https://news.ycombinator.com/item?id=49996437 Points: 1045 # Comments: 488",
+   "summary": "Article URL: https://www.anthropic.com/claude-haiku-5-5 Comments URL: https://news.ycombinator.com/item?id=49996437 Points: 1046 # Comments: 488",
    "published": "2026-10-07T18:01:32+00:00",
    "topics": [
     "Models"
@@ -1223,7 +1260,7 @@
    "link": "https://openai.com/index/sharing-ai-progress-in-mathematics/",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "https://github.com/openai/math https://github.com/openai/math/tree/main/preprints Comments URL: https://news.ycombinator.com/item?id=49984923 Points: 1348 # Comments: 1528",
+   "summary": "https://github.com/openai/math https://github.com/openai/math/tree/main/preprints Comments URL: https://news.ycombinator.com/item?id=49984923 Points: 1350 # Comments: 1530",
    "published": "2026-10-06T22:17:21+00:00",
    "topics": [],
    "first_seen": "2026-10-11T09:46:44+00:00"
@@ -1294,6 +1331,19 @@
     "Hardware"
    ],
    "first_seen": "2026-10-11T09:46:44+00:00"
+  },
+  {
+   "id": "4dd290070848fb61",
+   "title": "EmbeddingGemma 2: an open, lightweight multimodal embedding model",
+   "link": "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/",
+   "source": "Google DeepMind",
+   "kind": "lab",
+   "summary": "",
+   "published": "2026-10-06T19:57:04+00:00",
+   "topics": [
+    "Models"
+   ],
+   "first_seen": "2026-10-11T16:19:26+00:00"
   },
   {
    "id": "f5f88d08399f657b",
@@ -1864,6 +1914,30 @@
    "first_seen": "2026-10-11T09:46:44+00:00"
   },
   {
+   "id": "15e70ee5e4a75a6c",
+   "title": "Gemini 4 Argon: our next era of frontier intelligence",
+   "link": "https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/",
+   "source": "Google DeepMind",
+   "kind": "lab",
+   "summary": "",
+   "published": "2026-09-30T20:01:45+00:00",
+   "topics": [
+    "Models"
+   ],
+   "first_seen": "2026-10-11T16:19:26+00:00"
+  },
+  {
+   "id": "0a622a33b8e3e3e9",
+   "title": "Introducing SynthID Bio",
+   "link": "https://deepmind.google/blog/introducing-synthid-bio/",
+   "source": "Google DeepMind",
+   "kind": "lab",
+   "summary": "Proof of concept for watermarking AI-generated proteins while preserving biological function.",
+   "published": "2026-09-30T15:03:07+00:00",
+   "topics": [],
+   "first_seen": "2026-10-11T16:19:26+00:00"
+  },
+  {
    "id": "6a91381a429232e7",
    "title": "Disrupting a coordinated model-distillation campaign",
    "link": "https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign",
@@ -2088,6 +2162,19 @@
    "first_seen": "2026-10-11T09:46:44+00:00"
   },
   {
+   "id": "e7107d9a76d915c4",
+   "title": "Introducing Gemini 3.8 Live with Live Avatar",
+   "link": "https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar/",
+   "source": "Google DeepMind",
+   "kind": "lab",
+   "summary": "",
+   "published": "2026-09-24T16:20:39+00:00",
+   "topics": [
+    "Models"
+   ],
+   "first_seen": "2026-10-11T16:19:26+00:00"
+  },
+  {
    "id": "8a86c97089bb6492",
    "title": "Google Beam expands with new regions, partners, and customers",
    "link": "https://blog.google/innovation-and-ai/technology/research/google-beam-expansion/",
@@ -2099,6 +2186,17 @@
    "first_seen": "2026-10-11T09:46:44+00:00"
   },
   {
+   "id": "4c4abcff4acd2c4c",
+   "title": "Advancing Private AI Compute with secure, server-side memory",
+   "link": "https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory/",
+   "source": "Google DeepMind",
+   "kind": "lab",
+   "summary": "Introducing private, server-side memory to Private AI Compute for personal AI.",
+   "published": "2026-09-23T16:00:57+00:00",
+   "topics": [],
+   "first_seen": "2026-10-11T16:19:26+00:00"
+  },
+  {
    "id": "9d02eeb8cef10808",
    "title": "Two years of OpenAI Academy",
    "link": "https://openai.com/index/two-years-of-openai-academy",
@@ -2108,6 +2206,19 @@
    "published": "2026-09-23T16:00:00+00:00",
    "topics": [],
    "first_seen": "2026-10-11T09:46:44+00:00"
+  },
+  {
+   "id": "be2314c62992cc2b",
+   "title": "Gemini 3.8 text-to-speech says hello",
+   "link": "https://deepmind.google/blog/say-hello-to-gemini-38-text-to-speech/",
+   "source": "Google DeepMind",
+   "kind": "lab",
+   "summary": "",
+   "published": "2026-09-23T15:25:14+00:00",
+   "topics": [
+    "Models"
+   ],
+   "first_seen": "2026-10-11T16:19:26+00:00"
   },
   {
    "id": "1d77064cbebb782f",
@@ -2266,6 +2377,19 @@
    "published": "2026-09-17T20:00:00+00:00",
    "topics": [],
    "first_seen": "2026-10-11T09:46:44+00:00"
+  },
+  {
+   "id": "f4c3141ce9f2ce84",
+   "title": "Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking",
+   "link": "https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking/",
+   "source": "Google DeepMind",
+   "kind": "lab",
+   "summary": "",
+   "published": "2026-09-15T17:05:57+00:00",
+   "topics": [
+    "Models"
+   ],
+   "first_seen": "2026-10-11T16:19:26+00:00"
   },
   {
    "id": "16a7b27ed0ae9a75",
