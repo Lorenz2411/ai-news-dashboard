@@ -1,0 +1,323 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>AI News Dashboard</title>
+<meta name="description" content="The latest AI news from labs, press and the community, refreshed automatically.">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'><rect width='32' height='32' rx='7' fill='%234f46e5'/><path d='M9 22l7-13 7 13M12 17h8' stroke='white' stroke-width='2.5' fill='none' stroke-linecap='round' stroke-linejoin='round'/></svg>">
+<style>
+  :root {
+    --bg: #f6f7f9; --surface: #ffffff; --surface-2: #f0f2f5; --border: #e3e6eb;
+    --text: #15181e; --muted: #5d6573; --accent: #4f46e5; --accent-soft: #eef0ff;
+    --new: #059669; --star: #d97706; --err: #dc2626;
+    --lab: #4f46e5; --press: #0e7490; --community: #b45309;
+    --radius: 10px; --shadow: 0 1px 2px rgba(15, 20, 30, .05);
+  }
+  @media (prefers-color-scheme: dark) {
+    :root:not([data-theme="light"]) {
+      --bg: #0f1115; --surface: #171a21; --surface-2: #1f232c; --border: #2a2f3a;
+      --text: #e7e9ee; --muted: #9aa2b1; --accent: #8b85ff; --accent-soft: #23234a;
+      --new: #34d399; --star: #fbbf24; --err: #f87171;
+      --lab: #a5a0ff; --press: #5ec8de; --community: #f0b35a;
+      --shadow: none;
+    }
+  }
+  :root[data-theme="dark"] {
+    --bg: #0f1115; --surface: #171a21; --surface-2: #1f232c; --border: #2a2f3a;
+    --text: #e7e9ee; --muted: #9aa2b1; --accent: #8b85ff; --accent-soft: #23234a;
+    --new: #34d399; --star: #fbbf24; --err: #f87171;
+    --lab: #a5a0ff; --press: #5ec8de; --community: #f0b35a;
+    --shadow: none;
+  }
+  * { box-sizing: border-box; }
+  body { margin: 0; background: var(--bg); color: var(--text);
+    font: 15px/1.5 system-ui, -apple-system, "Segoe UI", Roboto, sans-serif; }
+  a { color: inherit; }
+  button, input, select { font: inherit; color: inherit; }
+  .wrap { max-width: 1180px; margin: 0 auto; padding: 0 16px; }
+
+  header { padding: 28px 0 16px; display: flex; flex-wrap: wrap; gap: 12px; align-items: end; justify-content: space-between; }
+  h1 { margin: 0; font-size: 1.6rem; letter-spacing: -.01em; }
+  .updated { color: var(--muted); font-size: .9rem; }
+  .icon-btn { background: var(--surface); border: 1px solid var(--border); border-radius: 8px; padding: 6px 10px; cursor: pointer; }
+
+  .stats { display: grid; grid-template-columns: repeat(4, 1fr); gap: 12px; margin-bottom: 16px; }
+  .stat { background: var(--surface); border: 1px solid var(--border); border-radius: var(--radius); padding: 12px 14px; box-shadow: var(--shadow); }
+  .stat b { display: block; font-size: 1.5rem; font-variant-numeric: tabular-nums; }
+  .stat span { color: var(--muted); font-size: .85rem; }
+
+  .controls { position: sticky; top: 0; z-index: 2; background: var(--bg); padding: 10px 0; display: flex; flex-wrap: wrap; gap: 8px; align-items: center; }
+  .search { flex: 1 1 260px; background: var(--surface); border: 1px solid var(--border); border-radius: 8px; padding: 8px 12px; }
+  .search:focus, select:focus, button:focus-visible { outline: 2px solid var(--accent); outline-offset: 1px; }
+  select { background: var(--surface); border: 1px solid var(--border); border-radius: 8px; padding: 8px 10px; }
+  .seg { display: inline-flex; border: 1px solid var(--border); border-radius: 8px; overflow: hidden; background: var(--surface); }
+  .seg button { border: 0; background: none; padding: 7px 12px; cursor: pointer; }
+  .seg button[aria-pressed="true"] { background: var(--accent); color: #fff; }
+  .chips { display: flex; flex-wrap: wrap; gap: 6px; padding-bottom: 12px; }
+  .chip { border: 1px solid var(--border); background: var(--surface); border-radius: 999px; padding: 3px 11px; cursor: pointer; font-size: .85rem; }
+  .chip[aria-pressed="true"] { background: var(--accent-soft); border-color: var(--accent); color: var(--accent); }
+  .chip small { color: var(--muted); margin-left: 3px; }
+
+  .layout { display: grid; grid-template-columns: 1fr 260px; gap: 20px; padding-bottom: 48px; }
+  .feed { display: flex; flex-direction: column; gap: 10px; min-width: 0; }
+  .day { margin: 14px 0 2px; font-size: .8rem; font-weight: 600; letter-spacing: .04em; text-transform: uppercase; color: var(--muted); }
+  .card { background: var(--surface); border: 1px solid var(--border); border-radius: var(--radius); padding: 14px 16px; box-shadow: var(--shadow); display: grid; grid-template-columns: 1fr auto; gap: 4px 12px; }
+  .card h2 { margin: 0; font-size: 1.02rem; line-height: 1.35; }
+  .card h2 a { text-decoration: none; }
+  .card h2 a:hover { text-decoration: underline; }
+  .card h2 a:visited { color: var(--muted); }
+  .card p { margin: 2px 0 0; color: var(--muted); font-size: .92rem; grid-column: 1 / -1; overflow-wrap: anywhere; }
+  .meta { grid-column: 1 / -1; display: flex; flex-wrap: wrap; gap: 6px 10px; align-items: center; font-size: .8rem; color: var(--muted); margin-top: 4px; }
+  .src { font-weight: 600; display: inline-flex; align-items: center; gap: 5px; }
+  .src::before { content: ""; width: 8px; height: 8px; border-radius: 50%; background: var(--dot, var(--muted)); }
+  .src.lab { --dot: var(--lab); } .src.press { --dot: var(--press); } .src.community { --dot: var(--community); }
+  .tag { background: var(--surface-2); border-radius: 4px; padding: 0 6px; }
+  .new { color: var(--new); font-weight: 700; }
+  .star { background: none; border: 0; cursor: pointer; font-size: 1.15rem; line-height: 1; color: var(--muted); padding: 2px; align-self: start; }
+  .star[aria-pressed="true"] { color: var(--star); }
+  .empty { text-align: center; color: var(--muted); padding: 48px 16px; background: var(--surface); border: 1px dashed var(--border); border-radius: var(--radius); }
+
+  aside { display: flex; flex-direction: column; gap: 16px; }
+  .panel { background: var(--surface); border: 1px solid var(--border); border-radius: var(--radius); padding: 14px 16px; box-shadow: var(--shadow); }
+  .panel h3 { margin: 0 0 8px; font-size: .8rem; text-transform: uppercase; letter-spacing: .04em; color: var(--muted); }
+  .srclist { list-style: none; margin: 0; padding: 0; font-size: .88rem; }
+  .srclist li { display: flex; justify-content: space-between; gap: 8px; padding: 3px 0; }
+  .srclist button { background: none; border: 0; padding: 0; cursor: pointer; text-align: left; }
+  .srclist button:hover { text-decoration: underline; }
+  .srclist .bad { color: var(--err); }
+  .srclist .n { color: var(--muted); font-variant-numeric: tabular-nums; }
+  .legend { font-size: .82rem; color: var(--muted); display: flex; flex-direction: column; gap: 4px; }
+
+  @media (max-width: 860px) {
+    .layout { grid-template-columns: 1fr; }
+    .legend { display: none; }
+    .stats { grid-template-columns: repeat(2, 1fr); }
+  }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <div>
+      <h1>AI News Dashboard</h1>
+      <div class="updated" id="updated">Loading…</div>
+    </div>
+    <button class="icon-btn" id="theme" title="Toggle light / dark">◐ Theme</button>
+  </header>
+
+  <section class="stats" aria-label="Summary">
+    <div class="stat"><b id="s-new">–</b><span>New since last visit</span></div>
+    <div class="stat"><b id="s-24h">–</b><span>Last 24 hours</span></div>
+    <div class="stat"><b id="s-7d">–</b><span>Last 7 days</span></div>
+    <div class="stat"><b id="s-src">–</b><span>Sources online</span></div>
+  </section>
+
+  <div class="controls">
+    <input class="search" id="q" type="search" placeholder="Search headlines and summaries…  ( / )" aria-label="Search">
+    <div class="seg" role="group" aria-label="Time range" id="range">
+      <button data-v="1">24h</button><button data-v="7">7d</button><button data-v="30">30d</button>
+    </div>
+    <select id="source" aria-label="Source"><option value="">All sources</option></select>
+    <div class="seg" role="group" aria-label="View" id="view">
+      <button data-v="all">All</button><button data-v="saved">★ Saved</button>
+    </div>
+  </div>
+  <div class="chips" id="topics" aria-label="Topics"></div>
+
+  <div class="layout">
+    <main class="feed" id="feed" aria-live="polite"></main>
+    <aside>
+      <div class="panel">
+        <h3>Sources</h3>
+        <ul class="srclist" id="sources"></ul>
+      </div>
+      <div class="panel legend">
+        <h3>Legend</h3>
+        <span class="src lab">AI labs</span>
+        <span class="src press">Tech press</span>
+        <span class="src community">Community</span>
+        <span><span class="new">NEW</span> appeared since your last visit</span>
+      </div>
+    </aside>
+  </div>
+</div>
+
+<script>
+(() => {
+  const $ = (s) => document.querySelector(s);
+  const store = {
+    get(k, d) { try { const v = localStorage.getItem(k); return v === null ? d : JSON.parse(v); } catch { return d; } },
+    set(k, v) { try { localStorage.setItem(k, JSON.stringify(v)); } catch {} },
+  };
+  const esc = (s) => String(s ?? "").replace(/[&<>"']/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]));
+  const DAY = 864e5;
+
+  const state = {
+    items: [], sources: [],
+    q: "", days: store.get("aind.days", 7), source: "", topics: new Set(),
+    view: "all", saved: new Set(store.get("aind.saved", [])),
+    lastVisit: store.get("aind.lastVisit", null),
+  };
+
+  // Theme
+  const applyTheme = (t) => { if (t) document.documentElement.dataset.theme = t; };
+  applyTheme(store.get("aind.theme", null));
+  $("#theme").onclick = () => {
+    const cur = document.documentElement.dataset.theme ||
+      (matchMedia("(prefers-color-scheme: dark)").matches ? "dark" : "light");
+    const next = cur === "dark" ? "light" : "dark";
+    applyTheme(next); store.set("aind.theme", next);
+  };
+
+  const when = (i) => new Date(i.published || i.first_seen || 0);
+  const isNew = (i) => state.lastVisit && new Date(i.first_seen || i.published) > new Date(state.lastVisit);
+
+  function relTime(d) {
+    const s = (Date.now() - d) / 1000;
+    if (s < 3600) return `${Math.max(1, Math.round(s / 60))}m ago`;
+    if (s < 86400) return `${Math.round(s / 3600)}h ago`;
+    return d.toLocaleDateString(undefined, { month: "short", day: "numeric" });
+  }
+  function dayLabel(d) {
+    const t = new Date(); t.setHours(0, 0, 0, 0);
+    const x = new Date(d); x.setHours(0, 0, 0, 0);
+    const diff = Math.round((t - x) / DAY);
+    if (diff === 0) return "Today";
+    if (diff === 1) return "Yesterday";
+    return x.toLocaleDateString(undefined, { weekday: "long", month: "long", day: "numeric" });
+  }
+
+  function filtered() {
+    const cutoff = Date.now() - state.days * DAY;
+    const terms = state.q.toLowerCase().split(/\s+/).filter(Boolean);
+    return state.items.filter((i) => {
+      if (state.view === "saved") { if (!state.saved.has(i.id)) return false; }
+      else if (when(i) < cutoff) return false;
+      if (state.source && i.source !== state.source) return false;
+      if (state.topics.size && !i.topics.some((t) => state.topics.has(t))) return false;
+      if (terms.length) {
+        const hay = `${i.title} ${i.summary} ${i.source}`.toLowerCase();
+        if (!terms.every((t) => hay.includes(t))) return false;
+      }
+      return true;
+    });
+  }
+
+  function renderFeed() {
+    const list = filtered();
+    if (!list.length) {
+      $("#feed").innerHTML = `<div class="empty">${state.view === "saved"
+        ? "No saved stories yet. Click ☆ on a story to keep it here."
+        : "No stories match these filters."}</div>`;
+      return;
+    }
+    let html = "", lastDay = "";
+    for (const i of list) {
+      const d = when(i), label = dayLabel(d);
+      if (label !== lastDay) { html += `<div class="day">${esc(label)}</div>`; lastDay = label; }
+      const saved = state.saved.has(i.id);
+      html += `<article class="card">
+        <h2><a href="${esc(i.link)}" target="_blank" rel="noopener noreferrer">${esc(i.title)}</a></h2>
+        <button class="star" data-id="${esc(i.id)}" aria-pressed="${saved}" title="${saved ? "Remove from saved" : "Save for later"}">${saved ? "★" : "☆"}</button>
+        ${i.summary ? `<p>${esc(i.summary)}</p>` : ""}
+        <div class="meta">
+          <span class="src ${esc(i.kind)}">${esc(i.source)}</span>
+          <time datetime="${esc(d.toISOString())}" title="${esc(d.toLocaleString())}">${relTime(d)}</time>
+          ${isNew(i) ? `<span class="new">NEW</span>` : ""}
+          ${i.topics.map((t) => `<span class="tag">${esc(t)}</span>`).join("")}
+        </div>
+      </article>`;
+    }
+    $("#feed").innerHTML = html;
+  }
+
+  function renderTopics() {
+    const counts = {};
+    const cutoff = Date.now() - state.days * DAY;
+    for (const i of state.items) if (when(i) >= cutoff) for (const t of i.topics) counts[t] = (counts[t] || 0) + 1;
+    const names = Object.keys(counts).sort((a, b) => counts[b] - counts[a]);
+    $("#topics").innerHTML = names.map((t) =>
+      `<button class="chip" data-t="${esc(t)}" aria-pressed="${state.topics.has(t)}">${esc(t)}<small>${counts[t]}</small></button>`
+    ).join("") + (state.topics.size ? `<button class="chip" data-t="">Clear ✕</button>` : "");
+  }
+
+  function renderSegs() {
+    for (const b of $("#range").children) b.setAttribute("aria-pressed", String(+b.dataset.v === state.days && state.view === "all"));
+    for (const b of $("#view").children) b.setAttribute("aria-pressed", String(b.dataset.v === state.view));
+  }
+
+  function renderSources() {
+    const cutoff = Date.now() - 7 * DAY;
+    const recent = {};
+    for (const i of state.items) if (when(i) >= cutoff) recent[i.source] = (recent[i.source] || 0) + 1;
+    $("#sources").innerHTML = state.sources.map((s) => `<li>
+      <button class="src ${esc(s.kind)}" data-s="${esc(s.name)}">${esc(s.name)}</button>
+      ${s.ok ? `<span class="n" title="Stories in the last 7 days">${recent[s.name] || 0}</span>`
+             : `<span class="bad" title="${esc(s.error || "fetch failed")}">offline</span>`}
+    </li>`).join("");
+  }
+
+  function renderStats() {
+    const now = Date.now();
+    $("#s-new").textContent = state.lastVisit ? state.items.filter(isNew).length : "—";
+    $("#s-24h").textContent = state.items.filter((i) => now - when(i) < DAY).length;
+    $("#s-7d").textContent = state.items.filter((i) => now - when(i) < 7 * DAY).length;
+    $("#s-src").textContent = `${state.sources.filter((s) => s.ok).length}/${state.sources.length}`;
+  }
+
+  const render = () => { renderSegs(); renderTopics(); renderFeed(); };
+
+  // Events
+  let qTimer;
+  $("#q").addEventListener("input", (e) => { clearTimeout(qTimer); qTimer = setTimeout(() => { state.q = e.target.value; renderFeed(); }, 120); });
+  document.addEventListener("keydown", (e) => {
+    if (e.key === "/" && document.activeElement !== $("#q")) { e.preventDefault(); $("#q").focus(); }
+    if (e.key === "Escape" && document.activeElement === $("#q")) { $("#q").value = ""; state.q = ""; renderFeed(); }
+  });
+  $("#range").onclick = (e) => { const v = e.target.dataset?.v; if (!v) return; state.days = +v; state.view = "all"; store.set("aind.days", state.days); render(); };
+  $("#view").onclick = (e) => { const v = e.target.dataset?.v; if (!v) return; state.view = v; render(); };
+  $("#source").onchange = (e) => { state.source = e.target.value; renderFeed(); };
+  $("#topics").onclick = (e) => {
+    const b = e.target.closest(".chip"); if (!b) return;
+    const t = b.dataset.t;
+    if (!t) state.topics.clear(); else state.topics.has(t) ? state.topics.delete(t) : state.topics.add(t);
+    render();
+  };
+  $("#sources").onclick = (e) => {
+    const b = e.target.closest("button"); if (!b) return;
+    state.source = state.source === b.dataset.s ? "" : b.dataset.s;
+    $("#source").value = state.source; renderFeed();
+  };
+  $("#feed").onclick = (e) => {
+    const b = e.target.closest(".star"); if (!b) return;
+    const id = b.dataset.id;
+    state.saved.has(id) ? state.saved.delete(id) : state.saved.add(id);
+    store.set("aind.saved", [...state.saved]);
+    renderFeed();
+  };
+
+  // Load
+  fetch(`data/news.json?t=${Date.now()}`)
+    .then((r) => { if (!r.ok) throw new Error(`HTTP ${r.status}`); return r.json(); })
+    .then((data) => {
+      state.items = (data.items || []).filter((i) => /^https?:\/\//.test(i.link || "")).map((i) => ({ ...i, topics: i.topics || [] }));
+      state.sources = data.sources || [];
+      const updated = data.updated ? new Date(data.updated) : null;
+      $("#updated").textContent = updated
+        ? `${state.items.length} stories from ${state.sources.length} sources · updated ${relTime(updated)}`
+        : "No data yet: run the “Update news” workflow to fetch the first batch.";
+      const names = [...new Set(state.sources.map((s) => s.name).concat(state.items.map((i) => i.source)))];
+      $("#source").insertAdjacentHTML("beforeend", names.map((n) => `<option>${esc(n)}</option>`).join(""));
+      renderStats(); renderSources(); render();
+      store.set("aind.lastVisit", new Date().toISOString());
+    })
+    .catch((err) => {
+      $("#updated").textContent = "Could not load news data.";
+      $("#feed").innerHTML = `<div class="empty">Couldn’t load <code>data/news.json</code> (${esc(err.message)}).<br>
+        If you opened this file directly, serve the folder instead: <code>python3 -m http.server -d docs</code></div>`;
+    });
+})();
+</script>
+</body>
+</html>

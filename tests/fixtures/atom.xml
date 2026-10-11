@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Example Lab Blog</title>
+  <entry>
+    <title type="html">New benchmark for multimodal models</title>
+    <link rel="replies" href="https://example.org/comments"/>
+    <link rel="alternate" href="https://example.org/benchmark"/>
+    <id>tag:example.org,2026:1</id>
+    <published>2026-10-10T08:00:00Z</published>
+    <summary>Our research paper introduces a dataset of 10k tasks.</summary>
+  </entry>
+</feed>

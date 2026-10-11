@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Example AI Press</title>
+    <item>
+      <title>Startup raises $50M to build open-source AI agents</title>
+      <link>https://example.com/agents-funding</link>
+      <description><![CDATA[<p>The company&#8217;s new <b>funding</b> round values it at $1B.</p>]]></description>
+      <pubDate>Fri, 09 Oct 2026 14:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>No link here</title>
+    </item>
+  </channel>
+</rss>

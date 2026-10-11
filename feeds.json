@@ -1,0 +1,17 @@
+{
+  "feeds": [
+    { "name": "OpenAI", "url": "https://openai.com/news/rss.xml", "kind": "lab" },
+    { "name": "Google DeepMind", "url": "https://deepmind.google/blog/rss.xml", "kind": "lab" },
+    { "name": "Google AI", "url": "https://blog.google/technology/ai/rss/", "kind": "lab" },
+    { "name": "Hugging Face", "url": "https://huggingface.co/blog/feed.xml", "kind": "lab" },
+    { "name": "MIT Technology Review", "url": "https://www.technologyreview.com/topic/artificial-intelligence/feed", "kind": "press" },
+    { "name": "The Verge", "url": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml", "kind": "press" },
+    { "name": "TechCrunch", "url": "https://techcrunch.com/category/artificial-intelligence/feed/", "kind": "press" },
+    { "name": "Ars Technica", "url": "https://arstechnica.com/ai/feed/", "kind": "press" },
+    { "name": "VentureBeat", "url": "https://venturebeat.com/category/ai/feed/", "kind": "press" },
+    { "name": "Simon Willison", "url": "https://simonwillison.net/atom/everything/", "kind": "community" },
+    { "name": "Hacker News", "url": "https://hnrss.org/newest?q=AI+OR+LLM+OR+GPT+OR+Claude&points=100", "kind": "community" }
+  ],
+  "max_items_per_feed": 40,
+  "max_age_days": 30
+}
