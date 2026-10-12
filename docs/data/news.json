@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-11T21:57:54+00:00",
+ "updated": "2026-10-12T01:19:43+00:00",
  "sources": [
   {
    "name": "OpenAI",
@@ -13,9 +13,9 @@
    "name": "Google DeepMind",
    "url": "https://deepmind.google/blog/rss.xml",
    "kind": "lab",
-   "ok": false,
-   "count": 0,
-   "error": "ParseError: not well-formed (invalid token): line 1, column 0"
+   "ok": true,
+   "count": 40,
+   "error": null
   },
   {
    "name": "Google AI",
@@ -97,10 +97,25 @@
    "link": "https://techcrunch.com/2026/10/11/will-the-homeview-be-apples-first-smart-home-success/",
    "source": "TechCrunch",
    "kind": "press",
-   "summary": "Apple will announce a new smart home hub on Tuesday called the HomeView, according to Bloomberg’s Mark Gurman. Over the past couple of years, we’ve seen There have been multiple reports that Apple was working on a new smart home product, but now it seems the product has a name…",
+   "summary": "Over the past couple of years, we’ve seen multiple reports that Apple was working on a new smart home product, but now it seems the product has a name and a launch date.",
    "published": "2026-10-11T21:14:40+00:00",
-   "topics": [],
+   "topics": [
+    "Tools"
+   ],
    "first_seen": "2026-10-11T21:57:54+00:00"
+  },
+  {
+   "id": "44c65736f8dd5ac9",
+   "title": "The gap in shared understanding of LLM capability is widening",
+   "link": "https://twitter.com/karpathy/status/2109361546505966046",
+   "source": "Hacker News",
+   "kind": "community",
+   "summary": "Article URL: https://twitter.com/karpathy/status/2109361546505966046 Comments URL: https://news.ycombinator.com/item?id=50047422 Points: 226 # Comments: 367",
+   "published": "2026-10-11T20:20:52+00:00",
+   "topics": [
+    "Models"
+   ],
+   "first_seen": "2026-10-12T01:19:43+00:00"
   },
   {
    "id": "e380f02bc291d4d2",
@@ -163,11 +178,11 @@
   },
   {
    "id": "68fdf4ebf9ab7162",
-   "title": "500B Tokens Later: Letting AI Agents Decompile a First-Person Shooter",
+   "title": "500B tokens later: Letting AI agents decompile a first-person shooter",
    "link": "https://momo5502.com/posts/2026-10-09-game-decompilation/",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://momo5502.com/posts/2026-10-09-game-decompilation/ Comments URL: https://news.ycombinator.com/item?id=50039092 Points: 126 # Comments: 94",
+   "summary": "Article URL: https://momo5502.com/posts/2026-10-09-game-decompilation/ Comments URL: https://news.ycombinator.com/item?id=50039092 Points: 150 # Comments: 108",
    "published": "2026-10-11T02:02:38+00:00",
    "topics": [
     "Tools"
@@ -254,7 +269,7 @@
    "link": "https://www.ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://www.ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a Comments URL: https://news.ycombinator.com/item?id=50035886 Points: 175 # Comments: 112",
+   "summary": "Article URL: https://www.ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a Comments URL: https://news.ycombinator.com/item?id=50035886 Points: 176 # Comments: 113",
    "published": "2026-10-10T18:48:35+00:00",
    "topics": [
     "Models",
@@ -309,7 +324,7 @@
    "link": "https://github.com/rociiu/talorys",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://github.com/rociiu/talorys Comments URL: https://news.ycombinator.com/item?id=50031614 Points: 320 # Comments: 149",
+   "summary": "Article URL: https://github.com/rociiu/talorys Comments URL: https://news.ycombinator.com/item?id=50031614 Points: 321 # Comments: 150",
    "published": "2026-10-10T10:52:09+00:00",
    "topics": [
     "Tools"
@@ -390,7 +405,7 @@
    "link": "https://www.nbcphiladelphia.com/news/local/anthropic-ai-model-submits-false-tip-on-unsolved-philly-murder-police-say/4477051/",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://www.nbcphiladelphia.com/news/local/anthropic-ai-model-submits-false-tip-on-unsolved-philly-murder-police-say/4477051/ Comments URL: https://news.ycombinator.com/item?id=50027118 Points: 212 # Comments: 155",
+   "summary": "Article URL: https://www.nbcphiladelphia.com/news/local/anthropic-ai-model-submits-false-tip-on-unsolved-philly-murder-police-say/4477051/ Comments URL: https://news.ycombinator.com/item?id=50027118 Points: 212 # Comments: 156",
    "published": "2026-10-09T22:00:35+00:00",
    "topics": [
     "Models"
