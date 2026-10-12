@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-12T09:12:05+00:00",
+ "updated": "2026-10-12T19:48:20+00:00",
  "sources": [
   {
    "name": "OpenAI",
@@ -13,9 +13,9 @@
    "name": "Google DeepMind",
    "url": "https://deepmind.google/blog/rss.xml",
    "kind": "lab",
-   "ok": false,
-   "count": 0,
-   "error": "ParseError: not well-formed (invalid token): line 1, column 0"
+   "ok": true,
+   "count": 40,
+   "error": null
   },
   {
    "name": "Google AI",
@@ -92,6 +92,224 @@
  ],
  "items": [
   {
+   "id": "b470d062734aea8f",
+   "title": "Anthropic's Claude AI submitted false murder tip to Philadelphia police",
+   "link": "https://arstechnica.com/tech-policy/2026/10/anthropics-claude-ai-submitted-false-murder-tip-to-philadelphia-police/",
+   "source": "Ars Technica",
+   "kind": "press",
+   "summary": "“I may have information regarding this case,\" Claude AI told Philly police.",
+   "published": "2026-10-12T18:21:36+00:00",
+   "topics": [
+    "Models"
+   ],
+   "first_seen": "2026-10-12T19:48:20+00:00"
+  },
+  {
+   "id": "92f57cbc8464c256",
+   "title": "Hello Python 3.15, goodbye 3.10, and now I can use 3.11",
+   "link": "https://simonwillison.net/2026/Oct/12/python-3-15/",
+   "source": "Simon Willison",
+   "kind": "community",
+   "summary": "Python 3.15 is here ! Here's the essential What's new in Python 3.15 guide, this year curated by 3.14 and 3.15 release manager Hugo van Kemenade. As someone who builds open source software that works in every supported Python version, I get to say goodbye to Python 3.10 and…",
+   "published": "2026-10-12T18:15:38+00:00",
+   "topics": [
+    "Tools"
+   ],
+   "first_seen": "2026-10-12T19:48:20+00:00"
+  },
+  {
+   "id": "80d24e11891767c4",
+   "title": "Meta releases its first frontier model, Muse Wonder",
+   "link": "https://techcrunch.com/2026/10/12/meta-releases-its-first-frontier-model-muse-wonder/",
+   "source": "TechCrunch",
+   "kind": "press",
+   "summary": "Where Muse Spark aimed to be a lightweight model that could perform at low latency, the Wonder models are larger and said to be more capable, with higher benchmark scores and better results on complex tasks like coding.",
+   "published": "2026-10-12T17:56:56+00:00",
+   "topics": [
+    "Models",
+    "Research",
+    "Tools"
+   ],
+   "first_seen": "2026-10-12T19:48:20+00:00"
+  },
+  {
+   "id": "b4c6a3e5aa4cab30",
+   "title": "Russia was not ready for the data center war it started with Ukraine",
+   "link": "https://arstechnica.com/gadgets/2026/10/russia-was-not-ready-for-the-data-center-war-it-started-with-ukraine/",
+   "source": "Ars Technica",
+   "kind": "press",
+   "summary": "Russian bloggers warn Russia’s hyper-centralized digital economy is vulnerable.",
+   "published": "2026-10-12T17:52:36+00:00",
+   "topics": [
+    "Hardware"
+   ],
+   "first_seen": "2026-10-12T19:48:20+00:00"
+  },
+  {
+   "id": "8e8b602fc5f53407",
+   "title": "WindBorne wins a hefty US Air Force contract for its balloon data",
+   "link": "https://techcrunch.com/2026/10/12/windborne-wins-a-hefty-us-air-force-contract-for-its-balloon-data/",
+   "source": "TechCrunch",
+   "kind": "press",
+   "summary": "A Silicon Valley startup that uses weather balloons and AI to predict the weather won a U.S. military contract worth almost $50 million.",
+   "published": "2026-10-12T17:19:14+00:00",
+   "topics": [
+    "Business"
+   ],
+   "first_seen": "2026-10-12T19:48:20+00:00"
+  },
+  {
+   "id": "9f4f46039e3dc6c1",
+   "title": "AI coding agents generate more code, but not more software",
+   "link": "https://arstechnica.com/ai/2026/10/ai-coding-agents-generate-more-code-but-not-more-software/",
+   "source": "Hacker News",
+   "kind": "community",
+   "summary": "Article URL: https://arstechnica.com/ai/2026/10/ai-coding-agents-generate-more-code-but-not-more-software/ Comments URL: https://news.ycombinator.com/item?id=50059523 Points: 152 # Comments: 124",
+   "published": "2026-10-12T17:14:01+00:00",
+   "topics": [
+    "Tools"
+   ],
+   "first_seen": "2026-10-11T09:46:44+00:00"
+  },
+  {
+   "id": "fa08cc00ea9a27a9",
+   "title": "Honeyjar offers AI tools to improve PR and comms at every company",
+   "link": "https://techcrunch.com/2026/10/12/honeyjar-offers-ai-tools-to-improve-pr-and-comms-at-every-company/",
+   "source": "TechCrunch",
+   "kind": "press",
+   "summary": "Journalists, entrepreneurs, and even some public relations professionals will tell you that the PR process is broken. But could AI actually make things better?",
+   "published": "2026-10-12T15:45:00+00:00",
+   "topics": [],
+   "first_seen": "2026-10-12T19:48:20+00:00"
+  },
+  {
+   "id": "da2cafd8b4908248",
+   "title": "Microsoft president says UK is best placed to drive AI regulation",
+   "link": "https://techcrunch.com/2026/10/12/microsoft-president-says-uk-is-best-placed-to-drive-ai-regulation/",
+   "source": "TechCrunch",
+   "kind": "press",
+   "summary": "Microsoft president Brad Smith calls for urgent AI regulation, saying milk and washing machines have more oversight than AI companies.",
+   "published": "2026-10-12T15:31:19+00:00",
+   "topics": [
+    "Policy"
+   ],
+   "first_seen": "2026-10-12T19:48:20+00:00"
+  },
+  {
+   "id": "6ecbcc7a7d94a271",
+   "title": "This AI startup says it can generate permit-ready blueprints in minutes",
+   "link": "https://techcrunch.com/2026/10/12/this-ai-startup-says-it-can-generate-permit-ready-blueprints-in-minutes/",
+   "source": "TechCrunch",
+   "kind": "press",
+   "summary": "Blueprints AI, a bootstrapped startup based in Santa Monica, developed software that produces code-compliant construction blueprints from a photo, PDF, or sketch.",
+   "published": "2026-10-12T15:27:59+00:00",
+   "topics": [
+    "Business"
+   ],
+   "first_seen": "2026-10-12T19:48:20+00:00"
+  },
+  {
+   "id": "a1c039e95c8c9060",
+   "title": "Why aren't AI companies being charged for hacking?",
+   "link": "https://mortoray.com/why-arent-ai-companies-being-charged-for-hacking/",
+   "source": "Hacker News",
+   "kind": "community",
+   "summary": "Article URL: https://mortoray.com/why-arent-ai-companies-being-charged-for-hacking/ Comments URL: https://news.ycombinator.com/item?id=50057278 Points: 293 # Comments: 295",
+   "published": "2026-10-12T14:52:37+00:00",
+   "topics": [],
+   "first_seen": "2026-10-12T19:48:20+00:00"
+  },
+  {
+   "id": "47c2a6e011d8ec69",
+   "title": "TechCrunch Disrupt 2026 starts tomorrow: Your final chance to secure up to $100 ticket savings",
+   "link": "https://techcrunch.com/2026/10/12/techcrunch-disrupt-2026-starts-tomorrow-your-final-chance-to-secure-up-to-100-ticket-savings/",
+   "source": "TechCrunch",
+   "kind": "press",
+   "summary": "Tomorrow at 8 a.m. PT, it all begins z— 10,000+ founders, investors, and tech operators will gather at San Francisco’s Moscone West for TechCrunch Disrupt 2026 for three days of ideas, connections, and startups shaping what comes next. This is your last 24 hours to secure ticket…",
+   "published": "2026-10-12T14:00:00+00:00",
+   "topics": [
+    "Business"
+   ],
+   "first_seen": "2026-10-12T19:48:20+00:00"
+  },
+  {
+   "id": "f35a073890448086",
+   "title": "Microsoft’s new AI chip makes it less reliant on Nvidia’s GPUs",
+   "link": "https://www.theverge.com/news/1009465/microsoft-maia-300-chip-improvements-rollout",
+   "source": "The Verge",
+   "kind": "press",
+   "summary": "Microsoft is announcing its third-generation Maia in-house AI chip today, designed to be the \"primary AI inference system\" for Microsoft's products and services. Maia 300 not only improves the cost and efficiency of running AI workloads in the cloud, it's also more capable of…",
+   "published": "2026-10-12T13:33:06+00:00",
+   "topics": [
+    "Hardware"
+   ],
+   "first_seen": "2026-10-12T19:48:20+00:00"
+  },
+  {
+   "id": "3ea17d5e396158ce",
+   "title": "Former Plaud exec raises $26M for AI app that listens to you in the background",
+   "link": "https://techcrunch.com/2026/10/12/former-plaud-exec-raises-26m-for-ai-app-that-listens-to-you-in-the-background/",
+   "source": "TechCrunch",
+   "kind": "press",
+   "summary": "One of the core promises of AI is that the more it knows about a person, the better it will be able to assist them with tasks and make appropriate suggestions, which, if you'll believe the tech companies, requires apps and devices to listen, watch, or record users' activity all…",
+   "published": "2026-10-12T12:47:59+00:00",
+   "topics": [
+    "Business",
+    "Tools"
+   ],
+   "first_seen": "2026-10-12T19:48:20+00:00"
+  },
+  {
+   "id": "5dfaa1d43f85e664",
+   "title": "Amazon has over 1 million robot workers. What’s next for human employees?",
+   "link": "https://arstechnica.com/ai/2026/10/inside-amazons-robotic-arms-race-and-what-it-means-for-the-future-of-human-work/",
+   "source": "Ars Technica",
+   "kind": "press",
+   "summary": "The second-largest corporate employer has bet big on robot workers to scale.",
+   "published": "2026-10-12T12:43:10+00:00",
+   "topics": [],
+   "first_seen": "2026-10-12T19:48:20+00:00"
+  },
+  {
+   "id": "c68c034bd72cd63d",
+   "title": "QGIS: No AI contributions permitted",
+   "link": "https://github.com/qgis/QGIS-Enhancement-Proposals/pull/387",
+   "source": "Hacker News",
+   "kind": "community",
+   "summary": "Article URL: https://github.com/qgis/QGIS-Enhancement-Proposals/pull/387 Comments URL: https://news.ycombinator.com/item?id=50054751 Points: 340 # Comments: 379",
+   "published": "2026-10-12T11:22:24+00:00",
+   "topics": [],
+   "first_seen": "2026-10-12T19:48:20+00:00"
+  },
+  {
+   "id": "5b0bbc20b589187e",
+   "title": "Meta has some Wonder Full new AI models",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/1009479/meta-muse-wonder-full-ai-model",
+   "source": "The Verge",
+   "kind": "press",
+   "summary": "Meta is making up for lost time in the AI race. After launching Muse Spark, the first model from its revamped Superintelligence Labs division, and buzzy AI agent Muse, it's now launching two new models it claims can go toe-to-toe with the industry's best. The new models, Muse…",
+   "published": "2026-10-12T11:13:10+00:00",
+   "topics": [
+    "Models",
+    "Tools"
+   ],
+   "first_seen": "2026-10-12T19:48:20+00:00"
+  },
+  {
+   "id": "59e7fc14e8c1a5c7",
+   "title": "datasette-ports 0.4",
+   "link": "https://simonwillison.net/2026/Oct/12/datasette-ports/",
+   "source": "Simon Willison",
+   "kind": "community",
+   "summary": "Release: datasette-ports 0.4 My plugin for detecting and listing all Datasette instances on the current machine now works with the latest version, and displays the detected PID as well. Knowing the PID makes it easier to attach the new Python 3.15 profiler . Tags: datasette",
+   "published": "2026-10-12T04:57:07+00:00",
+   "topics": [
+    "Research",
+    "Tools"
+   ],
+   "first_seen": "2026-10-12T19:48:20+00:00"
+  },
+  {
    "id": "2a599db62b35d5c3",
    "title": "Will the HomeView be Apple’s first smart home success?",
    "link": "https://techcrunch.com/2026/10/11/will-the-homeview-be-apples-first-smart-home-success/",
@@ -110,7 +328,7 @@
    "link": "https://twitter.com/karpathy/status/2109361546505966046",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://twitter.com/karpathy/status/2109361546505966046 Comments URL: https://news.ycombinator.com/item?id=50047422 Points: 450 # Comments: 641",
+   "summary": "Article URL: https://twitter.com/karpathy/status/2109361546505966046 Comments URL: https://news.ycombinator.com/item?id=50047422 Points: 648 # Comments: 949",
    "published": "2026-10-11T20:20:52+00:00",
    "topics": [
     "Models"
@@ -158,7 +376,7 @@
    "link": "https://techcrunch.com/2026/10/11/these-execs-think-voice-ai-hasnt-reached-its-chatgpt-moment-yet/",
    "source": "TechCrunch",
    "kind": "press",
-   "summary": "Voice AI's often misses important points for its context layer, and causes the whole pipeline to break",
+   "summary": "Voice AI often misses important points for its context layer, and causes the whole pipeline to break.",
    "published": "2026-10-11T14:00:00+00:00",
    "topics": [],
    "first_seen": "2026-10-11T16:19:26+00:00"
@@ -169,7 +387,7 @@
    "link": "https://vcresearch.berkeley.edu/news/using-ai-just-10-minutes-erodes-your-ability-persist-hard-things",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://vcresearch.berkeley.edu/news/using-ai-just-10-minutes-erodes-your-ability-persist-hard-things Comments URL: https://news.ycombinator.com/item?id=50041765 Points: 105 # Comments: 108",
+   "summary": "Article URL: https://vcresearch.berkeley.edu/news/using-ai-just-10-minutes-erodes-your-ability-persist-hard-things Comments URL: https://news.ycombinator.com/item?id=50041765 Points: 157 # Comments: 135",
    "published": "2026-10-11T10:47:21+00:00",
    "topics": [],
    "first_seen": "2026-10-12T09:12:05+00:00"
@@ -193,7 +411,7 @@
    "link": "https://momo5502.com/posts/2026-10-09-game-decompilation/",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://momo5502.com/posts/2026-10-09-game-decompilation/ Comments URL: https://news.ycombinator.com/item?id=50039092 Points: 197 # Comments: 139",
+   "summary": "Article URL: https://momo5502.com/posts/2026-10-09-game-decompilation/ Comments URL: https://news.ycombinator.com/item?id=50039092 Points: 206 # Comments: 149",
    "published": "2026-10-11T02:02:38+00:00",
    "topics": [
     "Tools"
@@ -280,7 +498,7 @@
    "link": "https://www.ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://www.ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a Comments URL: https://news.ycombinator.com/item?id=50035886 Points: 176 # Comments: 114",
+   "summary": "Article URL: https://www.ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a Comments URL: https://news.ycombinator.com/item?id=50035886 Points: 176 # Comments: 115",
    "published": "2026-10-10T18:48:35+00:00",
    "topics": [
     "Models",
@@ -335,7 +553,7 @@
    "link": "https://github.com/rociiu/talorys",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://github.com/rociiu/talorys Comments URL: https://news.ycombinator.com/item?id=50031614 Points: 323 # Comments: 152",
+   "summary": "Article URL: https://github.com/rociiu/talorys Comments URL: https://news.ycombinator.com/item?id=50031614 Points: 327 # Comments: 155",
    "published": "2026-10-10T10:52:09+00:00",
    "topics": [
     "Tools"
@@ -357,11 +575,11 @@
   },
   {
    "id": "cf5de6151a45fb1f",
-   "title": "Anthropic can’t reliably control its AI agents. It’s cutting off its internal evals from the live internet instead",
+   "title": "Anthropic can’t reliably control its AI agents — it’s cutting off its internal evals from the live internet instead",
    "link": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/",
    "source": "TechCrunch",
    "kind": "press",
-   "summary": "Anthropic said it \"turned off live internet access\" for \"all our internal evaluations\" until further notice.",
+   "summary": "The incidents involved AI agents tasked to solve problems seeking resources on the internet. In the process, they exploited software flaws, accessed databases without paying fees, used URL-shortening services to smuggle information past restrictions, and even submitted a false…",
    "published": "2026-10-10T00:18:32+00:00",
    "topics": [
     "Tools"
@@ -451,20 +669,6 @@
    "first_seen": "2026-10-11T09:46:44+00:00"
   },
   {
-   "id": "9f4f46039e3dc6c1",
-   "title": "AI coding agents generate more code, but not more software",
-   "link": "https://arstechnica.com/ai/2026/10/ai-coding-agents-generate-more-code-but-not-more-software/",
-   "source": "Ars Technica",
-   "kind": "press",
-   "summary": "Study finds coding efficiency gains get \"absorbed\" by human review \"bottleneck.\"",
-   "published": "2026-10-09T19:43:50+00:00",
-   "topics": [
-    "Research",
-    "Tools"
-   ],
-   "first_seen": "2026-10-11T09:46:44+00:00"
-  },
-  {
    "id": "6794814fc09c1a8f",
    "title": "An Anthropic AI model sent a false homicide tip to Philadelphia police",
    "link": "https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police/",
@@ -516,7 +720,7 @@
    "link": "https://terrytao.wordpress.com/2026/10/09/what-mathematicians-should-know-about-the-lean-theorem-proverquestions-of-reliability-and-ai/",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://terrytao.wordpress.com/2026/10/09/what-mathematicians-should-know-about-the-lean-theorem-proverquestions-of-reliability-and-ai/ Comments URL: https://news.ycombinator.com/item?id=50024090 Points: 205 # Comments: 58",
+   "summary": "Article URL: https://terrytao.wordpress.com/2026/10/09/what-mathematicians-should-know-about-the-lean-theorem-proverquestions-of-reliability-and-ai/ Comments URL: https://news.ycombinator.com/item?id=50024090 Points: 206 # Comments: 58",
    "published": "2026-10-09T17:42:12+00:00",
    "topics": [],
    "first_seen": "2026-10-11T09:46:44+00:00"
@@ -538,7 +742,7 @@
    "link": "https://typesafe.ai/blog/series-ai",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://typesafe.ai/blog/series-ai Comments URL: https://news.ycombinator.com/item?id=50023450 Points: 443 # Comments: 355",
+   "summary": "Article URL: https://typesafe.ai/blog/series-ai Comments URL: https://news.ycombinator.com/item?id=50023450 Points: 443 # Comments: 356",
    "published": "2026-10-09T17:02:31+00:00",
    "topics": [
     "Business"
@@ -677,7 +881,7 @@
    "link": "https://github.com/franzenzenhofer/big-arrow-on-the-screen",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://github.com/franzenzenhofer/big-arrow-on-the-screen Comments URL: https://news.ycombinator.com/item?id=50018817 Points: 416 # Comments: 196",
+   "summary": "Article URL: https://github.com/franzenzenhofer/big-arrow-on-the-screen Comments URL: https://news.ycombinator.com/item?id=50018817 Points: 417 # Comments: 196",
    "published": "2026-10-09T11:03:48+00:00",
    "topics": [
     "Tools"
@@ -986,7 +1190,7 @@
    "link": "https://www.reddit.com/r/ClaudeAI/s/mbe5IY2LF9",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://www.reddit.com/r/ClaudeAI/s/mbe5IY2LF9 Comments URL: https://news.ycombinator.com/item?id=50002665 Points: 299 # Comments: 132",
+   "summary": "Article URL: https://www.reddit.com/r/ClaudeAI/s/mbe5IY2LF9 Comments URL: https://news.ycombinator.com/item?id=50002665 Points: 300 # Comments: 133",
    "published": "2026-10-08T07:07:34+00:00",
    "topics": [
     "Models"
@@ -999,7 +1203,7 @@
    "link": "https://github.com/pingdotgg/ts-rust",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://github.com/pingdotgg/ts-rust Comments URL: https://news.ycombinator.com/item?id=50000676 Points: 117 # Comments: 222",
+   "summary": "Article URL: https://github.com/pingdotgg/ts-rust Comments URL: https://news.ycombinator.com/item?id=50000676 Points: 118 # Comments: 222",
    "published": "2026-10-08T00:46:00+00:00",
    "topics": [
     "Models"
@@ -1084,7 +1288,7 @@
    "link": "https://www.rswebsols.com/news/meta-and-microsoft-take-steps-to-reduce-employee-usage-of-claude-ai/",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://www.rswebsols.com/news/meta-and-microsoft-take-steps-to-reduce-employee-usage-of-claude-ai/ Comments URL: https://news.ycombinator.com/item?id=49997161 Points: 376 # Comments: 386",
+   "summary": "Article URL: https://www.rswebsols.com/news/meta-and-microsoft-take-steps-to-reduce-employee-usage-of-claude-ai/ Comments URL: https://news.ycombinator.com/item?id=49997161 Points: 376 # Comments: 387",
    "published": "2026-10-07T18:49:40+00:00",
    "topics": [
     "Models"
@@ -1110,7 +1314,7 @@
    "link": "https://openai.com/index/gpt-6-for-everyone/",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://openai.com/index/gpt-6-for-everyone/ Comments URL: https://news.ycombinator.com/item?id=49996425 Points: 756 # Comments: 458",
+   "summary": "Article URL: https://openai.com/index/gpt-6-for-everyone/ Comments URL: https://news.ycombinator.com/item?id=49996425 Points: 757 # Comments: 459",
    "published": "2026-10-07T18:00:58+00:00",
    "topics": [
     "Models"
