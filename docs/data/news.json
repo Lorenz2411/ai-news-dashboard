@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-12T01:19:43+00:00",
+ "updated": "2026-10-12T09:12:05+00:00",
  "sources": [
   {
    "name": "OpenAI",
@@ -13,9 +13,9 @@
    "name": "Google DeepMind",
    "url": "https://deepmind.google/blog/rss.xml",
    "kind": "lab",
-   "ok": true,
-   "count": 40,
-   "error": null
+   "ok": false,
+   "count": 0,
+   "error": "ParseError: not well-formed (invalid token): line 1, column 0"
   },
   {
    "name": "Google AI",
@@ -110,7 +110,7 @@
    "link": "https://twitter.com/karpathy/status/2109361546505966046",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://twitter.com/karpathy/status/2109361546505966046 Comments URL: https://news.ycombinator.com/item?id=50047422 Points: 226 # Comments: 367",
+   "summary": "Article URL: https://twitter.com/karpathy/status/2109361546505966046 Comments URL: https://news.ycombinator.com/item?id=50047422 Points: 450 # Comments: 641",
    "published": "2026-10-11T20:20:52+00:00",
    "topics": [
     "Models"
@@ -164,6 +164,17 @@
    "first_seen": "2026-10-11T16:19:26+00:00"
   },
   {
+   "id": "2ecde3f57bd91ef1",
+   "title": "Using AI for just 10 minutes erodes your ability to persist at hard things",
+   "link": "https://vcresearch.berkeley.edu/news/using-ai-just-10-minutes-erodes-your-ability-persist-hard-things",
+   "source": "Hacker News",
+   "kind": "community",
+   "summary": "Article URL: https://vcresearch.berkeley.edu/news/using-ai-just-10-minutes-erodes-your-ability-persist-hard-things Comments URL: https://news.ycombinator.com/item?id=50041765 Points: 105 # Comments: 108",
+   "published": "2026-10-11T10:47:21+00:00",
+   "topics": [],
+   "first_seen": "2026-10-12T09:12:05+00:00"
+  },
+  {
    "id": "ea95eacbd85b4f83",
    "title": "Learning to use local AI is exciting, overwhelming, and frustrating",
    "link": "https://www.theverge.com/ai-artificial-intelligence/1008484/learning-local-ai-hermes-qwen-model-mac-studio-testing-diary-progress",
@@ -182,7 +193,7 @@
    "link": "https://momo5502.com/posts/2026-10-09-game-decompilation/",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://momo5502.com/posts/2026-10-09-game-decompilation/ Comments URL: https://news.ycombinator.com/item?id=50039092 Points: 150 # Comments: 108",
+   "summary": "Article URL: https://momo5502.com/posts/2026-10-09-game-decompilation/ Comments URL: https://news.ycombinator.com/item?id=50039092 Points: 197 # Comments: 139",
    "published": "2026-10-11T02:02:38+00:00",
    "topics": [
     "Tools"
@@ -269,7 +280,7 @@
    "link": "https://www.ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://www.ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a Comments URL: https://news.ycombinator.com/item?id=50035886 Points: 176 # Comments: 113",
+   "summary": "Article URL: https://www.ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a Comments URL: https://news.ycombinator.com/item?id=50035886 Points: 176 # Comments: 114",
    "published": "2026-10-10T18:48:35+00:00",
    "topics": [
     "Models",
@@ -324,7 +335,7 @@
    "link": "https://github.com/rociiu/talorys",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://github.com/rociiu/talorys Comments URL: https://news.ycombinator.com/item?id=50031614 Points: 321 # Comments: 150",
+   "summary": "Article URL: https://github.com/rociiu/talorys Comments URL: https://news.ycombinator.com/item?id=50031614 Points: 323 # Comments: 152",
    "published": "2026-10-10T10:52:09+00:00",
    "topics": [
     "Tools"
@@ -527,7 +538,7 @@
    "link": "https://typesafe.ai/blog/series-ai",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://typesafe.ai/blog/series-ai Comments URL: https://news.ycombinator.com/item?id=50023450 Points: 442 # Comments: 354",
+   "summary": "Article URL: https://typesafe.ai/blog/series-ai Comments URL: https://news.ycombinator.com/item?id=50023450 Points: 443 # Comments: 355",
    "published": "2026-10-09T17:02:31+00:00",
    "topics": [
     "Business"
@@ -666,7 +677,7 @@
    "link": "https://github.com/franzenzenhofer/big-arrow-on-the-screen",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://github.com/franzenzenhofer/big-arrow-on-the-screen Comments URL: https://news.ycombinator.com/item?id=50018817 Points: 414 # Comments: 195",
+   "summary": "Article URL: https://github.com/franzenzenhofer/big-arrow-on-the-screen Comments URL: https://news.ycombinator.com/item?id=50018817 Points: 416 # Comments: 196",
    "published": "2026-10-09T11:03:48+00:00",
    "topics": [
     "Tools"
@@ -975,7 +986,7 @@
    "link": "https://www.reddit.com/r/ClaudeAI/s/mbe5IY2LF9",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://www.reddit.com/r/ClaudeAI/s/mbe5IY2LF9 Comments URL: https://news.ycombinator.com/item?id=50002665 Points: 298 # Comments: 131",
+   "summary": "Article URL: https://www.reddit.com/r/ClaudeAI/s/mbe5IY2LF9 Comments URL: https://news.ycombinator.com/item?id=50002665 Points: 299 # Comments: 132",
    "published": "2026-10-08T07:07:34+00:00",
    "topics": [
     "Models"
@@ -1321,7 +1332,7 @@
    "link": "https://openai.com/index/sharing-ai-progress-in-mathematics/",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "https://github.com/openai/math https://github.com/openai/math/tree/main/preprints Comments URL: https://news.ycombinator.com/item?id=49984923 Points: 1352 # Comments: 1530",
+   "summary": "https://github.com/openai/math https://github.com/openai/math/tree/main/preprints Comments URL: https://news.ycombinator.com/item?id=49984923 Points: 1354 # Comments: 1532",
    "published": "2026-10-06T22:17:21+00:00",
    "topics": [],
    "first_seen": "2026-10-11T09:46:44+00:00"
