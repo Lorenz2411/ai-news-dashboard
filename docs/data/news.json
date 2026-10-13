@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-13T02:00:38+00:00",
+ "updated": "2026-10-13T09:25:08+00:00",
  "sources": [
   {
    "name": "OpenAI",
@@ -13,9 +13,9 @@
    "name": "Google DeepMind",
    "url": "https://deepmind.google/blog/rss.xml",
    "kind": "lab",
-   "ok": true,
-   "count": 40,
-   "error": null
+   "ok": false,
+   "count": 0,
+   "error": "ParseError: not well-formed (invalid token): line 1, column 0"
   },
   {
    "name": "Google AI",
@@ -91,6 +91,20 @@
   }
  ],
  "items": [
+  {
+   "id": "7c431d9eeb01b7e3",
+   "title": "AI labs are buying data from dead startups to train their models",
+   "link": "https://www.technologyreview.com/2026/10/13/1145755/ai-labs-buying-data-from-dead-startups-to-train-models/",
+   "source": "MIT Technology Review",
+   "kind": "press",
+   "summary": "When Keelan Miskell began winding down his crypto startup this year, he didn’t think its data was worth much: the users were anonymous, the company just a few years old. But he’s since turned the firm’s digital archives into real money. He’s netted roughly $25,000 for his code…",
+   "published": "2026-10-13T09:00:00+00:00",
+   "topics": [
+    "Models",
+    "Business"
+   ],
+   "first_seen": "2026-10-13T09:25:08+00:00"
+  },
   {
    "id": "37b5a1e81dc84f2f",
    "title": "Epic Games reportedly pivoting to \"AI first\" game development model",
