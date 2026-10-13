@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-13T17:36:05+00:00",
+ "updated": "2026-10-13T22:44:39+00:00",
  "sources": [
   {
    "name": "OpenAI",
@@ -13,9 +13,9 @@
    "name": "Google DeepMind",
    "url": "https://deepmind.google/blog/rss.xml",
    "kind": "lab",
-   "ok": true,
-   "count": 40,
-   "error": null
+   "ok": false,
+   "count": 0,
+   "error": "ParseError: not well-formed (invalid token): line 1, column 0"
   },
   {
    "name": "Google AI",
@@ -92,18 +92,120 @@
  ],
  "items": [
   {
-   "id": "0b284eb98b4575c8",
-   "title": "Laplace Intelligence red-teams robots and self-driving cars before they hit the real world",
-   "link": "https://techcrunch.com/2026/10/13/laplace-intelligence-red-teams-robots-and-self-driving-cars-before-they-hit-the-real-world/",
+   "id": "8ffa5222f5cfbfa3",
+   "title": "Cerebras CEO pushes back on AI doomsday warnings",
+   "link": "https://techcrunch.com/2026/10/13/cerebras-ceo-pushes-back-on-ai-doomsday-warnings/",
    "source": "TechCrunch",
    "kind": "press",
-   "summary": "University of Michigan spinout Laplace Intelligence uses AI agents and interactive simulation to stress-test robots and self-driving vehicles before deployment. The profitable startup is competing at TechCrunch Disrupt's Startup Battlefield.",
-   "published": "2026-10-13T17:30:00+00:00",
+   "summary": "Cerebras CEO Andrew Feldman has a message for AI leaders spreading doomsday warnings: Maybe stop talking? At TechCrunch Disrupt, he argued that the industry's focus on AI's risks is drowning out its potential benefits.",
+   "published": "2026-10-13T22:36:59+00:00",
+   "topics": [],
+   "first_seen": "2026-10-13T22:44:39+00:00"
+  },
+  {
+   "id": "e8881f4e9b5e76a5",
+   "title": "It’s ‘incomprehensible’ that Instagram allowed an AI image of Mia Goth to spread, say her reps",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/1010277/mia-goth-instagram-ai-shirt-deepfake-divorce",
+   "source": "The Verge",
+   "kind": "press",
+   "summary": "Earlier this month, news broke that actress Mia Goth had filed for divorce from actor and filmmaker Shia LaBeouf. An Instagram post from the account miagoth_ - marked with a blue verified checkmark - quickly spread. The post shows Goth in a T-shirt that reads \"MY EX IS MY…",
+   "published": "2026-10-13T21:48:23+00:00",
+   "topics": [],
+   "first_seen": "2026-10-13T17:36:05+00:00"
+  },
+  {
+   "id": "082a179fcd588810",
+   "title": "OpenAI employee arrested for allegedly planting a bug in a conference room",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/1010642/openai-employee-arrested-recording-device",
+   "source": "The Verge",
+   "kind": "press",
+   "summary": "An OpenAI engineer was arrested after the company said it discovered a \"sophisticated recording device\" hidden in one of its offices. The employee was identified as Abdulrahman Alfozan, a 35-year-old Saudi national. Alfozan is charged with using or endeavoring to use a device to…",
+   "published": "2026-10-13T21:36:13+00:00",
+   "topics": [],
+   "first_seen": "2026-10-13T22:44:39+00:00"
+  },
+  {
+   "id": "41d15466fa73b3da",
+   "title": "Judge orders OpenAI to turn over hiring records in Apple trade secrets case",
+   "link": "https://techcrunch.com/2026/10/13/judge-orders-openai-to-turn-over-hiring-records-in-apple-trade-secrets-case/",
+   "source": "TechCrunch",
+   "kind": "press",
+   "summary": "A federal judge ruled that Apple can access OpenAI's interview materials involving former Apple employees, as well as private messages and testimony from key figures in the case.",
+   "published": "2026-10-13T20:36:44+00:00",
+   "topics": [],
+   "first_seen": "2026-10-13T22:44:39+00:00"
+  },
+  {
+   "id": "c839b9474faef6c7",
+   "title": "Shopify opens its catalog up to more AI agents",
+   "link": "https://www.theverge.com/news/1010365/shopify-opens-its-catalog-up-to-more-ai-agents",
+   "source": "The Verge",
+   "kind": "press",
+   "summary": "More AI agents will soon be able to browse and purchase from Shopify listings, marking an expansion of the company's agentic commerce ambitions. Shopify announced Tuesday it will let shoppers configure their AI agents to purchase products on their behalf, giving more agents…",
+   "published": "2026-10-13T20:23:23+00:00",
    "topics": [
-    "Business",
     "Tools"
    ],
-   "first_seen": "2026-10-13T17:36:05+00:00"
+   "first_seen": "2026-10-13T22:44:39+00:00"
+  },
+  {
+   "id": "ffb4af635c9ec6ee",
+   "title": "Xbox is officially embracing the chaos of AI-powered game ports",
+   "link": "https://www.theverge.com/news/1010406/xbox-labs-game-decompiling-emulation-exploration",
+   "source": "The Verge",
+   "kind": "press",
+   "summary": "Retro gaming is going through a wild time at the moment, thanks to decompilations and recompilations that are letting gamers port classic titles to new devices, or merge code from two different games into a single new experience. Microsoft has witnessed skateboarding being…",
+   "published": "2026-10-13T19:10:43+00:00",
+   "topics": [],
+   "first_seen": "2026-10-13T22:44:39+00:00"
+  },
+  {
+   "id": "64be3d764257b9ff",
+   "title": "I don’t miss the camera on the Ray-Ban Meta Audio glasses",
+   "link": "https://www.theverge.com/tech/1009128/ray-ban-meta-audio-glasses-review-smart-glasses-headphones-wearables",
+   "source": "The Verge",
+   "kind": "press",
+   "summary": "The other day I whizzed past several people while running in the park, my playlist blasting at full volume. The next morning, I smiled at a barista while ordering a caramel apple-flavored matcha latte. Afterward, I sat on a park bench reading a book, called up a pal to chat…",
+   "published": "2026-10-13T19:01:42+00:00",
+   "topics": [],
+   "first_seen": "2026-10-13T22:44:39+00:00"
+  },
+  {
+   "id": "ec248a8be840f0c3",
+   "title": "Flox Intelligence is building AI to keep wildlife away from trains, airports, and roads",
+   "link": "https://techcrunch.com/2026/10/13/flox-intelligence-is-building-ai-to-keep-wildlife-away-from-trains-airports-and-roads/",
+   "source": "TechCrunch",
+   "kind": "press",
+   "summary": "Flox's edge devices can identify animals and use species-specific sounds to drive them away from critical infrastructure.",
+   "published": "2026-10-13T18:30:00+00:00",
+   "topics": [],
+   "first_seen": "2026-10-13T22:44:39+00:00"
+  },
+  {
+   "id": "63b1605b51b19bf5",
+   "title": "Disney offers $20M for Character.AI’s scandal-plagued chatbot tech",
+   "link": "https://arstechnica.com/tech-policy/2026/10/disney-offers-20m-for-character-ais-scandal-plagued-chatbot-tech/",
+   "source": "Ars Technica",
+   "kind": "press",
+   "summary": "Disney may acquire tech from one of the first chatbot makers linked to child suicide.",
+   "published": "2026-10-13T18:23:33+00:00",
+   "topics": [
+    "Business"
+   ],
+   "first_seen": "2026-10-13T22:44:39+00:00"
+  },
+  {
+   "id": "5349b4bff5efc007",
+   "title": "Facebook is giving users more control over their algorithm",
+   "link": "https://techcrunch.com/2026/10/13/facebook-is-giving-users-more-control-over-their-algorithm/",
+   "source": "TechCrunch",
+   "kind": "press",
+   "summary": "Meta announced the launch of its new AI-powered feature, “Your Algorithm,” a feature it first launched on Instagram.",
+   "published": "2026-10-13T18:05:24+00:00",
+   "topics": [
+    "Tools"
+   ],
+   "first_seen": "2026-10-13T22:44:39+00:00"
   },
   {
    "id": "d8f2c178c0c6c59d",
@@ -112,8 +214,22 @@
    "source": "The Verge",
    "kind": "press",
    "summary": "Epic Games plans to use AI to generate code and art for an unannounced Disney game, which is now delayed from its original March release window, according to a report from Bloomberg. The project's developers have been given an \"AI-first\" mandate directing them to use tools like…",
-   "published": "2026-10-13T17:22:01+00:00",
+   "published": "2026-10-13T17:43:49+00:00",
    "topics": [
+    "Tools"
+   ],
+   "first_seen": "2026-10-13T17:36:05+00:00"
+  },
+  {
+   "id": "0b284eb98b4575c8",
+   "title": "Laplace Intelligence red-teams robots and self-driving cars before they hit the real world",
+   "link": "https://techcrunch.com/2026/10/13/laplace-intelligence-red-teams-robots-and-self-driving-cars-before-they-hit-the-real-world/",
+   "source": "TechCrunch",
+   "kind": "press",
+   "summary": "University of Michigan spinout Laplace Intelligence uses AI agents and interactive simulation to stress-test robots and self-driving vehicles before deployment. The profitable startup is competing in Startup Battlefield at TechCrunch Disrupt, October 13-15 in San Francisco.",
+   "published": "2026-10-13T17:30:00+00:00",
+   "topics": [
+    "Business",
     "Tools"
    ],
    "first_seen": "2026-10-13T17:36:05+00:00"
@@ -124,7 +240,7 @@
    "link": "https://techcrunch.com/2026/10/13/pluto-security-raises-42m-as-ai-gives-enterprise-security-teams-a-new-headache/",
    "source": "TechCrunch",
    "kind": "press",
-   "summary": "Pluto Security has raised $42 million Jump Capital, TLV Partners, Ansa Capital and angel investors.",
+   "summary": "The problem with giving everyone in a company access to AI tools is that people will use them in unexpected ways. And that fact is steadily seeding fears that companies now have new, gaping security holes in their systems or, at least, will soon.",
    "published": "2026-10-13T17:18:25+00:00",
    "topics": [
     "Business"
@@ -170,7 +286,7 @@
   },
   {
    "id": "303c8b8be26ff7b1",
-   "title": "Google Play now supports private, vibe-coded apps built just for you",
+   "title": "Google Play now lets anyone build private, vibe-coded apps that run on Android",
    "link": "https://techcrunch.com/2026/10/13/google-play-now-supports-private-vibe-coded-apps-built-just-for-you/",
    "source": "TechCrunch",
    "kind": "press",
@@ -193,27 +309,14 @@
    "first_seen": "2026-10-13T17:36:05+00:00"
   },
   {
-   "id": "e8881f4e9b5e76a5",
-   "title": "Actress Mia Goth says it’s ‘incomprehensible’ that Instagram allowed an AI image of her to spread",
-   "link": "https://www.theverge.com/ai-artificial-intelligence/1010277/mia-goth-instagram-ai-shirt-deepfake-divorce",
-   "source": "The Verge",
-   "kind": "press",
-   "summary": "Earlier this month, news broke that actress Mia Goth had filed for divorce from actor and filmmaker Shia LaBeouf. An Instagram post from the account miagoth_ - marked with a blue verified checkmark - quickly spread. The post shows Goth in a T-shirt that reads \"MY EX IS MY…",
-   "published": "2026-10-13T16:42:51+00:00",
-   "topics": [],
-   "first_seen": "2026-10-13T17:36:05+00:00"
-  },
-  {
    "id": "80618fcba7c6ab56",
-   "title": "Satlyt, founded by a former Google and SpaceX product manager, raises $8M to run AI on satellites",
+   "title": "SpaceX and Google both said no. Now his software is riding a SpaceX rocket next to Google’s",
    "link": "https://techcrunch.com/2026/10/13/satlyt-founded-by-a-former-google-and-spacex-product-manager-raises-8m-to-run-ai-on-satellites/",
    "source": "TechCrunch",
    "kind": "press",
    "summary": "Satlyt wants to be the Android of orbital computing, offering open software that works on many companies' satellites, versus SpaceX's closed, all-in-one iPhone-style approach.",
    "published": "2026-10-13T16:30:00+00:00",
-   "topics": [
-    "Business"
-   ],
+   "topics": [],
    "first_seen": "2026-10-13T17:36:05+00:00"
   },
   {
@@ -270,6 +373,17 @@
    "first_seen": "2026-10-13T17:36:05+00:00"
   },
   {
+   "id": "633e14f60020e796",
+   "title": "I posted to HN, and then my website was flooded with AI bot traffic",
+   "link": "https://www.sammystraus.com/#i-posted-to-hn-and-then-my-website-was-flooded-with-ai-bot-traffic",
+   "source": "Hacker News",
+   "kind": "community",
+   "summary": "Article URL: https://www.sammystraus.com/#i-posted-to-hn-and-then-my-website-was-flooded-with-ai-bot-traffic Comments URL: https://news.ycombinator.com/item?id=50073221 Points: 213 # Comments: 136",
+   "published": "2026-10-13T15:25:50+00:00",
+   "topics": [],
+   "first_seen": "2026-10-13T22:44:39+00:00"
+  },
+  {
    "id": "1acd025aeb34750a",
    "title": "They war-gamed dimming the Sun. It went even worse than you think.",
    "link": "https://arstechnica.com/science/2026/10/they-war-gamed-dimming-the-sun-it-went-even-worse-than-you-think/",
@@ -279,6 +393,19 @@
    "published": "2026-10-13T15:17:59+00:00",
    "topics": [],
    "first_seen": "2026-10-13T17:36:05+00:00"
+  },
+  {
+   "id": "ffda6caad408176b",
+   "title": "How to engineer an AI harness for game development",
+   "link": "https://kylekukshtel.com/ai-harness-engineering-game-development-claude-code",
+   "source": "Hacker News",
+   "kind": "community",
+   "summary": "Article URL: https://kylekukshtel.com/ai-harness-engineering-game-development-claude-code Comments URL: https://news.ycombinator.com/item?id=50072120 Points: 109 # Comments: 48",
+   "published": "2026-10-13T14:14:23+00:00",
+   "topics": [
+    "Models"
+   ],
+   "first_seen": "2026-10-13T22:44:39+00:00"
   },
   {
    "id": "083eb6d9e76f3ec8",
@@ -399,12 +526,25 @@
    "first_seen": "2026-10-13T17:36:05+00:00"
   },
   {
+   "id": "ffc748cb8d88a919",
+   "title": "Higgsfield takes AI video from 1 minute to over 10",
+   "link": "https://openai.com/index/higgsfield-longer-videos-voice",
+   "source": "OpenAI",
+   "kind": "lab",
+   "summary": "Higgsfield brings creators longer videos with GPT-6 Astra, precise visuals with GPT-Image-2.5, and a path to voice filmmaking with GPT-Live.",
+   "published": "2026-10-13T12:00:00+00:00",
+   "topics": [
+    "Models"
+   ],
+   "first_seen": "2026-10-13T22:44:39+00:00"
+  },
+  {
    "id": "17822a6c9063e726",
    "title": "Character.ai Files for Bankruptcy",
    "link": "https://www.theverge.com/ai-artificial-intelligence/1009802/character-ai-files-for-bankruptcy-disney",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://www.theverge.com/ai-artificial-intelligence/1009802/character-ai-files-for-bankruptcy-disney Comments URL: https://news.ycombinator.com/item?id=50069942 Points: 143 # Comments: 20",
+   "summary": "Article URL: https://www.theverge.com/ai-artificial-intelligence/1009802/character-ai-files-for-bankruptcy-disney Comments URL: https://news.ycombinator.com/item?id=50069942 Points: 144 # Comments: 20",
    "published": "2026-10-13T11:24:08+00:00",
    "topics": [],
    "first_seen": "2026-10-13T17:36:05+00:00"
@@ -454,7 +594,7 @@
    "link": "https://www.theguardian.com/business/2026/oct/13/ai-share-crash-risk-global-imf-debt-corrowing-cyber-attacks",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://www.theguardian.com/business/2026/oct/13/ai-share-crash-risk-global-imf-debt-corrowing-cyber-attacks Comments URL: https://news.ycombinator.com/item?id=50067356 Points: 102 # Comments: 116",
+   "summary": "Article URL: https://www.theguardian.com/business/2026/oct/13/ai-share-crash-risk-global-imf-debt-corrowing-cyber-attacks Comments URL: https://news.ycombinator.com/item?id=50067356 Points: 108 # Comments: 124",
    "published": "2026-10-13T05:57:32+00:00",
    "topics": [],
    "first_seen": "2026-10-13T17:36:05+00:00"
@@ -465,7 +605,7 @@
    "link": "https://arxiv.org/abs/2610.13928",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://arxiv.org/abs/2610.13928 Comments URL: https://news.ycombinator.com/item?id=50065692 Points: 264 # Comments: 130",
+   "summary": "Article URL: https://arxiv.org/abs/2610.13928 Comments URL: https://news.ycombinator.com/item?id=50065692 Points: 271 # Comments: 136",
    "published": "2026-10-13T02:07:08+00:00",
    "topics": [
     "Models",
@@ -474,12 +614,26 @@
    "first_seen": "2026-10-13T17:36:05+00:00"
   },
   {
+   "id": "ef47cf6a028c4b74",
+   "title": "llm-meta-ai 0.2",
+   "link": "https://simonwillison.net/2026/Oct/12/llm-meta-ai/",
+   "source": "Simon Willison",
+   "kind": "community",
+   "summary": "Release: llm-meta-ai 0.2 Meta AI release Muse Wonder (and Muse Wonder Full), their new \"most capable models\". These look like they may be Meta's first Fable class models - Artificial Analysis scores Muse Wonder (Max) as equivalent to GPT-6.1 Sol. I updated my llm-meta-ai plugin…",
+   "published": "2026-10-12T23:58:46+00:00",
+   "topics": [
+    "Models",
+    "Tools"
+   ],
+   "first_seen": "2026-10-13T22:44:39+00:00"
+  },
+  {
    "id": "343756543cb3b327",
    "title": "I turned my unused Kindle into a photo frame with GPT-6 Astra",
    "link": "https://nirajrajgor.com/blog/kindle-photo-frame-with-ai",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://nirajrajgor.com/blog/kindle-photo-frame-with-ai Comments URL: https://news.ycombinator.com/item?id=50064318 Points: 144 # Comments: 102",
+   "summary": "Article URL: https://nirajrajgor.com/blog/kindle-photo-frame-with-ai Comments URL: https://news.ycombinator.com/item?id=50064318 Points: 145 # Comments: 102",
    "published": "2026-10-12T23:07:25+00:00",
    "topics": [
     "Models"
@@ -492,7 +646,7 @@
    "link": "https://yyhh.org/blog/2026/10/ai-is-a-tool/",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://yyhh.org/blog/2026/10/ai-is-a-tool/ Comments URL: https://news.ycombinator.com/item?id=50063427 Points: 579 # Comments: 465",
+   "summary": "Article URL: https://yyhh.org/blog/2026/10/ai-is-a-tool/ Comments URL: https://news.ycombinator.com/item?id=50063427 Points: 637 # Comments: 504",
    "published": "2026-10-12T21:40:18+00:00",
    "topics": [],
    "first_seen": "2026-10-13T17:36:05+00:00"
@@ -503,7 +657,7 @@
    "link": "https://www.intel.com/content/www/us/en/products/details/discrete-gpus/data-center-gpu/d-series.html",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://www.intel.com/content/www/us/en/products/details/discrete-gpus/data-center-gpu/d-series.html Comments URL: https://news.ycombinator.com/item?id=50063365 Points: 292 # Comments: 167",
+   "summary": "Article URL: https://www.intel.com/content/www/us/en/products/details/discrete-gpus/data-center-gpu/d-series.html Comments URL: https://news.ycombinator.com/item?id=50063365 Points: 301 # Comments: 175",
    "published": "2026-10-12T21:35:35+00:00",
    "topics": [
     "Hardware"
@@ -522,6 +676,21 @@
     "Models"
    ],
    "first_seen": "2026-10-13T02:00:38+00:00"
+  },
+  {
+   "id": "e6bb69f517c664dd",
+   "title": "AI models may be capable of self-replicating without access to a datacenter",
+   "link": "https://www.anthropic.com/research/self-replicating-ai",
+   "source": "Hacker News",
+   "kind": "community",
+   "summary": "Article URL: https://www.anthropic.com/research/self-replicating-ai Comments URL: https://news.ycombinator.com/item?id=50061603 Points: 105 # Comments: 108",
+   "published": "2026-10-12T19:25:29+00:00",
+   "topics": [
+    "Models",
+    "Research",
+    "Hardware"
+   ],
+   "first_seen": "2026-10-13T22:44:39+00:00"
   },
   {
    "id": "b470d062734aea8f",
@@ -555,7 +724,7 @@
    "link": "https://www.linkedin.com/pulse/ai-tool-rich-hickey-kjl8e",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "https://gist.github.com/svieira/619d60dea942a8d4498cba3bb6b1... Comments URL: https://news.ycombinator.com/item?id=50060269 Points: 297 # Comments: 161",
+   "summary": "https://gist.github.com/svieira/619d60dea942a8d4498cba3bb6b1... Comments URL: https://news.ycombinator.com/item?id=50060269 Points: 301 # Comments: 175",
    "published": "2026-10-12T18:00:25+00:00",
    "topics": [],
    "first_seen": "2026-10-13T17:36:05+00:00"
@@ -607,12 +776,27 @@
    "link": "https://arstechnica.com/ai/2026/10/ai-coding-agents-generate-more-code-but-not-more-software/",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://arstechnica.com/ai/2026/10/ai-coding-agents-generate-more-code-but-not-more-software/ Comments URL: https://news.ycombinator.com/item?id=50059523 Points: 354 # Comments: 293",
+   "summary": "Article URL: https://arstechnica.com/ai/2026/10/ai-coding-agents-generate-more-code-but-not-more-software/ Comments URL: https://news.ycombinator.com/item?id=50059523 Points: 358 # Comments: 299",
    "published": "2026-10-12T17:14:01+00:00",
    "topics": [
     "Tools"
    ],
    "first_seen": "2026-10-11T09:46:44+00:00"
+  },
+  {
+   "id": "131f413269cf581f",
+   "title": "Profiling web-edit with Python 3.15: flame graphs and source heatmaps",
+   "link": "https://simonwillison.net/2026/Oct/12/python-3-15-web-edit-profiling/",
+   "source": "Simon Willison",
+   "kind": "community",
+   "summary": "Research: Profiling web-edit with Python 3.15: flame graphs and source heatmaps I put the new Python 3.15 profiler through its paces by having GPT-6 Astra Extra High in Codex run it against my new web-edit app : I need a Python 3.15 flame graph and heatmap demo of the \"web-edit\"…",
+   "published": "2026-10-12T16:58:00+00:00",
+   "topics": [
+    "Models",
+    "Research",
+    "Tools"
+   ],
+   "first_seen": "2026-10-13T22:44:39+00:00"
   },
   {
    "id": "93062c67d6f00e76",
@@ -671,7 +855,7 @@
    "link": "https://taylor.town/kk-ai-2026",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://taylor.town/kk-ai-2026 Comments URL: https://news.ycombinator.com/item?id=50057668 Points: 207 # Comments: 83",
+   "summary": "Article URL: https://taylor.town/kk-ai-2026 Comments URL: https://news.ycombinator.com/item?id=50057668 Points: 214 # Comments: 85",
    "published": "2026-10-12T15:16:45+00:00",
    "topics": [],
    "first_seen": "2026-10-13T17:36:05+00:00"
@@ -682,7 +866,7 @@
    "link": "https://mortoray.com/why-arent-ai-companies-being-charged-for-hacking/",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://mortoray.com/why-arent-ai-companies-being-charged-for-hacking/ Comments URL: https://news.ycombinator.com/item?id=50057278 Points: 327 # Comments: 360",
+   "summary": "Article URL: https://mortoray.com/why-arent-ai-companies-being-charged-for-hacking/ Comments URL: https://news.ycombinator.com/item?id=50057278 Points: 329 # Comments: 366",
    "published": "2026-10-12T14:52:37+00:00",
    "topics": [],
    "first_seen": "2026-10-12T19:48:20+00:00"
@@ -744,7 +928,7 @@
    "link": "https://github.com/qgis/QGIS-Enhancement-Proposals/pull/387",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "https://lists.osgeo.org/pipermail/qgis-developer/2026-Septem... Comments URL: https://news.ycombinator.com/item?id=50054751 Points: 382 # Comments: 407",
+   "summary": "https://lists.osgeo.org/pipermail/qgis-developer/2026-Septem... Comments URL: https://news.ycombinator.com/item?id=50054751 Points: 385 # Comments: 407",
    "published": "2026-10-12T11:22:24+00:00",
    "topics": [],
    "first_seen": "2026-10-12T19:48:20+00:00"
@@ -809,7 +993,7 @@
    "link": "https://twitter.com/karpathy/status/2109361546505966046",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://twitter.com/karpathy/status/2109361546505966046 Comments URL: https://news.ycombinator.com/item?id=50047422 Points: 713 # Comments: 1037",
+   "summary": "Article URL: https://twitter.com/karpathy/status/2109361546505966046 Comments URL: https://news.ycombinator.com/item?id=50047422 Points: 715 # Comments: 1044",
    "published": "2026-10-11T20:20:52+00:00",
    "topics": [
     "Models"
@@ -868,7 +1052,7 @@
    "link": "https://vcresearch.berkeley.edu/news/using-ai-just-10-minutes-erodes-your-ability-persist-hard-things",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://vcresearch.berkeley.edu/news/using-ai-just-10-minutes-erodes-your-ability-persist-hard-things Comments URL: https://news.ycombinator.com/item?id=50041765 Points: 183 # Comments: 146",
+   "summary": "Article URL: https://vcresearch.berkeley.edu/news/using-ai-just-10-minutes-erodes-your-ability-persist-hard-things Comments URL: https://news.ycombinator.com/item?id=50041765 Points: 188 # Comments: 147",
    "published": "2026-10-11T10:47:21+00:00",
    "topics": [],
    "first_seen": "2026-10-12T09:12:05+00:00"
@@ -892,7 +1076,7 @@
    "link": "https://momo5502.com/posts/2026-10-09-game-decompilation/",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://momo5502.com/posts/2026-10-09-game-decompilation/ Comments URL: https://news.ycombinator.com/item?id=50039092 Points: 214 # Comments: 152",
+   "summary": "Article URL: https://momo5502.com/posts/2026-10-09-game-decompilation/ Comments URL: https://news.ycombinator.com/item?id=50039092 Points: 216 # Comments: 152",
    "published": "2026-10-11T02:02:38+00:00",
    "topics": [
     "Tools"
@@ -979,7 +1163,7 @@
    "link": "https://www.ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://www.ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a Comments URL: https://news.ycombinator.com/item?id=50035886 Points: 178 # Comments: 115",
+   "summary": "Article URL: https://www.ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a Comments URL: https://news.ycombinator.com/item?id=50035886 Points: 179 # Comments: 116",
    "published": "2026-10-10T18:48:35+00:00",
    "topics": [
     "Models",
