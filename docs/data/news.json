@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-13T09:25:08+00:00",
+ "updated": "2026-10-13T17:36:05+00:00",
  "sources": [
   {
    "name": "OpenAI",
@@ -13,9 +13,9 @@
    "name": "Google DeepMind",
    "url": "https://deepmind.google/blog/rss.xml",
    "kind": "lab",
-   "ok": false,
-   "count": 0,
-   "error": "ParseError: not well-formed (invalid token): line 1, column 0"
+   "ok": true,
+   "count": 40,
+   "error": null
   },
   {
    "name": "Google AI",
@@ -85,12 +85,344 @@
    "name": "Hacker News",
    "url": "https://hnrss.org/newest?q=AI+OR+LLM+OR+GPT+OR+Claude&points=100",
    "kind": "community",
-   "ok": false,
-   "count": 0,
-   "error": "HTTPError: HTTP Error 502: Bad Gateway"
+   "ok": true,
+   "count": 20,
+   "error": null
   }
  ],
  "items": [
+  {
+   "id": "0b284eb98b4575c8",
+   "title": "Laplace Intelligence red-teams robots and self-driving cars before they hit the real world",
+   "link": "https://techcrunch.com/2026/10/13/laplace-intelligence-red-teams-robots-and-self-driving-cars-before-they-hit-the-real-world/",
+   "source": "TechCrunch",
+   "kind": "press",
+   "summary": "University of Michigan spinout Laplace Intelligence uses AI agents and interactive simulation to stress-test robots and self-driving vehicles before deployment. The profitable startup is competing at TechCrunch Disrupt's Startup Battlefield.",
+   "published": "2026-10-13T17:30:00+00:00",
+   "topics": [
+    "Business",
+    "Tools"
+   ],
+   "first_seen": "2026-10-13T17:36:05+00:00"
+  },
+  {
+   "id": "d8f2c178c0c6c59d",
+   "title": "Epic shifts to ‘AI-accelerated development’ for upcoming Disney game",
+   "link": "https://www.theverge.com/games/1010097/epic-games-disney-project-ai-coding-art",
+   "source": "The Verge",
+   "kind": "press",
+   "summary": "Epic Games plans to use AI to generate code and art for an unannounced Disney game, which is now delayed from its original March release window, according to a report from Bloomberg. The project's developers have been given an \"AI-first\" mandate directing them to use tools like…",
+   "published": "2026-10-13T17:22:01+00:00",
+   "topics": [
+    "Tools"
+   ],
+   "first_seen": "2026-10-13T17:36:05+00:00"
+  },
+  {
+   "id": "992e14a3e4b635ce",
+   "title": "Pluto Security raises $42M as AI gives enterprise security teams a new headache",
+   "link": "https://techcrunch.com/2026/10/13/pluto-security-raises-42m-as-ai-gives-enterprise-security-teams-a-new-headache/",
+   "source": "TechCrunch",
+   "kind": "press",
+   "summary": "Pluto Security has raised $42 million Jump Capital, TLV Partners, Ansa Capital and angel investors.",
+   "published": "2026-10-13T17:18:25+00:00",
+   "topics": [
+    "Business"
+   ],
+   "first_seen": "2026-10-13T17:36:05+00:00"
+  },
+  {
+   "id": "550c4c02e9ff21a9",
+   "title": "Run fast, private agents on-device with LFM2.5-24B-A2B",
+   "link": "https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b",
+   "source": "Hugging Face",
+   "kind": "lab",
+   "summary": "",
+   "published": "2026-10-13T17:05:48+00:00",
+   "topics": [
+    "Tools"
+   ],
+   "first_seen": "2026-10-13T17:36:05+00:00"
+  },
+  {
+   "id": "c9abe9b08cd34f7a",
+   "title": "Facebook will let you customize your feed algorithm using AI",
+   "link": "https://www.theverge.com/tech/1010344/meta-facebook-your-algorithm-ai",
+   "source": "The Verge",
+   "kind": "press",
+   "summary": "Facebook's new \"Your Algorithm\" feature will let you directly add and manage topics you want to see in your feed and Facebook Reels. Meta says your recommendations \"respond right away\" after you make updates using the new feature by hitting \"interested\" or \"not interested\" for…",
+   "published": "2026-10-13T17:01:31+00:00",
+   "topics": [],
+   "first_seen": "2026-10-13T17:36:05+00:00"
+  },
+  {
+   "id": "7e60f5237eddc095",
+   "title": "Google wants to host your personal vibe-coded apps in the Play Store",
+   "link": "https://arstechnica.com/google/2026/10/google-wants-to-host-your-personal-vibe-coded-apps-in-the-play-store/",
+   "source": "Ars Technica",
+   "kind": "press",
+   "summary": "Google plans to help turn those personal AI-generated apps into wide releases.",
+   "published": "2026-10-13T17:00:39+00:00",
+   "topics": [
+    "Tools"
+   ],
+   "first_seen": "2026-10-13T17:36:05+00:00"
+  },
+  {
+   "id": "303c8b8be26ff7b1",
+   "title": "Google Play now supports private, vibe-coded apps built just for you",
+   "link": "https://techcrunch.com/2026/10/13/google-play-now-supports-private-vibe-coded-apps-built-just-for-you/",
+   "source": "TechCrunch",
+   "kind": "press",
+   "summary": "Google is making it easier to build and use personal Android apps created with AI, without having to make them available to everyone on the Play Store.",
+   "published": "2026-10-13T17:00:00+00:00",
+   "topics": [],
+   "first_seen": "2026-10-13T17:36:05+00:00"
+  },
+  {
+   "id": "a3312401eb558d69",
+   "title": "Google makes it easier to launch your vibe-coded apps",
+   "link": "https://www.theverge.com/tech/1009066/google-play-vibe-coded-android-apps-launch",
+   "source": "The Verge",
+   "kind": "press",
+   "summary": "The next time you vibe-code a custom app with Google's AI Studio, you won't have to connect your phone to a computer to install it. On Tuesday, Google announced a new feature in the US that will allow you to launch personal apps directly through the Play Store. Google first…",
+   "published": "2026-10-13T16:47:06+00:00",
+   "topics": [
+    "Tools"
+   ],
+   "first_seen": "2026-10-13T17:36:05+00:00"
+  },
+  {
+   "id": "e8881f4e9b5e76a5",
+   "title": "Actress Mia Goth says it’s ‘incomprehensible’ that Instagram allowed an AI image of her to spread",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/1010277/mia-goth-instagram-ai-shirt-deepfake-divorce",
+   "source": "The Verge",
+   "kind": "press",
+   "summary": "Earlier this month, news broke that actress Mia Goth had filed for divorce from actor and filmmaker Shia LaBeouf. An Instagram post from the account miagoth_ - marked with a blue verified checkmark - quickly spread. The post shows Goth in a T-shirt that reads \"MY EX IS MY…",
+   "published": "2026-10-13T16:42:51+00:00",
+   "topics": [],
+   "first_seen": "2026-10-13T17:36:05+00:00"
+  },
+  {
+   "id": "80618fcba7c6ab56",
+   "title": "Satlyt, founded by a former Google and SpaceX product manager, raises $8M to run AI on satellites",
+   "link": "https://techcrunch.com/2026/10/13/satlyt-founded-by-a-former-google-and-spacex-product-manager-raises-8m-to-run-ai-on-satellites/",
+   "source": "TechCrunch",
+   "kind": "press",
+   "summary": "Satlyt wants to be the Android of orbital computing, offering open software that works on many companies' satellites, versus SpaceX's closed, all-in-one iPhone-style approach.",
+   "published": "2026-10-13T16:30:00+00:00",
+   "topics": [
+    "Business"
+   ],
+   "first_seen": "2026-10-13T17:36:05+00:00"
+  },
+  {
+   "id": "884ebf3c3978ea46",
+   "title": "Gemini 4 Argon for Robotics",
+   "link": "https://deepmind.google/blog/gemini-4-argon-for-robotics/",
+   "source": "Google DeepMind",
+   "kind": "lab",
+   "summary": "",
+   "published": "2026-10-13T16:01:58+00:00",
+   "topics": [
+    "Models"
+   ],
+   "first_seen": "2026-10-13T17:36:05+00:00"
+  },
+  {
+   "id": "f174716114a9131e",
+   "title": "Gemini 4 Argon: Built to solve your hardest problems",
+   "link": "https://deepmind.google/blog/introducing-gemini-4-argon/",
+   "source": "Google DeepMind",
+   "kind": "lab",
+   "summary": "",
+   "published": "2026-10-13T16:01:52+00:00",
+   "topics": [
+    "Models"
+   ],
+   "first_seen": "2026-10-13T17:36:05+00:00"
+  },
+  {
+   "id": "caa6203fc500b5ac",
+   "title": "Gemini 4 Argon begins rolling out in Gemini app and Antigravity, but only if you pay",
+   "link": "https://arstechnica.com/ai/2026/10/gemini-4-argon-begins-rolling-out-in-gemini-app-and-antigravity-but-only-if-you-pay/",
+   "source": "Ars Technica",
+   "kind": "press",
+   "summary": "Developers will get 50 percent discounted API rates through November.",
+   "published": "2026-10-13T16:00:02+00:00",
+   "topics": [
+    "Models",
+    "Tools"
+   ],
+   "first_seen": "2026-10-13T17:36:05+00:00"
+  },
+  {
+   "id": "c1e94fc831365c13",
+   "title": "Gemini 4 Argon: Built to solve your hardest problems",
+   "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/",
+   "source": "Google AI",
+   "kind": "lab",
+   "summary": "",
+   "published": "2026-10-13T16:00:00+00:00",
+   "topics": [
+    "Models"
+   ],
+   "first_seen": "2026-10-13T17:36:05+00:00"
+  },
+  {
+   "id": "1acd025aeb34750a",
+   "title": "They war-gamed dimming the Sun. It went even worse than you think.",
+   "link": "https://arstechnica.com/science/2026/10/they-war-gamed-dimming-the-sun-it-went-even-worse-than-you-think/",
+   "source": "Ars Technica",
+   "kind": "press",
+   "summary": "Solar geoengineering simulation shows what happens when geopolitics takes over.",
+   "published": "2026-10-13T15:17:59+00:00",
+   "topics": [],
+   "first_seen": "2026-10-13T17:36:05+00:00"
+  },
+  {
+   "id": "083eb6d9e76f3ec8",
+   "title": "TechCrunch Disrupt 2026: Day 1",
+   "link": "https://techcrunch.com/2026/10/13/techcrunch-disrupt-2026-day-1/",
+   "source": "TechCrunch",
+   "kind": "press",
+   "summary": "TechCrunch Disrupt 2026 officially kicks off today. See what's in store for Day 1 (Oct. 13) at San Francisco's Moscone West. Don't miss it. Register for your pass now and meet 10,000+ tech leaders at the startup epicenter of the year.",
+   "published": "2026-10-13T14:00:00+00:00",
+   "topics": [
+    "Business"
+   ],
+   "first_seen": "2026-10-13T17:36:05+00:00"
+  },
+  {
+   "id": "579aa4e27ad56348",
+   "title": "DLSS 5 gets toned down for its Hogwarts Legacy debut next month",
+   "link": "https://www.theverge.com/news/1009904/dlss-5-hogwarts-legacy-changes-improvements",
+   "source": "The Verge",
+   "kind": "press",
+   "summary": "When Nvidia originally showed off DLSS 5 earlier this year, the technology immediately got branded as gen AI for video games. To gamers, Nvidia had lost the plot. I personally couldn't get over how faces were transformed using DLSS 5. The 15-year-old student from Hogwarts Legacy…",
+   "published": "2026-10-13T13:58:28+00:00",
+   "topics": [
+    "Hardware"
+   ],
+   "first_seen": "2026-10-13T17:36:05+00:00"
+  },
+  {
+   "id": "ca06a4e7439a553a",
+   "title": "SpaceXSI bundles X Premium, Grok, and Cursor into one subscription",
+   "link": "https://techcrunch.com/2026/10/13/spacexsi-bundles-x-premium-grok-and-cursor-into-one-subscription/",
+   "source": "TechCrunch",
+   "kind": "press",
+   "summary": "The new X Subscription combines X's paid features with AI tools like Grok and Cursor, offering plans ranging from $8 to $200 per month.",
+   "published": "2026-10-13T13:50:19+00:00",
+   "topics": [
+    "Models"
+   ],
+   "first_seen": "2026-10-13T17:36:05+00:00"
+  },
+  {
+   "id": "87e22abf54d8b628",
+   "title": "Quoting Geoffrey Huntley",
+   "link": "https://simonwillison.net/2026/Oct/13/geoffrey-huntley/",
+   "source": "Simon Willison",
+   "kind": "community",
+   "summary": "If the agent isn't using my diagnostics library, I could introspect and update AGENTS.md, but there's still a delta, and it'll drift. Instead, I write a pre-commit hook that checks the git diff for direct calls to observability modules that bypass my diagnostics module. Boom…",
+   "published": "2026-10-13T13:32:00+00:00",
+   "topics": [
+    "Tools"
+   ],
+   "first_seen": "2026-10-13T17:36:05+00:00"
+  },
+  {
+   "id": "fa1d998e852ed881",
+   "title": "Apple launches HomeView, its first smart display for the home",
+   "link": "https://www.theverge.com/tech/1009704/apple-homeview-smart-display-first-look",
+   "source": "The Verge",
+   "kind": "press",
+   "summary": "It's finally here: Apple's long-rumored smart display, the Apple HomeView, has arrived. I got a first look at the device in New York City this week, and it's gorgeous. The HomeView puts a small, vibrant screen atop a speaker base for taking video calls, beautifully displaying…",
+   "published": "2026-10-13T13:28:40+00:00",
+   "topics": [
+    "Tools"
+   ],
+   "first_seen": "2026-10-13T17:36:05+00:00"
+  },
+  {
+   "id": "16952cab26aac923",
+   "title": "The final Disrupt Stage lineup: Three days of conversations you won’t hear anywhere outside of TechCrunch Disrupt 2026",
+   "link": "https://techcrunch.com/2026/10/13/the-final-disrupt-stage-lineup-three-days-of-conversations-you-wont-hear-anywhere-outside-of-techcrunch-disrupt-2026/",
+   "source": "TechCrunch",
+   "kind": "press",
+   "summary": "The full TechCrunch Disrupt Stage lineup revealed, featuring Max Hodak, Mark Wahlberg, Benchmark partners, and more. Register now to save up to $100 on your pass and get a second at 50% off.",
+   "published": "2026-10-13T13:28:06+00:00",
+   "topics": [
+    "Research"
+   ],
+   "first_seen": "2026-10-13T17:36:05+00:00"
+  },
+  {
+   "id": "aba4e20057c7a474",
+   "title": "Amex introduces a framework to prevent AI agents from making unauthorized purchases",
+   "link": "https://techcrunch.com/2026/10/13/amex-introduces-a-framework-to-prevent-ai-agents-from-making-unauthorized-purchases/",
+   "source": "TechCrunch",
+   "kind": "press",
+   "summary": "American Express is introducing a new framework designed to ensure AI agents only make purchases their users have authorized, potentially preventing costly mistakes and disputes as AI-powered shopping grows.",
+   "published": "2026-10-13T13:00:00+00:00",
+   "topics": [
+    "Tools"
+   ],
+   "first_seen": "2026-10-13T17:36:05+00:00"
+  },
+  {
+   "id": "54d9c64a7bcda1b4",
+   "title": "Just 5 years in, interactive chatbot platform Character.AI files for bankruptcy",
+   "link": "https://techcrunch.com/2026/10/13/just-5-years-in-interactive-chatbot-platform-character-ai-files-for-bankruptcy/",
+   "source": "TechCrunch",
+   "kind": "press",
+   "summary": "The startup will sell some of its assets to Disney for $20 million.",
+   "published": "2026-10-13T12:23:42+00:00",
+   "topics": [
+    "Business"
+   ],
+   "first_seen": "2026-10-13T17:36:05+00:00"
+  },
+  {
+   "id": "24ef7cf40bd2766a",
+   "title": "Google finally releases Gemini 4 Argon",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/1009862/google-releases-gemini-4-argon",
+   "source": "The Verge",
+   "kind": "press",
+   "summary": "After months sitting on the sidelines of the frontier AI race, Google has finally launched its long-awaited Gemini 4 Argon model, claiming it can compete with the best the industry has to offer. Google says Argon delivers \"frontier reasoning and improved performance across…",
+   "published": "2026-10-13T12:12:37+00:00",
+   "topics": [
+    "Models",
+    "Tools"
+   ],
+   "first_seen": "2026-10-13T17:36:05+00:00"
+  },
+  {
+   "id": "17822a6c9063e726",
+   "title": "Character.ai Files for Bankruptcy",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/1009802/character-ai-files-for-bankruptcy-disney",
+   "source": "Hacker News",
+   "kind": "community",
+   "summary": "Article URL: https://www.theverge.com/ai-artificial-intelligence/1009802/character-ai-files-for-bankruptcy-disney Comments URL: https://news.ycombinator.com/item?id=50069942 Points: 143 # Comments: 20",
+   "published": "2026-10-13T11:24:08+00:00",
+   "topics": [],
+   "first_seen": "2026-10-13T17:36:05+00:00"
+  },
+  {
+   "id": "089e26be9c889c4d",
+   "title": "Open models have real benefits. Do they outweigh the risks?",
+   "link": "https://www.technologyreview.com/2026/10/13/1146366/open-models-have-real-benefits-do-they-outweigh-the-risks/",
+   "source": "MIT Technology Review",
+   "kind": "press",
+   "summary": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of science and technology to help you understand what’s coming next. You can read more from the series here. Late last month, Anthropic released a report arguing that the model GLM-5.3 poses a…",
+   "published": "2026-10-13T10:00:00+00:00",
+   "topics": [
+    "Models",
+    "Tools"
+   ],
+   "first_seen": "2026-10-13T17:36:05+00:00"
+  },
   {
    "id": "7c431d9eeb01b7e3",
    "title": "AI labs are buying data from dead startups to train their models",
@@ -104,6 +436,79 @@
     "Business"
    ],
    "first_seen": "2026-10-13T09:25:08+00:00"
+  },
+  {
+   "id": "3c04da4c4ba342df",
+   "title": "Character.ai has initiated voluntary Chapter 11 bankruptcy",
+   "link": "https://blog.character.ai/an-update-on-character-ai/",
+   "source": "Hacker News",
+   "kind": "community",
+   "summary": "https://www.theverge.com/ai-artificial-intelligence/1009802/... https://techcrunch.com/2026/10/13/just-5-years-in-interactiv... https://www.reuters.com/legal/litigation/characterai-files-b... https://variety.com/2026/biz/news/disney-bids-on-character-a... Comments URL…",
+   "published": "2026-10-13T07:28:34+00:00",
+   "topics": [],
+   "first_seen": "2026-10-13T17:36:05+00:00"
+  },
+  {
+   "id": "9e58dc30161bca32",
+   "title": "Threat of AI share crash puts world financial stability at risk, says IMF",
+   "link": "https://www.theguardian.com/business/2026/oct/13/ai-share-crash-risk-global-imf-debt-corrowing-cyber-attacks",
+   "source": "Hacker News",
+   "kind": "community",
+   "summary": "Article URL: https://www.theguardian.com/business/2026/oct/13/ai-share-crash-risk-global-imf-debt-corrowing-cyber-attacks Comments URL: https://news.ycombinator.com/item?id=50067356 Points: 102 # Comments: 116",
+   "published": "2026-10-13T05:57:32+00:00",
+   "topics": [],
+   "first_seen": "2026-10-13T17:36:05+00:00"
+  },
+  {
+   "id": "224c102190be4dc2",
+   "title": "AI models can provably hide arbitrary capabilities",
+   "link": "https://arxiv.org/abs/2610.13928",
+   "source": "Hacker News",
+   "kind": "community",
+   "summary": "Article URL: https://arxiv.org/abs/2610.13928 Comments URL: https://news.ycombinator.com/item?id=50065692 Points: 264 # Comments: 130",
+   "published": "2026-10-13T02:07:08+00:00",
+   "topics": [
+    "Models",
+    "Research"
+   ],
+   "first_seen": "2026-10-13T17:36:05+00:00"
+  },
+  {
+   "id": "343756543cb3b327",
+   "title": "I turned my unused Kindle into a photo frame with GPT-6 Astra",
+   "link": "https://nirajrajgor.com/blog/kindle-photo-frame-with-ai",
+   "source": "Hacker News",
+   "kind": "community",
+   "summary": "Article URL: https://nirajrajgor.com/blog/kindle-photo-frame-with-ai Comments URL: https://news.ycombinator.com/item?id=50064318 Points: 144 # Comments: 102",
+   "published": "2026-10-12T23:07:25+00:00",
+   "topics": [
+    "Models"
+   ],
+   "first_seen": "2026-10-13T17:36:05+00:00"
+  },
+  {
+   "id": "c41789c5590e4a8d",
+   "title": "AI is a tool and using it well takes skill",
+   "link": "https://yyhh.org/blog/2026/10/ai-is-a-tool/",
+   "source": "Hacker News",
+   "kind": "community",
+   "summary": "Article URL: https://yyhh.org/blog/2026/10/ai-is-a-tool/ Comments URL: https://news.ycombinator.com/item?id=50063427 Points: 579 # Comments: 465",
+   "published": "2026-10-12T21:40:18+00:00",
+   "topics": [],
+   "first_seen": "2026-10-13T17:36:05+00:00"
+  },
+  {
+   "id": "657a150f08e48f41",
+   "title": "Intel D270 GPU AI Accelerator–Up to 480 GB LPDDR5X",
+   "link": "https://www.intel.com/content/www/us/en/products/details/discrete-gpus/data-center-gpu/d-series.html",
+   "source": "Hacker News",
+   "kind": "community",
+   "summary": "Article URL: https://www.intel.com/content/www/us/en/products/details/discrete-gpus/data-center-gpu/d-series.html Comments URL: https://news.ycombinator.com/item?id=50063365 Points: 292 # Comments: 167",
+   "published": "2026-10-12T21:35:35+00:00",
+   "topics": [
+    "Hardware"
+   ],
+   "first_seen": "2026-10-13T17:36:05+00:00"
   },
   {
    "id": "37b5a1e81dc84f2f",
@@ -145,6 +550,17 @@
    "first_seen": "2026-10-12T19:48:20+00:00"
   },
   {
+   "id": "5a6b7e23ee06a3b9",
+   "title": "'AI' Is Not a Tool by Rich Hickey",
+   "link": "https://www.linkedin.com/pulse/ai-tool-rich-hickey-kjl8e",
+   "source": "Hacker News",
+   "kind": "community",
+   "summary": "https://gist.github.com/svieira/619d60dea942a8d4498cba3bb6b1... Comments URL: https://news.ycombinator.com/item?id=50060269 Points: 297 # Comments: 161",
+   "published": "2026-10-12T18:00:25+00:00",
+   "topics": [],
+   "first_seen": "2026-10-13T17:36:05+00:00"
+  },
+  {
    "id": "80d24e11891767c4",
    "title": "Meta releases its first frontier model, Muse Wonder",
    "link": "https://techcrunch.com/2026/10/12/meta-releases-its-first-frontier-model-muse-wonder/",
@@ -184,6 +600,19 @@
     "Business"
    ],
    "first_seen": "2026-10-12T19:48:20+00:00"
+  },
+  {
+   "id": "9f4f46039e3dc6c1",
+   "title": "AI coding agents generate more code, but not more software",
+   "link": "https://arstechnica.com/ai/2026/10/ai-coding-agents-generate-more-code-but-not-more-software/",
+   "source": "Hacker News",
+   "kind": "community",
+   "summary": "Article URL: https://arstechnica.com/ai/2026/10/ai-coding-agents-generate-more-code-but-not-more-software/ Comments URL: https://news.ycombinator.com/item?id=50059523 Points: 354 # Comments: 293",
+   "published": "2026-10-12T17:14:01+00:00",
+   "topics": [
+    "Tools"
+   ],
+   "first_seen": "2026-10-11T09:46:44+00:00"
   },
   {
    "id": "93062c67d6f00e76",
@@ -237,12 +666,23 @@
    "first_seen": "2026-10-12T19:48:20+00:00"
   },
   {
+   "id": "f869ceb5043b48af",
+   "title": "Kevin Kelly's 2016 AI Predictions, 10 Years Later",
+   "link": "https://taylor.town/kk-ai-2026",
+   "source": "Hacker News",
+   "kind": "community",
+   "summary": "Article URL: https://taylor.town/kk-ai-2026 Comments URL: https://news.ycombinator.com/item?id=50057668 Points: 207 # Comments: 83",
+   "published": "2026-10-12T15:16:45+00:00",
+   "topics": [],
+   "first_seen": "2026-10-13T17:36:05+00:00"
+  },
+  {
    "id": "a1c039e95c8c9060",
    "title": "Why aren't AI companies being charged for hacking?",
    "link": "https://mortoray.com/why-arent-ai-companies-being-charged-for-hacking/",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://mortoray.com/why-arent-ai-companies-being-charged-for-hacking/ Comments URL: https://news.ycombinator.com/item?id=50057278 Points: 293 # Comments: 295",
+   "summary": "Article URL: https://mortoray.com/why-arent-ai-companies-being-charged-for-hacking/ Comments URL: https://news.ycombinator.com/item?id=50057278 Points: 327 # Comments: 360",
    "published": "2026-10-12T14:52:37+00:00",
    "topics": [],
    "first_seen": "2026-10-12T19:48:20+00:00"
@@ -300,11 +740,11 @@
   },
   {
    "id": "c68c034bd72cd63d",
-   "title": "QGIS: No AI contributions permitted",
+   "title": "QGIS enacts moratorium on AI contributions",
    "link": "https://github.com/qgis/QGIS-Enhancement-Proposals/pull/387",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://github.com/qgis/QGIS-Enhancement-Proposals/pull/387 Comments URL: https://news.ycombinator.com/item?id=50054751 Points: 340 # Comments: 379",
+   "summary": "https://lists.osgeo.org/pipermail/qgis-developer/2026-Septem... Comments URL: https://news.ycombinator.com/item?id=50054751 Points: 382 # Comments: 407",
    "published": "2026-10-12T11:22:24+00:00",
    "topics": [],
    "first_seen": "2026-10-12T19:48:20+00:00"
@@ -338,6 +778,19 @@
    "first_seen": "2026-10-12T19:48:20+00:00"
   },
   {
+   "id": "ce7cbe0fa7852207",
+   "title": "Show HN: Atticus – Hold-to-talk voice assistant for macOS that runs on Claude -p",
+   "link": "https://github.com/SaarthurR/atticus-mac",
+   "source": "Hacker News",
+   "kind": "community",
+   "summary": "Hi HN! I'm Saarth. I'm in 9th grade, and I built Atticus. Atticus is a fast and cheap Mac assistant that can do tasks for you. You hold down Control-Option-Space, speak or type your task, be it complex or a simple browser search, and Atticus will get on it. The interesting part…",
+   "published": "2026-10-12T00:15:12+00:00",
+   "topics": [
+    "Models"
+   ],
+   "first_seen": "2026-10-13T17:36:05+00:00"
+  },
+  {
    "id": "2a599db62b35d5c3",
    "title": "Will the HomeView be Apple’s first smart home success?",
    "link": "https://techcrunch.com/2026/10/11/will-the-homeview-be-apples-first-smart-home-success/",
@@ -356,7 +809,7 @@
    "link": "https://twitter.com/karpathy/status/2109361546505966046",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://twitter.com/karpathy/status/2109361546505966046 Comments URL: https://news.ycombinator.com/item?id=50047422 Points: 648 # Comments: 949",
+   "summary": "Article URL: https://twitter.com/karpathy/status/2109361546505966046 Comments URL: https://news.ycombinator.com/item?id=50047422 Points: 713 # Comments: 1037",
    "published": "2026-10-11T20:20:52+00:00",
    "topics": [
     "Models"
@@ -415,7 +868,7 @@
    "link": "https://vcresearch.berkeley.edu/news/using-ai-just-10-minutes-erodes-your-ability-persist-hard-things",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://vcresearch.berkeley.edu/news/using-ai-just-10-minutes-erodes-your-ability-persist-hard-things Comments URL: https://news.ycombinator.com/item?id=50041765 Points: 157 # Comments: 135",
+   "summary": "Article URL: https://vcresearch.berkeley.edu/news/using-ai-just-10-minutes-erodes-your-ability-persist-hard-things Comments URL: https://news.ycombinator.com/item?id=50041765 Points: 183 # Comments: 146",
    "published": "2026-10-11T10:47:21+00:00",
    "topics": [],
    "first_seen": "2026-10-12T09:12:05+00:00"
@@ -439,7 +892,7 @@
    "link": "https://momo5502.com/posts/2026-10-09-game-decompilation/",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://momo5502.com/posts/2026-10-09-game-decompilation/ Comments URL: https://news.ycombinator.com/item?id=50039092 Points: 206 # Comments: 149",
+   "summary": "Article URL: https://momo5502.com/posts/2026-10-09-game-decompilation/ Comments URL: https://news.ycombinator.com/item?id=50039092 Points: 214 # Comments: 152",
    "published": "2026-10-11T02:02:38+00:00",
    "topics": [
     "Tools"
@@ -526,7 +979,7 @@
    "link": "https://www.ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://www.ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a Comments URL: https://news.ycombinator.com/item?id=50035886 Points: 176 # Comments: 115",
+   "summary": "Article URL: https://www.ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a Comments URL: https://news.ycombinator.com/item?id=50035886 Points: 178 # Comments: 115",
    "published": "2026-10-10T18:48:35+00:00",
    "topics": [
     "Models",
@@ -581,7 +1034,7 @@
    "link": "https://github.com/rociiu/talorys",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://github.com/rociiu/talorys Comments URL: https://news.ycombinator.com/item?id=50031614 Points: 327 # Comments: 155",
+   "summary": "Article URL: https://github.com/rociiu/talorys Comments URL: https://news.ycombinator.com/item?id=50031614 Points: 328 # Comments: 155",
    "published": "2026-10-10T10:52:09+00:00",
    "topics": [
     "Tools"
@@ -662,7 +1115,7 @@
    "link": "https://www.nbcphiladelphia.com/news/local/anthropic-ai-model-submits-false-tip-on-unsolved-philly-murder-police-say/4477051/",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://www.nbcphiladelphia.com/news/local/anthropic-ai-model-submits-false-tip-on-unsolved-philly-murder-police-say/4477051/ Comments URL: https://news.ycombinator.com/item?id=50027118 Points: 212 # Comments: 156",
+   "summary": "Article URL: https://www.nbcphiladelphia.com/news/local/anthropic-ai-model-submits-false-tip-on-unsolved-philly-murder-police-say/4477051/ Comments URL: https://news.ycombinator.com/item?id=50027118 Points: 212 # Comments: 157",
    "published": "2026-10-09T22:00:35+00:00",
    "topics": [
     "Models"
@@ -692,20 +1145,6 @@
    "summary": "At this year's OpenAI DevDay, CEO Sam Altman unveiled the company's new AI agent Dots - and told the crowd that the company wants to \"set a new standard for privacy in frontier AI.\" OpenAI would spend the day taking veiled shots at Meta's Muse, its primary competitor, for…",
    "published": "2026-10-09T21:26:33+00:00",
    "topics": [
-    "Tools"
-   ],
-   "first_seen": "2026-10-11T09:46:44+00:00"
-  },
-  {
-   "id": "9f4f46039e3dc6c1",
-   "title": "AI coding agents generate more code, but not more software",
-   "link": "https://arstechnica.com/ai/2026/10/ai-coding-agents-generate-more-code-but-not-more-software/",
-   "source": "Ars Technica",
-   "kind": "press",
-   "summary": "Study finds coding efficiency gains get \"absorbed\" by human review \"bottleneck.\"",
-   "published": "2026-10-09T19:43:50+00:00",
-   "topics": [
-    "Research",
     "Tools"
    ],
    "first_seen": "2026-10-11T09:46:44+00:00"
@@ -762,7 +1201,7 @@
    "link": "https://terrytao.wordpress.com/2026/10/09/what-mathematicians-should-know-about-the-lean-theorem-proverquestions-of-reliability-and-ai/",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://terrytao.wordpress.com/2026/10/09/what-mathematicians-should-know-about-the-lean-theorem-proverquestions-of-reliability-and-ai/ Comments URL: https://news.ycombinator.com/item?id=50024090 Points: 206 # Comments: 58",
+   "summary": "Article URL: https://terrytao.wordpress.com/2026/10/09/what-mathematicians-should-know-about-the-lean-theorem-proverquestions-of-reliability-and-ai/ Comments URL: https://news.ycombinator.com/item?id=50024090 Points: 207 # Comments: 58",
    "published": "2026-10-09T17:42:12+00:00",
    "topics": [],
    "first_seen": "2026-10-11T09:46:44+00:00"
