@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-12T19:48:20+00:00",
+ "updated": "2026-10-13T02:00:38+00:00",
  "sources": [
   {
    "name": "OpenAI",
@@ -85,12 +85,25 @@
    "name": "Hacker News",
    "url": "https://hnrss.org/newest?q=AI+OR+LLM+OR+GPT+OR+Claude&points=100",
    "kind": "community",
-   "ok": true,
-   "count": 20,
-   "error": null
+   "ok": false,
+   "count": 0,
+   "error": "HTTPError: HTTP Error 502: Bad Gateway"
   }
  ],
  "items": [
+  {
+   "id": "37b5a1e81dc84f2f",
+   "title": "Epic Games reportedly pivoting to \"AI first\" game development model",
+   "link": "https://arstechnica.com/gaming/2026/10/report-epic-games-goes-all-in-on-ai-for-disney-collaboration/",
+   "source": "Ars Technica",
+   "kind": "press",
+   "summary": "\"No more hand-written code\" or AI-free art for delayed Marvel/Star Wars shooter.",
+   "published": "2026-10-12T20:59:50+00:00",
+   "topics": [
+    "Models"
+   ],
+   "first_seen": "2026-10-13T02:00:38+00:00"
+  },
   {
    "id": "b470d062734aea8f",
    "title": "Anthropic's Claude AI submitted false murder tip to Philadelphia police",
@@ -159,17 +172,18 @@
    "first_seen": "2026-10-12T19:48:20+00:00"
   },
   {
-   "id": "9f4f46039e3dc6c1",
-   "title": "AI coding agents generate more code, but not more software",
-   "link": "https://arstechnica.com/ai/2026/10/ai-coding-agents-generate-more-code-but-not-more-software/",
-   "source": "Hacker News",
+   "id": "93062c67d6f00e76",
+   "title": "web-edit 0.1a0",
+   "link": "https://simonwillison.net/2026/Oct/12/web-edit/",
+   "source": "Simon Willison",
    "kind": "community",
-   "summary": "Article URL: https://arstechnica.com/ai/2026/10/ai-coding-agents-generate-more-code-but-not-more-software/ Comments URL: https://news.ycombinator.com/item?id=50059523 Points: 152 # Comments: 124",
-   "published": "2026-10-12T17:14:01+00:00",
+   "summary": "Release: web-edit 0.1a0 I was working on a project from my phone using Codex Remote when I found myself wanting to edit a credentials file without round-tripping those credentials through the LLM itself. So... I had Codex and GPT-6 Astra Extra High build this Python web app…",
+   "published": "2026-10-12T15:54:36+00:00",
    "topics": [
+    "Models",
     "Tools"
    ],
-   "first_seen": "2026-10-11T09:46:44+00:00"
+   "first_seen": "2026-10-13T02:00:38+00:00"
   },
   {
    "id": "fa08cc00ea9a27a9",
@@ -664,6 +678,20 @@
    "summary": "At this year's OpenAI DevDay, CEO Sam Altman unveiled the company's new AI agent Dots - and told the crowd that the company wants to \"set a new standard for privacy in frontier AI.\" OpenAI would spend the day taking veiled shots at Meta's Muse, its primary competitor, for…",
    "published": "2026-10-09T21:26:33+00:00",
    "topics": [
+    "Tools"
+   ],
+   "first_seen": "2026-10-11T09:46:44+00:00"
+  },
+  {
+   "id": "9f4f46039e3dc6c1",
+   "title": "AI coding agents generate more code, but not more software",
+   "link": "https://arstechnica.com/ai/2026/10/ai-coding-agents-generate-more-code-but-not-more-software/",
+   "source": "Ars Technica",
+   "kind": "press",
+   "summary": "Study finds coding efficiency gains get \"absorbed\" by human review \"bottleneck.\"",
+   "published": "2026-10-09T19:43:50+00:00",
+   "topics": [
+    "Research",
     "Tools"
    ],
    "first_seen": "2026-10-11T09:46:44+00:00"
