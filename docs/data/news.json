@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-13T22:44:39+00:00",
+ "updated": "2026-10-14T04:53:12+00:00",
  "sources": [
   {
    "name": "OpenAI",
@@ -13,9 +13,9 @@
    "name": "Google DeepMind",
    "url": "https://deepmind.google/blog/rss.xml",
    "kind": "lab",
-   "ok": false,
-   "count": 0,
-   "error": "ParseError: not well-formed (invalid token): line 1, column 0"
+   "ok": true,
+   "count": 40,
+   "error": null
   },
   {
    "name": "Google AI",
@@ -92,6 +92,66 @@
  ],
  "items": [
   {
+   "id": "58e4191fcfe4b88c",
+   "title": "Google DeepMind and Singapore Government announce new AI tool to protect citizens against scams",
+   "link": "https://deepmind.google/blog/on-device-ai-scam-detection-mddi/",
+   "source": "Google DeepMind",
+   "kind": "lab",
+   "summary": "Learn how Google DeepMind and GovTech Singapore uses lightweight on-device Gemma models to intercept conversational scams in private chats with zero cloud data egress.",
+   "published": "2026-10-14T02:00:14+00:00",
+   "topics": [
+    "Models",
+    "Policy"
+   ],
+   "first_seen": "2026-10-14T04:53:12+00:00"
+  },
+  {
+   "id": "a2d00ff109e7d12f",
+   "title": "Science Corporation implants its vision-restoring chip in its first Stargardt disease patient",
+   "link": "https://techcrunch.com/2026/10/13/science-corporation-implants-its-vision-restoring-chip-in-its-first-stargardt-disease-patient/",
+   "source": "TechCrunch",
+   "kind": "press",
+   "summary": "Max Hodak, the former president and co-founder of Neuralink, detailed on stage at TechCrunch Disrupt how his company's work with PRIMA is part of its path toward a novel brain-computer interface (BCI).",
+   "published": "2026-10-13T23:13:31+00:00",
+   "topics": [
+    "Hardware"
+   ],
+   "first_seen": "2026-10-14T04:53:12+00:00"
+  },
+  {
+   "id": "314375845b17a428",
+   "title": "Cerebras CEO says we’re nearing a future where everyone has a personal AI assistant at home",
+   "link": "https://techcrunch.com/2026/10/13/cerebras-ceo-says-were-nearing-a-future-where-everyone-has-a-personal-ai-assistant-at-home/",
+   "source": "TechCrunch",
+   "kind": "press",
+   "summary": "Cerebras CEO Andrew Feldman predicts a future where personal AI assistants become as commonplace as household appliances, running partly on local devices and partly in the cloud.",
+   "published": "2026-10-13T23:05:34+00:00",
+   "topics": [],
+   "first_seen": "2026-10-14T04:53:12+00:00"
+  },
+  {
+   "id": "fd83ae3d1e3e02de",
+   "title": "Redesigning source control at Anthropic",
+   "link": "https://simonwillison.net/2026/Oct/13/redesigning-source-control-at-anthropic/",
+   "source": "Simon Willison",
+   "kind": "community",
+   "summary": "Redesigning source control at Anthropic Interesting piece from Anthropic describing why and how they built their own custom alternative to Git, based on the dramatic increase in rate of changes to their code after the past six months. In May 2026, Anthropic averaged around 2,500…",
+   "published": "2026-10-13T23:00:06+00:00",
+   "topics": [],
+   "first_seen": "2026-10-14T04:53:12+00:00"
+  },
+  {
+   "id": "3e50c67087875e42",
+   "title": "Industrial Next wants factory robots to switch tasks in minutes, not weeks",
+   "link": "https://techcrunch.com/2026/10/13/industrial-next-wants-factory-robots-to-switch-tasks-in-minutes-not-weeks/",
+   "source": "TechCrunch",
+   "kind": "press",
+   "summary": "Industrial Next helps manufacturers automate complex, delicate tasks that have traditionally required human labor.",
+   "published": "2026-10-13T23:00:00+00:00",
+   "topics": [],
+   "first_seen": "2026-10-14T04:53:12+00:00"
+  },
+  {
    "id": "8ffa5222f5cfbfa3",
    "title": "Cerebras CEO pushes back on AI doomsday warnings",
    "link": "https://techcrunch.com/2026/10/13/cerebras-ceo-pushes-back-on-ai-doomsday-warnings/",
@@ -101,6 +161,20 @@
    "published": "2026-10-13T22:36:59+00:00",
    "topics": [],
    "first_seen": "2026-10-13T22:44:39+00:00"
+  },
+  {
+   "id": "781a955ce352281b",
+   "title": "llm-gemini 0.35",
+   "link": "https://simonwillison.net/2026/Oct/13/llm-gemini/",
+   "source": "Simon Willison",
+   "kind": "community",
+   "summary": "Release: llm-gemini 0.35 I added support to llm-gemini for the new Gemini 4 Argon model, made available today via the Gemini API and for customers of their $100/month subscription plan. Here are the low, medium and high pelicans . As expected, they are all excellent: Gemini has…",
+   "published": "2026-10-13T22:28:54+00:00",
+   "topics": [
+    "Models",
+    "Tools"
+   ],
+   "first_seen": "2026-10-14T04:53:12+00:00"
   },
   {
    "id": "e8881f4e9b5e76a5",
@@ -147,6 +221,19 @@
     "Tools"
    ],
    "first_seen": "2026-10-13T22:44:39+00:00"
+  },
+  {
+   "id": "471508c04c304cbd",
+   "title": "Developing Gemini 4 Argon responsibly and safely",
+   "link": "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely/",
+   "source": "Google DeepMind",
+   "kind": "lab",
+   "summary": "",
+   "published": "2026-10-13T19:43:07+00:00",
+   "topics": [
+    "Models"
+   ],
+   "first_seen": "2026-10-14T04:53:12+00:00"
   },
   {
    "id": "ffb4af635c9ec6ee",
@@ -378,7 +465,7 @@
    "link": "https://www.sammystraus.com/#i-posted-to-hn-and-then-my-website-was-flooded-with-ai-bot-traffic",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://www.sammystraus.com/#i-posted-to-hn-and-then-my-website-was-flooded-with-ai-bot-traffic Comments URL: https://news.ycombinator.com/item?id=50073221 Points: 213 # Comments: 136",
+   "summary": "Article URL: https://www.sammystraus.com/#i-posted-to-hn-and-then-my-website-was-flooded-with-ai-bot-traffic Comments URL: https://news.ycombinator.com/item?id=50073221 Points: 291 # Comments: 159",
    "published": "2026-10-13T15:25:50+00:00",
    "topics": [],
    "first_seen": "2026-10-13T22:44:39+00:00"
@@ -400,7 +487,7 @@
    "link": "https://kylekukshtel.com/ai-harness-engineering-game-development-claude-code",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://kylekukshtel.com/ai-harness-engineering-game-development-claude-code Comments URL: https://news.ycombinator.com/item?id=50072120 Points: 109 # Comments: 48",
+   "summary": "Article URL: https://kylekukshtel.com/ai-harness-engineering-game-development-claude-code Comments URL: https://news.ycombinator.com/item?id=50072120 Points: 141 # Comments: 64",
    "published": "2026-10-13T14:14:23+00:00",
    "topics": [
     "Models"
@@ -544,7 +631,7 @@
    "link": "https://www.theverge.com/ai-artificial-intelligence/1009802/character-ai-files-for-bankruptcy-disney",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://www.theverge.com/ai-artificial-intelligence/1009802/character-ai-files-for-bankruptcy-disney Comments URL: https://news.ycombinator.com/item?id=50069942 Points: 144 # Comments: 20",
+   "summary": "Article URL: https://www.theverge.com/ai-artificial-intelligence/1009802/character-ai-files-for-bankruptcy-disney Comments URL: https://news.ycombinator.com/item?id=50069942 Points: 145 # Comments: 22",
    "published": "2026-10-13T11:24:08+00:00",
    "topics": [],
    "first_seen": "2026-10-13T17:36:05+00:00"
@@ -594,7 +681,7 @@
    "link": "https://www.theguardian.com/business/2026/oct/13/ai-share-crash-risk-global-imf-debt-corrowing-cyber-attacks",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://www.theguardian.com/business/2026/oct/13/ai-share-crash-risk-global-imf-debt-corrowing-cyber-attacks Comments URL: https://news.ycombinator.com/item?id=50067356 Points: 108 # Comments: 124",
+   "summary": "Article URL: https://www.theguardian.com/business/2026/oct/13/ai-share-crash-risk-global-imf-debt-corrowing-cyber-attacks Comments URL: https://news.ycombinator.com/item?id=50067356 Points: 111 # Comments: 125",
    "published": "2026-10-13T05:57:32+00:00",
    "topics": [],
    "first_seen": "2026-10-13T17:36:05+00:00"
@@ -605,13 +692,27 @@
    "link": "https://arxiv.org/abs/2610.13928",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://arxiv.org/abs/2610.13928 Comments URL: https://news.ycombinator.com/item?id=50065692 Points: 271 # Comments: 136",
+   "summary": "Article URL: https://arxiv.org/abs/2610.13928 Comments URL: https://news.ycombinator.com/item?id=50065692 Points: 273 # Comments: 137",
    "published": "2026-10-13T02:07:08+00:00",
    "topics": [
     "Models",
     "Research"
    ],
    "first_seen": "2026-10-13T17:36:05+00:00"
+  },
+  {
+   "id": "9512e72db4bde2c6",
+   "title": "web-edit 0.1a1",
+   "link": "https://simonwillison.net/2026/Oct/13/web-edit/",
+   "source": "Simon Willison",
+   "kind": "community",
+   "summary": "Release: web-edit 0.1a1 Includes performance optimizations written by Claude Opus 5.5 after I fed it this Python 3.15 profiling report generated by GPT-6 Astra. Tags: profiling , projects",
+   "published": "2026-10-13T01:40:05+00:00",
+   "topics": [
+    "Models",
+    "Tools"
+   ],
+   "first_seen": "2026-10-14T04:53:12+00:00"
   },
   {
    "id": "ef47cf6a028c4b74",
@@ -633,7 +734,7 @@
    "link": "https://nirajrajgor.com/blog/kindle-photo-frame-with-ai",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://nirajrajgor.com/blog/kindle-photo-frame-with-ai Comments URL: https://news.ycombinator.com/item?id=50064318 Points: 145 # Comments: 102",
+   "summary": "Article URL: https://nirajrajgor.com/blog/kindle-photo-frame-with-ai Comments URL: https://news.ycombinator.com/item?id=50064318 Points: 146 # Comments: 103",
    "published": "2026-10-12T23:07:25+00:00",
    "topics": [
     "Models"
@@ -646,7 +747,7 @@
    "link": "https://yyhh.org/blog/2026/10/ai-is-a-tool/",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://yyhh.org/blog/2026/10/ai-is-a-tool/ Comments URL: https://news.ycombinator.com/item?id=50063427 Points: 637 # Comments: 504",
+   "summary": "Article URL: https://yyhh.org/blog/2026/10/ai-is-a-tool/ Comments URL: https://news.ycombinator.com/item?id=50063427 Points: 656 # Comments: 526",
    "published": "2026-10-12T21:40:18+00:00",
    "topics": [],
    "first_seen": "2026-10-13T17:36:05+00:00"
@@ -657,7 +758,7 @@
    "link": "https://www.intel.com/content/www/us/en/products/details/discrete-gpus/data-center-gpu/d-series.html",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://www.intel.com/content/www/us/en/products/details/discrete-gpus/data-center-gpu/d-series.html Comments URL: https://news.ycombinator.com/item?id=50063365 Points: 301 # Comments: 175",
+   "summary": "Article URL: https://www.intel.com/content/www/us/en/products/details/discrete-gpus/data-center-gpu/d-series.html Comments URL: https://news.ycombinator.com/item?id=50063365 Points: 302 # Comments: 176",
    "published": "2026-10-12T21:35:35+00:00",
    "topics": [
     "Hardware"
@@ -683,7 +784,7 @@
    "link": "https://www.anthropic.com/research/self-replicating-ai",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://www.anthropic.com/research/self-replicating-ai Comments URL: https://news.ycombinator.com/item?id=50061603 Points: 105 # Comments: 108",
+   "summary": "Article URL: https://www.anthropic.com/research/self-replicating-ai Comments URL: https://news.ycombinator.com/item?id=50061603 Points: 107 # Comments: 109",
    "published": "2026-10-12T19:25:29+00:00",
    "topics": [
     "Models",
@@ -724,7 +825,7 @@
    "link": "https://www.linkedin.com/pulse/ai-tool-rich-hickey-kjl8e",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "https://gist.github.com/svieira/619d60dea942a8d4498cba3bb6b1... Comments URL: https://news.ycombinator.com/item?id=50060269 Points: 301 # Comments: 175",
+   "summary": "https://gist.github.com/svieira/619d60dea942a8d4498cba3bb6b1... Comments URL: https://news.ycombinator.com/item?id=50060269 Points: 302 # Comments: 176",
    "published": "2026-10-12T18:00:25+00:00",
    "topics": [],
    "first_seen": "2026-10-13T17:36:05+00:00"
@@ -776,7 +877,7 @@
    "link": "https://arstechnica.com/ai/2026/10/ai-coding-agents-generate-more-code-but-not-more-software/",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://arstechnica.com/ai/2026/10/ai-coding-agents-generate-more-code-but-not-more-software/ Comments URL: https://news.ycombinator.com/item?id=50059523 Points: 358 # Comments: 299",
+   "summary": "Article URL: https://arstechnica.com/ai/2026/10/ai-coding-agents-generate-more-code-but-not-more-software/ Comments URL: https://news.ycombinator.com/item?id=50059523 Points: 361 # Comments: 300",
    "published": "2026-10-12T17:14:01+00:00",
    "topics": [
     "Tools"
@@ -855,7 +956,7 @@
    "link": "https://taylor.town/kk-ai-2026",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://taylor.town/kk-ai-2026 Comments URL: https://news.ycombinator.com/item?id=50057668 Points: 214 # Comments: 85",
+   "summary": "Article URL: https://taylor.town/kk-ai-2026 Comments URL: https://news.ycombinator.com/item?id=50057668 Points: 215 # Comments: 86",
    "published": "2026-10-12T15:16:45+00:00",
    "topics": [],
    "first_seen": "2026-10-13T17:36:05+00:00"
@@ -866,7 +967,7 @@
    "link": "https://mortoray.com/why-arent-ai-companies-being-charged-for-hacking/",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://mortoray.com/why-arent-ai-companies-being-charged-for-hacking/ Comments URL: https://news.ycombinator.com/item?id=50057278 Points: 329 # Comments: 366",
+   "summary": "Article URL: https://mortoray.com/why-arent-ai-companies-being-charged-for-hacking/ Comments URL: https://news.ycombinator.com/item?id=50057278 Points: 329 # Comments: 367",
    "published": "2026-10-12T14:52:37+00:00",
    "topics": [],
    "first_seen": "2026-10-12T19:48:20+00:00"
@@ -928,7 +1029,7 @@
    "link": "https://github.com/qgis/QGIS-Enhancement-Proposals/pull/387",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "https://lists.osgeo.org/pipermail/qgis-developer/2026-Septem... Comments URL: https://news.ycombinator.com/item?id=50054751 Points: 385 # Comments: 407",
+   "summary": "https://lists.osgeo.org/pipermail/qgis-developer/2026-Septem... Comments URL: https://news.ycombinator.com/item?id=50054751 Points: 387 # Comments: 407",
    "published": "2026-10-12T11:22:24+00:00",
    "topics": [],
    "first_seen": "2026-10-12T19:48:20+00:00"
@@ -993,7 +1094,7 @@
    "link": "https://twitter.com/karpathy/status/2109361546505966046",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://twitter.com/karpathy/status/2109361546505966046 Comments URL: https://news.ycombinator.com/item?id=50047422 Points: 715 # Comments: 1044",
+   "summary": "Article URL: https://twitter.com/karpathy/status/2109361546505966046 Comments URL: https://news.ycombinator.com/item?id=50047422 Points: 716 # Comments: 1046",
    "published": "2026-10-11T20:20:52+00:00",
    "topics": [
     "Models"
