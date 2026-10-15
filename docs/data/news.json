@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-15T18:18:17+00:00",
+ "updated": "2026-10-15T23:04:24+00:00",
  "sources": [
   {
    "name": "OpenAI",
@@ -92,6 +92,189 @@
  ],
  "items": [
   {
+   "id": "924ca13842a36839",
+   "title": "ChatGPT can peek at your Chrome tabs now",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/1012510/openai-chatgpt-google-chrome-tabs",
+   "source": "The Verge",
+   "kind": "press",
+   "summary": "OpenAI's ChatGPT Atlas browser is gone, but now ChatGPT's Google Chrome extension is getting some upgrades that allow it to use the browser tabs you already have open. With the extension installed, OpenAI says ChatGPT can now view your browser tabs when you tag Chrome in…",
+   "published": "2026-10-15T22:43:23+00:00",
+   "topics": [],
+   "first_seen": "2026-10-15T23:04:24+00:00"
+  },
+  {
+   "id": "b78fa0f3af3a7b6b",
+   "title": "Sega pulls Total War: Shogun 2 remaster from sale following disastrous launch",
+   "link": "https://www.theverge.com/games/1012512/sega-total-war-shogun-2-remaster-pulled",
+   "source": "The Verge",
+   "kind": "press",
+   "summary": "Sega is removing Total War: Shogun 2 - Complete Edition from storefronts following a disastrous launch where users complained about issues like bugs and upscaling that appears to have been done by AI. Complete Edition, a remaster of the 2011 strategy game, launched on Tuesday…",
+   "published": "2026-10-15T22:35:55+00:00",
+   "topics": [
+    "Tools"
+   ],
+   "first_seen": "2026-10-15T23:04:24+00:00"
+  },
+  {
+   "id": "66efd2f87608334b",
+   "title": "The tech backlash is now in theaters",
+   "link": "https://www.theverge.com/entertainment/1012438/hollywood-tech-backlash-you-can-see-everything-musk-the-social-reckoning-artificial",
+   "source": "The Verge",
+   "kind": "press",
+   "summary": "Though movies about disruptive tech founders are nothing new, 2026 has been unusually stacked with features that take a much more critical look at how Silicon Valley is reshaping our reality. Aaron Sorkin's The Social Reckoning frames Mark Zuckerberg as a robotic villain whose…",
+   "published": "2026-10-15T21:39:52+00:00",
+   "topics": [],
+   "first_seen": "2026-10-15T23:04:24+00:00"
+  },
+  {
+   "id": "54d7a618ecd38be0",
+   "title": "Trump posts AI-edited photo to brag about White House restoration work",
+   "link": "https://www.theverge.com/policy/1012445/donald-trump-ai-photo-white-house-rennovation-column",
+   "source": "The Verge",
+   "kind": "press",
+   "summary": "President Donald Trump posted a series of photos on Truth Social showing off renovations to the White House - but one of them appears to be modified with AI. The picture, which compares an old White House column to a \"restored\" one, has several discrepancies and was flagged by…",
+   "published": "2026-10-15T21:32:54+00:00",
+   "topics": [],
+   "first_seen": "2026-10-15T23:04:24+00:00"
+  },
+  {
+   "id": "a01e02239da0a38e",
+   "title": "Granite Switch 4.1: Chat, Decisions, and Speech from One Endpoint",
+   "link": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1",
+   "source": "Hugging Face",
+   "kind": "lab",
+   "summary": "",
+   "published": "2026-10-15T20:34:01+00:00",
+   "topics": [],
+   "first_seen": "2026-10-15T23:04:24+00:00"
+  },
+  {
+   "id": "21e3505542d990f7",
+   "title": "Meta launches an open-weight AI model that runs on Macs",
+   "link": "https://techcrunch.com/2026/10/15/meta-launches-an-open-weight-model-that-runs-on-macs/",
+   "source": "TechCrunch",
+   "kind": "press",
+   "summary": "Meta and Apple have teamed up for the launch of the social media giant's newest model, Muse Spark Open, which will run locally on Apple silicon.",
+   "published": "2026-10-15T20:04:53+00:00",
+   "topics": [
+    "Models",
+    "Tools"
+   ],
+   "first_seen": "2026-10-15T23:04:24+00:00"
+  },
+  {
+   "id": "2c7772f8550aecf7",
+   "title": "Bluesky’s AI tool now lets you make games and apps to share on social",
+   "link": "https://www.theverge.com/tech/1012374/bluesky-ai-attie-small-social-games-apps",
+   "source": "The Verge",
+   "kind": "press",
+   "summary": "Bluesky's Attie AI tool, which initially launched earlier this year as a way to use AI to build your own feeds, now lets you make \"small\" social apps like games, polls, and dashboards that you can then share with others as their own websites. In an interview at TechCrunch…",
+   "published": "2026-10-15T19:57:16+00:00",
+   "topics": [
+    "Tools"
+   ],
+   "first_seen": "2026-10-15T23:04:24+00:00"
+  },
+  {
+   "id": "69334bf7d5867e77",
+   "title": "Amazon devices chief Panos Panay sees a future where AI devices replace the need to use apps",
+   "link": "https://techcrunch.com/2026/10/15/amazon-devices-chief-panos-panay-sees-a-future-where-ai-devices-replace-the-need-to-use-apps/",
+   "source": "TechCrunch",
+   "kind": "press",
+   "summary": "Speaking at TechCrunch Disrupt, Amazon devices chief Panos Panay described a future where ambient AI devices work in the background, anticipating users' needs instead of waiting for commands.",
+   "published": "2026-10-15T19:55:25+00:00",
+   "topics": [],
+   "first_seen": "2026-10-15T23:04:24+00:00"
+  },
+  {
+   "id": "08c79764230e6e3c",
+   "title": "Chirp Pong",
+   "link": "https://simonwillison.net/2026/Oct/15/chirp-pong/",
+   "source": "Simon Willison",
+   "kind": "community",
+   "summary": "Tool: Chirp Pong Another game experiment - I wanted to see if it was feasible to have a two player game on two separate phones running in static HTML where the networking code uses chirps sent via the microphone. It seems to work! Build a two player competitive pong like game…",
+   "published": "2026-10-15T19:47:52+00:00",
+   "topics": [],
+   "first_seen": "2026-10-15T23:04:24+00:00"
+  },
+  {
+   "id": "1b6257d35772528f",
+   "title": "Friends don’t let friends feed their data to AI agents",
+   "link": "https://www.theverge.com/tech/1011938/muse-ai-data-friends-consent",
+   "source": "The Verge",
+   "kind": "press",
+   "summary": "There's a growing trend in the consumer tech world: gadgets designed to spy on everything and everyone around you, regardless of whether or not anyone else actually consented to it. Now, with the advent of \"AI personal assistants\" like Meta's Muse, you're being cheerfully asked…",
+   "published": "2026-10-15T19:20:49+00:00",
+   "topics": [
+    "Tools"
+   ],
+   "first_seen": "2026-10-15T18:18:17+00:00"
+  },
+  {
+   "id": "031cee9ab4e640cb",
+   "title": "Anthropic is letting METR researchers look under the hood with employee-level access",
+   "link": "https://techcrunch.com/2026/10/15/anthropic-is-letting-metr-researchers-look-under-the-hood-with-employee-level-access/",
+   "source": "TechCrunch",
+   "kind": "press",
+   "summary": "METR will publish its own assessments of Anthropic’s risks, incidents, and practices, and the frontier AI model maker has given up the right to block them.",
+   "published": "2026-10-15T19:14:26+00:00",
+   "topics": [
+    "Models"
+   ],
+   "first_seen": "2026-10-15T23:04:24+00:00"
+  },
+  {
+   "id": "97f8573c584b7784",
+   "title": "How Windows is being optimized for Nvidia’s RTX Spark laptops",
+   "link": "https://www.theverge.com/tech/1011996/microsoft-windows-rtx-spark-platform-changes-notepad",
+   "source": "The Verge",
+   "kind": "press",
+   "summary": "Microsoft and Nvidia held a launch party for the first wave of RTX Spark laptops last week in San Francisco, where a new wave of AI PCs took center stage amid a packed crowd and a lively hands-on area. A day after the media event, I was invited to a quieter Nvidia event to hear…",
+   "published": "2026-10-15T19:09:23+00:00",
+   "topics": [
+    "Tools",
+    "Hardware"
+   ],
+   "first_seen": "2026-10-15T18:18:17+00:00"
+  },
+  {
+   "id": "a72d1e4da6b0e106",
+   "title": "Bringing GPT-Rosalind to academic research labs",
+   "link": "https://openai.com/index/introducing-the-rosalind-academic-plan",
+   "source": "OpenAI",
+   "kind": "lab",
+   "summary": "Introducing the Rosalind Academic Plan, offering eligible academic labs sponsored access to GPT-Rosalind and tools to advance life sciences research.",
+   "published": "2026-10-15T19:00:00+00:00",
+   "topics": [
+    "Research"
+   ],
+   "first_seen": "2026-10-15T23:04:24+00:00"
+  },
+  {
+   "id": "00b9e4087573b03b",
+   "title": "Bluesky expands its AI-powered Attie app to let anyone build websites, games, and more",
+   "link": "https://techcrunch.com/2026/10/15/bluesky-expands-its-ai-powered-attie-app-to-let-anyone-build-websites-games-and-more/",
+   "source": "TechCrunch",
+   "kind": "press",
+   "summary": "Bluesky is bringing “social vibe coding” to its experimental Attie platform, allowing users to create interactive experiences like games, quizzes, and websites that can tap into the social network's audience.",
+   "published": "2026-10-15T18:56:46+00:00",
+   "topics": [
+    "Tools"
+   ],
+   "first_seen": "2026-10-15T23:04:24+00:00"
+  },
+  {
+   "id": "44bfbaba05b5ac80",
+   "title": "Why We're Banning AI",
+   "link": "https://www.currentaffairs.org/news/why-were-banning-ai",
+   "source": "Hacker News",
+   "kind": "community",
+   "summary": "Article URL: https://www.currentaffairs.org/news/why-were-banning-ai Comments URL: https://news.ycombinator.com/item?id=50108131 Points: 215 # Comments: 168",
+   "published": "2026-10-15T18:32:29+00:00",
+   "topics": [],
+   "first_seen": "2026-10-15T23:04:24+00:00"
+  },
+  {
    "id": "c7cea461bd6d67da",
    "title": "Meta and Apple team up to make Muse AI models run better on Macs",
    "link": "https://www.theverge.com/news/1012293/meta-apple-muse-spark-open-ai-model-mlx",
@@ -126,33 +309,6 @@
    "summary": "In hindsight, the post on Instagram should have raised more red flags. The image purported to show actress Mia Goth, just days after filing for divorce from actor and filmmaker Shia LaBeouf, posing in a T-shirt with a pointed message: MY EX IS MY BIGGEST FAN. To really drive…",
    "published": "2026-10-15T17:45:03+00:00",
    "topics": [],
-   "first_seen": "2026-10-15T18:18:17+00:00"
-  },
-  {
-   "id": "97f8573c584b7784",
-   "title": "How Windows is being optimized for Nvidia’s RTX Spark laptops",
-   "link": "https://www.theverge.com/tech/1011996/microsoft-windows-rtx-spark-platform-changes-notepad",
-   "source": "The Verge",
-   "kind": "press",
-   "summary": "Microsoft and Nvidia held a launch party for the first wave of RTX Spark laptops last week in San Francisco, where a new wave of AI PCs took center stage amid a packed crowd and a lively hands-on area. A day after the media event, I was invited to a quieter Nvidia event to hear…",
-   "published": "2026-10-15T17:25:15+00:00",
-   "topics": [
-    "Tools",
-    "Hardware"
-   ],
-   "first_seen": "2026-10-15T18:18:17+00:00"
-  },
-  {
-   "id": "1b6257d35772528f",
-   "title": "Friends don’t let friends feed their data to AI agents",
-   "link": "https://www.theverge.com/tech/1011938/muse-ai-data-friends-consent",
-   "source": "The Verge",
-   "kind": "press",
-   "summary": "There's a growing trend in the consumer tech world: gadgets designed to spy on everything and everyone around you, regardless of whether or not anyone else actually consented to it. Now, with the advent of \"AI personal assistants\" like Meta's Muse, you're being cheerfully asked…",
-   "published": "2026-10-15T16:21:45+00:00",
-   "topics": [
-    "Tools"
-   ],
    "first_seen": "2026-10-15T18:18:17+00:00"
   },
   {
@@ -220,7 +376,7 @@
    "link": "https://www.simonsfoundation.org/news/simons-foundation-launches-15m-effort-to-help-mathematicians-navigate-ai-era/",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://www.simonsfoundation.org/news/simons-foundation-launches-15m-effort-to-help-mathematicians-navigate-ai-era/ Comments URL: https://news.ycombinator.com/item?id=50104654 Points: 168 # Comments: 140",
+   "summary": "Article URL: https://www.simonsfoundation.org/news/simons-foundation-launches-15m-effort-to-help-mathematicians-navigate-ai-era/ Comments URL: https://news.ycombinator.com/item?id=50104654 Points: 214 # Comments: 175",
    "published": "2026-10-15T14:58:48+00:00",
    "topics": [
     "Tools"
@@ -335,7 +491,7 @@
    "link": "https://thetheorygirlie.substack.com/p/ai-was-great-until-it-was-not",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://thetheorygirlie.substack.com/p/ai-was-great-until-it-was-not Comments URL: https://news.ycombinator.com/item?id=50100791 Points: 116 # Comments: 73",
+   "summary": "Article URL: https://thetheorygirlie.substack.com/p/ai-was-great-until-it-was-not Comments URL: https://news.ycombinator.com/item?id=50100791 Points: 116 # Comments: 77",
    "published": "2026-10-15T08:18:38+00:00",
    "topics": [],
    "first_seen": "2026-10-15T18:18:17+00:00"
@@ -509,7 +665,7 @@
    "link": "https://startupfortune.com/banks-are-now-trying-to-offload-the-ai-data-center-debt-they-just-underwrote/",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://startupfortune.com/banks-are-now-trying-to-offload-the-ai-data-center-debt-they-just-underwrote/ Comments URL: https://news.ycombinator.com/item?id=50092664 Points: 377 # Comments: 267",
+   "summary": "Article URL: https://startupfortune.com/banks-are-now-trying-to-offload-the-ai-data-center-debt-they-just-underwrote/ Comments URL: https://news.ycombinator.com/item?id=50092664 Points: 378 # Comments: 272",
    "published": "2026-10-14T18:32:52+00:00",
    "topics": [
     "Business",
@@ -560,7 +716,7 @@
    "link": "https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html Comments URL: https://news.ycombinator.com/item?id=50091788 Points: 933 # Comments: 603",
+   "summary": "Article URL: https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html Comments URL: https://news.ycombinator.com/item?id=50091788 Points: 938 # Comments: 611",
    "published": "2026-10-14T17:45:23+00:00",
    "topics": [
     "Tools"
@@ -595,7 +751,7 @@
    "link": "https://lwn.net/Articles/1100449/",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://lwn.net/Articles/1100449/ Comments URL: https://news.ycombinator.com/item?id=50090842 Points: 118 # Comments: 99",
+   "summary": "Article URL: https://lwn.net/Articles/1100449/ Comments URL: https://news.ycombinator.com/item?id=50090842 Points: 119 # Comments: 102",
    "published": "2026-10-14T16:55:07+00:00",
    "topics": [
     "Models"
@@ -608,7 +764,7 @@
    "link": "https://theconsensus.dev/blog/2026/10/14/has-ai-tells.html?focus=1",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://theconsensus.dev/blog/2026/10/14/has-ai-tells.html?focus=1 Comments URL: https://news.ycombinator.com/item?id=50090799 Points: 132 # Comments: 113",
+   "summary": "Article URL: https://theconsensus.dev/blog/2026/10/14/has-ai-tells.html?focus=1 Comments URL: https://news.ycombinator.com/item?id=50090799 Points: 134 # Comments: 114",
    "published": "2026-10-14T16:52:42+00:00",
    "topics": [],
    "first_seen": "2026-10-15T18:18:17+00:00"
@@ -643,7 +799,7 @@
    "link": "https://arcfu.com/post/the-emperor-pelican-has-no-clothes/",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://arcfu.com/post/the-emperor-pelican-has-no-clothes/ Comments URL: https://news.ycombinator.com/item?id=50090443 Points: 163 # Comments: 142",
+   "summary": "Article URL: https://arcfu.com/post/the-emperor-pelican-has-no-clothes/ Comments URL: https://news.ycombinator.com/item?id=50090443 Points: 163 # Comments: 143",
    "published": "2026-10-14T16:33:34+00:00",
    "topics": [
     "Models"
@@ -884,7 +1040,7 @@
    "link": "https://swedenherald.com/article/tv4-postpones-the-challenge-until-2027-after-technical-failure-erases-edited-footage",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://swedenherald.com/article/tv4-postpones-the-challenge-until-2027-after-technical-failure-erases-edited-footage Comments URL: https://news.ycombinator.com/item?id=50085323 Points: 153 # Comments: 86",
+   "summary": "Article URL: https://swedenherald.com/article/tv4-postpones-the-challenge-until-2027-after-technical-failure-erases-edited-footage Comments URL: https://news.ycombinator.com/item?id=50085323 Points: 154 # Comments: 86",
    "published": "2026-10-14T10:28:26+00:00",
    "topics": [
     "Tools"
@@ -1344,7 +1500,7 @@
    "link": "https://www.sammystraus.com/#i-posted-to-hn-and-then-my-website-was-flooded-with-ai-bot-traffic",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://www.sammystraus.com/#i-posted-to-hn-and-then-my-website-was-flooded-with-ai-bot-traffic Comments URL: https://news.ycombinator.com/item?id=50073221 Points: 345 # Comments: 185",
+   "summary": "Article URL: https://www.sammystraus.com/#i-posted-to-hn-and-then-my-website-was-flooded-with-ai-bot-traffic Comments URL: https://news.ycombinator.com/item?id=50073221 Points: 346 # Comments: 185",
    "published": "2026-10-13T15:25:50+00:00",
    "topics": [],
    "first_seen": "2026-10-13T22:44:39+00:00"
