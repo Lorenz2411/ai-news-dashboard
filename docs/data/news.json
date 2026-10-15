@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-15T00:31:11+00:00",
+ "updated": "2026-10-15T07:26:37+00:00",
  "sources": [
   {
    "name": "OpenAI",
@@ -13,9 +13,9 @@
    "name": "Google DeepMind",
    "url": "https://deepmind.google/blog/rss.xml",
    "kind": "lab",
-   "ok": false,
-   "count": 0,
-   "error": "ParseError: not well-formed (invalid token): line 1, column 0"
+   "ok": true,
+   "count": 40,
+   "error": null
   },
   {
    "name": "Google AI",
@@ -85,12 +85,39 @@
    "name": "Hacker News",
    "url": "https://hnrss.org/newest?q=AI+OR+LLM+OR+GPT+OR+Claude&points=100",
    "kind": "community",
-   "ok": true,
-   "count": 20,
-   "error": null
+   "ok": false,
+   "count": 0,
+   "error": "HTTPError: HTTP Error 502: Bad Gateway"
   }
  ],
  "items": [
+  {
+   "id": "134069d44702de28",
+   "title": "Figma announces new features to define how agents work on its platform",
+   "link": "https://techcrunch.com/2026/10/14/figma-announces-new-features-to-define-how-agents-work-on-its-platform/",
+   "source": "TechCrunch",
+   "kind": "press",
+   "summary": "Figma is also releasing its code layers feature in open beta.",
+   "published": "2026-10-15T04:30:00+00:00",
+   "topics": [
+    "Tools"
+   ],
+   "first_seen": "2026-10-15T07:26:37+00:00"
+  },
+  {
+   "id": "f86858c1d8495e4a",
+   "title": "Ricursive Intelligence is betting on AI-designed chips to help solve the compute crisis",
+   "link": "https://techcrunch.com/2026/10/14/ricursive-intelligence-is-betting-on-ai-designed-chips-to-help-solve-the-compute-crisis/",
+   "source": "TechCrunch",
+   "kind": "press",
+   "summary": "The founders detailed how their startup is developing AI that can design chips, learn from each iteration, and improve subsequent designs, all with the goal of automating and accelerating the chip design process.",
+   "published": "2026-10-15T01:01:32+00:00",
+   "topics": [
+    "Business",
+    "Hardware"
+   ],
+   "first_seen": "2026-10-15T07:26:37+00:00"
+  },
   {
    "id": "2fac9b600466967a",
    "title": "The AI race is back on",
@@ -143,7 +170,7 @@
    "link": "https://simonwillison.net/2026/Oct/14/tree-appreciator/",
    "source": "Simon Willison",
    "kind": "community",
-   "summary": "Tool: Tree Appreciator Another game experiment with Claude. This one used the default Claude iPhone app (chat mode, not Claude Code mode) where I prompted Claude Opus 5.5 Max with: Build a three js game called \"Tree appreciator\" - it shows you two algorithmically generated trees…",
+   "summary": "Tool: Tree Appreciator Another game experiment with Claude. This one used the default Claude iPhone app (chat mode, not Claude Code mode), where I prompted Claude Opus 5.5 Max with: Build a three js game called \"Tree appreciator\" - it shows you two algorithmically generated…",
    "published": "2026-10-14T21:23:01+00:00",
    "topics": [
     "Models",
@@ -1416,19 +1443,6 @@
    "first_seen": "2026-10-12T19:48:20+00:00"
   },
   {
-   "id": "9f4f46039e3dc6c1",
-   "title": "AI coding agents generate more code, but not more software",
-   "link": "https://arstechnica.com/ai/2026/10/ai-coding-agents-generate-more-code-but-not-more-software/",
-   "source": "Hacker News",
-   "kind": "community",
-   "summary": "Article URL: https://arstechnica.com/ai/2026/10/ai-coding-agents-generate-more-code-but-not-more-software/ Comments URL: https://news.ycombinator.com/item?id=50059523 Points: 364 # Comments: 309",
-   "published": "2026-10-12T17:14:01+00:00",
-   "topics": [
-    "Tools"
-   ],
-   "first_seen": "2026-10-11T09:46:44+00:00"
-  },
-  {
    "id": "131f413269cf581f",
    "title": "Profiling web-edit with Python 3.15: flame graphs and source heatmaps",
    "link": "https://simonwillison.net/2026/Oct/12/python-3-15-web-edit-profiling/",
@@ -1974,6 +1988,20 @@
    "summary": "At this year's OpenAI DevDay, CEO Sam Altman unveiled the company's new AI agent Dots - and told the crowd that the company wants to \"set a new standard for privacy in frontier AI.\" OpenAI would spend the day taking veiled shots at Meta's Muse, its primary competitor, for…",
    "published": "2026-10-09T21:26:33+00:00",
    "topics": [
+    "Tools"
+   ],
+   "first_seen": "2026-10-11T09:46:44+00:00"
+  },
+  {
+   "id": "9f4f46039e3dc6c1",
+   "title": "AI coding agents generate more code, but not more software",
+   "link": "https://arstechnica.com/ai/2026/10/ai-coding-agents-generate-more-code-but-not-more-software/",
+   "source": "Ars Technica",
+   "kind": "press",
+   "summary": "Study finds coding efficiency gains get \"absorbed\" by human review \"bottleneck.\"",
+   "published": "2026-10-09T19:43:50+00:00",
+   "topics": [
+    "Research",
     "Tools"
    ],
    "first_seen": "2026-10-11T09:46:44+00:00"
