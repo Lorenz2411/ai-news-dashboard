@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-15T07:26:37+00:00",
+ "updated": "2026-10-15T13:25:57+00:00",
  "sources": [
   {
    "name": "OpenAI",
@@ -92,6 +92,57 @@
  ],
  "items": [
   {
+   "id": "6702d1aaf0afce3a",
+   "title": "Anthropic tells investors quarterly revenue up nearly 50% to $16.8bn ahead of IPO",
+   "link": "https://simonwillison.net/2026/Oct/15/anthropic-tells-investors/",
+   "source": "Simon Willison",
+   "kind": "community",
+   "summary": "Anthropic tells investors quarterly revenue up nearly 50% to $16.8bn ahead of IPO The phrase \"told investors\" appears four times in this FT article, which reports on Anthropic's day of hosting investors on Wednesday. Lots of details in here from \" people with knowledge of the…",
+   "published": "2026-10-15T13:04:03+00:00",
+   "topics": [
+    "Business"
+   ],
+   "first_seen": "2026-10-15T13:25:57+00:00"
+  },
+  {
+   "id": "a3fa54bbd59382e2",
+   "title": "Amazon’s Bee launches two new personal AI devices, starting at $75",
+   "link": "https://techcrunch.com/2026/10/15/amazons-bee-launches-two-new-personal-ai-devices-starting-at-75/",
+   "source": "TechCrunch",
+   "kind": "press",
+   "summary": "Amazon-owned Bee has launched its first new AI devices since its acquisition, including an updated wearable and a credit-card-sized recorder that attaches to smartphones. The devices can summarize conversations, create to-do lists, and integrate with Alexa and Amazon shopping…",
+   "published": "2026-10-15T12:00:00+00:00",
+   "topics": [
+    "Tools"
+   ],
+   "first_seen": "2026-10-15T13:25:57+00:00"
+  },
+  {
+   "id": "adaf79e50c2e54f8",
+   "title": "Google launches its ‘universal’ online shopping cart ahead of the holidays",
+   "link": "https://www.theverge.com/tech/1011797/google-ai-universal-cart-shopping-tool-launch",
+   "source": "The Verge",
+   "kind": "press",
+   "summary": "Google's intelligent AI shopping cart is finally here, and just in time to tempt users into Black Friday and seasonal holiday spending. The Universal Cart tool Google previewed at its I/O event in May is now rolling out in the US across the Gemini app and Google Search, with the…",
+   "published": "2026-10-15T11:23:42+00:00",
+   "topics": [
+    "Models",
+    "Tools"
+   ],
+   "first_seen": "2026-10-15T13:25:57+00:00"
+  },
+  {
+   "id": "faf4d5dfcd6c5d73",
+   "title": "Your secrets aren’t safe with this cute robot toy — they’re on Chinese servers ready to be hacked",
+   "link": "https://www.theverge.com/tech/1010727/eiliko-robot-hack-energize-lab",
+   "source": "The Verge",
+   "kind": "press",
+   "summary": "There's a new digital pet in town - a cute little marshmallow of a robot that can change its cartoony expressions to match your mood. But if you or your kids talk to \"Eiliko\" over Wi-Fi, it'll phone home to China. Its AI companion can store literally everything you tell it on…",
+   "published": "2026-10-15T10:54:19+00:00",
+   "topics": [],
+   "first_seen": "2026-10-15T13:25:57+00:00"
+  },
+  {
    "id": "134069d44702de28",
    "title": "Figma announces new features to define how agents work on its platform",
    "link": "https://techcrunch.com/2026/10/14/figma-announces-new-features-to-define-how-agents-work-on-its-platform/",
@@ -152,6 +203,19 @@
    "published": "2026-10-14T22:53:31+00:00",
    "topics": [],
    "first_seen": "2026-10-15T00:31:11+00:00"
+  },
+  {
+   "id": "b6af0c3578bc7e52",
+   "title": "Amazon’s always-listening Bee wearable can now help you buy stuff",
+   "link": "https://www.theverge.com/tech/1011475/amazon-bee-frontier-eclipse-price-specs",
+   "source": "The Verge",
+   "kind": "press",
+   "summary": "Last year, Amazon bought Bee, a relatively unknown startup with a $50 always-listening AI wearable that summarized every conversation you had. Today, the e-commerce giant is announcing two new Bee devices - and a new subscription to go with them. First is the $74.99 Bee…",
+   "published": "2026-10-14T22:33:52+00:00",
+   "topics": [
+    "Business"
+   ],
+   "first_seen": "2026-10-15T13:25:57+00:00"
   },
   {
    "id": "bd61b92171acdf66",
@@ -4048,17 +4112,6 @@
    "kind": "lab",
    "summary": "",
    "published": "2026-09-15T16:00:00+00:00",
-   "topics": [],
-   "first_seen": "2026-10-11T09:46:44+00:00"
-  },
-  {
-   "id": "00e29a681a6f5e3b",
-   "title": "New insights from Google’s AI & Economy ATLAS",
-   "link": "https://blog.google/innovation-and-ai/technology/ai/ai-economy-atlas-september-2026/",
-   "source": "Google AI",
-   "kind": "lab",
-   "summary": "",
-   "published": "2026-09-15T13:00:00+00:00",
    "topics": [],
    "first_seen": "2026-10-11T09:46:44+00:00"
   }
