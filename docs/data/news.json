@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-14T21:40:53+00:00",
+ "updated": "2026-10-15T00:31:11+00:00",
  "sources": [
   {
    "name": "OpenAI",
@@ -92,6 +92,41 @@
  ],
  "items": [
   {
+   "id": "2fac9b600466967a",
+   "title": "The AI race is back on",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/1011311/the-ai-race-is-back-on",
+   "source": "The Verge",
+   "kind": "press",
+   "summary": "Last week, Anthropic and OpenAI looked like they had the AI race to themselves, pulling ahead with increasingly powerful models that left their rivals in the dust. Google seemed hopelessly far behind, while Meta, despite spending billions to revive its floundering AI ambitions…",
+   "published": "2026-10-15T00:16:12+00:00",
+   "topics": [
+    "Models"
+   ],
+   "first_seen": "2026-10-14T21:40:53+00:00"
+  },
+  {
+   "id": "5abc04e05146a5cd",
+   "title": "Gudea leverages AI to help organizations prevent social media crises before they erupt",
+   "link": "https://techcrunch.com/2026/10/14/gudea-leverages-ai-to-help-organizations-prevent-social-media-crises-before-they-erupt/",
+   "source": "TechCrunch",
+   "kind": "press",
+   "summary": "Every day, conversations unfold across social media and websites around the world. A seemingly insignificant post—whether it involves AI-generated misinformation, hate speech, or a damaging rumor—can quickly snowball into a much larger public controversy. Gudea, a company that…",
+   "published": "2026-10-15T00:00:00+00:00",
+   "topics": [],
+   "first_seen": "2026-10-15T00:31:11+00:00"
+  },
+  {
+   "id": "d1f8876dacf92535",
+   "title": "McKinsey is making job applicants spar with a fake AI client",
+   "link": "https://www.theverge.com/news/1011654/mckinsey-ai-client-interview",
+   "source": "The Verge",
+   "kind": "press",
+   "summary": "Consulting firm McKinsey & Company is going to ask some entry-level candidates to have a 10-minute conversation with an AI simulation of a client as part of the interview process, according to The Wall Street Journal. The AI simulation \"aims to reflect 80% of the scenarios…",
+   "published": "2026-10-14T22:53:31+00:00",
+   "topics": [],
+   "first_seen": "2026-10-15T00:31:11+00:00"
+  },
+  {
    "id": "bd61b92171acdf66",
    "title": "Flock CEO says its microphones detect ‘just gunshots’ — its website says different",
    "link": "https://techcrunch.com/2026/10/14/flock-ceo-says-its-microphones-detect-just-gunshots-its-website-says-different/",
@@ -101,6 +136,20 @@
    "published": "2026-10-14T21:30:33+00:00",
    "topics": [],
    "first_seen": "2026-10-14T21:40:53+00:00"
+  },
+  {
+   "id": "bbc1e25e9e985e45",
+   "title": "Tree Appreciator",
+   "link": "https://simonwillison.net/2026/Oct/14/tree-appreciator/",
+   "source": "Simon Willison",
+   "kind": "community",
+   "summary": "Tool: Tree Appreciator Another game experiment with Claude. This one used the default Claude iPhone app (chat mode, not Claude Code mode) where I prompted Claude Opus 5.5 Max with: Build a three js game called \"Tree appreciator\" - it shows you two algorithmically generated trees…",
+   "published": "2026-10-14T21:23:01+00:00",
+   "topics": [
+    "Models",
+    "Tools"
+   ],
+   "first_seen": "2026-10-15T00:31:11+00:00"
   },
   {
    "id": "88ac6d1c3f06222f",
@@ -129,19 +178,6 @@
    "first_seen": "2026-10-14T21:40:53+00:00"
   },
   {
-   "id": "2fac9b600466967a",
-   "title": "The AI race is back on",
-   "link": "https://www.theverge.com/ai-artificial-intelligence/1011311/the-ai-race-is-back-on",
-   "source": "The Verge",
-   "kind": "press",
-   "summary": "Last week, Anthropic and OpenAI looked like they had the AI race to themselves, pulling ahead with increasingly powerful models that left their rivals in the dust. Google seemed hopelessly far behind, while Meta, despite spending billions to revive its floundering AI ambitions…",
-   "published": "2026-10-14T19:06:03+00:00",
-   "topics": [
-    "Models"
-   ],
-   "first_seen": "2026-10-14T21:40:53+00:00"
-  },
-  {
    "id": "738aed8dcc6e54fb",
    "title": "Now that Character.AI is going bankrupt, what happens to all of its users’ data?",
    "link": "https://www.theverge.com/policy/1011417/new-york-ag-characterai-bankruptcy",
@@ -160,7 +196,7 @@
    "link": "https://startupfortune.com/banks-are-now-trying-to-offload-the-ai-data-center-debt-they-just-underwrote/",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://startupfortune.com/banks-are-now-trying-to-offload-the-ai-data-center-debt-they-just-underwrote/ Comments URL: https://news.ycombinator.com/item?id=50092664 Points: 201 # Comments: 153",
+   "summary": "Article URL: https://startupfortune.com/banks-are-now-trying-to-offload-the-ai-data-center-debt-they-just-underwrote/ Comments URL: https://news.ycombinator.com/item?id=50092664 Points: 257 # Comments: 203",
    "published": "2026-10-14T18:32:52+00:00",
    "topics": [
     "Business",
@@ -211,7 +247,7 @@
    "link": "https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html Comments URL: https://news.ycombinator.com/item?id=50091788 Points: 774 # Comments: 367",
+   "summary": "Article URL: https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html Comments URL: https://news.ycombinator.com/item?id=50091788 Points: 819 # Comments: 442",
    "published": "2026-10-14T17:45:23+00:00",
    "topics": [
     "Tools"
@@ -246,7 +282,7 @@
    "link": "https://lwn.net/Articles/1100449/",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://lwn.net/Articles/1100449/ Comments URL: https://news.ycombinator.com/item?id=50090842 Points: 109 # Comments: 92",
+   "summary": "Article URL: https://lwn.net/Articles/1100449/ Comments URL: https://news.ycombinator.com/item?id=50090842 Points: 113 # Comments: 93",
    "published": "2026-10-14T16:55:07+00:00",
    "topics": [
     "Models"
@@ -283,7 +319,7 @@
    "link": "https://arcfu.com/post/the-emperor-pelican-has-no-clothes/",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://arcfu.com/post/the-emperor-pelican-has-no-clothes/ Comments URL: https://news.ycombinator.com/item?id=50090443 Points: 147 # Comments: 128",
+   "summary": "Article URL: https://arcfu.com/post/the-emperor-pelican-has-no-clothes/ Comments URL: https://news.ycombinator.com/item?id=50090443 Points: 151 # Comments: 131",
    "published": "2026-10-14T16:33:34+00:00",
    "topics": [
     "Models"
@@ -408,7 +444,7 @@
    "link": "https://www.reuters.com/business/asml-forecasts-q4-sales-above-expectations-ai-chip-demand-2026-10-14/",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://www.reuters.com/business/asml-forecasts-q4-sales-above-expectations-ai-chip-demand-2026-10-14/ Comments URL: https://news.ycombinator.com/item?id=50088430 Points: 167 # Comments: 165",
+   "summary": "Article URL: https://www.reuters.com/business/asml-forecasts-q4-sales-above-expectations-ai-chip-demand-2026-10-14/ Comments URL: https://news.ycombinator.com/item?id=50088430 Points: 168 # Comments: 167",
    "published": "2026-10-14T14:38:55+00:00",
    "topics": [
     "Hardware"
@@ -513,7 +549,7 @@
    "link": "https://swedenherald.com/article/tv4-postpones-the-challenge-until-2027-after-technical-failure-erases-edited-footage",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://swedenherald.com/article/tv4-postpones-the-challenge-until-2027-after-technical-failure-erases-edited-footage Comments URL: https://news.ycombinator.com/item?id=50085323 Points: 136 # Comments: 75",
+   "summary": "Article URL: https://swedenherald.com/article/tv4-postpones-the-challenge-until-2027-after-technical-failure-erases-edited-footage Comments URL: https://news.ycombinator.com/item?id=50085323 Points: 139 # Comments: 78",
    "published": "2026-10-14T10:28:26+00:00",
    "topics": [
     "Tools"
@@ -534,6 +570,19 @@
     "Tools"
    ],
    "first_seen": "2026-10-14T17:10:16+00:00"
+  },
+  {
+   "id": "7d10f0ddfecf202c",
+   "title": "How Block is building AI-powered security with OpenAI technology",
+   "link": "https://openai.com/index/block-ai-powered-security",
+   "source": "OpenAI",
+   "kind": "lab",
+   "summary": "Block is building AI-powered security with OpenAI. Its security team investigates threats faster and proposes patches in minutes.",
+   "published": "2026-10-14T07:00:00+00:00",
+   "topics": [
+    "Business"
+   ],
+   "first_seen": "2026-10-15T00:31:11+00:00"
   },
   {
    "id": "58e4191fcfe4b88c",
@@ -960,7 +1009,7 @@
    "link": "https://www.sammystraus.com/#i-posted-to-hn-and-then-my-website-was-flooded-with-ai-bot-traffic",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://www.sammystraus.com/#i-posted-to-hn-and-then-my-website-was-flooded-with-ai-bot-traffic Comments URL: https://news.ycombinator.com/item?id=50073221 Points: 339 # Comments: 183",
+   "summary": "Article URL: https://www.sammystraus.com/#i-posted-to-hn-and-then-my-website-was-flooded-with-ai-bot-traffic Comments URL: https://news.ycombinator.com/item?id=50073221 Points: 341 # Comments: 183",
    "published": "2026-10-13T15:25:50+00:00",
    "topics": [],
    "first_seen": "2026-10-13T22:44:39+00:00"
@@ -982,7 +1031,7 @@
    "link": "https://kylekukshtel.com/ai-harness-engineering-game-development-claude-code",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://kylekukshtel.com/ai-harness-engineering-game-development-claude-code Comments URL: https://news.ycombinator.com/item?id=50072120 Points: 164 # Comments: 85",
+   "summary": "Article URL: https://kylekukshtel.com/ai-harness-engineering-game-development-claude-code Comments URL: https://news.ycombinator.com/item?id=50072120 Points: 165 # Comments: 86",
    "published": "2026-10-13T14:14:23+00:00",
    "topics": [
     "Models"
@@ -1187,7 +1236,7 @@
    "link": "https://arxiv.org/abs/2610.13928",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://arxiv.org/abs/2610.13928 Comments URL: https://news.ycombinator.com/item?id=50065692 Points: 279 # Comments: 139",
+   "summary": "Article URL: https://arxiv.org/abs/2610.13928 Comments URL: https://news.ycombinator.com/item?id=50065692 Points: 279 # Comments: 141",
    "published": "2026-10-13T02:07:08+00:00",
    "topics": [
     "Models",
@@ -1242,7 +1291,7 @@
    "link": "https://yyhh.org/blog/2026/10/ai-is-a-tool/",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://yyhh.org/blog/2026/10/ai-is-a-tool/ Comments URL: https://news.ycombinator.com/item?id=50063427 Points: 755 # Comments: 586",
+   "summary": "Article URL: https://yyhh.org/blog/2026/10/ai-is-a-tool/ Comments URL: https://news.ycombinator.com/item?id=50063427 Points: 757 # Comments: 587",
    "published": "2026-10-12T21:40:18+00:00",
    "topics": [],
    "first_seen": "2026-10-13T17:36:05+00:00"
@@ -1320,7 +1369,7 @@
    "link": "https://www.linkedin.com/pulse/ai-tool-rich-hickey-kjl8e",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "https://gist.github.com/svieira/619d60dea942a8d4498cba3bb6b1... Comments URL: https://news.ycombinator.com/item?id=50060269 Points: 310 # Comments: 188",
+   "summary": "https://gist.github.com/svieira/619d60dea942a8d4498cba3bb6b1... Comments URL: https://news.ycombinator.com/item?id=50060269 Points: 311 # Comments: 189",
    "published": "2026-10-12T18:00:25+00:00",
    "topics": [],
    "first_seen": "2026-10-13T17:36:05+00:00"
