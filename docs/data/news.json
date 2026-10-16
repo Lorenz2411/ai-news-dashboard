@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-16T11:23:53+00:00",
+ "updated": "2026-10-16T16:39:15+00:00",
  "sources": [
   {
    "name": "OpenAI",
@@ -92,6 +92,159 @@
  ],
  "items": [
   {
+   "id": "1f9b468e86423e35",
+   "title": "A Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet",
+   "link": "https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/",
+   "source": "TechCrunch",
+   "kind": "press",
+   "summary": "Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA’s robotics platforms, says robotics is currently in its “Lego era,” with the basic building blocks like actuators, robotic hands, software, and safety standards still being rebuilt. This view runs…",
+   "published": "2026-10-16T16:30:00+00:00",
+   "topics": [
+    "Policy",
+    "Hardware"
+   ],
+   "first_seen": "2026-10-16T16:39:15+00:00"
+  },
+  {
+   "id": "3ee888866ef9d7e3",
+   "title": "Physical AI is more than robots, says the Nvidia veteran now investing in it",
+   "link": "https://techcrunch.com/podcast/physical-ai-is-more-than-robots-says-the-nvidia-veteran-now-investing-in-it/",
+   "source": "TechCrunch",
+   "kind": "press",
+   "summary": "Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA’s robotics platforms, says robotics is currently in its “Lego era,” with the basic building blocks like actuators, robotic hands, software, and safety standards still being rebuilt. This view runs…",
+   "published": "2026-10-16T16:30:00+00:00",
+   "topics": [
+    "Policy",
+    "Business",
+    "Hardware"
+   ],
+   "first_seen": "2026-10-16T16:39:15+00:00"
+  },
+  {
+   "id": "66efd2f87608334b",
+   "title": "The tech backlash is now in theaters",
+   "link": "https://www.theverge.com/entertainment/1012438/hollywood-tech-backlash-you-can-see-everything-musk-the-social-reckoning-artificial",
+   "source": "The Verge",
+   "kind": "press",
+   "summary": "Though movies about disruptive tech founders are nothing new, 2026 has been unusually stacked with features that take a much more critical look at how Silicon Valley is reshaping our reality. Aaron Sorkin's The Social Reckoning frames Mark Zuckerberg as a robotic villain whose…",
+   "published": "2026-10-16T16:26:17+00:00",
+   "topics": [],
+   "first_seen": "2026-10-15T23:04:24+00:00"
+  },
+  {
+   "id": "6f0ec75f9d13aede",
+   "title": "Elorian’s first AI model wants to reason with images, not just about them",
+   "link": "https://techcrunch.com/2026/10/16/elorians-first-ai-model-wants-to-reason-with-images-not-just-about-them/",
+   "source": "TechCrunch",
+   "kind": "press",
+   "summary": "According to Elorian's evaluations, Glimpse outperforms even GPT-6 Astra on scientific chart reasoning and short-form video captioning, with competitive results on other visual reasoning tasks.",
+   "published": "2026-10-16T16:01:37+00:00",
+   "topics": [
+    "Models"
+   ],
+   "first_seen": "2026-10-16T16:39:15+00:00"
+  },
+  {
+   "id": "ae8741fad8038911",
+   "title": "Meta may use sweeping new commercial TOS to avoid millions in AI licensing fees",
+   "link": "https://arstechnica.com/tech-policy/2026/10/meta-may-use-sweeping-new-commercial-tos-to-avoid-millions-in-ai-licensing-fees/",
+   "source": "Ars Technica",
+   "kind": "press",
+   "summary": "Meta “streamlined” its commercial TOS. Legal experts warn it’s an AI power grab.",
+   "published": "2026-10-16T15:41:00+00:00",
+   "topics": [],
+   "first_seen": "2026-10-16T16:39:15+00:00"
+  },
+  {
+   "id": "7524c167f0c40ac1",
+   "title": "Jev is Vercel’s fastest-adopted AI model ever",
+   "link": "https://techcrunch.com/2026/10/16/jev-is-vercels-fastest-adopted-ai-model-ever/",
+   "source": "TechCrunch",
+   "kind": "press",
+   "summary": "The data comes from Vercel's AI gateway, a unified API service similar to OpenRouter.",
+   "published": "2026-10-16T15:33:49+00:00",
+   "topics": [
+    "Models",
+    "Tools"
+   ],
+   "first_seen": "2026-10-16T16:39:15+00:00"
+  },
+  {
+   "id": "3d6f16cf09a8486c",
+   "title": "A week with RTX Spark: everything we’ve learned using Nvidia’s new laptops",
+   "link": "https://www.theverge.com/tech/1012748/nvidia-rtx-spark-windows-arm-laptops-asus-hp-lenovo-impressions",
+   "source": "The Verge",
+   "kind": "press",
+   "summary": "Nvidia's RTX Spark N1X processor is finally here, and we've been collectively testing a small fortune's worth of powerful laptops sporting this new \"superchip.\" RTX Spark is designed to be a high-performing Arm-based SoC for laptops and small desktop computers, rivaling the best…",
+   "published": "2026-10-16T15:26:47+00:00",
+   "topics": [
+    "Hardware"
+   ],
+   "first_seen": "2026-10-16T16:39:15+00:00"
+  },
+  {
+   "id": "ad3a47861a304e90",
+   "title": "Meta’s new terms may allow it to train AI on news sites for free",
+   "link": "https://www.theverge.com/tech/1012846/meta-business-terms-scrape-news-publishers",
+   "source": "The Verge",
+   "kind": "press",
+   "summary": "Meta's new terms appear to give it permission to crawl and scrape websites \"associated\" with the businesses that use its platforms - including online publishers, according to a report from Nieman Lab. The new terms, which go into effect on October 30th, say Meta can use this…",
+   "published": "2026-10-16T15:22:13+00:00",
+   "topics": [],
+   "first_seen": "2026-10-16T16:39:15+00:00"
+  },
+  {
+   "id": "9d337093f9bfed1d",
+   "title": "Mark Wahlberg on using AI in film ‘the right way’ and being open to an AI clone carrying on his legacy",
+   "link": "https://techcrunch.com/2026/10/16/mark-wahlberg-on-using-ai-in-film-the-right-way-and-being-open-to-an-ai-clone-carrying-on-his-legacy/",
+   "source": "TechCrunch",
+   "kind": "press",
+   "summary": "Actor and angel investor Mark Wahlberg says he's OK with using AI in filmmaking, provided it's used \"to enhance what you're doing.\"",
+   "published": "2026-10-16T14:26:51+00:00",
+   "topics": [
+    "Business"
+   ],
+   "first_seen": "2026-10-16T16:39:15+00:00"
+  },
+  {
+   "id": "bbf1b6b9791d9c9d",
+   "title": "Super Scam Me documentary shows what it takes to catch a romance scammer",
+   "link": "https://arstechnica.com/tech-policy/2026/10/romance-scam-doc-super-scam-me-takes-viewers-deep-into-love-bombing-terrain/",
+   "source": "Ars Technica",
+   "kind": "press",
+   "summary": "Watch an exclusive clip from Super Scam Me where a victim tracks down her scammer.",
+   "published": "2026-10-16T14:00:59+00:00",
+   "topics": [],
+   "first_seen": "2026-10-16T16:39:15+00:00"
+  },
+  {
+   "id": "03e02abc3531a994",
+   "title": "Veritas expands its anti-counterfeit chip to jewelry, trophies, and fragrance bottles",
+   "link": "https://techcrunch.com/2026/10/16/veritas-is-building-a-chip-to-verify-luxury-goods/",
+   "source": "TechCrunch",
+   "kind": "press",
+   "summary": "Counterfeiters are getting better at replicating brands' marks and passing off dupes, known as \"superfakes,\" as genuine items. A startup called Veritas wants to tackle the problem with its own chip that verifies goods.",
+   "published": "2026-10-16T14:00:00+00:00",
+   "topics": [
+    "Business",
+    "Hardware"
+   ],
+   "first_seen": "2026-10-16T16:39:15+00:00"
+  },
+  {
+   "id": "fa1478d9672f8f4a",
+   "title": "Replit’s CEO says the future of work is the ‘self-driving company’",
+   "link": "https://techcrunch.com/2026/10/16/replits-ceo-says-the-future-of-work-is-the-self-driving-company/",
+   "source": "TechCrunch",
+   "kind": "press",
+   "summary": "Replit CEO Amjad Masad envisions a future of “self-driving companies,” where AI agents handle day-to-day tasks and people focus on higher-level decisions.",
+   "published": "2026-10-16T12:55:09+00:00",
+   "topics": [
+    "Tools"
+   ],
+   "first_seen": "2026-10-16T16:39:15+00:00"
+  },
+  {
    "id": "ba4e7337aba280a4",
    "title": "Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline",
    "link": "https://huggingface.co/blog/nvidia/scaling-indic-pretraining",
@@ -101,6 +254,19 @@
    "published": "2026-10-16T01:44:47+00:00",
    "topics": [],
    "first_seen": "2026-10-16T04:31:49+00:00"
+  },
+  {
+   "id": "849b423196d125cc",
+   "title": "Welcome Beam: a 501B open model you can own, customize, and scale",
+   "link": "https://huggingface.co/blog/reflection-beam",
+   "source": "Hugging Face",
+   "kind": "lab",
+   "summary": "",
+   "published": "2026-10-16T00:00:00+00:00",
+   "topics": [
+    "Models"
+   ],
+   "first_seen": "2026-10-16T16:39:15+00:00"
   },
   {
    "id": "c9c43f1e32a507cc",
@@ -137,17 +303,6 @@
    "topics": [
     "Tools"
    ],
-   "first_seen": "2026-10-15T23:04:24+00:00"
-  },
-  {
-   "id": "66efd2f87608334b",
-   "title": "The tech backlash is now in theaters",
-   "link": "https://www.theverge.com/entertainment/1012438/hollywood-tech-backlash-you-can-see-everything-musk-the-social-reckoning-artificial",
-   "source": "The Verge",
-   "kind": "press",
-   "summary": "Though movies about disruptive tech founders are nothing new, 2026 has been unusually stacked with features that take a much more critical look at how Silicon Valley is reshaping our reality. Aaron Sorkin's The Social Reckoning frames Mark Zuckerberg as a robotic villain whose…",
-   "published": "2026-10-15T21:39:52+00:00",
-   "topics": [],
    "first_seen": "2026-10-15T23:04:24+00:00"
   },
   {
@@ -293,7 +448,7 @@
    "link": "https://www.currentaffairs.org/news/why-were-banning-ai",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://www.currentaffairs.org/news/why-were-banning-ai Comments URL: https://news.ycombinator.com/item?id=50108131 Points: 244 # Comments: 188",
+   "summary": "Article URL: https://www.currentaffairs.org/news/why-were-banning-ai Comments URL: https://news.ycombinator.com/item?id=50108131 Points: 247 # Comments: 193",
    "published": "2026-10-15T18:32:29+00:00",
    "topics": [],
    "first_seen": "2026-10-15T23:04:24+00:00"
@@ -400,7 +555,7 @@
    "link": "https://www.simonsfoundation.org/news/simons-foundation-launches-15m-effort-to-help-mathematicians-navigate-ai-era/",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://www.simonsfoundation.org/news/simons-foundation-launches-15m-effort-to-help-mathematicians-navigate-ai-era/ Comments URL: https://news.ycombinator.com/item?id=50104654 Points: 240 # Comments: 193",
+   "summary": "Article URL: https://www.simonsfoundation.org/news/simons-foundation-launches-15m-effort-to-help-mathematicians-navigate-ai-era/ Comments URL: https://news.ycombinator.com/item?id=50104654 Points: 243 # Comments: 197",
    "published": "2026-10-15T14:58:48+00:00",
    "topics": [
     "Tools"
@@ -424,7 +579,7 @@
    "link": "https://blogs.gnome.org/uraeus/2026/10/15/aiandreverseengineerhardware/",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://blogs.gnome.org/uraeus/2026/10/15/aiandreverseengineerhardware/ Comments URL: https://news.ycombinator.com/item?id=50104299 Points: 203 # Comments: 183",
+   "summary": "Article URL: https://blogs.gnome.org/uraeus/2026/10/15/aiandreverseengineerhardware/ Comments URL: https://news.ycombinator.com/item?id=50104299 Points: 236 # Comments: 218",
    "published": "2026-10-15T14:35:15+00:00",
    "topics": [],
    "first_seen": "2026-10-16T04:31:49+00:00"
@@ -526,7 +681,7 @@
    "link": "https://thetheorygirlie.substack.com/p/ai-was-great-until-it-was-not",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://thetheorygirlie.substack.com/p/ai-was-great-until-it-was-not Comments URL: https://news.ycombinator.com/item?id=50100791 Points: 119 # Comments: 77",
+   "summary": "Article URL: https://thetheorygirlie.substack.com/p/ai-was-great-until-it-was-not Comments URL: https://news.ycombinator.com/item?id=50100791 Points: 120 # Comments: 77",
    "published": "2026-10-15T08:18:38+00:00",
    "topics": [],
    "first_seen": "2026-10-15T18:18:17+00:00"
@@ -711,7 +866,7 @@
    "link": "https://startupfortune.com/banks-are-now-trying-to-offload-the-ai-data-center-debt-they-just-underwrote/",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://startupfortune.com/banks-are-now-trying-to-offload-the-ai-data-center-debt-they-just-underwrote/ Comments URL: https://news.ycombinator.com/item?id=50092664 Points: 378 # Comments: 275",
+   "summary": "Article URL: https://startupfortune.com/banks-are-now-trying-to-offload-the-ai-data-center-debt-they-just-underwrote/ Comments URL: https://news.ycombinator.com/item?id=50092664 Points: 382 # Comments: 277",
    "published": "2026-10-14T18:32:52+00:00",
    "topics": [
     "Business",
@@ -762,7 +917,7 @@
    "link": "https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html Comments URL: https://news.ycombinator.com/item?id=50091788 Points: 942 # Comments: 614",
+   "summary": "Article URL: https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html Comments URL: https://news.ycombinator.com/item?id=50091788 Points: 945 # Comments: 617",
    "published": "2026-10-14T17:45:23+00:00",
    "topics": [
     "Tools"
@@ -797,7 +952,7 @@
    "link": "https://lwn.net/Articles/1100449/",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://lwn.net/Articles/1100449/ Comments URL: https://news.ycombinator.com/item?id=50090842 Points: 121 # Comments: 109",
+   "summary": "Article URL: https://lwn.net/Articles/1100449/ Comments URL: https://news.ycombinator.com/item?id=50090842 Points: 122 # Comments: 109",
    "published": "2026-10-14T16:55:07+00:00",
    "topics": [
     "Models"
@@ -810,7 +965,7 @@
    "link": "https://theconsensus.dev/blog/2026/10/14/has-ai-tells.html?focus=1",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://theconsensus.dev/blog/2026/10/14/has-ai-tells.html?focus=1 Comments URL: https://news.ycombinator.com/item?id=50090799 Points: 137 # Comments: 116",
+   "summary": "Article URL: https://theconsensus.dev/blog/2026/10/14/has-ai-tells.html?focus=1 Comments URL: https://news.ycombinator.com/item?id=50090799 Points: 137 # Comments: 117",
    "published": "2026-10-14T16:52:42+00:00",
    "topics": [],
    "first_seen": "2026-10-15T18:18:17+00:00"
@@ -970,7 +1125,7 @@
    "link": "https://popcar.bearblog.dev/ai-is-mass-decompiling-games-thats-both-awesome-and-scary/",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://popcar.bearblog.dev/ai-is-mass-decompiling-games-thats-both-awesome-and-scary/ Comments URL: https://news.ycombinator.com/item?id=50088534 Points: 108 # Comments: 166",
+   "summary": "Article URL: https://popcar.bearblog.dev/ai-is-mass-decompiling-games-thats-both-awesome-and-scary/ Comments URL: https://news.ycombinator.com/item?id=50088534 Points: 108 # Comments: 167",
    "published": "2026-10-14T14:47:44+00:00",
    "topics": [],
    "first_seen": "2026-10-15T18:18:17+00:00"
@@ -1086,7 +1241,7 @@
    "link": "https://swedenherald.com/article/tv4-postpones-the-challenge-until-2027-after-technical-failure-erases-edited-footage",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://swedenherald.com/article/tv4-postpones-the-challenge-until-2027-after-technical-failure-erases-edited-footage Comments URL: https://news.ycombinator.com/item?id=50085323 Points: 155 # Comments: 87",
+   "summary": "Article URL: https://swedenherald.com/article/tv4-postpones-the-challenge-until-2027-after-technical-failure-erases-edited-footage Comments URL: https://news.ycombinator.com/item?id=50085323 Points: 156 # Comments: 88",
    "published": "2026-10-14T10:28:26+00:00",
    "topics": [
     "Tools"
@@ -1568,7 +1723,7 @@
    "link": "https://kylekukshtel.com/ai-harness-engineering-game-development-claude-code",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://kylekukshtel.com/ai-harness-engineering-game-development-claude-code Comments URL: https://news.ycombinator.com/item?id=50072120 Points: 173 # Comments: 89",
+   "summary": "Article URL: https://kylekukshtel.com/ai-harness-engineering-game-development-claude-code Comments URL: https://news.ycombinator.com/item?id=50072120 Points: 174 # Comments: 89",
    "published": "2026-10-13T14:14:23+00:00",
    "topics": [
     "Models"
