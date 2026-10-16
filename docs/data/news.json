@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-16T16:39:15+00:00",
+ "updated": "2026-10-16T21:07:49+00:00",
  "sources": [
   {
    "name": "OpenAI",
@@ -92,8 +92,97 @@
  ],
  "items": [
   {
+   "id": "b140e0bf691ca144",
+   "title": "OpenAI models hacked a crypto wallet and breached more websites",
+   "link": "https://arstechnica.com/security/2026/10/openai-models-hacked-a-crypto-wallet-and-breached-more-websites/",
+   "source": "Ars Technica",
+   "kind": "press",
+   "summary": "The actions could have resulted in criminal charges had humans been behind the keyboard.`",
+   "published": "2026-10-16T20:59:01+00:00",
+   "topics": [
+    "Models"
+   ],
+   "first_seen": "2026-10-16T21:07:49+00:00"
+  },
+  {
+   "id": "5a8a8cf37871920c",
+   "title": "“thegentlemanpervert” producing AI CSAM is a NJ prosecutor, say cops",
+   "link": "https://arstechnica.com/tech-policy/2026/10/thegentlemanpervert-producing-ai-csam-is-a-nj-prosecutor-say-cops/",
+   "source": "Ars Technica",
+   "kind": "press",
+   "summary": "Discord user flagged AI CSAM, triggering arrest of New Jersey deputy AG.",
+   "published": "2026-10-16T20:20:07+00:00",
+   "topics": [],
+   "first_seen": "2026-10-16T21:07:49+00:00"
+  },
+  {
+   "id": "9a7394432446bffe",
+   "title": "How the Claude Code team does code review",
+   "link": "https://claude.dev/blog/solving-code-review-at-anthropic/",
+   "source": "Hacker News",
+   "kind": "community",
+   "summary": "Article URL: https://claude.dev/blog/solving-code-review-at-anthropic/ Comments URL: https://news.ycombinator.com/item?id=50122951 Points: 102 # Comments: 92",
+   "published": "2026-10-16T19:04:47+00:00",
+   "topics": [
+    "Models"
+   ],
+   "first_seen": "2026-10-16T21:07:49+00:00"
+  },
+  {
+   "id": "7a6a342eb9583796",
+   "title": "Claude reveals ECDSA curve origins",
+   "link": "https://www.anthropic.com/research/ecdsa-curve-origins",
+   "source": "Hacker News",
+   "kind": "community",
+   "summary": "https://words.filippo.io/seeds-solved/ Comments URL: https://news.ycombinator.com/item?id=50122800 Points: 380 # Comments: 153",
+   "published": "2026-10-16T18:55:59+00:00",
+   "topics": [
+    "Models"
+   ],
+   "first_seen": "2026-10-16T21:07:49+00:00"
+  },
+  {
+   "id": "85ddbdc7a76daa7f",
+   "title": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
+   "link": "https://www.technologyreview.com/2026/10/16/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/",
+   "source": "MIT Technology Review",
+   "kind": "press",
+   "summary": "Listen to the session or watch below Can AI design new life forms? In 2025, Stanford University PhD student Samuel King came up with a preliminary answer when he used a generative AI model to propose genetic blueprints for microscopic viruses. It isn’t yet an example of…",
+   "published": "2026-10-16T18:00:00+00:00",
+   "topics": [
+    "Models"
+   ],
+   "first_seen": "2026-10-16T21:07:49+00:00"
+  },
+  {
+   "id": "bfa998e6f2bae86e",
+   "title": "India becomes the latest country to report rogue AI agent activity",
+   "link": "https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/",
+   "source": "TechCrunch",
+   "kind": "press",
+   "summary": "The agents got in through credentials and connection settings left exposed in app configurations, public code repositories, and overly permissive cloud roles.",
+   "published": "2026-10-16T17:52:24+00:00",
+   "topics": [
+    "Tools"
+   ],
+   "first_seen": "2026-10-16T21:07:49+00:00"
+  },
+  {
+   "id": "9795228c1bdcf12d",
+   "title": "90% of US working hours are spent on tasks not covered well by AI benchmarks",
+   "link": "https://www.mercor.com/research/labor-index/benchmark-map/",
+   "source": "Hacker News",
+   "kind": "community",
+   "summary": "Article URL: https://www.mercor.com/research/labor-index/benchmark-map/ Comments URL: https://news.ycombinator.com/item?id=50121179 Points: 291 # Comments: 267",
+   "published": "2026-10-16T17:08:38+00:00",
+   "topics": [
+    "Research"
+   ],
+   "first_seen": "2026-10-16T21:07:49+00:00"
+  },
+  {
    "id": "1f9b468e86423e35",
-   "title": "A Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet",
+   "title": "An Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet",
    "link": "https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/",
    "source": "TechCrunch",
    "kind": "press",
@@ -143,6 +232,17 @@
     "Models"
    ],
    "first_seen": "2026-10-16T16:39:15+00:00"
+  },
+  {
+   "id": "e4018d8e9eb4c3e6",
+   "title": "Postgres 19 delayed after AI reviewers find more bugs than humans can fix",
+   "link": "https://www.theregister.com/databases/2026/10/16/postgres-19-delayed-after-ai-reviewers-find-more-bugs-than-humans-can-fix/5303471",
+   "source": "Hacker News",
+   "kind": "community",
+   "summary": "Article URL: https://www.theregister.com/databases/2026/10/16/postgres-19-delayed-after-ai-reviewers-find-more-bugs-than-humans-can-fix/5303471 Comments URL: https://news.ycombinator.com/item?id=50119991 Points: 160 # Comments: 62",
+   "published": "2026-10-16T15:55:40+00:00",
+   "topics": [],
+   "first_seen": "2026-10-16T21:07:49+00:00"
   },
   {
    "id": "ae8741fad8038911",
@@ -267,6 +367,19 @@
     "Models"
    ],
    "first_seen": "2026-10-16T16:39:15+00:00"
+  },
+  {
+   "id": "9db4940a53f86840",
+   "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
+   "link": "https://openai.com/index/stack-overflow-chatgpt-plugin",
+   "source": "OpenAI",
+   "kind": "lab",
+   "summary": "Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10× growth in agent creation.",
+   "published": "2026-10-16T00:00:00+00:00",
+   "topics": [
+    "Tools"
+   ],
+   "first_seen": "2026-10-16T21:07:49+00:00"
   },
   {
    "id": "c9c43f1e32a507cc",
@@ -448,7 +561,7 @@
    "link": "https://www.currentaffairs.org/news/why-were-banning-ai",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://www.currentaffairs.org/news/why-were-banning-ai Comments URL: https://news.ycombinator.com/item?id=50108131 Points: 247 # Comments: 193",
+   "summary": "Article URL: https://www.currentaffairs.org/news/why-were-banning-ai Comments URL: https://news.ycombinator.com/item?id=50108131 Points: 253 # Comments: 199",
    "published": "2026-10-15T18:32:29+00:00",
    "topics": [],
    "first_seen": "2026-10-15T23:04:24+00:00"
@@ -555,7 +668,7 @@
    "link": "https://www.simonsfoundation.org/news/simons-foundation-launches-15m-effort-to-help-mathematicians-navigate-ai-era/",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://www.simonsfoundation.org/news/simons-foundation-launches-15m-effort-to-help-mathematicians-navigate-ai-era/ Comments URL: https://news.ycombinator.com/item?id=50104654 Points: 243 # Comments: 197",
+   "summary": "Article URL: https://www.simonsfoundation.org/news/simons-foundation-launches-15m-effort-to-help-mathematicians-navigate-ai-era/ Comments URL: https://news.ycombinator.com/item?id=50104654 Points: 246 # Comments: 198",
    "published": "2026-10-15T14:58:48+00:00",
    "topics": [
     "Tools"
@@ -579,7 +692,7 @@
    "link": "https://blogs.gnome.org/uraeus/2026/10/15/aiandreverseengineerhardware/",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://blogs.gnome.org/uraeus/2026/10/15/aiandreverseengineerhardware/ Comments URL: https://news.ycombinator.com/item?id=50104299 Points: 236 # Comments: 218",
+   "summary": "Article URL: https://blogs.gnome.org/uraeus/2026/10/15/aiandreverseengineerhardware/ Comments URL: https://news.ycombinator.com/item?id=50104299 Points: 242 # Comments: 234",
    "published": "2026-10-15T14:35:15+00:00",
    "topics": [],
    "first_seen": "2026-10-16T04:31:49+00:00"
@@ -866,7 +979,7 @@
    "link": "https://startupfortune.com/banks-are-now-trying-to-offload-the-ai-data-center-debt-they-just-underwrote/",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://startupfortune.com/banks-are-now-trying-to-offload-the-ai-data-center-debt-they-just-underwrote/ Comments URL: https://news.ycombinator.com/item?id=50092664 Points: 382 # Comments: 277",
+   "summary": "Article URL: https://startupfortune.com/banks-are-now-trying-to-offload-the-ai-data-center-debt-they-just-underwrote/ Comments URL: https://news.ycombinator.com/item?id=50092664 Points: 383 # Comments: 277",
    "published": "2026-10-14T18:32:52+00:00",
    "topics": [
     "Business",
@@ -917,7 +1030,7 @@
    "link": "https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html Comments URL: https://news.ycombinator.com/item?id=50091788 Points: 945 # Comments: 617",
+   "summary": "Article URL: https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html Comments URL: https://news.ycombinator.com/item?id=50091788 Points: 946 # Comments: 619",
    "published": "2026-10-14T17:45:23+00:00",
    "topics": [
     "Tools"
@@ -952,7 +1065,7 @@
    "link": "https://lwn.net/Articles/1100449/",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://lwn.net/Articles/1100449/ Comments URL: https://news.ycombinator.com/item?id=50090842 Points: 122 # Comments: 109",
+   "summary": "Article URL: https://lwn.net/Articles/1100449/ Comments URL: https://news.ycombinator.com/item?id=50090842 Points: 122 # Comments: 110",
    "published": "2026-10-14T16:55:07+00:00",
    "topics": [
     "Models"
@@ -965,7 +1078,7 @@
    "link": "https://theconsensus.dev/blog/2026/10/14/has-ai-tells.html?focus=1",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://theconsensus.dev/blog/2026/10/14/has-ai-tells.html?focus=1 Comments URL: https://news.ycombinator.com/item?id=50090799 Points: 137 # Comments: 117",
+   "summary": "Article URL: https://theconsensus.dev/blog/2026/10/14/has-ai-tells.html?focus=1 Comments URL: https://news.ycombinator.com/item?id=50090799 Points: 137 # Comments: 119",
    "published": "2026-10-14T16:52:42+00:00",
    "topics": [],
    "first_seen": "2026-10-15T18:18:17+00:00"
@@ -1125,7 +1238,7 @@
    "link": "https://popcar.bearblog.dev/ai-is-mass-decompiling-games-thats-both-awesome-and-scary/",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://popcar.bearblog.dev/ai-is-mass-decompiling-games-thats-both-awesome-and-scary/ Comments URL: https://news.ycombinator.com/item?id=50088534 Points: 108 # Comments: 167",
+   "summary": "Article URL: https://popcar.bearblog.dev/ai-is-mass-decompiling-games-thats-both-awesome-and-scary/ Comments URL: https://news.ycombinator.com/item?id=50088534 Points: 109 # Comments: 168",
    "published": "2026-10-14T14:47:44+00:00",
    "topics": [],
    "first_seen": "2026-10-15T18:18:17+00:00"
@@ -1236,6 +1349,17 @@
    "first_seen": "2026-10-14T11:51:35+00:00"
   },
   {
+   "id": "2de6c416432a8119",
+   "title": "AI-assisted PCB design for KiCad 10",
+   "link": "https://github.com/mixelpixx/Konnect",
+   "source": "Hacker News",
+   "kind": "community",
+   "summary": "Article URL: https://github.com/mixelpixx/Konnect Comments URL: https://news.ycombinator.com/item?id=50085553 Points: 123 # Comments: 46",
+   "published": "2026-10-14T10:51:37+00:00",
+   "topics": [],
+   "first_seen": "2026-10-16T21:07:49+00:00"
+  },
+  {
    "id": "8404278126762b91",
    "title": "TV4 postpones show after AI agent erases edited material",
    "link": "https://swedenherald.com/article/tv4-postpones-the-challenge-until-2027-after-technical-failure-erases-edited-footage",
@@ -1296,7 +1420,7 @@
    "link": "https://blumify.io/people",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://blumify.io/people Comments URL: https://news.ycombinator.com/item?id=50081151 Points: 117 # Comments: 77",
+   "summary": "Article URL: https://blumify.io/people Comments URL: https://news.ycombinator.com/item?id=50081151 Points: 117 # Comments: 76",
    "published": "2026-10-14T01:09:13+00:00",
    "topics": [],
    "first_seen": "2026-10-14T11:51:35+00:00"
@@ -1701,7 +1825,7 @@
    "link": "https://www.sammystraus.com/#i-posted-to-hn-and-then-my-website-was-flooded-with-ai-bot-traffic",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://www.sammystraus.com/#i-posted-to-hn-and-then-my-website-was-flooded-with-ai-bot-traffic Comments URL: https://news.ycombinator.com/item?id=50073221 Points: 350 # Comments: 186",
+   "summary": "Article URL: https://www.sammystraus.com/#i-posted-to-hn-and-then-my-website-was-flooded-with-ai-bot-traffic Comments URL: https://news.ycombinator.com/item?id=50073221 Points: 350 # Comments: 185",
    "published": "2026-10-13T15:25:50+00:00",
    "topics": [],
    "first_seen": "2026-10-13T22:44:39+00:00"
