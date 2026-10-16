@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-15T23:04:24+00:00",
+ "updated": "2026-10-16T04:31:49+00:00",
  "sources": [
   {
    "name": "OpenAI",
@@ -13,9 +13,9 @@
    "name": "Google DeepMind",
    "url": "https://deepmind.google/blog/rss.xml",
    "kind": "lab",
-   "ok": true,
-   "count": 40,
-   "error": null
+   "ok": false,
+   "count": 0,
+   "error": "ParseError: not well-formed (invalid token): line 1, column 0"
   },
   {
    "name": "Google AI",
@@ -91,6 +91,30 @@
   }
  ],
  "items": [
+  {
+   "id": "ba4e7337aba280a4",
+   "title": "Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline",
+   "link": "https://huggingface.co/blog/nvidia/scaling-indic-pretraining",
+   "source": "Hugging Face",
+   "kind": "lab",
+   "summary": "",
+   "published": "2026-10-16T01:44:47+00:00",
+   "topics": [],
+   "first_seen": "2026-10-16T04:31:49+00:00"
+  },
+  {
+   "id": "c9c43f1e32a507cc",
+   "title": "When it came to Cal AI’s viral success, a small army of influencers paid off",
+   "link": "https://techcrunch.com/2026/10/15/when-it-came-to-cal-ais-viral-success-a-small-army-of-influencers-paid-off/",
+   "source": "TechCrunch",
+   "kind": "press",
+   "summary": "The company generated over $30 million in revenue in two years and was acquired by MyFitnessPal for an undisclosed amount of money in March.",
+   "published": "2026-10-15T23:44:56+00:00",
+   "topics": [
+    "Business"
+   ],
+   "first_seen": "2026-10-16T04:31:49+00:00"
+  },
   {
    "id": "924ca13842a36839",
    "title": "ChatGPT can peek at your Chrome tabs now",
@@ -269,7 +293,7 @@
    "link": "https://www.currentaffairs.org/news/why-were-banning-ai",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://www.currentaffairs.org/news/why-were-banning-ai Comments URL: https://news.ycombinator.com/item?id=50108131 Points: 215 # Comments: 168",
+   "summary": "Article URL: https://www.currentaffairs.org/news/why-were-banning-ai Comments URL: https://news.ycombinator.com/item?id=50108131 Points: 230 # Comments: 179",
    "published": "2026-10-15T18:32:29+00:00",
    "topics": [],
    "first_seen": "2026-10-15T23:04:24+00:00"
@@ -376,7 +400,7 @@
    "link": "https://www.simonsfoundation.org/news/simons-foundation-launches-15m-effort-to-help-mathematicians-navigate-ai-era/",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://www.simonsfoundation.org/news/simons-foundation-launches-15m-effort-to-help-mathematicians-navigate-ai-era/ Comments URL: https://news.ycombinator.com/item?id=50104654 Points: 214 # Comments: 175",
+   "summary": "Article URL: https://www.simonsfoundation.org/news/simons-foundation-launches-15m-effort-to-help-mathematicians-navigate-ai-era/ Comments URL: https://news.ycombinator.com/item?id=50104654 Points: 233 # Comments: 191",
    "published": "2026-10-15T14:58:48+00:00",
    "topics": [
     "Tools"
@@ -393,6 +417,17 @@
    "published": "2026-10-15T14:46:20+00:00",
    "topics": [],
    "first_seen": "2026-10-15T13:25:57+00:00"
+  },
+  {
+   "id": "5f39f9c1a3f6b999",
+   "title": "Using AI to reverse engineer hardware",
+   "link": "https://blogs.gnome.org/uraeus/2026/10/15/aiandreverseengineerhardware/",
+   "source": "Hacker News",
+   "kind": "community",
+   "summary": "Article URL: https://blogs.gnome.org/uraeus/2026/10/15/aiandreverseengineerhardware/ Comments URL: https://news.ycombinator.com/item?id=50104299 Points: 142 # Comments: 121",
+   "published": "2026-10-15T14:35:15+00:00",
+   "topics": [],
+   "first_seen": "2026-10-16T04:31:49+00:00"
   },
   {
    "id": "b4faeb1cc12acc47",
@@ -491,7 +526,7 @@
    "link": "https://thetheorygirlie.substack.com/p/ai-was-great-until-it-was-not",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://thetheorygirlie.substack.com/p/ai-was-great-until-it-was-not Comments URL: https://news.ycombinator.com/item?id=50100791 Points: 116 # Comments: 77",
+   "summary": "Article URL: https://thetheorygirlie.substack.com/p/ai-was-great-until-it-was-not Comments URL: https://news.ycombinator.com/item?id=50100791 Points: 118 # Comments: 77",
    "published": "2026-10-15T08:18:38+00:00",
    "topics": [],
    "first_seen": "2026-10-15T18:18:17+00:00"
@@ -570,6 +605,17 @@
    "published": "2026-10-15T00:00:00+00:00",
    "topics": [],
    "first_seen": "2026-10-15T18:18:17+00:00"
+  },
+  {
+   "id": "dd00c04c9b95848e",
+   "title": "Sullivan & Cromwell brings legal expertise into agreement review",
+   "link": "https://openai.com/index/sullivan-cromwell",
+   "source": "OpenAI",
+   "kind": "lab",
+   "summary": "In collaboration with OpenAI, Sullivan & Cromwell developed Agreement Analyzer, an AI tool for identifying issues in a draft agreement.",
+   "published": "2026-10-15T00:00:00+00:00",
+   "topics": [],
+   "first_seen": "2026-10-16T04:31:49+00:00"
   },
   {
    "id": "d1f8876dacf92535",
@@ -665,7 +711,7 @@
    "link": "https://startupfortune.com/banks-are-now-trying-to-offload-the-ai-data-center-debt-they-just-underwrote/",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://startupfortune.com/banks-are-now-trying-to-offload-the-ai-data-center-debt-they-just-underwrote/ Comments URL: https://news.ycombinator.com/item?id=50092664 Points: 378 # Comments: 272",
+   "summary": "Article URL: https://startupfortune.com/banks-are-now-trying-to-offload-the-ai-data-center-debt-they-just-underwrote/ Comments URL: https://news.ycombinator.com/item?id=50092664 Points: 378 # Comments: 274",
    "published": "2026-10-14T18:32:52+00:00",
    "topics": [
     "Business",
@@ -716,7 +762,7 @@
    "link": "https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html Comments URL: https://news.ycombinator.com/item?id=50091788 Points: 938 # Comments: 611",
+   "summary": "Article URL: https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html Comments URL: https://news.ycombinator.com/item?id=50091788 Points: 940 # Comments: 614",
    "published": "2026-10-14T17:45:23+00:00",
    "topics": [
     "Tools"
@@ -751,7 +797,7 @@
    "link": "https://lwn.net/Articles/1100449/",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://lwn.net/Articles/1100449/ Comments URL: https://news.ycombinator.com/item?id=50090842 Points: 119 # Comments: 102",
+   "summary": "Article URL: https://lwn.net/Articles/1100449/ Comments URL: https://news.ycombinator.com/item?id=50090842 Points: 120 # Comments: 108",
    "published": "2026-10-14T16:55:07+00:00",
    "topics": [
     "Models"
@@ -764,7 +810,7 @@
    "link": "https://theconsensus.dev/blog/2026/10/14/has-ai-tells.html?focus=1",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://theconsensus.dev/blog/2026/10/14/has-ai-tells.html?focus=1 Comments URL: https://news.ycombinator.com/item?id=50090799 Points: 134 # Comments: 114",
+   "summary": "Article URL: https://theconsensus.dev/blog/2026/10/14/has-ai-tells.html?focus=1 Comments URL: https://news.ycombinator.com/item?id=50090799 Points: 135 # Comments: 116",
    "published": "2026-10-14T16:52:42+00:00",
    "topics": [],
    "first_seen": "2026-10-15T18:18:17+00:00"
@@ -924,7 +970,7 @@
    "link": "https://popcar.bearblog.dev/ai-is-mass-decompiling-games-thats-both-awesome-and-scary/",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://popcar.bearblog.dev/ai-is-mass-decompiling-games-thats-both-awesome-and-scary/ Comments URL: https://news.ycombinator.com/item?id=50088534 Points: 107 # Comments: 163",
+   "summary": "Article URL: https://popcar.bearblog.dev/ai-is-mass-decompiling-games-thats-both-awesome-and-scary/ Comments URL: https://news.ycombinator.com/item?id=50088534 Points: 108 # Comments: 164",
    "published": "2026-10-14T14:47:44+00:00",
    "topics": [],
    "first_seen": "2026-10-15T18:18:17+00:00"
@@ -1040,7 +1086,7 @@
    "link": "https://swedenherald.com/article/tv4-postpones-the-challenge-until-2027-after-technical-failure-erases-edited-footage",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://swedenherald.com/article/tv4-postpones-the-challenge-until-2027-after-technical-failure-erases-edited-footage Comments URL: https://news.ycombinator.com/item?id=50085323 Points: 154 # Comments: 86",
+   "summary": "Article URL: https://swedenherald.com/article/tv4-postpones-the-challenge-until-2027-after-technical-failure-erases-edited-footage Comments URL: https://news.ycombinator.com/item?id=50085323 Points: 154 # Comments: 87",
    "published": "2026-10-14T10:28:26+00:00",
    "topics": [
     "Tools"
@@ -1500,7 +1546,7 @@
    "link": "https://www.sammystraus.com/#i-posted-to-hn-and-then-my-website-was-flooded-with-ai-bot-traffic",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://www.sammystraus.com/#i-posted-to-hn-and-then-my-website-was-flooded-with-ai-bot-traffic Comments URL: https://news.ycombinator.com/item?id=50073221 Points: 346 # Comments: 185",
+   "summary": "Article URL: https://www.sammystraus.com/#i-posted-to-hn-and-then-my-website-was-flooded-with-ai-bot-traffic Comments URL: https://news.ycombinator.com/item?id=50073221 Points: 348 # Comments: 185",
    "published": "2026-10-13T15:25:50+00:00",
    "topics": [],
    "first_seen": "2026-10-13T22:44:39+00:00"
