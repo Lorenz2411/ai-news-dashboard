@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-16T21:07:49+00:00",
+ "updated": "2026-10-17T00:28:38+00:00",
  "sources": [
   {
    "name": "OpenAI",
@@ -13,9 +13,9 @@
    "name": "Google DeepMind",
    "url": "https://deepmind.google/blog/rss.xml",
    "kind": "lab",
-   "ok": true,
-   "count": 40,
-   "error": null
+   "ok": false,
+   "count": 0,
+   "error": "ParseError: not well-formed (invalid token): line 1, column 0"
   },
   {
    "name": "Google AI",
@@ -92,12 +92,36 @@
  ],
  "items": [
   {
+   "id": "e946af68fd7dbe0e",
+   "title": "Quoting Addy Osmani, Morgan Westlee Lunt, and Qing Wang",
+   "link": "https://simonwillison.net/2026/Oct/16/code-review/",
+   "source": "Simon Willison",
+   "kind": "community",
+   "summary": "We think \"did a human read the code?\" is an imprecise proxy for \"what could go wrong with this change, and which check—automated or human—is the right one to catch it?\" Asking that question also changed when review happens. Before, review was a gate at the end of the road: write…",
+   "published": "2026-10-16T22:06:37+00:00",
+   "topics": [],
+   "first_seen": "2026-10-17T00:28:38+00:00"
+  },
+  {
+   "id": "d0f11237d1f3614e",
+   "title": "Replit is no longer working with Anthropic, CEO says",
+   "link": "https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/",
+   "source": "TechCrunch",
+   "kind": "press",
+   "summary": "Masad said the decision was made for a number of different reasons, including cost. Replit announced a partnership with OpenAI in August, but there was never any indication that it was no longer with Anthropic.",
+   "published": "2026-10-16T21:22:28+00:00",
+   "topics": [
+    "Business"
+   ],
+   "first_seen": "2026-10-17T00:28:38+00:00"
+  },
+  {
    "id": "b140e0bf691ca144",
    "title": "OpenAI models hacked a crypto wallet and breached more websites",
    "link": "https://arstechnica.com/security/2026/10/openai-models-hacked-a-crypto-wallet-and-breached-more-websites/",
    "source": "Ars Technica",
    "kind": "press",
-   "summary": "The actions could have resulted in criminal charges had humans been behind the keyboard.`",
+   "summary": "The actions could have resulted in criminal charges had humans been behind the keyboard.",
    "published": "2026-10-16T20:59:01+00:00",
    "topics": [
     "Models"
@@ -121,7 +145,7 @@
    "link": "https://claude.dev/blog/solving-code-review-at-anthropic/",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://claude.dev/blog/solving-code-review-at-anthropic/ Comments URL: https://news.ycombinator.com/item?id=50122951 Points: 102 # Comments: 92",
+   "summary": "Article URL: https://claude.dev/blog/solving-code-review-at-anthropic/ Comments URL: https://news.ycombinator.com/item?id=50122951 Points: 208 # Comments: 195",
    "published": "2026-10-16T19:04:47+00:00",
    "topics": [
     "Models"
@@ -129,12 +153,25 @@
    "first_seen": "2026-10-16T21:07:49+00:00"
   },
   {
+   "id": "65442e708214c10b",
+   "title": "How Itaú is building generative AI for its entire customer base",
+   "link": "https://openai.com/index/itau-generative-ai",
+   "source": "OpenAI",
+   "kind": "lab",
+   "summary": "With ia.i, a conversational interface, and the IARA governance platform, Itaú is applying its AI First strategy to customers and employees — in one of Brazil’s most regulated sectors.",
+   "published": "2026-10-16T19:00:00+00:00",
+   "topics": [
+    "Policy"
+   ],
+   "first_seen": "2026-10-17T00:28:38+00:00"
+  },
+  {
    "id": "7a6a342eb9583796",
    "title": "Claude reveals ECDSA curve origins",
    "link": "https://www.anthropic.com/research/ecdsa-curve-origins",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "https://words.filippo.io/seeds-solved/ Comments URL: https://news.ycombinator.com/item?id=50122800 Points: 380 # Comments: 153",
+   "summary": "https://words.filippo.io/seeds-solved/ Comments URL: https://news.ycombinator.com/item?id=50122800 Points: 617 # Comments: 256",
    "published": "2026-10-16T18:55:59+00:00",
    "topics": [
     "Models"
@@ -173,7 +210,7 @@
    "link": "https://www.mercor.com/research/labor-index/benchmark-map/",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://www.mercor.com/research/labor-index/benchmark-map/ Comments URL: https://news.ycombinator.com/item?id=50121179 Points: 291 # Comments: 267",
+   "summary": "Article URL: https://www.mercor.com/research/labor-index/benchmark-map/ Comments URL: https://news.ycombinator.com/item?id=50121179 Points: 378 # Comments: 322",
    "published": "2026-10-16T17:08:38+00:00",
    "topics": [
     "Research"
@@ -239,7 +276,7 @@
    "link": "https://www.theregister.com/databases/2026/10/16/postgres-19-delayed-after-ai-reviewers-find-more-bugs-than-humans-can-fix/5303471",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://www.theregister.com/databases/2026/10/16/postgres-19-delayed-after-ai-reviewers-find-more-bugs-than-humans-can-fix/5303471 Comments URL: https://news.ycombinator.com/item?id=50119991 Points: 160 # Comments: 62",
+   "summary": "Article URL: https://www.theregister.com/databases/2026/10/16/postgres-19-delayed-after-ai-reviewers-find-more-bugs-than-humans-can-fix/5303471 Comments URL: https://news.ycombinator.com/item?id=50119991 Points: 176 # Comments: 65",
    "published": "2026-10-16T15:55:40+00:00",
    "topics": [],
    "first_seen": "2026-10-16T21:07:49+00:00"
@@ -561,7 +598,7 @@
    "link": "https://www.currentaffairs.org/news/why-were-banning-ai",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://www.currentaffairs.org/news/why-were-banning-ai Comments URL: https://news.ycombinator.com/item?id=50108131 Points: 253 # Comments: 199",
+   "summary": "Article URL: https://www.currentaffairs.org/news/why-were-banning-ai Comments URL: https://news.ycombinator.com/item?id=50108131 Points: 254 # Comments: 201",
    "published": "2026-10-15T18:32:29+00:00",
    "topics": [],
    "first_seen": "2026-10-15T23:04:24+00:00"
@@ -668,7 +705,7 @@
    "link": "https://www.simonsfoundation.org/news/simons-foundation-launches-15m-effort-to-help-mathematicians-navigate-ai-era/",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://www.simonsfoundation.org/news/simons-foundation-launches-15m-effort-to-help-mathematicians-navigate-ai-era/ Comments URL: https://news.ycombinator.com/item?id=50104654 Points: 246 # Comments: 198",
+   "summary": "Article URL: https://www.simonsfoundation.org/news/simons-foundation-launches-15m-effort-to-help-mathematicians-navigate-ai-era/ Comments URL: https://news.ycombinator.com/item?id=50104654 Points: 247 # Comments: 198",
    "published": "2026-10-15T14:58:48+00:00",
    "topics": [
     "Tools"
@@ -692,7 +729,7 @@
    "link": "https://blogs.gnome.org/uraeus/2026/10/15/aiandreverseengineerhardware/",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://blogs.gnome.org/uraeus/2026/10/15/aiandreverseengineerhardware/ Comments URL: https://news.ycombinator.com/item?id=50104299 Points: 242 # Comments: 234",
+   "summary": "Article URL: https://blogs.gnome.org/uraeus/2026/10/15/aiandreverseengineerhardware/ Comments URL: https://news.ycombinator.com/item?id=50104299 Points: 243 # Comments: 235",
    "published": "2026-10-15T14:35:15+00:00",
    "topics": [],
    "first_seen": "2026-10-16T04:31:49+00:00"
@@ -811,6 +848,19 @@
     "Tools"
    ],
    "first_seen": "2026-10-15T07:26:37+00:00"
+  },
+  {
+   "id": "e3274600bfe5739a",
+   "title": "LaTeX renderer",
+   "link": "https://simonwillison.net/2026/Oct/15/latex/",
+   "source": "Simon Willison",
+   "kind": "community",
+   "summary": "Tool: LaTeX renderer Inspired by Paul Ford and Aboard Foundary's new web app Tiny Little Office , which provides a suite of web app content editors (a Word Processor, Outliner, Presentation Builder, Spreadsheet, Calculator, Drawing Tool, Diagram Maker, Animator, Calendar, and…",
+   "published": "2026-10-15T02:07:28+00:00",
+   "topics": [
+    "Tools"
+   ],
+   "first_seen": "2026-10-17T00:28:38+00:00"
   },
   {
    "id": "f86858c1d8495e4a",
@@ -1238,7 +1288,7 @@
    "link": "https://popcar.bearblog.dev/ai-is-mass-decompiling-games-thats-both-awesome-and-scary/",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://popcar.bearblog.dev/ai-is-mass-decompiling-games-thats-both-awesome-and-scary/ Comments URL: https://news.ycombinator.com/item?id=50088534 Points: 109 # Comments: 168",
+   "summary": "Article URL: https://popcar.bearblog.dev/ai-is-mass-decompiling-games-thats-both-awesome-and-scary/ Comments URL: https://news.ycombinator.com/item?id=50088534 Points: 109 # Comments: 169",
    "published": "2026-10-14T14:47:44+00:00",
    "topics": [],
    "first_seen": "2026-10-15T18:18:17+00:00"
@@ -1354,7 +1404,7 @@
    "link": "https://github.com/mixelpixx/Konnect",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://github.com/mixelpixx/Konnect Comments URL: https://news.ycombinator.com/item?id=50085553 Points: 123 # Comments: 46",
+   "summary": "Article URL: https://github.com/mixelpixx/Konnect Comments URL: https://news.ycombinator.com/item?id=50085553 Points: 127 # Comments: 47",
    "published": "2026-10-14T10:51:37+00:00",
    "topics": [],
    "first_seen": "2026-10-16T21:07:49+00:00"
