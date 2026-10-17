@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-17T00:28:38+00:00",
+ "updated": "2026-10-17T06:57:21+00:00",
  "sources": [
   {
    "name": "OpenAI",
@@ -13,9 +13,9 @@
    "name": "Google DeepMind",
    "url": "https://deepmind.google/blog/rss.xml",
    "kind": "lab",
-   "ok": false,
-   "count": 0,
-   "error": "ParseError: not well-formed (invalid token): line 1, column 0"
+   "ok": true,
+   "count": 40,
+   "error": null
   },
   {
    "name": "Google AI",
@@ -145,7 +145,7 @@
    "link": "https://claude.dev/blog/solving-code-review-at-anthropic/",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://claude.dev/blog/solving-code-review-at-anthropic/ Comments URL: https://news.ycombinator.com/item?id=50122951 Points: 208 # Comments: 195",
+   "summary": "Article URL: https://claude.dev/blog/solving-code-review-at-anthropic/ Comments URL: https://news.ycombinator.com/item?id=50122951 Points: 312 # Comments: 285",
    "published": "2026-10-16T19:04:47+00:00",
    "topics": [
     "Models"
@@ -171,12 +171,26 @@
    "link": "https://www.anthropic.com/research/ecdsa-curve-origins",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "https://words.filippo.io/seeds-solved/ Comments URL: https://news.ycombinator.com/item?id=50122800 Points: 617 # Comments: 256",
+   "summary": "https://words.filippo.io/seeds-solved/ Comments URL: https://news.ycombinator.com/item?id=50122800 Points: 816 # Comments: 309",
    "published": "2026-10-16T18:55:59+00:00",
    "topics": [
     "Models"
    ],
    "first_seen": "2026-10-16T21:07:49+00:00"
+  },
+  {
+   "id": "04b7640931c7c971",
+   "title": "Designing more efficient quantum circuits with Claude",
+   "link": "https://www.anthropic.com/research/designing-efficient-quantum-circuits",
+   "source": "Hacker News",
+   "kind": "community",
+   "summary": "Article URL: https://www.anthropic.com/research/designing-efficient-quantum-circuits Comments URL: https://news.ycombinator.com/item?id=50121939 Points: 129 # Comments: 28",
+   "published": "2026-10-16T18:00:18+00:00",
+   "topics": [
+    "Models",
+    "Research"
+   ],
+   "first_seen": "2026-10-17T06:57:21+00:00"
   },
   {
    "id": "85ddbdc7a76daa7f",
@@ -210,7 +224,7 @@
    "link": "https://www.mercor.com/research/labor-index/benchmark-map/",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://www.mercor.com/research/labor-index/benchmark-map/ Comments URL: https://news.ycombinator.com/item?id=50121179 Points: 378 # Comments: 322",
+   "summary": "Article URL: https://www.mercor.com/research/labor-index/benchmark-map/ Comments URL: https://news.ycombinator.com/item?id=50121179 Points: 469 # Comments: 403",
    "published": "2026-10-16T17:08:38+00:00",
    "topics": [
     "Research"
@@ -276,7 +290,7 @@
    "link": "https://www.theregister.com/databases/2026/10/16/postgres-19-delayed-after-ai-reviewers-find-more-bugs-than-humans-can-fix/5303471",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://www.theregister.com/databases/2026/10/16/postgres-19-delayed-after-ai-reviewers-find-more-bugs-than-humans-can-fix/5303471 Comments URL: https://news.ycombinator.com/item?id=50119991 Points: 176 # Comments: 65",
+   "summary": "Article URL: https://www.theregister.com/databases/2026/10/16/postgres-19-delayed-after-ai-reviewers-find-more-bugs-than-humans-can-fix/5303471 Comments URL: https://news.ycombinator.com/item?id=50119991 Points: 196 # Comments: 77",
    "published": "2026-10-16T15:55:40+00:00",
    "topics": [],
    "first_seen": "2026-10-16T21:07:49+00:00"
@@ -417,6 +431,19 @@
     "Tools"
    ],
    "first_seen": "2026-10-16T21:07:49+00:00"
+  },
+  {
+   "id": "4a2f3ca18eb9cee6",
+   "title": "Benefit Street Partners answers questions faster with Codex",
+   "link": "https://openai.com/index/benefit-street-partners",
+   "source": "OpenAI",
+   "kind": "lab",
+   "summary": "Anant Kumar builds tools to compare loan valuations and analyze credit agreements, using Codex for code review and faster follow-ups.",
+   "published": "2026-10-16T00:00:00+00:00",
+   "topics": [
+    "Business"
+   ],
+   "first_seen": "2026-10-17T06:57:21+00:00"
   },
   {
    "id": "c9c43f1e32a507cc",
@@ -598,7 +625,7 @@
    "link": "https://www.currentaffairs.org/news/why-were-banning-ai",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://www.currentaffairs.org/news/why-were-banning-ai Comments URL: https://news.ycombinator.com/item?id=50108131 Points: 254 # Comments: 201",
+   "summary": "Article URL: https://www.currentaffairs.org/news/why-were-banning-ai Comments URL: https://news.ycombinator.com/item?id=50108131 Points: 255 # Comments: 201",
    "published": "2026-10-15T18:32:29+00:00",
    "topics": [],
    "first_seen": "2026-10-15T23:04:24+00:00"
@@ -729,7 +756,7 @@
    "link": "https://blogs.gnome.org/uraeus/2026/10/15/aiandreverseengineerhardware/",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://blogs.gnome.org/uraeus/2026/10/15/aiandreverseengineerhardware/ Comments URL: https://news.ycombinator.com/item?id=50104299 Points: 243 # Comments: 235",
+   "summary": "Article URL: https://blogs.gnome.org/uraeus/2026/10/15/aiandreverseengineerhardware/ Comments URL: https://news.ycombinator.com/item?id=50104299 Points: 246 # Comments: 237",
    "published": "2026-10-15T14:35:15+00:00",
    "topics": [],
    "first_seen": "2026-10-16T04:31:49+00:00"
@@ -831,7 +858,7 @@
    "link": "https://thetheorygirlie.substack.com/p/ai-was-great-until-it-was-not",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://thetheorygirlie.substack.com/p/ai-was-great-until-it-was-not Comments URL: https://news.ycombinator.com/item?id=50100791 Points: 120 # Comments: 77",
+   "summary": "Article URL: https://thetheorygirlie.substack.com/p/ai-was-great-until-it-was-not Comments URL: https://news.ycombinator.com/item?id=50100791 Points: 122 # Comments: 77",
    "published": "2026-10-15T08:18:38+00:00",
    "topics": [],
    "first_seen": "2026-10-15T18:18:17+00:00"
@@ -1404,7 +1431,7 @@
    "link": "https://github.com/mixelpixx/Konnect",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://github.com/mixelpixx/Konnect Comments URL: https://news.ycombinator.com/item?id=50085553 Points: 127 # Comments: 47",
+   "summary": "Article URL: https://github.com/mixelpixx/Konnect Comments URL: https://news.ycombinator.com/item?id=50085553 Points: 129 # Comments: 48",
    "published": "2026-10-14T10:51:37+00:00",
    "topics": [],
    "first_seen": "2026-10-16T21:07:49+00:00"
