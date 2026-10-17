@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-17T18:30:40+00:00",
+ "updated": "2026-10-17T22:18:07+00:00",
  "sources": [
   {
    "name": "OpenAI",
@@ -92,12 +92,47 @@
  ],
  "items": [
   {
+   "id": "568162b981af2493",
+   "title": "Meta removes language that raised scraping and AI training concerns",
+   "link": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/",
+   "source": "TechCrunch",
+   "kind": "press",
+   "summary": "A Meta spokesperson insisted that the updated terms did not reflect a change in the way Meta crawls the web.",
+   "published": "2026-10-17T21:31:32+00:00",
+   "topics": [],
+   "first_seen": "2026-10-17T22:18:07+00:00"
+  },
+  {
+   "id": "b769f5e984a396b0",
+   "title": "Anthropic says its workforce has become less junior and is spending more time in meetings",
+   "link": "https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings/",
+   "source": "TechCrunch",
+   "kind": "press",
+   "summary": "The composition of Anthropic’s workforce and the type of work getting done have changed significantly in the past year.",
+   "published": "2026-10-17T20:21:19+00:00",
+   "topics": [],
+   "first_seen": "2026-10-17T22:18:07+00:00"
+  },
+  {
+   "id": "51c1c9a5e48bf763",
+   "title": "Replit makes OpenAI its default over Anthropic, CEO says",
+   "link": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/",
+   "source": "TechCrunch",
+   "kind": "press",
+   "summary": "Over the weekend, Masad clarified that OpenAI would replace Anthropic as its default model provider. Claude will still be available to customers on the platform.",
+   "published": "2026-10-17T18:48:08+00:00",
+   "topics": [
+    "Models"
+   ],
+   "first_seen": "2026-10-17T22:18:07+00:00"
+  },
+  {
    "id": "ca34855deda27f35",
    "title": "Amazon uses AI to monitor union risk in UK warehouses",
    "link": "https://www.opendemocracy.net/amazon-ai-surveillance-monitor-union-activity-uk-warehouses-birmingham-coventry-atlas-sutton-coldfield/",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://www.opendemocracy.net/amazon-ai-surveillance-monitor-union-activity-uk-warehouses-birmingham-coventry-atlas-sutton-coldfield/ Comments URL: https://news.ycombinator.com/item?id=50132278 Points: 102 # Comments: 38",
+   "summary": "Article URL: https://www.opendemocracy.net/amazon-ai-surveillance-monitor-union-activity-uk-warehouses-birmingham-coventry-atlas-sutton-coldfield/ Comments URL: https://news.ycombinator.com/item?id=50132278 Points: 138 # Comments: 54",
    "published": "2026-10-17T16:04:23+00:00",
    "topics": [],
    "first_seen": "2026-10-17T18:30:40+00:00"
@@ -130,7 +165,7 @@
    "link": "https://llmspeed.dev/",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://llmspeed.dev/ Comments URL: https://news.ycombinator.com/item?id=50127979 Points: 207 # Comments: 66",
+   "summary": "Article URL: https://llmspeed.dev/ Comments URL: https://news.ycombinator.com/item?id=50127979 Points: 226 # Comments: 75",
    "published": "2026-10-17T04:36:53+00:00",
    "topics": [
     "Models"
@@ -204,7 +239,7 @@
    "link": "https://claude.dev/blog/solving-code-review-at-anthropic/",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://claude.dev/blog/solving-code-review-at-anthropic/ Comments URL: https://news.ycombinator.com/item?id=50122951 Points: 444 # Comments: 431",
+   "summary": "Article URL: https://claude.dev/blog/solving-code-review-at-anthropic/ Comments URL: https://news.ycombinator.com/item?id=50122951 Points: 454 # Comments: 443",
    "published": "2026-10-16T19:04:47+00:00",
    "topics": [
     "Models"
@@ -230,7 +265,7 @@
    "link": "https://www.anthropic.com/research/ecdsa-curve-origins",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "https://words.filippo.io/seeds-solved/ Comments URL: https://news.ycombinator.com/item?id=50122800 Points: 990 # Comments: 366",
+   "summary": "https://words.filippo.io/seeds-solved/ Comments URL: https://news.ycombinator.com/item?id=50122800 Points: 1014 # Comments: 372",
    "published": "2026-10-16T18:55:59+00:00",
    "topics": [
     "Models"
@@ -243,7 +278,7 @@
    "link": "https://www.anthropic.com/research/designing-efficient-quantum-circuits",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://www.anthropic.com/research/designing-efficient-quantum-circuits Comments URL: https://news.ycombinator.com/item?id=50121939 Points: 165 # Comments: 35",
+   "summary": "Article URL: https://www.anthropic.com/research/designing-efficient-quantum-circuits Comments URL: https://news.ycombinator.com/item?id=50121939 Points: 169 # Comments: 36",
    "published": "2026-10-16T18:00:18+00:00",
    "topics": [
     "Models",
@@ -283,7 +318,7 @@
    "link": "https://www.mercor.com/research/labor-index/benchmark-map/",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://www.mercor.com/research/labor-index/benchmark-map/ Comments URL: https://news.ycombinator.com/item?id=50121179 Points: 574 # Comments: 522",
+   "summary": "Article URL: https://www.mercor.com/research/labor-index/benchmark-map/ Comments URL: https://news.ycombinator.com/item?id=50121179 Points: 591 # Comments: 535",
    "published": "2026-10-16T17:08:38+00:00",
    "topics": [
     "Research"
@@ -349,7 +384,7 @@
    "link": "https://www.theregister.com/databases/2026/10/16/postgres-19-delayed-after-ai-reviewers-find-more-bugs-than-humans-can-fix/5303471",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://www.theregister.com/databases/2026/10/16/postgres-19-delayed-after-ai-reviewers-find-more-bugs-than-humans-can-fix/5303471 Comments URL: https://news.ycombinator.com/item?id=50119991 Points: 204 # Comments: 84",
+   "summary": "Article URL: https://www.theregister.com/databases/2026/10/16/postgres-19-delayed-after-ai-reviewers-find-more-bugs-than-humans-can-fix/5303471 Comments URL: https://news.ycombinator.com/item?id=50119991 Points: 207 # Comments: 85",
    "published": "2026-10-16T15:55:40+00:00",
    "topics": [],
    "first_seen": "2026-10-16T21:07:49+00:00"
@@ -673,7 +708,7 @@
    "link": "https://www.currentaffairs.org/news/why-were-banning-ai",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://www.currentaffairs.org/news/why-were-banning-ai Comments URL: https://news.ycombinator.com/item?id=50108131 Points: 257 # Comments: 202",
+   "summary": "Article URL: https://www.currentaffairs.org/news/why-were-banning-ai Comments URL: https://news.ycombinator.com/item?id=50108131 Points: 258 # Comments: 202",
    "published": "2026-10-15T18:32:29+00:00",
    "topics": [],
    "first_seen": "2026-10-15T23:04:24+00:00"
@@ -804,7 +839,7 @@
    "link": "https://blogs.gnome.org/uraeus/2026/10/15/aiandreverseengineerhardware/",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://blogs.gnome.org/uraeus/2026/10/15/aiandreverseengineerhardware/ Comments URL: https://news.ycombinator.com/item?id=50104299 Points: 250 # Comments: 242",
+   "summary": "Article URL: https://blogs.gnome.org/uraeus/2026/10/15/aiandreverseengineerhardware/ Comments URL: https://news.ycombinator.com/item?id=50104299 Points: 250 # Comments: 245",
    "published": "2026-10-15T14:35:15+00:00",
    "topics": [],
    "first_seen": "2026-10-16T04:31:49+00:00"
@@ -906,7 +941,7 @@
    "link": "https://thetheorygirlie.substack.com/p/ai-was-great-until-it-was-not",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://thetheorygirlie.substack.com/p/ai-was-great-until-it-was-not Comments URL: https://news.ycombinator.com/item?id=50100791 Points: 122 # Comments: 77",
+   "summary": "Article URL: https://thetheorygirlie.substack.com/p/ai-was-great-until-it-was-not Comments URL: https://news.ycombinator.com/item?id=50100791 Points: 123 # Comments: 77",
    "published": "2026-10-15T08:18:38+00:00",
    "topics": [],
    "first_seen": "2026-10-15T18:18:17+00:00"
@@ -1155,7 +1190,7 @@
    "link": "https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html Comments URL: https://news.ycombinator.com/item?id=50091788 Points: 947 # Comments: 620",
+   "summary": "Article URL: https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html Comments URL: https://news.ycombinator.com/item?id=50091788 Points: 948 # Comments: 620",
    "published": "2026-10-14T17:45:23+00:00",
    "topics": [
     "Tools"
@@ -1479,7 +1514,7 @@
    "link": "https://github.com/mixelpixx/Konnect",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://github.com/mixelpixx/Konnect Comments URL: https://news.ycombinator.com/item?id=50085553 Points: 138 # Comments: 51",
+   "summary": "Article URL: https://github.com/mixelpixx/Konnect Comments URL: https://news.ycombinator.com/item?id=50085553 Points: 140 # Comments: 52",
    "published": "2026-10-14T10:51:37+00:00",
    "topics": [],
    "first_seen": "2026-10-16T21:07:49+00:00"
@@ -4905,17 +4940,6 @@
    "kind": "lab",
    "summary": "",
    "published": "2026-09-18T13:00:00+00:00",
-   "topics": [],
-   "first_seen": "2026-10-11T09:46:44+00:00"
-  },
-  {
-   "id": "e7b9d12d1b3a7eb0",
-   "title": "Making global data easier to explore",
-   "link": "https://blog.google/innovation-and-ai/technology/ai/google-un-data-commons-platform/",
-   "source": "Google AI",
-   "kind": "lab",
-   "summary": "",
-   "published": "2026-09-17T20:00:00+00:00",
    "topics": [],
    "first_seen": "2026-10-11T09:46:44+00:00"
   }
