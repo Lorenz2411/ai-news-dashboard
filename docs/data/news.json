@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-18T18:38:28+00:00",
+ "updated": "2026-10-18T22:25:57+00:00",
  "sources": [
   {
    "name": "OpenAI",
@@ -13,9 +13,9 @@
    "name": "Google DeepMind",
    "url": "https://deepmind.google/blog/rss.xml",
    "kind": "lab",
-   "ok": false,
-   "count": 0,
-   "error": "ParseError: not well-formed (invalid token): line 1, column 0"
+   "ok": true,
+   "count": 40,
+   "error": null
   },
   {
    "name": "Google AI",
@@ -92,6 +92,17 @@
  ],
  "items": [
   {
+   "id": "cef1d05c75250eda",
+   "title": "Anthropic says it’s committing 5% of its shares to a ‘public benefit fund’",
+   "link": "https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund/",
+   "source": "TechCrunch",
+   "kind": "press",
+   "summary": "Anthropic said that it will commit 5% of its shares to the fund.",
+   "published": "2026-10-18T20:37:40+00:00",
+   "topics": [],
+   "first_seen": "2026-10-18T22:25:57+00:00"
+  },
+  {
    "id": "de6b0c59a9e6b0d3",
    "title": "A woman was arrested in Philly for blocking a delivery robot",
    "link": "https://www.theverge.com/ai-artificial-intelligence/1013541/a-woman-was-arrested-in-philly-for-blocking-a-delivery-robot",
@@ -108,11 +119,9 @@
    "link": "https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/",
    "source": "TechCrunch",
    "kind": "press",
-   "summary": "After chatbot startup Character.AI filed for bankruptcy earlier this week, many of its employees will have the opportunity to take jobs at Disney. Character.AI’s former CEO Karandeep Anand recently became the entertainment giant’s first CTO, and the startup previously said that…",
+   "summary": "The filing also says that the “vast majority” of Character.AI employees who were offered jobs at Disney accepted them. However, this is a stalking horse bid, so another company could come forward with a higher offer.",
    "published": "2026-10-18T16:30:00+00:00",
-   "topics": [
-    "Business"
-   ],
+   "topics": [],
    "first_seen": "2026-10-18T18:38:28+00:00"
   },
   {
@@ -132,7 +141,7 @@
    "link": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web Comments URL: https://news.ycombinator.com/item?id=50141657 Points: 122 # Comments: 110",
+   "summary": "Article URL: https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web Comments URL: https://news.ycombinator.com/item?id=50141657 Points: 131 # Comments: 123",
    "published": "2026-10-18T14:58:10+00:00",
    "topics": [
     "Tools"
@@ -158,7 +167,7 @@
    "link": "https://sphinx-six-theta.vercel.app/",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "FOSS, Basically it plugs into your existing coding agent workflow and every time you push to prod it'll throw up a questionnaire that checks if you understand how the code you're pushing works. Comments URL: https://news.ycombinator.com/item?id=50137950 Points: 219 # Comments: 74",
+   "summary": "FOSS, Basically it plugs into your existing coding agent workflow and every time you push to prod it'll throw up a questionnaire that checks if you understand how the code you're pushing works. Comments URL: https://news.ycombinator.com/item?id=50137950 Points: 237 # Comments: 79",
    "published": "2026-10-18T04:33:49+00:00",
    "topics": [
     "Tools"
@@ -217,7 +226,7 @@
    "link": "https://www.opendemocracy.net/amazon-ai-surveillance-monitor-union-activity-uk-warehouses-birmingham-coventry-atlas-sutton-coldfield/",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://www.opendemocracy.net/amazon-ai-surveillance-monitor-union-activity-uk-warehouses-birmingham-coventry-atlas-sutton-coldfield/ Comments URL: https://news.ycombinator.com/item?id=50132278 Points: 169 # Comments: 59",
+   "summary": "Article URL: https://www.opendemocracy.net/amazon-ai-surveillance-monitor-union-activity-uk-warehouses-birmingham-coventry-atlas-sutton-coldfield/ Comments URL: https://news.ycombinator.com/item?id=50132278 Points: 170 # Comments: 59",
    "published": "2026-10-17T16:04:23+00:00",
    "topics": [],
    "first_seen": "2026-10-17T18:30:40+00:00"
@@ -263,7 +272,7 @@
    "link": "https://llmspeed.dev/",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://llmspeed.dev/ Comments URL: https://news.ycombinator.com/item?id=50127979 Points: 313 # Comments: 86",
+   "summary": "Article URL: https://llmspeed.dev/ Comments URL: https://news.ycombinator.com/item?id=50127979 Points: 320 # Comments: 86",
    "published": "2026-10-17T04:36:53+00:00",
    "topics": [
     "Models"
@@ -324,7 +333,7 @@
    "link": "https://claude.dev/blog/solving-code-review-at-anthropic/",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://claude.dev/blog/solving-code-review-at-anthropic/ Comments URL: https://news.ycombinator.com/item?id=50122951 Points: 468 # Comments: 467",
+   "summary": "Article URL: https://claude.dev/blog/solving-code-review-at-anthropic/ Comments URL: https://news.ycombinator.com/item?id=50122951 Points: 470 # Comments: 468",
    "published": "2026-10-16T19:04:47+00:00",
    "topics": [
     "Models"
@@ -350,7 +359,7 @@
    "link": "https://www.anthropic.com/research/ecdsa-curve-origins",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "https://words.filippo.io/seeds-solved/ Comments URL: https://news.ycombinator.com/item?id=50122800 Points: 1046 # Comments: 387",
+   "summary": "https://words.filippo.io/seeds-solved/ Comments URL: https://news.ycombinator.com/item?id=50122800 Points: 1048 # Comments: 387",
    "published": "2026-10-16T18:55:59+00:00",
    "topics": [
     "Models"
@@ -403,7 +412,7 @@
    "link": "https://www.mercor.com/research/labor-index/benchmark-map/",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://www.mercor.com/research/labor-index/benchmark-map/ Comments URL: https://news.ycombinator.com/item?id=50121179 Points: 612 # Comments: 562",
+   "summary": "Article URL: https://www.mercor.com/research/labor-index/benchmark-map/ Comments URL: https://news.ycombinator.com/item?id=50121179 Points: 613 # Comments: 567",
    "published": "2026-10-16T17:08:38+00:00",
    "topics": [
     "Research"
@@ -469,7 +478,7 @@
    "link": "https://www.theregister.com/databases/2026/10/16/postgres-19-delayed-after-ai-reviewers-find-more-bugs-than-humans-can-fix/5303471",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://www.theregister.com/databases/2026/10/16/postgres-19-delayed-after-ai-reviewers-find-more-bugs-than-humans-can-fix/5303471 Comments URL: https://news.ycombinator.com/item?id=50119991 Points: 217 # Comments: 92",
+   "summary": "Article URL: https://www.theregister.com/databases/2026/10/16/postgres-19-delayed-after-ai-reviewers-find-more-bugs-than-humans-can-fix/5303471 Comments URL: https://news.ycombinator.com/item?id=50119991 Points: 217 # Comments: 93",
    "published": "2026-10-16T15:55:40+00:00",
    "topics": [],
    "first_seen": "2026-10-16T21:07:49+00:00"
@@ -924,7 +933,7 @@
    "link": "https://blogs.gnome.org/uraeus/2026/10/15/aiandreverseengineerhardware/",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://blogs.gnome.org/uraeus/2026/10/15/aiandreverseengineerhardware/ Comments URL: https://news.ycombinator.com/item?id=50104299 Points: 253 # Comments: 250",
+   "summary": "Article URL: https://blogs.gnome.org/uraeus/2026/10/15/aiandreverseengineerhardware/ Comments URL: https://news.ycombinator.com/item?id=50104299 Points: 253 # Comments: 253",
    "published": "2026-10-15T14:35:15+00:00",
    "topics": [],
    "first_seen": "2026-10-16T04:31:49+00:00"
