@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-18T15:52:08+00:00",
+ "updated": "2026-10-18T18:38:28+00:00",
  "sources": [
   {
    "name": "OpenAI",
@@ -85,12 +85,86 @@
    "name": "Hacker News",
    "url": "https://hnrss.org/newest?q=AI+OR+LLM+OR+GPT+OR+Claude&points=100",
    "kind": "community",
-   "ok": false,
-   "count": 0,
-   "error": "HTTPError: HTTP Error 502: Bad Gateway"
+   "ok": true,
+   "count": 20,
+   "error": null
   }
  ],
  "items": [
+  {
+   "id": "de6b0c59a9e6b0d3",
+   "title": "A woman was arrested in Philly for blocking a delivery robot",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/1013541/a-woman-was-arrested-in-philly-for-blocking-a-delivery-robot",
+   "source": "The Verge",
+   "kind": "press",
+   "summary": "Carolyn Marvin was arrested and charged with disorderly conduct after blocking the path of an Uber delivery robot and refusing to get out of the way. Marvin told Philadelphia's ABC13 \"I know they're taking the jobs of human delivery workers and so, I have been protesting them…",
+   "published": "2026-10-18T18:28:10+00:00",
+   "topics": [],
+   "first_seen": "2026-10-18T18:38:28+00:00"
+  },
+  {
+   "id": "6a083a36de897bf0",
+   "title": "Disney agrees to hire the majority of Character.AI’s workforce",
+   "link": "https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/",
+   "source": "TechCrunch",
+   "kind": "press",
+   "summary": "After chatbot startup Character.AI filed for bankruptcy earlier this week, many of its employees will have the opportunity to take jobs at Disney. Character.AI’s former CEO Karandeep Anand recently became the entertainment giant’s first CTO, and the startup previously said that…",
+   "published": "2026-10-18T16:30:00+00:00",
+   "topics": [
+    "Business"
+   ],
+   "first_seen": "2026-10-18T18:38:28+00:00"
+  },
+  {
+   "id": "c82b8eb2cf968bbd",
+   "title": "Anthropic gives outside AI watchdog “employee-like” access",
+   "link": "https://arstechnica.com/ai/2026/10/anthropic-gives-outside-ai-watchdog-employee-like-access/",
+   "source": "Ars Technica",
+   "kind": "press",
+   "summary": "The outside watchdog can publish its findings without Anthropic's approval.",
+   "published": "2026-10-18T16:25:19+00:00",
+   "topics": [],
+   "first_seen": "2026-10-18T18:38:28+00:00"
+  },
+  {
+   "id": "79619743255e89a1",
+   "title": "Websites are closing their doors to AI agents",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web",
+   "source": "Hacker News",
+   "kind": "community",
+   "summary": "Article URL: https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web Comments URL: https://news.ycombinator.com/item?id=50141657 Points: 122 # Comments: 110",
+   "published": "2026-10-18T14:58:10+00:00",
+   "topics": [
+    "Tools"
+   ],
+   "first_seen": "2026-10-17T15:34:23+00:00"
+  },
+  {
+   "id": "a257dddc2d05fd3f",
+   "title": "Anthropic's proposed AI safety bill only kicks in if 50 deaths or $1B in damages",
+   "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-proposed-ai-safety-bill-only-kicks-in-if-50-deaths-or-usd1-billion-in-damages-are-on-the-line-proposal-would-effectively-make-the-commerce-department-the-only-agency-capable-of-stopping-an-ai-model",
+   "source": "Hacker News",
+   "kind": "community",
+   "summary": "Article URL…",
+   "published": "2026-10-18T14:30:27+00:00",
+   "topics": [
+    "Policy"
+   ],
+   "first_seen": "2026-10-18T18:38:28+00:00"
+  },
+  {
+   "id": "d3c35db34ec3acb3",
+   "title": "Show HN: Sphinx – A hook that quizzes you on your AI's code before shipping",
+   "link": "https://sphinx-six-theta.vercel.app/",
+   "source": "Hacker News",
+   "kind": "community",
+   "summary": "FOSS, Basically it plugs into your existing coding agent workflow and every time you push to prod it'll throw up a questionnaire that checks if you understand how the code you're pushing works. Comments URL: https://news.ycombinator.com/item?id=50137950 Points: 219 # Comments: 74",
+   "published": "2026-10-18T04:33:49+00:00",
+   "topics": [
+    "Tools"
+   ],
+   "first_seen": "2026-10-18T18:38:28+00:00"
+  },
   {
    "id": "568162b981af2493",
    "title": "Meta removes language that raised scraping and AI training concerns",
@@ -143,7 +217,7 @@
    "link": "https://www.opendemocracy.net/amazon-ai-surveillance-monitor-union-activity-uk-warehouses-birmingham-coventry-atlas-sutton-coldfield/",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://www.opendemocracy.net/amazon-ai-surveillance-monitor-union-activity-uk-warehouses-birmingham-coventry-atlas-sutton-coldfield/ Comments URL: https://news.ycombinator.com/item?id=50132278 Points: 155 # Comments: 58",
+   "summary": "Article URL: https://www.opendemocracy.net/amazon-ai-surveillance-monitor-union-activity-uk-warehouses-birmingham-coventry-atlas-sutton-coldfield/ Comments URL: https://news.ycombinator.com/item?id=50132278 Points: 169 # Comments: 59",
    "published": "2026-10-17T16:04:23+00:00",
    "topics": [],
    "first_seen": "2026-10-17T18:30:40+00:00"
@@ -189,25 +263,12 @@
    "link": "https://llmspeed.dev/",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://llmspeed.dev/ Comments URL: https://news.ycombinator.com/item?id=50127979 Points: 267 # Comments: 77",
+   "summary": "Article URL: https://llmspeed.dev/ Comments URL: https://news.ycombinator.com/item?id=50127979 Points: 313 # Comments: 86",
    "published": "2026-10-17T04:36:53+00:00",
    "topics": [
     "Models"
    ],
    "first_seen": "2026-10-17T12:11:23+00:00"
-  },
-  {
-   "id": "79619743255e89a1",
-   "title": "Websites are closing their doors to AI agents",
-   "link": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web",
-   "source": "The Verge",
-   "kind": "press",
-   "summary": "Autonomous agents are the hottest thing in AI. OpenAI, Meta, Google, Instinct, and others promise their agents can scour the internet on your behalf, doing anything from booking a dinner reservation and cleaning out your inbox to buying new shoes. But what happens when the rest…",
-   "published": "2026-10-16T22:31:39+00:00",
-   "topics": [
-    "Tools"
-   ],
-   "first_seen": "2026-10-17T15:34:23+00:00"
   },
   {
    "id": "e946af68fd7dbe0e",
@@ -263,7 +324,7 @@
    "link": "https://claude.dev/blog/solving-code-review-at-anthropic/",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://claude.dev/blog/solving-code-review-at-anthropic/ Comments URL: https://news.ycombinator.com/item?id=50122951 Points: 456 # Comments: 460",
+   "summary": "Article URL: https://claude.dev/blog/solving-code-review-at-anthropic/ Comments URL: https://news.ycombinator.com/item?id=50122951 Points: 468 # Comments: 467",
    "published": "2026-10-16T19:04:47+00:00",
    "topics": [
     "Models"
@@ -289,7 +350,7 @@
    "link": "https://www.anthropic.com/research/ecdsa-curve-origins",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "https://words.filippo.io/seeds-solved/ Comments URL: https://news.ycombinator.com/item?id=50122800 Points: 1027 # Comments: 379",
+   "summary": "https://words.filippo.io/seeds-solved/ Comments URL: https://news.ycombinator.com/item?id=50122800 Points: 1046 # Comments: 387",
    "published": "2026-10-16T18:55:59+00:00",
    "topics": [
     "Models"
@@ -302,7 +363,7 @@
    "link": "https://www.anthropic.com/research/designing-efficient-quantum-circuits",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://www.anthropic.com/research/designing-efficient-quantum-circuits Comments URL: https://news.ycombinator.com/item?id=50121939 Points: 172 # Comments: 36",
+   "summary": "Article URL: https://www.anthropic.com/research/designing-efficient-quantum-circuits Comments URL: https://news.ycombinator.com/item?id=50121939 Points: 172 # Comments: 37",
    "published": "2026-10-16T18:00:18+00:00",
    "topics": [
     "Models",
@@ -342,7 +403,7 @@
    "link": "https://www.mercor.com/research/labor-index/benchmark-map/",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://www.mercor.com/research/labor-index/benchmark-map/ Comments URL: https://news.ycombinator.com/item?id=50121179 Points: 599 # Comments: 549",
+   "summary": "Article URL: https://www.mercor.com/research/labor-index/benchmark-map/ Comments URL: https://news.ycombinator.com/item?id=50121179 Points: 612 # Comments: 562",
    "published": "2026-10-16T17:08:38+00:00",
    "topics": [
     "Research"
@@ -408,7 +469,7 @@
    "link": "https://www.theregister.com/databases/2026/10/16/postgres-19-delayed-after-ai-reviewers-find-more-bugs-than-humans-can-fix/5303471",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://www.theregister.com/databases/2026/10/16/postgres-19-delayed-after-ai-reviewers-find-more-bugs-than-humans-can-fix/5303471 Comments URL: https://news.ycombinator.com/item?id=50119991 Points: 212 # Comments: 86",
+   "summary": "Article URL: https://www.theregister.com/databases/2026/10/16/postgres-19-delayed-after-ai-reviewers-find-more-bugs-than-humans-can-fix/5303471 Comments URL: https://news.ycombinator.com/item?id=50119991 Points: 217 # Comments: 92",
    "published": "2026-10-16T15:55:40+00:00",
    "topics": [],
    "first_seen": "2026-10-16T21:07:49+00:00"
@@ -732,7 +793,7 @@
    "link": "https://www.currentaffairs.org/news/why-were-banning-ai",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://www.currentaffairs.org/news/why-were-banning-ai Comments URL: https://news.ycombinator.com/item?id=50108131 Points: 260 # Comments: 202",
+   "summary": "Article URL: https://www.currentaffairs.org/news/why-were-banning-ai Comments URL: https://news.ycombinator.com/item?id=50108131 Points: 261 # Comments: 203",
    "published": "2026-10-15T18:32:29+00:00",
    "topics": [],
    "first_seen": "2026-10-15T23:04:24+00:00"
@@ -863,7 +924,7 @@
    "link": "https://blogs.gnome.org/uraeus/2026/10/15/aiandreverseengineerhardware/",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://blogs.gnome.org/uraeus/2026/10/15/aiandreverseengineerhardware/ Comments URL: https://news.ycombinator.com/item?id=50104299 Points: 253 # Comments: 248",
+   "summary": "Article URL: https://blogs.gnome.org/uraeus/2026/10/15/aiandreverseengineerhardware/ Comments URL: https://news.ycombinator.com/item?id=50104299 Points: 253 # Comments: 250",
    "published": "2026-10-15T14:35:15+00:00",
    "topics": [],
    "first_seen": "2026-10-16T04:31:49+00:00"
@@ -965,7 +1026,7 @@
    "link": "https://thetheorygirlie.substack.com/p/ai-was-great-until-it-was-not",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://thetheorygirlie.substack.com/p/ai-was-great-until-it-was-not Comments URL: https://news.ycombinator.com/item?id=50100791 Points: 123 # Comments: 77",
+   "summary": "Article URL: https://thetheorygirlie.substack.com/p/ai-was-great-until-it-was-not Comments URL: https://news.ycombinator.com/item?id=50100791 Points: 124 # Comments: 77",
    "published": "2026-10-15T08:18:38+00:00",
    "topics": [],
    "first_seen": "2026-10-15T18:18:17+00:00"
@@ -1163,7 +1224,7 @@
    "link": "https://startupfortune.com/banks-are-now-trying-to-offload-the-ai-data-center-debt-they-just-underwrote/",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://startupfortune.com/banks-are-now-trying-to-offload-the-ai-data-center-debt-they-just-underwrote/ Comments URL: https://news.ycombinator.com/item?id=50092664 Points: 384 # Comments: 277",
+   "summary": "Article URL: https://startupfortune.com/banks-are-now-trying-to-offload-the-ai-data-center-debt-they-just-underwrote/ Comments URL: https://news.ycombinator.com/item?id=50092664 Points: 385 # Comments: 277",
    "published": "2026-10-14T18:32:52+00:00",
    "topics": [
     "Business",
