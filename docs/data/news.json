@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-17T22:18:07+00:00",
+ "updated": "2026-10-18T04:33:08+00:00",
  "sources": [
   {
    "name": "OpenAI",
@@ -103,6 +103,17 @@
    "first_seen": "2026-10-17T22:18:07+00:00"
   },
   {
+   "id": "69ead926e6899b5e",
+   "title": "Inline rendering with document​.currentScript",
+   "link": "https://simonwillison.net/2026/Oct/17/document-currentscript/",
+   "source": "Simon Willison",
+   "kind": "community",
+   "summary": "Inline rendering with document​.currentScript Lean Rada describes a neat trick that takes advantage of the document.currentScript property. You can use that to drop in a tiny inline <script> element that replaces itself when the page loads: The year is <script>…",
+   "published": "2026-10-17T21:11:12+00:00",
+   "topics": [],
+   "first_seen": "2026-10-18T04:33:08+00:00"
+  },
+  {
    "id": "b769f5e984a396b0",
    "title": "Anthropic says its workforce has become less junior and is spending more time in meetings",
    "link": "https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings/",
@@ -132,7 +143,7 @@
    "link": "https://www.opendemocracy.net/amazon-ai-surveillance-monitor-union-activity-uk-warehouses-birmingham-coventry-atlas-sutton-coldfield/",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://www.opendemocracy.net/amazon-ai-surveillance-monitor-union-activity-uk-warehouses-birmingham-coventry-atlas-sutton-coldfield/ Comments URL: https://news.ycombinator.com/item?id=50132278 Points: 138 # Comments: 54",
+   "summary": "Article URL: https://www.opendemocracy.net/amazon-ai-surveillance-monitor-union-activity-uk-warehouses-birmingham-coventry-atlas-sutton-coldfield/ Comments URL: https://news.ycombinator.com/item?id=50132278 Points: 155 # Comments: 58",
    "published": "2026-10-17T16:04:23+00:00",
    "topics": [],
    "first_seen": "2026-10-17T18:30:40+00:00"
@@ -160,12 +171,25 @@
    "first_seen": "2026-10-17T15:34:23+00:00"
   },
   {
+   "id": "d6c06ffc09a8bd33",
+   "title": "web-edit 0.1a2",
+   "link": "https://simonwillison.net/2026/Oct/17/web-edit/",
+   "source": "Simon Willison",
+   "kind": "community",
+   "summary": "Release: web-edit 0.1a2 web-edit ( previously ) is my tiny web app for browsing and editing files in a folder. I mainly built it for editing files on different machines via Tailscale. I added a \"copy to clipboard\" option for both text and image data. I needed this because I was…",
+   "published": "2026-10-17T13:16:49+00:00",
+   "topics": [
+    "Tools"
+   ],
+   "first_seen": "2026-10-18T04:33:08+00:00"
+  },
+  {
    "id": "0913988ccbedf140",
    "title": "Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware",
    "link": "https://llmspeed.dev/",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://llmspeed.dev/ Comments URL: https://news.ycombinator.com/item?id=50127979 Points: 226 # Comments: 75",
+   "summary": "Article URL: https://llmspeed.dev/ Comments URL: https://news.ycombinator.com/item?id=50127979 Points: 267 # Comments: 77",
    "published": "2026-10-17T04:36:53+00:00",
    "topics": [
     "Models"
@@ -239,7 +263,7 @@
    "link": "https://claude.dev/blog/solving-code-review-at-anthropic/",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://claude.dev/blog/solving-code-review-at-anthropic/ Comments URL: https://news.ycombinator.com/item?id=50122951 Points: 454 # Comments: 443",
+   "summary": "Article URL: https://claude.dev/blog/solving-code-review-at-anthropic/ Comments URL: https://news.ycombinator.com/item?id=50122951 Points: 456 # Comments: 460",
    "published": "2026-10-16T19:04:47+00:00",
    "topics": [
     "Models"
@@ -265,7 +289,7 @@
    "link": "https://www.anthropic.com/research/ecdsa-curve-origins",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "https://words.filippo.io/seeds-solved/ Comments URL: https://news.ycombinator.com/item?id=50122800 Points: 1014 # Comments: 372",
+   "summary": "https://words.filippo.io/seeds-solved/ Comments URL: https://news.ycombinator.com/item?id=50122800 Points: 1027 # Comments: 379",
    "published": "2026-10-16T18:55:59+00:00",
    "topics": [
     "Models"
@@ -278,7 +302,7 @@
    "link": "https://www.anthropic.com/research/designing-efficient-quantum-circuits",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://www.anthropic.com/research/designing-efficient-quantum-circuits Comments URL: https://news.ycombinator.com/item?id=50121939 Points: 169 # Comments: 36",
+   "summary": "Article URL: https://www.anthropic.com/research/designing-efficient-quantum-circuits Comments URL: https://news.ycombinator.com/item?id=50121939 Points: 172 # Comments: 36",
    "published": "2026-10-16T18:00:18+00:00",
    "topics": [
     "Models",
@@ -318,7 +342,7 @@
    "link": "https://www.mercor.com/research/labor-index/benchmark-map/",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://www.mercor.com/research/labor-index/benchmark-map/ Comments URL: https://news.ycombinator.com/item?id=50121179 Points: 591 # Comments: 535",
+   "summary": "Article URL: https://www.mercor.com/research/labor-index/benchmark-map/ Comments URL: https://news.ycombinator.com/item?id=50121179 Points: 599 # Comments: 549",
    "published": "2026-10-16T17:08:38+00:00",
    "topics": [
     "Research"
@@ -384,7 +408,7 @@
    "link": "https://www.theregister.com/databases/2026/10/16/postgres-19-delayed-after-ai-reviewers-find-more-bugs-than-humans-can-fix/5303471",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://www.theregister.com/databases/2026/10/16/postgres-19-delayed-after-ai-reviewers-find-more-bugs-than-humans-can-fix/5303471 Comments URL: https://news.ycombinator.com/item?id=50119991 Points: 207 # Comments: 85",
+   "summary": "Article URL: https://www.theregister.com/databases/2026/10/16/postgres-19-delayed-after-ai-reviewers-find-more-bugs-than-humans-can-fix/5303471 Comments URL: https://news.ycombinator.com/item?id=50119991 Points: 212 # Comments: 86",
    "published": "2026-10-16T15:55:40+00:00",
    "topics": [],
    "first_seen": "2026-10-16T21:07:49+00:00"
@@ -708,7 +732,7 @@
    "link": "https://www.currentaffairs.org/news/why-were-banning-ai",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://www.currentaffairs.org/news/why-were-banning-ai Comments URL: https://news.ycombinator.com/item?id=50108131 Points: 258 # Comments: 202",
+   "summary": "Article URL: https://www.currentaffairs.org/news/why-were-banning-ai Comments URL: https://news.ycombinator.com/item?id=50108131 Points: 260 # Comments: 202",
    "published": "2026-10-15T18:32:29+00:00",
    "topics": [],
    "first_seen": "2026-10-15T23:04:24+00:00"
@@ -815,7 +839,7 @@
    "link": "https://www.simonsfoundation.org/news/simons-foundation-launches-15m-effort-to-help-mathematicians-navigate-ai-era/",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://www.simonsfoundation.org/news/simons-foundation-launches-15m-effort-to-help-mathematicians-navigate-ai-era/ Comments URL: https://news.ycombinator.com/item?id=50104654 Points: 248 # Comments: 199",
+   "summary": "Article URL: https://www.simonsfoundation.org/news/simons-foundation-launches-15m-effort-to-help-mathematicians-navigate-ai-era/ Comments URL: https://news.ycombinator.com/item?id=50104654 Points: 249 # Comments: 199",
    "published": "2026-10-15T14:58:48+00:00",
    "topics": [
     "Tools"
@@ -839,7 +863,7 @@
    "link": "https://blogs.gnome.org/uraeus/2026/10/15/aiandreverseengineerhardware/",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://blogs.gnome.org/uraeus/2026/10/15/aiandreverseengineerhardware/ Comments URL: https://news.ycombinator.com/item?id=50104299 Points: 250 # Comments: 245",
+   "summary": "Article URL: https://blogs.gnome.org/uraeus/2026/10/15/aiandreverseengineerhardware/ Comments URL: https://news.ycombinator.com/item?id=50104299 Points: 253 # Comments: 248",
    "published": "2026-10-15T14:35:15+00:00",
    "topics": [],
    "first_seen": "2026-10-16T04:31:49+00:00"
@@ -1514,7 +1538,7 @@
    "link": "https://github.com/mixelpixx/Konnect",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://github.com/mixelpixx/Konnect Comments URL: https://news.ycombinator.com/item?id=50085553 Points: 140 # Comments: 52",
+   "summary": "Article URL: https://github.com/mixelpixx/Konnect Comments URL: https://news.ycombinator.com/item?id=50085553 Points: 142 # Comments: 52",
    "published": "2026-10-14T10:51:37+00:00",
    "topics": [],
    "first_seen": "2026-10-16T21:07:49+00:00"
