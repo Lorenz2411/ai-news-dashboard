@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-19T04:40:01+00:00",
+ "updated": "2026-10-19T13:14:02+00:00",
  "sources": [
   {
    "name": "OpenAI",
@@ -92,6 +92,33 @@
  ],
  "items": [
   {
+   "id": "9279cf6bb0c3cf64",
+   "title": "Democrats think cracking down on AI could give them an edge",
+   "link": "https://www.theverge.com/policy/1013113/democrats-ai-midterms",
+   "source": "The Verge",
+   "kind": "press",
+   "summary": "Democrats could win back control of Congress this November, and if they do, they'll need to decide how to approach one of the country's newest and thorniest political issues: AI. Polls predict Democrats will flip at least one chamber of Congress in the midterm elections, which…",
+   "published": "2026-10-19T12:37:05+00:00",
+   "topics": [
+    "Policy"
+   ],
+   "first_seen": "2026-10-19T13:14:02+00:00"
+  },
+  {
+   "id": "b327983725873259",
+   "title": "AI researchers stranded Claude on a virtual desert island. It started to “play.”",
+   "link": "https://www.technologyreview.com/2026/10/19/1147095/ai-stranded-claude-virtual-desert-island-play/",
+   "source": "MIT Technology Review",
+   "kind": "press",
+   "summary": "What do AI agents do if you don’t tell them to do anything? The answer looks a lot like play. Researchers repeatedly stranded them alone on a virtual desert island for 30 hours in an experiment reminiscent of the movies Cast Away or Home Alone. The agents—copies of Claude Opus…",
+   "published": "2026-10-19T09:08:05+00:00",
+   "topics": [
+    "Models",
+    "Tools"
+   ],
+   "first_seen": "2026-10-19T13:14:02+00:00"
+  },
+  {
    "id": "b8a89dddc6c67001",
    "title": "llm-tools-datasette 0.1.1",
    "link": "https://simonwillison.net/2026/Oct/18/llm-tools-datasette/",
@@ -119,6 +146,19 @@
     "Tools"
    ],
    "first_seen": "2026-10-19T04:40:01+00:00"
+  },
+  {
+   "id": "3b923dd363ed79d2",
+   "title": "If you don't run your own LLM proxy, how do you know whats going on?",
+   "link": "https://jrdsgl.com/if-you-dont-run-your-own-llm-proxy-how-the-fuck-do-you-even-know-whats-going-on/",
+   "source": "Hacker News",
+   "kind": "community",
+   "summary": "Article URL: https://jrdsgl.com/if-you-dont-run-your-own-llm-proxy-how-the-fuck-do-you-even-know-whats-going-on/ Comments URL: https://news.ycombinator.com/item?id=50145507 Points: 211 # Comments: 152",
+   "published": "2026-10-18T21:09:12+00:00",
+   "topics": [
+    "Models"
+   ],
+   "first_seen": "2026-10-19T13:14:02+00:00"
   },
   {
    "id": "a5bb32320853f4db",
@@ -185,7 +225,7 @@
    "link": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web Comments URL: https://news.ycombinator.com/item?id=50141657 Points: 135 # Comments: 132",
+   "summary": "Article URL: https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web Comments URL: https://news.ycombinator.com/item?id=50141657 Points: 150 # Comments: 139",
    "published": "2026-10-18T14:58:10+00:00",
    "topics": [
     "Tools"
@@ -211,7 +251,7 @@
    "link": "https://sphinx-six-theta.vercel.app/",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "FOSS, Basically it plugs into your existing coding agent workflow and every time you push to prod it'll throw up a questionnaire that checks if you understand how the code you're pushing works. Comments URL: https://news.ycombinator.com/item?id=50137950 Points: 242 # Comments: 85",
+   "summary": "FOSS, Basically it plugs into your existing coding agent workflow and every time you push to prod it'll throw up a questionnaire that checks if you understand how the code you're pushing works. Comments URL: https://news.ycombinator.com/item?id=50137950 Points: 248 # Comments: 87",
    "published": "2026-10-18T04:33:49+00:00",
    "topics": [
     "Tools"
@@ -270,7 +310,7 @@
    "link": "https://www.opendemocracy.net/amazon-ai-surveillance-monitor-union-activity-uk-warehouses-birmingham-coventry-atlas-sutton-coldfield/",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://www.opendemocracy.net/amazon-ai-surveillance-monitor-union-activity-uk-warehouses-birmingham-coventry-atlas-sutton-coldfield/ Comments URL: https://news.ycombinator.com/item?id=50132278 Points: 171 # Comments: 59",
+   "summary": "Article URL: https://www.opendemocracy.net/amazon-ai-surveillance-monitor-union-activity-uk-warehouses-birmingham-coventry-atlas-sutton-coldfield/ Comments URL: https://news.ycombinator.com/item?id=50132278 Points: 173 # Comments: 59",
    "published": "2026-10-17T16:04:23+00:00",
    "topics": [],
    "first_seen": "2026-10-17T18:30:40+00:00"
@@ -316,7 +356,7 @@
    "link": "https://llmspeed.dev/",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://llmspeed.dev/ Comments URL: https://news.ycombinator.com/item?id=50127979 Points: 322 # Comments: 86",
+   "summary": "Article URL: https://llmspeed.dev/ Comments URL: https://news.ycombinator.com/item?id=50127979 Points: 325 # Comments: 86",
    "published": "2026-10-17T04:36:53+00:00",
    "topics": [
     "Models"
@@ -377,7 +417,7 @@
    "link": "https://claude.dev/blog/solving-code-review-at-anthropic/",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://claude.dev/blog/solving-code-review-at-anthropic/ Comments URL: https://news.ycombinator.com/item?id=50122951 Points: 472 # Comments: 468",
+   "summary": "Article URL: https://claude.dev/blog/solving-code-review-at-anthropic/ Comments URL: https://news.ycombinator.com/item?id=50122951 Points: 479 # Comments: 470",
    "published": "2026-10-16T19:04:47+00:00",
    "topics": [
     "Models"
@@ -403,7 +443,7 @@
    "link": "https://www.anthropic.com/research/ecdsa-curve-origins",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "https://words.filippo.io/seeds-solved/ Comments URL: https://news.ycombinator.com/item?id=50122800 Points: 1051 # Comments: 388",
+   "summary": "https://words.filippo.io/seeds-solved/ Comments URL: https://news.ycombinator.com/item?id=50122800 Points: 1054 # Comments: 388",
    "published": "2026-10-16T18:55:59+00:00",
    "topics": [
     "Models"
@@ -456,7 +496,7 @@
    "link": "https://www.mercor.com/research/labor-index/benchmark-map/",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://www.mercor.com/research/labor-index/benchmark-map/ Comments URL: https://news.ycombinator.com/item?id=50121179 Points: 618 # Comments: 570",
+   "summary": "Article URL: https://www.mercor.com/research/labor-index/benchmark-map/ Comments URL: https://news.ycombinator.com/item?id=50121179 Points: 623 # Comments: 571",
    "published": "2026-10-16T17:08:38+00:00",
    "topics": [
     "Research"
@@ -522,7 +562,7 @@
    "link": "https://www.theregister.com/databases/2026/10/16/postgres-19-delayed-after-ai-reviewers-find-more-bugs-than-humans-can-fix/5303471",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://www.theregister.com/databases/2026/10/16/postgres-19-delayed-after-ai-reviewers-find-more-bugs-than-humans-can-fix/5303471 Comments URL: https://news.ycombinator.com/item?id=50119991 Points: 218 # Comments: 93",
+   "summary": "Article URL: https://www.theregister.com/databases/2026/10/16/postgres-19-delayed-after-ai-reviewers-find-more-bugs-than-humans-can-fix/5303471 Comments URL: https://news.ycombinator.com/item?id=50119991 Points: 219 # Comments: 93",
    "published": "2026-10-16T15:55:40+00:00",
    "topics": [],
    "first_seen": "2026-10-16T21:07:49+00:00"
@@ -977,7 +1017,7 @@
    "link": "https://blogs.gnome.org/uraeus/2026/10/15/aiandreverseengineerhardware/",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://blogs.gnome.org/uraeus/2026/10/15/aiandreverseengineerhardware/ Comments URL: https://news.ycombinator.com/item?id=50104299 Points: 253 # Comments: 253",
+   "summary": "Article URL: https://blogs.gnome.org/uraeus/2026/10/15/aiandreverseengineerhardware/ Comments URL: https://news.ycombinator.com/item?id=50104299 Points: 254 # Comments: 256",
    "published": "2026-10-15T14:35:15+00:00",
    "topics": [],
    "first_seen": "2026-10-16T04:31:49+00:00"
@@ -1328,7 +1368,7 @@
    "link": "https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html Comments URL: https://news.ycombinator.com/item?id=50091788 Points: 948 # Comments: 620",
+   "summary": "Article URL: https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html Comments URL: https://news.ycombinator.com/item?id=50091788 Points: 950 # Comments: 621",
    "published": "2026-10-14T17:45:23+00:00",
    "topics": [
     "Tools"
