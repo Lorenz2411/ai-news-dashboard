@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-19T19:56:21+00:00",
+ "updated": "2026-10-19T23:41:26+00:00",
  "sources": [
   {
    "name": "OpenAI",
@@ -85,19 +85,112 @@
    "name": "Hacker News",
    "url": "https://hnrss.org/newest?q=AI+OR+LLM+OR+GPT+OR+Claude&points=100",
    "kind": "community",
-   "ok": false,
-   "count": 0,
-   "error": "HTTPError: HTTP Error 502: Bad Gateway"
+   "ok": true,
+   "count": 20,
+   "error": null
   }
  ],
  "items": [
+  {
+   "id": "b0fb4c0567199f7f",
+   "title": "Nscale and Anthropic are reportedly in talks for yet another $45 billion compute deal",
+   "link": "https://techcrunch.com/2026/10/19/nscale-and-anthropic-are-reportedly-in-talks-for-yet-another-45-billion-compute-deal/",
+   "source": "TechCrunch",
+   "kind": "press",
+   "summary": "In August, Nscale and Anthropic announced a $45 billion compute deal. The two companies are reportedly discussing yet another deal of the same magnitude.",
+   "published": "2026-10-19T23:39:38+00:00",
+   "topics": [],
+   "first_seen": "2026-10-19T23:41:26+00:00"
+  },
+  {
+   "id": "d45dacf783b2543c",
+   "title": "Embedded AI evaluators won’t be an easy solution, Hugging Face’s policy chief says",
+   "link": "https://techcrunch.com/2026/10/19/embedded-ai-evaluators-wont-be-an-easy-solution-hugging-faces-policy-chief-says/",
+   "source": "TechCrunch",
+   "kind": "press",
+   "summary": "AI labs have staked their reputations on model benchmarking — the supposedly neutral and accurate system of evaluations that are designed to measure whether one AI product is better than another. However, the methods behind these evaluations are complicated and still maturing…",
+   "published": "2026-10-19T22:49:27+00:00",
+   "topics": [
+    "Models",
+    "Research",
+    "Policy"
+   ],
+   "first_seen": "2026-10-19T23:41:26+00:00"
+  },
+  {
+   "id": "0cffae2fd0c5318b",
+   "title": "Microsoft says AI agents are like insider threats as ‘frontier models can’t be trusted’",
+   "link": "https://techcrunch.com/2026/10/19/microsoft-says-ai-agents-are-like-insider-threats-as-frontier-models-cant-be-trusted/",
+   "source": "TechCrunch",
+   "kind": "press",
+   "summary": "Microsoft wants enterprises to closely watch the agents employees use with systems not controlled by AI labs like OpenAI and Anthropic.",
+   "published": "2026-10-19T22:04:28+00:00",
+   "topics": [
+    "Models",
+    "Tools"
+   ],
+   "first_seen": "2026-10-19T23:41:26+00:00"
+  },
+  {
+   "id": "50c115309d98a51f",
+   "title": "The fossil fuel comeback is here",
+   "link": "https://www.theverge.com/science/1013954/fossil-fuel-power-infrastructure-data-centers-report",
+   "source": "The Verge",
+   "kind": "press",
+   "summary": "The US is building more fossil fuel infrastructure than it has in a decade while renewable energy growth slows down, a new report shows. Electricity demand is also climbing faster than it has in more than a decade with more data centers, factories, and electric vehicles plugging…",
+   "published": "2026-10-19T21:48:01+00:00",
+   "topics": [
+    "Hardware"
+   ],
+   "first_seen": "2026-10-19T23:41:26+00:00"
+  },
+  {
+   "id": "073765c16b4994fd",
+   "title": "CoreWeave’s debt is becoming the whole AI industry’s problem",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/1014045/coreweave-stock-debt-sector-ai",
+   "source": "The Verge",
+   "kind": "press",
+   "summary": "CoreWeave had a bad week last week. Its bonds slipped into distressed territory by a common definition - when investors demand 1,000 basis points more in yield than they'd get from government bonds. Last Tuesady Chamath \"SPAC King\" Palihapitiya noticed the distressed debt, and…",
+   "published": "2026-10-19T21:28:20+00:00",
+   "topics": [
+    "Policy",
+    "Business"
+   ],
+   "first_seen": "2026-10-19T23:41:26+00:00"
+  },
+  {
+   "id": "71a28de11a06820b",
+   "title": "Accused OpenAI spy had folder called “Saudi Gov Docs,” FBI says",
+   "link": "https://arstechnica.com/tech-policy/2026/10/accused-openai-spy-had-folder-called-saudi-gov-docs-fbi-says/",
+   "source": "Ars Technica",
+   "kind": "press",
+   "summary": "US fears Saudi government will help ex-OpenAI engineer flee spying charges.",
+   "published": "2026-10-19T20:21:53+00:00",
+   "topics": [
+    "Policy"
+   ],
+   "first_seen": "2026-10-19T23:41:26+00:00"
+  },
+  {
+   "id": "aaaf393dcb103418",
+   "title": "Amazon is taking its biggest shot at Nvidia yet with new TorchNeuron dev tool",
+   "link": "https://techcrunch.com/2026/10/19/amazon-is-taking-its-biggest-shot-at-nvidia-yet-with-new-torchneuron-dev-tool/",
+   "source": "TechCrunch",
+   "kind": "press",
+   "summary": "Amazon wants to break Nvidia’s hold on PyTorch, the free toolkit used to build most AI apps, so that more developers run their apps on alternative chips like its own.",
+   "published": "2026-10-19T20:09:24+00:00",
+   "topics": [
+    "Hardware"
+   ],
+   "first_seen": "2026-10-19T23:41:26+00:00"
+  },
   {
    "id": "039a84854fb85dd6",
    "title": "Hackers hit AI coding tool OpenCode, running up charges on users’ AI accounts",
    "link": "https://techcrunch.com/2026/10/19/hackers-hit-ai-coding-tool-opencode-running-up-charges-on-users-ai-accounts/",
    "source": "TechCrunch",
    "kind": "press",
-   "summary": "OpenCode is an open-source AI coding agent that's become a popular alternative to Claude Code and Cursor. But hackers got into part of its online platform and stole some users’ API keys, and the AI tools it turned to for help kept refusing to look at the malicious code.",
+   "summary": "OpenCode is an open source AI coding agent that's become a popular alternative to Claude Code and Cursor. But hackers got into part of its online platform and stole some users’ API keys, and the AI tools it turned to for help kept refusing to look at the malicious code.",
    "published": "2026-10-19T19:28:34+00:00",
    "topics": [
     "Models",
@@ -201,7 +294,7 @@
    "link": "https://techcrunch.com/2026/10/19/people-are-using-ai-to-make-their-smart-tvs-dumb-again/",
    "source": "TechCrunch",
    "kind": "press",
-   "summary": "Fed up with ads, tracking and sluggish interfaces, some smart TV owners are turning to AI agents to strip away bloatware and take back control of their TVs.",
+   "summary": "Fed up with ads, tracking, and sluggish interfaces, some smart TV owners are turning to AI agents to strip away bloatware and take back control of their TVs.",
    "published": "2026-10-19T16:13:22+00:00",
    "topics": [
     "Tools"
@@ -248,6 +341,19 @@
    "first_seen": "2026-10-19T19:56:21+00:00"
   },
   {
+   "id": "a59b2acc8c62e329",
+   "title": "Show HN: Qwen3-4B with the AI writing tics trained out",
+   "link": "https://100toolkit.com/blog/deslop-model/",
+   "source": "Hacker News",
+   "kind": "community",
+   "summary": "Article URL: https://100toolkit.com/blog/deslop-model/ Comments URL: https://news.ycombinator.com/item?id=50151928 Points: 145 # Comments: 107",
+   "published": "2026-10-19T13:00:47+00:00",
+   "topics": [
+    "Models"
+   ],
+   "first_seen": "2026-10-19T23:41:26+00:00"
+  },
+  {
    "id": "9279cf6bb0c3cf64",
    "title": "Democrats think cracking down on AI could give them an edge",
    "link": "https://www.theverge.com/policy/1013113/democrats-ai-midterms",
@@ -275,6 +381,41 @@
    "first_seen": "2026-10-19T19:56:21+00:00"
   },
   {
+   "id": "4f0198409c0e2bc2",
+   "title": "Harness Engineering 101: The LLM is the brain, the harness is the body",
+   "link": "https://github.com/IsuruMaduranga/harness-engineering-101",
+   "source": "Hacker News",
+   "kind": "community",
+   "summary": "Article URL: https://github.com/IsuruMaduranga/harness-engineering-101 Comments URL: https://news.ycombinator.com/item?id=50151390 Points: 127 # Comments: 64",
+   "published": "2026-10-19T12:07:41+00:00",
+   "topics": [
+    "Models"
+   ],
+   "first_seen": "2026-10-19T23:41:26+00:00"
+  },
+  {
+   "id": "7a364f356aab4946",
+   "title": "Advancing coding in low‑resource programming languages",
+   "link": "https://openai.com/index/low-resource-programming-languages",
+   "source": "OpenAI",
+   "kind": "lab",
+   "summary": "Learn how OpenAI is improving ChatGPT across low-resource programming languages, with new evaluations for software engineering, SQLite, and COBOL migration.",
+   "published": "2026-10-19T12:00:00+00:00",
+   "topics": [],
+   "first_seen": "2026-10-19T23:41:26+00:00"
+  },
+  {
+   "id": "e7fd8cf2b3223b89",
+   "title": "Ask HN: How to deal with shipping AI-written code you don't understand?",
+   "link": "https://news.ycombinator.com/item?id=50151036",
+   "source": "Hacker News",
+   "kind": "community",
+   "summary": "I saw this LinkedIn post from a Meta engineer and it resonated with me: https://www.linkedin.com/posts/ali-hamie_im-an-engineer-at-m... > I'm an engineer at Meta and I never felt this uncomfortable doing my job. I'm writing code these days and it all feels like a black box. This…",
+   "published": "2026-10-19T11:24:34+00:00",
+   "topics": [],
+   "first_seen": "2026-10-19T23:41:26+00:00"
+  },
+  {
    "id": "b327983725873259",
    "title": "AI researchers stranded Claude on a virtual desert island. It started to “play.”",
    "link": "https://www.technologyreview.com/2026/10/19/1147095/ai-stranded-claude-virtual-desert-island-play/",
@@ -287,6 +428,20 @@
     "Tools"
    ],
    "first_seen": "2026-10-19T13:14:02+00:00"
+  },
+  {
+   "id": "be829f23c5f5d1f2",
+   "title": "Tmux and Claude Code: Sessions, Send-Keys, and the Ceiling",
+   "link": "https://crystl.dev/guides/tmux-for-ai-agents/",
+   "source": "Hacker News",
+   "kind": "community",
+   "summary": "Article URL: https://crystl.dev/guides/tmux-for-ai-agents/ Comments URL: https://news.ycombinator.com/item?id=50148855 Points: 146 # Comments: 111",
+   "published": "2026-10-19T05:55:31+00:00",
+   "topics": [
+    "Models",
+    "Tools"
+   ],
+   "first_seen": "2026-10-19T23:41:26+00:00"
   },
   {
    "id": "9dbc0d55ff9123c6",
@@ -336,7 +491,7 @@
    "link": "https://jrdsgl.com/if-you-dont-run-your-own-llm-proxy-how-the-fuck-do-you-even-know-whats-going-on/",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://jrdsgl.com/if-you-dont-run-your-own-llm-proxy-how-the-fuck-do-you-even-know-whats-going-on/ Comments URL: https://news.ycombinator.com/item?id=50145507 Points: 211 # Comments: 152",
+   "summary": "Article URL: https://jrdsgl.com/if-you-dont-run-your-own-llm-proxy-how-the-fuck-do-you-even-know-whats-going-on/ Comments URL: https://news.ycombinator.com/item?id=50145507 Points: 292 # Comments: 206",
    "published": "2026-10-18T21:09:12+00:00",
    "topics": [
     "Models"
@@ -403,6 +558,19 @@
    "first_seen": "2026-10-18T18:38:28+00:00"
   },
   {
+   "id": "79619743255e89a1",
+   "title": "Websites are closing their doors to AI agents",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web",
+   "source": "Hacker News",
+   "kind": "community",
+   "summary": "Article URL: https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web Comments URL: https://news.ycombinator.com/item?id=50141657 Points: 153 # Comments: 149",
+   "published": "2026-10-18T14:58:10+00:00",
+   "topics": [
+    "Tools"
+   ],
+   "first_seen": "2026-10-17T15:34:23+00:00"
+  },
+  {
    "id": "a257dddc2d05fd3f",
    "title": "Anthropic's proposed AI safety bill only kicks in if 50 deaths or $1B in damages",
    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-proposed-ai-safety-bill-only-kicks-in-if-50-deaths-or-usd1-billion-in-damages-are-on-the-line-proposal-would-effectively-make-the-commerce-department-the-only-agency-capable-of-stopping-an-ai-model",
@@ -416,12 +584,23 @@
    "first_seen": "2026-10-18T18:38:28+00:00"
   },
   {
+   "id": "6e2930f20afd264d",
+   "title": "How Far Will AI Assistants Go for a Refund They Can't Get?",
+   "link": "https://www.vals.ai/blogs/impossible-refund",
+   "source": "Hacker News",
+   "kind": "community",
+   "summary": "Article URL: https://www.vals.ai/blogs/impossible-refund Comments URL: https://news.ycombinator.com/item?id=50140462 Points: 101 # Comments: 121",
+   "published": "2026-10-18T12:22:58+00:00",
+   "topics": [],
+   "first_seen": "2026-10-19T23:41:26+00:00"
+  },
+  {
    "id": "d3c35db34ec3acb3",
    "title": "Show HN: Sphinx – A hook that quizzes you on your AI's code before shipping",
    "link": "https://sphinx-six-theta.vercel.app/",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "FOSS, Basically it plugs into your existing coding agent workflow and every time you push to prod it'll throw up a questionnaire that checks if you understand how the code you're pushing works. Comments URL: https://news.ycombinator.com/item?id=50137950 Points: 248 # Comments: 87",
+   "summary": "FOSS, Basically it plugs into your existing coding agent workflow and every time you push to prod it'll throw up a questionnaire that checks if you understand how the code you're pushing works. Comments URL: https://news.ycombinator.com/item?id=50137950 Points: 252 # Comments: 89",
    "published": "2026-10-18T04:33:49+00:00",
    "topics": [
     "Tools"
@@ -480,7 +659,7 @@
    "link": "https://www.opendemocracy.net/amazon-ai-surveillance-monitor-union-activity-uk-warehouses-birmingham-coventry-atlas-sutton-coldfield/",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://www.opendemocracy.net/amazon-ai-surveillance-monitor-union-activity-uk-warehouses-birmingham-coventry-atlas-sutton-coldfield/ Comments URL: https://news.ycombinator.com/item?id=50132278 Points: 173 # Comments: 59",
+   "summary": "Article URL: https://www.opendemocracy.net/amazon-ai-surveillance-monitor-union-activity-uk-warehouses-birmingham-coventry-atlas-sutton-coldfield/ Comments URL: https://news.ycombinator.com/item?id=50132278 Points: 173 # Comments: 61",
    "published": "2026-10-17T16:04:23+00:00",
    "topics": [],
    "first_seen": "2026-10-17T18:30:40+00:00"
@@ -526,25 +705,12 @@
    "link": "https://llmspeed.dev/",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://llmspeed.dev/ Comments URL: https://news.ycombinator.com/item?id=50127979 Points: 325 # Comments: 86",
+   "summary": "Article URL: https://llmspeed.dev/ Comments URL: https://news.ycombinator.com/item?id=50127979 Points: 328 # Comments: 86",
    "published": "2026-10-17T04:36:53+00:00",
    "topics": [
     "Models"
    ],
    "first_seen": "2026-10-17T12:11:23+00:00"
-  },
-  {
-   "id": "79619743255e89a1",
-   "title": "Websites are closing their doors to AI agents",
-   "link": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web",
-   "source": "The Verge",
-   "kind": "press",
-   "summary": "Autonomous agents are the hottest thing in AI. OpenAI, Meta, Google, Instinct, and others promise their agents can scour the internet on your behalf, doing anything from booking a dinner reservation and cleaning out your inbox to buying new shoes. But what happens when the rest…",
-   "published": "2026-10-16T22:31:39+00:00",
-   "topics": [
-    "Tools"
-   ],
-   "first_seen": "2026-10-17T15:34:23+00:00"
   },
   {
    "id": "e946af68fd7dbe0e",
@@ -600,7 +766,7 @@
    "link": "https://claude.dev/blog/solving-code-review-at-anthropic/",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://claude.dev/blog/solving-code-review-at-anthropic/ Comments URL: https://news.ycombinator.com/item?id=50122951 Points: 479 # Comments: 470",
+   "summary": "Article URL: https://claude.dev/blog/solving-code-review-at-anthropic/ Comments URL: https://news.ycombinator.com/item?id=50122951 Points: 482 # Comments: 479",
    "published": "2026-10-16T19:04:47+00:00",
    "topics": [
     "Models"
@@ -626,7 +792,7 @@
    "link": "https://www.anthropic.com/research/ecdsa-curve-origins",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "https://words.filippo.io/seeds-solved/ Comments URL: https://news.ycombinator.com/item?id=50122800 Points: 1054 # Comments: 388",
+   "summary": "https://words.filippo.io/seeds-solved/ Comments URL: https://news.ycombinator.com/item?id=50122800 Points: 1060 # Comments: 389",
    "published": "2026-10-16T18:55:59+00:00",
    "topics": [
     "Models"
@@ -679,7 +845,7 @@
    "link": "https://www.mercor.com/research/labor-index/benchmark-map/",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://www.mercor.com/research/labor-index/benchmark-map/ Comments URL: https://news.ycombinator.com/item?id=50121179 Points: 623 # Comments: 571",
+   "summary": "Article URL: https://www.mercor.com/research/labor-index/benchmark-map/ Comments URL: https://news.ycombinator.com/item?id=50121179 Points: 625 # Comments: 574",
    "published": "2026-10-16T17:08:38+00:00",
    "topics": [
     "Research"
@@ -745,7 +911,7 @@
    "link": "https://www.theregister.com/databases/2026/10/16/postgres-19-delayed-after-ai-reviewers-find-more-bugs-than-humans-can-fix/5303471",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://www.theregister.com/databases/2026/10/16/postgres-19-delayed-after-ai-reviewers-find-more-bugs-than-humans-can-fix/5303471 Comments URL: https://news.ycombinator.com/item?id=50119991 Points: 219 # Comments: 93",
+   "summary": "Article URL: https://www.theregister.com/databases/2026/10/16/postgres-19-delayed-after-ai-reviewers-find-more-bugs-than-humans-can-fix/5303471 Comments URL: https://news.ycombinator.com/item?id=50119991 Points: 222 # Comments: 93",
    "published": "2026-10-16T15:55:40+00:00",
    "topics": [],
    "first_seen": "2026-10-16T21:07:49+00:00"
@@ -1200,7 +1366,7 @@
    "link": "https://blogs.gnome.org/uraeus/2026/10/15/aiandreverseengineerhardware/",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://blogs.gnome.org/uraeus/2026/10/15/aiandreverseengineerhardware/ Comments URL: https://news.ycombinator.com/item?id=50104299 Points: 254 # Comments: 256",
+   "summary": "Article URL: https://blogs.gnome.org/uraeus/2026/10/15/aiandreverseengineerhardware/ Comments URL: https://news.ycombinator.com/item?id=50104299 Points: 255 # Comments: 256",
    "published": "2026-10-15T14:35:15+00:00",
    "topics": [],
    "first_seen": "2026-10-16T04:31:49+00:00"
