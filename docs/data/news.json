@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-19T13:14:02+00:00",
+ "updated": "2026-10-19T19:56:21+00:00",
  "sources": [
   {
    "name": "OpenAI",
@@ -85,12 +85,168 @@
    "name": "Hacker News",
    "url": "https://hnrss.org/newest?q=AI+OR+LLM+OR+GPT+OR+Claude&points=100",
    "kind": "community",
-   "ok": true,
-   "count": 20,
-   "error": null
+   "ok": false,
+   "count": 0,
+   "error": "HTTPError: HTTP Error 502: Bad Gateway"
   }
  ],
  "items": [
+  {
+   "id": "039a84854fb85dd6",
+   "title": "Hackers hit AI coding tool OpenCode, running up charges on users’ AI accounts",
+   "link": "https://techcrunch.com/2026/10/19/hackers-hit-ai-coding-tool-opencode-running-up-charges-on-users-ai-accounts/",
+   "source": "TechCrunch",
+   "kind": "press",
+   "summary": "OpenCode is an open-source AI coding agent that's become a popular alternative to Claude Code and Cursor. But hackers got into part of its online platform and stole some users’ API keys, and the AI tools it turned to for help kept refusing to look at the malicious code.",
+   "published": "2026-10-19T19:28:34+00:00",
+   "topics": [
+    "Models",
+    "Tools"
+   ],
+   "first_seen": "2026-10-19T19:56:21+00:00"
+  },
+  {
+   "id": "e37065d0e754995b",
+   "title": "Tolan snags $30M for its AI companion that helps users navigate life",
+   "link": "https://techcrunch.com/2026/10/19/tolan-snags-30m-for-its-ai-companion-that-helps-users-navigate-life/",
+   "source": "TechCrunch",
+   "kind": "press",
+   "summary": "AI companion app Tolan has raised another $30 million after attracting more than 250,000 active users.",
+   "published": "2026-10-19T19:00:12+00:00",
+   "topics": [
+    "Tools"
+   ],
+   "first_seen": "2026-10-19T19:56:21+00:00"
+  },
+  {
+   "id": "71c2d7263cd3eef9",
+   "title": "Replika’s founder built the AI assistant she pitched at Disrupt 12 years ago",
+   "link": "https://techcrunch.com/2026/10/19/replikas-founder-built-the-ai-assistant-she-pitched-at-disrupt-12-years-ago/",
+   "source": "TechCrunch",
+   "kind": "press",
+   "summary": "Eugenia Kuyda's newest startup Wabi is positioned to take advantage of an idea she had more than a decade ago. Wabi offers a personal AI assistant with a twist, free and downloadable to anyone today.",
+   "published": "2026-10-19T18:49:04+00:00",
+   "topics": [
+    "Business"
+   ],
+   "first_seen": "2026-10-19T19:56:21+00:00"
+  },
+  {
+   "id": "36c2a79412d571d7",
+   "title": "Tenstorrent hits $6.2B valuation to scale open-weight AI chips",
+   "link": "https://techcrunch.com/2026/10/19/tenstorrent-hits-6-2b-valuation-to-scale-open-weight-ai-chips/",
+   "source": "TechCrunch",
+   "kind": "press",
+   "summary": "After drawing acquisition interest earlier this year, the Nvidia challenger raised $1.5 billion to remain independent.",
+   "published": "2026-10-19T18:37:27+00:00",
+   "topics": [
+    "Business",
+    "Hardware"
+   ],
+   "first_seen": "2026-10-19T19:56:21+00:00"
+  },
+  {
+   "id": "fbbcdbe57addf83e",
+   "title": "Making the internet better for AI agents might make it worse for everyone else",
+   "link": "https://www.technologyreview.com/2026/10/19/1147186/making-the-internet-better-for-ai-agents-might-make-it-worse-for-everyone-else/",
+   "source": "MIT Technology Review",
+   "kind": "press",
+   "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Until recently, you could divide internet users into just two categories: bots and people. Websites have long allowed bots to perform…",
+   "published": "2026-10-19T18:22:47+00:00",
+   "topics": [
+    "Tools"
+   ],
+   "first_seen": "2026-10-19T19:56:21+00:00"
+  },
+  {
+   "id": "7216fffbb8a1125e",
+   "title": "“We were looking at it wrong”: The explosive claim that’s upended the AI world",
+   "link": "https://www.technologyreview.com/2026/10/19/1147149/we-were-looking-at-it-wrong-the-explosive-claim-thats-upended-the-ai-world/",
+   "source": "MIT Technology Review",
+   "kind": "press",
+   "summary": "“I think I have good news about the nature of neural networks.” With those simple words of optimism, Nick Cammarata, a researcher at the AI startup Goodfire, kicked off a 26,000-word blog post that has knocked the AI world on its head, sparking wild speculation as well as…",
+   "published": "2026-10-19T17:45:55+00:00",
+   "topics": [
+    "Business"
+   ],
+   "first_seen": "2026-10-19T19:56:21+00:00"
+  },
+  {
+   "id": "c08e28e17ab3caf7",
+   "title": "A hacker broke into John Deere and SharkNinja with an army of AI agents",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/1013643/ai-agents-hack-john-deere-shark-ninja-cummins",
+   "source": "The Verge",
+   "kind": "press",
+   "summary": "A hacker broke into more than 100 websites using an army of AI agents that mostly operated on their own, according to findings from the AI security firm Norforge. Though Norforge doesn't name the targets, Reuters reports that the victims included companies like John Deere…",
+   "published": "2026-10-19T17:33:16+00:00",
+   "topics": [
+    "Tools"
+   ],
+   "first_seen": "2026-10-19T19:56:21+00:00"
+  },
+  {
+   "id": "5d37bd28a169e437",
+   "title": "AI game clones are making indie developers afraid to show their work",
+   "link": "https://arstechnica.com/gaming/2026/10/ai-game-clones-are-making-indie-developers-afraid-to-show-their-work/",
+   "source": "Ars Technica",
+   "kind": "press",
+   "summary": "Delayed Steam Next Fest demo is a sign of a growing problem for indie devs.",
+   "published": "2026-10-19T16:59:22+00:00",
+   "topics": [],
+   "first_seen": "2026-10-19T19:56:21+00:00"
+  },
+  {
+   "id": "f93d80856f11bb09",
+   "title": "People are using AI to make their smart TVs dumb again",
+   "link": "https://techcrunch.com/2026/10/19/people-are-using-ai-to-make-their-smart-tvs-dumb-again/",
+   "source": "TechCrunch",
+   "kind": "press",
+   "summary": "Fed up with ads, tracking and sluggish interfaces, some smart TV owners are turning to AI agents to strip away bloatware and take back control of their TVs.",
+   "published": "2026-10-19T16:13:22+00:00",
+   "topics": [
+    "Tools"
+   ],
+   "first_seen": "2026-10-19T19:56:21+00:00"
+  },
+  {
+   "id": "fd89b9b5cd5875ba",
+   "title": "JB Pritzker thinks AI could help us live to 100 — or threaten us like nukes",
+   "link": "https://www.theverge.com/podcast/1012839/pritzker-ai-privacy-data-centers-flock-congress-laws",
+   "source": "The Verge",
+   "kind": "press",
+   "summary": "Today, I’m talking with Illinois Gov. JB Pritzker, who has a lot of thoughts about AI, tech, and privacy. If you’ve been listening to the show, you know that one of my running theories is that those issues are driving a big and maybe kind of unexpected political realignment —…",
+   "published": "2026-10-19T15:46:56+00:00",
+   "topics": [],
+   "first_seen": "2026-10-19T19:56:21+00:00"
+  },
+  {
+   "id": "d88320583f8c2de0",
+   "title": "Nvidia launches new open models to run agents in the enterprise and on PCs",
+   "link": "https://techcrunch.com/2026/10/19/nvidia-launches-new-open-models-to-run-agents-in-the-enterprise-and-on-pcs/",
+   "source": "TechCrunch",
+   "kind": "press",
+   "summary": "Nvidia is leaning hard into the trend of enterprise companies wanting to run their own open models in their own data centers and also trying to make on-device, private AI agents a thing.",
+   "published": "2026-10-19T15:37:09+00:00",
+   "topics": [
+    "Models",
+    "Tools",
+    "Hardware"
+   ],
+   "first_seen": "2026-10-19T19:56:21+00:00"
+  },
+  {
+   "id": "d41776e0c26f77e6",
+   "title": "Disney found a way to buy Character.AI without buying its lawsuits",
+   "link": "https://arstechnica.com/tech-policy/2026/10/disney-found-a-way-to-buy-character-ai-without-buying-its-lawsuits/",
+   "source": "Ars Technica",
+   "kind": "press",
+   "summary": "Character.AI faces claims its bots encouraged minors to self-harm and kill their parents.",
+   "published": "2026-10-19T14:45:43+00:00",
+   "topics": [
+    "Policy"
+   ],
+   "first_seen": "2026-10-19T19:56:21+00:00"
+  },
   {
    "id": "9279cf6bb0c3cf64",
    "title": "Democrats think cracking down on AI could give them an edge",
@@ -105,6 +261,20 @@
    "first_seen": "2026-10-19T13:14:02+00:00"
   },
   {
+   "id": "c17a4963d410cf3c",
+   "title": "Laplace Intelligence red-teams robots and self-driving cars before they hit the real world",
+   "link": "https://techcrunch.com/2026/10/19/laplace-intelligence-red-teams-robots-and-self-driving-cars-before-they-hit-the-real-world/",
+   "source": "TechCrunch",
+   "kind": "press",
+   "summary": "University of Michigan spinout Laplace Intelligence uses AI agents and interactive simulation to stress-test robots and self-driving vehicles before deployment. The profitable startup is competing in Startup Battlefield at TechCrunch Disrupt, October 13-15 in San Francisco.",
+   "published": "2026-10-19T12:30:00+00:00",
+   "topics": [
+    "Business",
+    "Tools"
+   ],
+   "first_seen": "2026-10-19T19:56:21+00:00"
+  },
+  {
    "id": "b327983725873259",
    "title": "AI researchers stranded Claude on a virtual desert island. It started to “play.”",
    "link": "https://www.technologyreview.com/2026/10/19/1147095/ai-stranded-claude-virtual-desert-island-play/",
@@ -117,6 +287,19 @@
     "Tools"
    ],
    "first_seen": "2026-10-19T13:14:02+00:00"
+  },
+  {
+   "id": "9dbc0d55ff9123c6",
+   "title": "TorchNeuron: running HF models on AWS Trainium is easier than ever",
+   "link": "https://huggingface.co/blog/hf-torchneuron",
+   "source": "Hugging Face",
+   "kind": "lab",
+   "summary": "",
+   "published": "2026-10-19T00:00:00+00:00",
+   "topics": [
+    "Models"
+   ],
+   "first_seen": "2026-10-19T19:56:21+00:00"
   },
   {
    "id": "b8a89dddc6c67001",
@@ -181,7 +364,7 @@
    "link": "https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund/",
    "source": "TechCrunch",
    "kind": "press",
-   "summary": "Anthropic said that it will commit 5% of its shares to the fund.",
+   "summary": "The company offered some broad-strokes ideas for how this money might actually be used, such as “large donations to traditional nonprofits or direct distributions to specific populations.”",
    "published": "2026-10-18T20:37:40+00:00",
    "topics": [],
    "first_seen": "2026-10-18T22:25:57+00:00"
@@ -199,7 +382,7 @@
   },
   {
    "id": "6a083a36de897bf0",
-   "title": "Disney agrees to hire the majority of Character.AI’s workforce",
+   "title": "Disney agrees to hire the majority of Character AI’s workforce",
    "link": "https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/",
    "source": "TechCrunch",
    "kind": "press",
@@ -218,19 +401,6 @@
    "published": "2026-10-18T16:25:19+00:00",
    "topics": [],
    "first_seen": "2026-10-18T18:38:28+00:00"
-  },
-  {
-   "id": "79619743255e89a1",
-   "title": "Websites are closing their doors to AI agents",
-   "link": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web",
-   "source": "Hacker News",
-   "kind": "community",
-   "summary": "Article URL: https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web Comments URL: https://news.ycombinator.com/item?id=50141657 Points: 150 # Comments: 139",
-   "published": "2026-10-18T14:58:10+00:00",
-   "topics": [
-    "Tools"
-   ],
-   "first_seen": "2026-10-17T15:34:23+00:00"
   },
   {
    "id": "a257dddc2d05fd3f",
@@ -297,10 +467,10 @@
    "link": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/",
    "source": "TechCrunch",
    "kind": "press",
-   "summary": "Over the weekend, Masad clarified that OpenAI would replace Anthropic as its default model provider. Claude will still be available to customers on the platform.",
+   "summary": "Masad said the decision was made for a number of different reasons, including cost. Replit announced a partnership with OpenAI in August, but there was never any indication that it was no longer partnering with Anthropic.",
    "published": "2026-10-17T18:48:08+00:00",
    "topics": [
-    "Models"
+    "Business"
    ],
    "first_seen": "2026-10-17T22:18:07+00:00"
   },
@@ -362,6 +532,19 @@
     "Models"
    ],
    "first_seen": "2026-10-17T12:11:23+00:00"
+  },
+  {
+   "id": "79619743255e89a1",
+   "title": "Websites are closing their doors to AI agents",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web",
+   "source": "The Verge",
+   "kind": "press",
+   "summary": "Autonomous agents are the hottest thing in AI. OpenAI, Meta, Google, Instinct, and others promise their agents can scour the internet on your behalf, doing anything from booking a dinner reservation and cleaning out your inbox to buying new shoes. But what happens when the rest…",
+   "published": "2026-10-16T22:31:39+00:00",
+   "topics": [
+    "Tools"
+   ],
+   "first_seen": "2026-10-17T15:34:23+00:00"
   },
   {
    "id": "e946af68fd7dbe0e",
