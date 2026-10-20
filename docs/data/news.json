@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-20T17:03:31+00:00",
+ "updated": "2026-10-20T21:37:04+00:00",
  "sources": [
   {
    "name": "OpenAI",
@@ -92,6 +92,177 @@
  ],
  "items": [
   {
+   "id": "9ea810a533713aeb",
+   "title": "Anthropic’s cloud partnerships are getting messy",
+   "link": "https://techcrunch.com/2026/10/20/anthropics-cloud-partnerships-are-getting-messy/",
+   "source": "TechCrunch",
+   "kind": "press",
+   "summary": "Anthropic is reportedly struggling to secure enough compute from cloud providers that increasingly view it as a competitor, even as its infrastructure spending balloons ahead of a planned November IPO.",
+   "published": "2026-10-20T21:25:22+00:00",
+   "topics": [
+    "Business"
+   ],
+   "first_seen": "2026-10-20T21:37:04+00:00"
+  },
+  {
+   "id": "38bd10c8e49d1d2a",
+   "title": "SpaceX’s AI business is beating expectations",
+   "link": "https://techcrunch.com/2026/10/20/spacexs-ai-business-is-beating-expectations/",
+   "source": "TechCrunch",
+   "kind": "press",
+   "summary": "SpaceX hit profitably in the third-quarter, with net income of $4.4 billion. AI was the engine.",
+   "published": "2026-10-20T20:40:41+00:00",
+   "topics": [],
+   "first_seen": "2026-10-20T21:37:04+00:00"
+  },
+  {
+   "id": "a323e283c5c71adc",
+   "title": "OpenAI acquires startup Orchestra Bio⁠ to beef up its biotech business",
+   "link": "https://techcrunch.com/2026/10/20/openai-acquires-startup-orchestra-bio%e2%81%a0-to-beef-up-its-biotech-business/",
+   "source": "TechCrunch",
+   "kind": "press",
+   "summary": "OpenAI says it's adding Orchestra's team and technology to work on Rosalind, its AI model for life sciences research, and to its related Rosalind Workbench tool, a harness that aims to help researchers plan experiments and analyze results.",
+   "published": "2026-10-20T20:35:10+00:00",
+   "topics": [
+    "Models",
+    "Research",
+    "Business"
+   ],
+   "first_seen": "2026-10-20T21:37:04+00:00"
+  },
+  {
+   "id": "165cb15531466377",
+   "title": "Meta drops the word \"train\" from its commercial TOS after AI backlash",
+   "link": "https://arstechnica.com/tech-policy/2026/10/meta-drops-the-word-train-from-its-commercial-tos-after-ai-backlash/",
+   "source": "Ars Technica",
+   "kind": "press",
+   "summary": "Meta changes AI scraping policy but won’t add language respecting robots.txt.",
+   "published": "2026-10-20T20:07:58+00:00",
+   "topics": [
+    "Policy"
+   ],
+   "first_seen": "2026-10-20T21:37:04+00:00"
+  },
+  {
+   "id": "f74f11fae08faea7",
+   "title": "Gemini's Personal Intelligence is coming to cars",
+   "link": "https://arstechnica.com/google/2026/10/geminis-personal-intelligence-is-coming-to-cars/",
+   "source": "Ars Technica",
+   "kind": "press",
+   "summary": "It's probably time to audit your Gemini settings.",
+   "published": "2026-10-20T20:00:33+00:00",
+   "topics": [
+    "Models"
+   ],
+   "first_seen": "2026-10-20T21:37:04+00:00"
+  },
+  {
+   "id": "3b5ce86c8c402c8d",
+   "title": "Battle Drones - a vibe coded RTS with audio-based multiplayer",
+   "link": "https://simonwillison.net/2026/Oct/20/battledrones/",
+   "source": "Simon Willison",
+   "kind": "community",
+   "summary": "My latest vibe coded game experiment is a Command & Conquer style RTS (Real Time Strategy) game called Battle Drones ( play it here ). Unlike my previous experiments , this one is actually fun to play . I'm somewhat embarrassed to admit that I got there by telling Claude to…",
+   "published": "2026-10-20T19:34:19+00:00",
+   "topics": [
+    "Models"
+   ],
+   "first_seen": "2026-10-20T21:37:04+00:00"
+  },
+  {
+   "id": "45cc8f58865901fe",
+   "title": "Google has joined Amazon in attacking Nvidia’s stronghold with AI app developers",
+   "link": "https://techcrunch.com/2026/10/20/google-has-joined-amazon-in-attacking-nvidias-stronghold-with-ai-app-developers/",
+   "source": "TechCrunch",
+   "kind": "press",
+   "summary": "Google has joined Amazon in releasing a developer tool that makes it easy for PyTorch users to move their apps off Nvidia GPUs.",
+   "published": "2026-10-20T18:38:24+00:00",
+   "topics": [
+    "Tools",
+    "Hardware"
+   ],
+   "first_seen": "2026-10-20T21:37:04+00:00"
+  },
+  {
+   "id": "6f64ba14f44d2e04",
+   "title": "ChatGPT now lets you lock your chats",
+   "link": "https://techcrunch.com/2026/10/20/chatgpt-now-lets-you-lock-your-chats/",
+   "source": "TechCrunch",
+   "kind": "press",
+   "summary": "The company says the feature is designed for situations where users might be discussing something personal or planning a surprise and want to keep those conversations private when handing their device to friends or family to show them something in another chat.",
+   "published": "2026-10-20T18:36:53+00:00",
+   "topics": [],
+   "first_seen": "2026-10-20T21:37:04+00:00"
+  },
+  {
+   "id": "748b8e425db02d3d",
+   "title": "Ukraine’s drone rescue of wounded soldier puts much touted idea into practice",
+   "link": "https://arstechnica.com/gadgets/2026/10/ukraines-drone-rescue-of-wounded-soldier-puts-much-touted-idea-into-practice/",
+   "source": "Ars Technica",
+   "kind": "press",
+   "summary": "Ukraine’s latest drone innovation may boost bleak odds of evacuating casualties.",
+   "published": "2026-10-20T18:22:54+00:00",
+   "topics": [],
+   "first_seen": "2026-10-20T21:37:04+00:00"
+  },
+  {
+   "id": "4eb9f7080b11166e",
+   "title": "NVIDIA Cosmos3-H-Dreams: Bringing Clinical Surgery to Life Through Generative Simulation",
+   "link": "https://huggingface.co/blog/nvidia/cosmos3-h-dreams",
+   "source": "Hugging Face",
+   "kind": "lab",
+   "summary": "",
+   "published": "2026-10-20T18:17:47+00:00",
+   "topics": [
+    "Hardware"
+   ],
+   "first_seen": "2026-10-20T21:37:04+00:00"
+  },
+  {
+   "id": "f52190a49967b68d",
+   "title": "Meta pauses Muse sharing after researchers find AI chats on the web",
+   "link": "https://www.theverge.com/tech/1014627/meta-muse-ai-sharing-ai-chats",
+   "source": "The Verge",
+   "kind": "press",
+   "summary": "Meta says it paused a Muse feature that lets you share conversations with the AI assistant after researchers found the URLs publicly available on the web, as reported by Ars Technica. In a report published this week, researchers at the security firm Claroc say they found more…",
+   "published": "2026-10-20T18:07:34+00:00",
+   "topics": [],
+   "first_seen": "2026-10-20T21:37:04+00:00"
+  },
+  {
+   "id": "2f7a561d0868a8a6",
+   "title": "Eric Schmidt reportedly owns about half as much of Anthropic as CEO Dario Amodei",
+   "link": "https://techcrunch.com/2026/10/20/eric-schmidt-reportedly-owns-about-half-as-much-of-anthropic-as-ceo-dario-amodei/",
+   "source": "TechCrunch",
+   "kind": "press",
+   "summary": "The former Google CEO owns about 1% stake in the leading AI lab, Bloomberg reported.",
+   "published": "2026-10-20T17:55:12+00:00",
+   "topics": [],
+   "first_seen": "2026-10-20T21:37:04+00:00"
+  },
+  {
+   "id": "f25d567c798eab30",
+   "title": "Meta tries to scapegoat staff who downloaded torrents to spare execs",
+   "link": "https://arstechnica.com/tech-policy/2026/10/meta-ordered-to-name-execs-who-approved-torrenting-for-ai-training/",
+   "source": "Ars Technica",
+   "kind": "press",
+   "summary": "Meta argues nobody “decided” to pirate books to train AI.",
+   "published": "2026-10-20T17:40:20+00:00",
+   "topics": [],
+   "first_seen": "2026-10-20T21:37:04+00:00"
+  },
+  {
+   "id": "8891282d78b30c77",
+   "title": "Meta’s Muse hits 10M U.S. downloads in 40 days, a milestone reached by only 11 other apps",
+   "link": "https://techcrunch.com/2026/10/20/metas-muse-hits-10m-u-s-downloads-in-40-days-a-milestone-reached-by-only-11-other-apps/",
+   "source": "TechCrunch",
+   "kind": "press",
+   "summary": "Meta's AI companion Muse has surpassed 10 million U.S. downloads in its first 40 days, joining an exclusive group of apps that includes Threads. New data also shows Muse is retaining users at higher rates than its AI rivals.",
+   "published": "2026-10-20T17:12:48+00:00",
+   "topics": [],
+   "first_seen": "2026-10-20T21:37:04+00:00"
+  },
+  {
    "id": "ca293d8533a3487d",
    "title": "FairStress: A deeper evaluation of fairness in LLM decision-making",
    "link": "https://huggingface.co/blog/allenai/fairstress",
@@ -130,6 +301,17 @@
    "first_seen": "2026-10-20T17:03:31+00:00"
   },
   {
+   "id": "1c6520932c701251",
+   "title": "Steam Users Beg for \"No AI\" Filter as Vibecoders Flood Next Fest",
+   "link": "https://www.ign.com/articles/steam-fans-are-begging-for-a-no-ai-filter-as-steam-next-fest-is-filled-with-slop",
+   "source": "Hacker News",
+   "kind": "community",
+   "summary": "Article URL: https://www.ign.com/articles/steam-fans-are-begging-for-a-no-ai-filter-as-steam-next-fest-is-filled-with-slop Comments URL: https://news.ycombinator.com/item?id=50168190 Points: 151 # Comments: 179",
+   "published": "2026-10-20T15:48:26+00:00",
+   "topics": [],
+   "first_seen": "2026-10-20T21:37:04+00:00"
+  },
+  {
    "id": "913203c4de74009d",
    "title": "The new economics of enterprise AI",
    "link": "https://www.technologyreview.com/2026/10/20/1146937/the-new-economics-of-enterprise-ai/",
@@ -159,7 +341,7 @@
    "link": "https://techcrunch.com/2026/10/20/figma-co-founder-dylan-field-thinks-mcp-is-not-a-perfect-protocol/",
    "source": "TechCrunch",
    "kind": "press",
-   "summary": "Figma said it plans to support as many standards as possible without exposing all of its data",
+   "summary": "Figma said it plans to support as many standards as possible without exposing all of its data.",
    "published": "2026-10-20T14:13:32+00:00",
    "topics": [],
    "first_seen": "2026-10-20T17:03:31+00:00"
@@ -268,6 +450,17 @@
    "first_seen": "2026-10-19T23:41:26+00:00"
   },
   {
+   "id": "b3fcb2e42d321123",
+   "title": "Franchisee reconciles cash in 94% less time with ChatGPT Work",
+   "link": "https://openai.com/index/ted-taylor-restaurant",
+   "source": "OpenAI",
+   "kind": "lab",
+   "summary": "An independent Schlotzsky’s and Cinnabon franchisee cut menu repricing time by 95% and built a workflow that could free up $100K in cash flow.",
+   "published": "2026-10-20T10:00:00+00:00",
+   "topics": [],
+   "first_seen": "2026-10-20T21:37:04+00:00"
+  },
+  {
    "id": "506646dbe51b1aa8",
    "title": "A visit to Samsung’s massive new semiconductor hub",
    "link": "https://www.technologyreview.com/2026/10/20/1145916/dispatch-visit-to-samsung-massive-new-semiconductor-hub/",
@@ -332,6 +525,19 @@
    "first_seen": "2026-10-20T17:03:31+00:00"
   },
   {
+   "id": "dbaa902542534b3a",
+   "title": "OpenAI acquires Orchestra Bio",
+   "link": "https://openai.com/index/openai-to-acquire-orchestra-bio",
+   "source": "OpenAI",
+   "kind": "lab",
+   "summary": "OpenAI is acquiring Orchestra Bio to bring AI-powered operations to life sciences R&D, helping biopharma teams accelerate drug development and advance new treatments.",
+   "published": "2026-10-20T00:00:00+00:00",
+   "topics": [
+    "Business"
+   ],
+   "first_seen": "2026-10-20T21:37:04+00:00"
+  },
+  {
    "id": "af02b0baed077a86",
    "title": "My obituary for programming",
    "link": "https://simonwillison.net/2026/Oct/19/my-obituary-for-programming/",
@@ -361,7 +567,7 @@
    "link": "https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions Comments URL: https://news.ycombinator.com/item?id=50159341 Points: 676 # Comments: 195",
+   "summary": "Article URL: https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions Comments URL: https://news.ycombinator.com/item?id=50159341 Points: 703 # Comments: 204",
    "published": "2026-10-19T23:22:18+00:00",
    "topics": [
     "Models",
@@ -686,7 +892,7 @@
    "link": "https://crystl.dev/guides/tmux-for-ai-agents/",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://crystl.dev/guides/tmux-for-ai-agents/ Comments URL: https://news.ycombinator.com/item?id=50148855 Points: 162 # Comments: 123",
+   "summary": "Article URL: https://crystl.dev/guides/tmux-for-ai-agents/ Comments URL: https://news.ycombinator.com/item?id=50148855 Points: 165 # Comments: 125",
    "published": "2026-10-19T05:55:31+00:00",
    "topics": [
     "Models",
@@ -742,7 +948,7 @@
    "link": "https://jrdsgl.com/if-you-dont-run-your-own-llm-proxy-how-the-fuck-do-you-even-know-whats-going-on/",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://jrdsgl.com/if-you-dont-run-your-own-llm-proxy-how-the-fuck-do-you-even-know-whats-going-on/ Comments URL: https://news.ycombinator.com/item?id=50145507 Points: 298 # Comments: 213",
+   "summary": "Article URL: https://jrdsgl.com/if-you-dont-run-your-own-llm-proxy-how-the-fuck-do-you-even-know-whats-going-on/ Comments URL: https://news.ycombinator.com/item?id=50145507 Points: 299 # Comments: 213",
    "published": "2026-10-18T21:09:12+00:00",
    "topics": [
     "Models"
@@ -840,7 +1046,7 @@
    "link": "https://www.vals.ai/blogs/impossible-refund",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://www.vals.ai/blogs/impossible-refund Comments URL: https://news.ycombinator.com/item?id=50140462 Points: 105 # Comments: 126",
+   "summary": "Article URL: https://www.vals.ai/blogs/impossible-refund Comments URL: https://news.ycombinator.com/item?id=50140462 Points: 106 # Comments: 126",
    "published": "2026-10-18T12:22:58+00:00",
    "topics": [],
    "first_seen": "2026-10-19T23:41:26+00:00"
@@ -1017,7 +1223,7 @@
    "link": "https://claude.dev/blog/solving-code-review-at-anthropic/",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://claude.dev/blog/solving-code-review-at-anthropic/ Comments URL: https://news.ycombinator.com/item?id=50122951 Points: 483 # Comments: 479",
+   "summary": "Article URL: https://claude.dev/blog/solving-code-review-at-anthropic/ Comments URL: https://news.ycombinator.com/item?id=50122951 Points: 483 # Comments: 481",
    "published": "2026-10-16T19:04:47+00:00",
    "topics": [
     "Models"
@@ -1043,7 +1249,7 @@
    "link": "https://www.anthropic.com/research/ecdsa-curve-origins",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "https://words.filippo.io/seeds-solved/ Comments URL: https://news.ycombinator.com/item?id=50122800 Points: 1063 # Comments: 390",
+   "summary": "https://words.filippo.io/seeds-solved/ Comments URL: https://news.ycombinator.com/item?id=50122800 Points: 1063 # Comments: 391",
    "published": "2026-10-16T18:55:59+00:00",
    "topics": [
     "Models"
@@ -1096,7 +1302,7 @@
    "link": "https://www.mercor.com/research/labor-index/benchmark-map/",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://www.mercor.com/research/labor-index/benchmark-map/ Comments URL: https://news.ycombinator.com/item?id=50121179 Points: 626 # Comments: 574",
+   "summary": "Article URL: https://www.mercor.com/research/labor-index/benchmark-map/ Comments URL: https://news.ycombinator.com/item?id=50121179 Points: 628 # Comments: 574",
    "published": "2026-10-16T17:08:38+00:00",
    "topics": [
     "Research"
