@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-20T11:35:33+00:00",
+ "updated": "2026-10-20T17:03:31+00:00",
  "sources": [
   {
    "name": "OpenAI",
@@ -13,9 +13,9 @@
    "name": "Google DeepMind",
    "url": "https://deepmind.google/blog/rss.xml",
    "kind": "lab",
-   "ok": false,
-   "count": 0,
-   "error": "ParseError: not well-formed (invalid token): line 1, column 0"
+   "ok": true,
+   "count": 40,
+   "error": null
   },
   {
    "name": "Google AI",
@@ -91,6 +91,142 @@
   }
  ],
  "items": [
+  {
+   "id": "ca293d8533a3487d",
+   "title": "FairStress: A deeper evaluation of fairness in LLM decision-making",
+   "link": "https://huggingface.co/blog/allenai/fairstress",
+   "source": "Hugging Face",
+   "kind": "lab",
+   "summary": "",
+   "published": "2026-10-20T16:09:19+00:00",
+   "topics": [
+    "Models"
+   ],
+   "first_seen": "2026-10-20T17:03:31+00:00"
+  },
+  {
+   "id": "5130abca4141f29e",
+   "title": "Plants can speak using electricity, so this startup built an AI model to decipher their language",
+   "link": "https://techcrunch.com/2026/10/20/plants-can-speak-using-electricity-so-this-startup-built-an-ai-model-to-decipher-their-language/",
+   "source": "TechCrunch",
+   "kind": "press",
+   "summary": "Electric Plant has built an AI-powered translator to help humans listen to what plants are saying with the subtle electricity coursing through their stems.",
+   "published": "2026-10-20T16:00:00+00:00",
+   "topics": [
+    "Models",
+    "Business"
+   ],
+   "first_seen": "2026-10-20T17:03:31+00:00"
+  },
+  {
+   "id": "e85a4c5da2af52ae",
+   "title": "Spotify pulled 50 million AI slop and spam tracks from its recommendations",
+   "link": "https://www.theverge.com/entertainment/1014284/spotify-ai-slop-spam-songs-removed",
+   "source": "The Verge",
+   "kind": "press",
+   "summary": "Spotify says it has removed more than 50 million songs considered AI-generated slop or spam from user recommendations over the past year. That's according to an announcement on Tuesday that says Spotify has also made changes to its recommendation system to highlight more music…",
+   "published": "2026-10-20T15:53:21+00:00",
+   "topics": [],
+   "first_seen": "2026-10-20T17:03:31+00:00"
+  },
+  {
+   "id": "913203c4de74009d",
+   "title": "The new economics of enterprise AI",
+   "link": "https://www.technologyreview.com/2026/10/20/1146937/the-new-economics-of-enterprise-ai/",
+   "source": "MIT Technology Review",
+   "kind": "press",
+   "summary": "Imagine your company just discovered electricity. At first only a few machines run on it, and nobody worries about efficiency — consumption is low and the value is obvious. But once electricity becomes infrastructure, every process depends on it, and the question changes from…",
+   "published": "2026-10-20T15:20:25+00:00",
+   "topics": [],
+   "first_seen": "2026-10-20T17:03:31+00:00"
+  },
+  {
+   "id": "94e7f4f5c0e52bb7",
+   "title": "ALTK-Evolve: How learned memory tops the τ²-bench leaderboard on customer service tasks without a frontier model",
+   "link": "https://huggingface.co/blog/ibm-research/altk-evolve-bc",
+   "source": "Hugging Face",
+   "kind": "lab",
+   "summary": "",
+   "published": "2026-10-20T15:19:48+00:00",
+   "topics": [
+    "Models"
+   ],
+   "first_seen": "2026-10-20T17:03:31+00:00"
+  },
+  {
+   "id": "6fce357d7ac50eec",
+   "title": "Figma co-founder Dylan Field thinks MCP is not a perfect protocol",
+   "link": "https://techcrunch.com/2026/10/20/figma-co-founder-dylan-field-thinks-mcp-is-not-a-perfect-protocol/",
+   "source": "TechCrunch",
+   "kind": "press",
+   "summary": "Figma said it plans to support as many standards as possible without exposing all of its data",
+   "published": "2026-10-20T14:13:32+00:00",
+   "topics": [],
+   "first_seen": "2026-10-20T17:03:31+00:00"
+  },
+  {
+   "id": "af3e08fe45e19629",
+   "title": "Adobe Lightroom mobile can now open closed eyes in photos with a simple tap",
+   "link": "https://www.theverge.com/tech/1014246/adobe-lightroom-mobile-ai-quick-action-open-eyes-closed-blink-repair",
+   "source": "The Verge",
+   "kind": "press",
+   "summary": "Adobe announced yesterday that the mobile version of Lightroom, available for iOS, iPadOS, and Android, can now open closed eyes in photos using generative AI with just a single tap. When the app detects a person, or a group of people, have their eyes closed in a photo it will…",
+   "published": "2026-10-20T13:12:02+00:00",
+   "topics": [
+    "Tools"
+   ],
+   "first_seen": "2026-10-20T17:03:31+00:00"
+  },
+  {
+   "id": "c723746d1e667296",
+   "title": "US orders federal agencies to remove China’s DeepSeek AI from their systems",
+   "link": "https://techcrunch.com/2026/10/20/us-orders-federal-agencies-to-remove-chinas-deepseek-ai-from-their-systems/",
+   "source": "TechCrunch",
+   "kind": "press",
+   "summary": "The US has ordered federal civilian agencies to remove DeepSeek products and third-party services built using its technology, citing national security concerns.",
+   "published": "2026-10-20T13:07:24+00:00",
+   "topics": [
+    "Models"
+   ],
+   "first_seen": "2026-10-20T17:03:31+00:00"
+  },
+  {
+   "id": "208dc20e81cfcf4e",
+   "title": "Eka is worth $1.45B thanks to a physical AI model that has experts raving",
+   "link": "https://techcrunch.com/2026/10/20/eka-is-worth-1-45-billion-thanks-to-a-physical-ai-model-that-has-experts-raving/",
+   "source": "TechCrunch",
+   "kind": "press",
+   "summary": "Eka Robotics may be the first robotic arm that is actually good at picking a wide range of objects up, and it is so smooth and human-like, it is wowing the industry.",
+   "published": "2026-10-20T13:00:00+00:00",
+   "topics": [
+    "Models"
+   ],
+   "first_seen": "2026-10-20T17:03:31+00:00"
+  },
+  {
+   "id": "fb9936745ef93e7f",
+   "title": "Meta Muse exposes users' personal and business secrets when they share conversations",
+   "link": "https://arstechnica.com/security/2026/10/meta-muse-exposes-users-personal-and-business-secrets-when-they-share-conversations/",
+   "source": "Ars Technica",
+   "kind": "press",
+   "summary": "Meta is suspending the sharing feature while it investigates its privacy.",
+   "published": "2026-10-20T12:33:13+00:00",
+   "topics": [
+    "Business"
+   ],
+   "first_seen": "2026-10-20T17:03:31+00:00"
+  },
+  {
+   "id": "7d296a29338c4ed3",
+   "title": "AI adoption by industry shows what other sectors can learn",
+   "link": "https://www.technologyreview.com/2026/10/20/1145423/ai-adoption-by-industry-shows-what-other-sectors-can-learn/",
+   "source": "MIT Technology Review",
+   "kind": "press",
+   "summary": "The current narrative around artificial intelligence in the workplace is largely driven by Silicon Valley. But treating the tech sector as an island misses the actual trends in technology adoption–tech is just the first industry in line. As generative AI and automation tools…",
+   "published": "2026-10-20T12:00:00+00:00",
+   "topics": [],
+   "first_seen": "2026-10-20T17:03:31+00:00"
+  },
   {
    "id": "697eb620bfd36fec",
    "title": "Otter.ai raises $320 million from General Catalyst’s growth fund for its meeting tool",
@@ -170,6 +306,32 @@
    "first_seen": "2026-10-20T11:35:33+00:00"
   },
   {
+   "id": "84cd8d44e9825e73",
+   "title": "Hugging Face ❤️ TorchTPU: TPUs, Natively",
+   "link": "https://huggingface.co/blog/hf-torchtpu",
+   "source": "Hugging Face",
+   "kind": "lab",
+   "summary": "",
+   "published": "2026-10-20T00:00:00+00:00",
+   "topics": [
+    "Hardware"
+   ],
+   "first_seen": "2026-10-20T17:03:31+00:00"
+  },
+  {
+   "id": "2596ff929aeef557",
+   "title": "AnyLanguageModel 1.0: One Year of Local Models on Apple Platforms",
+   "link": "https://huggingface.co/blog/anylanguagemodel-1-0",
+   "source": "Hugging Face",
+   "kind": "lab",
+   "summary": "",
+   "published": "2026-10-20T00:00:00+00:00",
+   "topics": [
+    "Models"
+   ],
+   "first_seen": "2026-10-20T17:03:31+00:00"
+  },
+  {
    "id": "af02b0baed077a86",
    "title": "My obituary for programming",
    "link": "https://simonwillison.net/2026/Oct/19/my-obituary-for-programming/",
@@ -199,7 +361,7 @@
    "link": "https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions Comments URL: https://news.ycombinator.com/item?id=50159341 Points: 484 # Comments: 143",
+   "summary": "Article URL: https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions Comments URL: https://news.ycombinator.com/item?id=50159341 Points: 676 # Comments: 195",
    "published": "2026-10-19T23:22:18+00:00",
    "topics": [
     "Models",
@@ -435,7 +597,7 @@
    "link": "https://100toolkit.com/blog/deslop-model/",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://100toolkit.com/blog/deslop-model/ Comments URL: https://news.ycombinator.com/item?id=50151928 Points: 149 # Comments: 109",
+   "summary": "Article URL: https://100toolkit.com/blog/deslop-model/ Comments URL: https://news.ycombinator.com/item?id=50151928 Points: 154 # Comments: 110",
    "published": "2026-10-19T13:00:47+00:00",
    "topics": [
     "Models"
@@ -475,7 +637,7 @@
    "link": "https://github.com/IsuruMaduranga/harness-engineering-101",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://github.com/IsuruMaduranga/harness-engineering-101 Comments URL: https://news.ycombinator.com/item?id=50151390 Points: 130 # Comments: 64",
+   "summary": "Article URL: https://github.com/IsuruMaduranga/harness-engineering-101 Comments URL: https://news.ycombinator.com/item?id=50151390 Points: 132 # Comments: 64",
    "published": "2026-10-19T12:07:41+00:00",
    "topics": [
     "Models"
@@ -524,7 +686,7 @@
    "link": "https://crystl.dev/guides/tmux-for-ai-agents/",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://crystl.dev/guides/tmux-for-ai-agents/ Comments URL: https://news.ycombinator.com/item?id=50148855 Points: 156 # Comments: 119",
+   "summary": "Article URL: https://crystl.dev/guides/tmux-for-ai-agents/ Comments URL: https://news.ycombinator.com/item?id=50148855 Points: 162 # Comments: 123",
    "published": "2026-10-19T05:55:31+00:00",
    "topics": [
     "Models",
@@ -580,7 +742,7 @@
    "link": "https://jrdsgl.com/if-you-dont-run-your-own-llm-proxy-how-the-fuck-do-you-even-know-whats-going-on/",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://jrdsgl.com/if-you-dont-run-your-own-llm-proxy-how-the-fuck-do-you-even-know-whats-going-on/ Comments URL: https://news.ycombinator.com/item?id=50145507 Points: 297 # Comments: 212",
+   "summary": "Article URL: https://jrdsgl.com/if-you-dont-run-your-own-llm-proxy-how-the-fuck-do-you-even-know-whats-going-on/ Comments URL: https://news.ycombinator.com/item?id=50145507 Points: 298 # Comments: 213",
    "published": "2026-10-18T21:09:12+00:00",
    "topics": [
     "Models"
@@ -652,7 +814,7 @@
    "link": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web Comments URL: https://news.ycombinator.com/item?id=50141657 Points: 154 # Comments: 149",
+   "summary": "Article URL: https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web Comments URL: https://news.ycombinator.com/item?id=50141657 Points: 155 # Comments: 149",
    "published": "2026-10-18T14:58:10+00:00",
    "topics": [
     "Tools"
@@ -678,7 +840,7 @@
    "link": "https://www.vals.ai/blogs/impossible-refund",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://www.vals.ai/blogs/impossible-refund Comments URL: https://news.ycombinator.com/item?id=50140462 Points: 105 # Comments: 124",
+   "summary": "Article URL: https://www.vals.ai/blogs/impossible-refund Comments URL: https://news.ycombinator.com/item?id=50140462 Points: 105 # Comments: 126",
    "published": "2026-10-18T12:22:58+00:00",
    "topics": [],
    "first_seen": "2026-10-19T23:41:26+00:00"
@@ -881,7 +1043,7 @@
    "link": "https://www.anthropic.com/research/ecdsa-curve-origins",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "https://words.filippo.io/seeds-solved/ Comments URL: https://news.ycombinator.com/item?id=50122800 Points: 1062 # Comments: 390",
+   "summary": "https://words.filippo.io/seeds-solved/ Comments URL: https://news.ycombinator.com/item?id=50122800 Points: 1063 # Comments: 390",
    "published": "2026-10-16T18:55:59+00:00",
    "topics": [
     "Models"
@@ -934,7 +1096,7 @@
    "link": "https://www.mercor.com/research/labor-index/benchmark-map/",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://www.mercor.com/research/labor-index/benchmark-map/ Comments URL: https://news.ycombinator.com/item?id=50121179 Points: 625 # Comments: 574",
+   "summary": "Article URL: https://www.mercor.com/research/labor-index/benchmark-map/ Comments URL: https://news.ycombinator.com/item?id=50121179 Points: 626 # Comments: 574",
    "published": "2026-10-16T17:08:38+00:00",
    "topics": [
     "Research"
@@ -1431,7 +1593,7 @@
    "link": "https://www.simonsfoundation.org/news/simons-foundation-launches-15m-effort-to-help-mathematicians-navigate-ai-era/",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://www.simonsfoundation.org/news/simons-foundation-launches-15m-effort-to-help-mathematicians-navigate-ai-era/ Comments URL: https://news.ycombinator.com/item?id=50104654 Points: 249 # Comments: 199",
+   "summary": "Article URL: https://www.simonsfoundation.org/news/simons-foundation-launches-15m-effort-to-help-mathematicians-navigate-ai-era/ Comments URL: https://news.ycombinator.com/item?id=50104654 Points: 249 # Comments: 201",
    "published": "2026-10-15T14:58:48+00:00",
    "topics": [
     "Tools"
