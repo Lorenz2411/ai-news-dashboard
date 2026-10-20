@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-19T23:41:26+00:00",
+ "updated": "2026-10-20T04:50:27+00:00",
  "sources": [
   {
    "name": "OpenAI",
@@ -13,9 +13,9 @@
    "name": "Google DeepMind",
    "url": "https://deepmind.google/blog/rss.xml",
    "kind": "lab",
-   "ok": true,
-   "count": 40,
-   "error": null
+   "ok": false,
+   "count": 0,
+   "error": "ParseError: not well-formed (invalid token): line 1, column 0"
   },
   {
    "name": "Google AI",
@@ -92,15 +92,55 @@
  ],
  "items": [
   {
+   "id": "ed298111b59a085c",
+   "title": "Mamdani says feds have abdicated on AI, urges New Yorkers to push back",
+   "link": "https://techcrunch.com/2026/10/19/mamdani-says-feds-have-abdicated-on-ai-urges-new-yorkers-to-push-back/",
+   "source": "TechCrunch",
+   "kind": "press",
+   "summary": "Mayor Zohran Mamdani said Monday night that New Yorkers must resist the narrative that an AI takeover is inevitable and demand regulations that protect the public and put power back in their hands.",
+   "published": "2026-10-20T01:27:03+00:00",
+   "topics": [
+    "Policy"
+   ],
+   "first_seen": "2026-10-20T04:50:27+00:00"
+  },
+  {
+   "id": "af02b0baed077a86",
+   "title": "My obituary for programming",
+   "link": "https://simonwillison.net/2026/Oct/19/my-obituary-for-programming/",
+   "source": "Simon Willison",
+   "kind": "community",
+   "summary": "My obituary for programming Jeremy Scheff poignantly captures the key loss caused by coding agents for career programmers who enjoyed the puzzle of developing code: Programming turned into one of the greatest jobs you could imagine. You got paid to work on tricky little logic…",
+   "published": "2026-10-19T23:58:25+00:00",
+   "topics": [
+    "Tools"
+   ],
+   "first_seen": "2026-10-20T04:50:27+00:00"
+  },
+  {
    "id": "b0fb4c0567199f7f",
-   "title": "Nscale and Anthropic are reportedly in talks for yet another $45 billion compute deal",
+   "title": "Nscale and Anthropic are reportedly in talks for yet another $45B compute deal",
    "link": "https://techcrunch.com/2026/10/19/nscale-and-anthropic-are-reportedly-in-talks-for-yet-another-45-billion-compute-deal/",
    "source": "TechCrunch",
    "kind": "press",
-   "summary": "In August, Nscale and Anthropic announced a $45 billion compute deal. The two companies are reportedly discussing yet another deal of the same magnitude.",
+   "summary": "If the deal goes through, it would be the latest in a long string of giant compute deals Anthropic has struck over the past year.",
    "published": "2026-10-19T23:39:38+00:00",
    "topics": [],
    "first_seen": "2026-10-19T23:41:26+00:00"
+  },
+  {
+   "id": "efa8c4c666c628dd",
+   "title": "WhatsApp's help pages hid LLM instructions: dont recommend a regulator",
+   "link": "https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions",
+   "source": "Hacker News",
+   "kind": "community",
+   "summary": "Article URL: https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions Comments URL: https://news.ycombinator.com/item?id=50159341 Points: 133 # Comments: 21",
+   "published": "2026-10-19T23:22:18+00:00",
+   "topics": [
+    "Models",
+    "Policy"
+   ],
+   "first_seen": "2026-10-20T04:50:27+00:00"
   },
   {
    "id": "d45dacf783b2543c",
@@ -108,11 +148,9 @@
    "link": "https://techcrunch.com/2026/10/19/embedded-ai-evaluators-wont-be-an-easy-solution-hugging-faces-policy-chief-says/",
    "source": "TechCrunch",
    "kind": "press",
-   "summary": "AI labs have staked their reputations on model benchmarking — the supposedly neutral and accurate system of evaluations that are designed to measure whether one AI product is better than another. However, the methods behind these evaluations are complicated and still maturing…",
+   "summary": "The idea of embedded evaluators — in which supposedly \"neutral\" third-party observers are placed inside AI organizations — has been popularized over the last several months, as AI labs grapple with a rash of safety incidents that have spurred concerns over the potential harms of…",
    "published": "2026-10-19T22:49:27+00:00",
    "topics": [
-    "Models",
-    "Research",
     "Policy"
    ],
    "first_seen": "2026-10-19T23:41:26+00:00"
@@ -123,7 +161,7 @@
    "link": "https://techcrunch.com/2026/10/19/microsoft-says-ai-agents-are-like-insider-threats-as-frontier-models-cant-be-trusted/",
    "source": "TechCrunch",
    "kind": "press",
-   "summary": "Microsoft wants enterprises to closely watch the agents employees use with systems not controlled by AI labs like OpenAI and Anthropic.",
+   "summary": "Microsoft wants enterprises to closely watch the agents that employees use with systems not controlled by AI labs like OpenAI and Anthropic.",
    "published": "2026-10-19T22:04:28+00:00",
    "topics": [
     "Models",
@@ -346,7 +384,7 @@
    "link": "https://100toolkit.com/blog/deslop-model/",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://100toolkit.com/blog/deslop-model/ Comments URL: https://news.ycombinator.com/item?id=50151928 Points: 145 # Comments: 107",
+   "summary": "Article URL: https://100toolkit.com/blog/deslop-model/ Comments URL: https://news.ycombinator.com/item?id=50151928 Points: 145 # Comments: 108",
    "published": "2026-10-19T13:00:47+00:00",
    "topics": [
     "Models"
@@ -386,7 +424,7 @@
    "link": "https://github.com/IsuruMaduranga/harness-engineering-101",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://github.com/IsuruMaduranga/harness-engineering-101 Comments URL: https://news.ycombinator.com/item?id=50151390 Points: 127 # Comments: 64",
+   "summary": "Article URL: https://github.com/IsuruMaduranga/harness-engineering-101 Comments URL: https://news.ycombinator.com/item?id=50151390 Points: 128 # Comments: 64",
    "published": "2026-10-19T12:07:41+00:00",
    "topics": [
     "Models"
@@ -435,7 +473,7 @@
    "link": "https://crystl.dev/guides/tmux-for-ai-agents/",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://crystl.dev/guides/tmux-for-ai-agents/ Comments URL: https://news.ycombinator.com/item?id=50148855 Points: 146 # Comments: 111",
+   "summary": "Article URL: https://crystl.dev/guides/tmux-for-ai-agents/ Comments URL: https://news.ycombinator.com/item?id=50148855 Points: 153 # Comments: 116",
    "published": "2026-10-19T05:55:31+00:00",
    "topics": [
     "Models",
@@ -491,7 +529,7 @@
    "link": "https://jrdsgl.com/if-you-dont-run-your-own-llm-proxy-how-the-fuck-do-you-even-know-whats-going-on/",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://jrdsgl.com/if-you-dont-run-your-own-llm-proxy-how-the-fuck-do-you-even-know-whats-going-on/ Comments URL: https://news.ycombinator.com/item?id=50145507 Points: 292 # Comments: 206",
+   "summary": "Article URL: https://jrdsgl.com/if-you-dont-run-your-own-llm-proxy-how-the-fuck-do-you-even-know-whats-going-on/ Comments URL: https://news.ycombinator.com/item?id=50145507 Points: 295 # Comments: 210",
    "published": "2026-10-18T21:09:12+00:00",
    "topics": [
     "Models"
@@ -563,7 +601,7 @@
    "link": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web Comments URL: https://news.ycombinator.com/item?id=50141657 Points: 153 # Comments: 149",
+   "summary": "Article URL: https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web Comments URL: https://news.ycombinator.com/item?id=50141657 Points: 154 # Comments: 149",
    "published": "2026-10-18T14:58:10+00:00",
    "topics": [
     "Tools"
@@ -589,7 +627,7 @@
    "link": "https://www.vals.ai/blogs/impossible-refund",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://www.vals.ai/blogs/impossible-refund Comments URL: https://news.ycombinator.com/item?id=50140462 Points: 101 # Comments: 121",
+   "summary": "Article URL: https://www.vals.ai/blogs/impossible-refund Comments URL: https://news.ycombinator.com/item?id=50140462 Points: 104 # Comments: 122",
    "published": "2026-10-18T12:22:58+00:00",
    "topics": [],
    "first_seen": "2026-10-19T23:41:26+00:00"
@@ -705,7 +743,7 @@
    "link": "https://llmspeed.dev/",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://llmspeed.dev/ Comments URL: https://news.ycombinator.com/item?id=50127979 Points: 328 # Comments: 86",
+   "summary": "Article URL: https://llmspeed.dev/ Comments URL: https://news.ycombinator.com/item?id=50127979 Points: 329 # Comments: 86",
    "published": "2026-10-17T04:36:53+00:00",
    "topics": [
     "Models"
@@ -766,7 +804,7 @@
    "link": "https://claude.dev/blog/solving-code-review-at-anthropic/",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://claude.dev/blog/solving-code-review-at-anthropic/ Comments URL: https://news.ycombinator.com/item?id=50122951 Points: 482 # Comments: 479",
+   "summary": "Article URL: https://claude.dev/blog/solving-code-review-at-anthropic/ Comments URL: https://news.ycombinator.com/item?id=50122951 Points: 483 # Comments: 479",
    "published": "2026-10-16T19:04:47+00:00",
    "topics": [
     "Models"
@@ -911,7 +949,7 @@
    "link": "https://www.theregister.com/databases/2026/10/16/postgres-19-delayed-after-ai-reviewers-find-more-bugs-than-humans-can-fix/5303471",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://www.theregister.com/databases/2026/10/16/postgres-19-delayed-after-ai-reviewers-find-more-bugs-than-humans-can-fix/5303471 Comments URL: https://news.ycombinator.com/item?id=50119991 Points: 222 # Comments: 93",
+   "summary": "Article URL: https://www.theregister.com/databases/2026/10/16/postgres-19-delayed-after-ai-reviewers-find-more-bugs-than-humans-can-fix/5303471 Comments URL: https://news.ycombinator.com/item?id=50119991 Points: 223 # Comments: 93",
    "published": "2026-10-16T15:55:40+00:00",
    "topics": [],
    "first_seen": "2026-10-16T21:07:49+00:00"
