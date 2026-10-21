@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-20T21:37:04+00:00",
+ "updated": "2026-10-21T00:37:10+00:00",
  "sources": [
   {
    "name": "OpenAI",
@@ -85,12 +85,75 @@
    "name": "Hacker News",
    "url": "https://hnrss.org/newest?q=AI+OR+LLM+OR+GPT+OR+Claude&points=100",
    "kind": "community",
-   "ok": true,
-   "count": 20,
-   "error": null
+   "ok": false,
+   "count": 0,
+   "error": "TimeoutError: The read operation timed out"
   }
  ],
  "items": [
+  {
+   "id": "aac036aa8666576a",
+   "title": "eMudhra Intermediate CA Compromise",
+   "link": "https://simonwillison.net/2026/Oct/20/emudhra-certificates/",
+   "source": "Simon Willison",
+   "kind": "community",
+   "summary": "eMudhra Intermediate CA Compromise This is very, very bad news: The private keys of eight eMudhra intermediate CA certificates have been compromised. They chain to roots trusted by the Mozilla, Microsoft, Apple and Chrome root programs and by many downstream trust stores. Any…",
+   "published": "2026-10-20T23:50:25+00:00",
+   "topics": [],
+   "first_seen": "2026-10-21T00:37:10+00:00"
+  },
+  {
+   "id": "6559d9cb2b558fef",
+   "title": "Judge dismisses Sam Altman’s sister’s sexual abuse lawsuit",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/1014976/sam-altman-ann-altman-lawsuit-dismissed",
+   "source": "The Verge",
+   "kind": "press",
+   "summary": "On Tuesday, US District Judge Zachary Bluestone dismissed the lawsuit Ann Altman filed last year alleging that her brother, OpenAI CEO Sam Altman, had sexually abused her throughout her childhood. As reported earlier by The Guardian, the judge wrote that over the past year, Ann…",
+   "published": "2026-10-20T23:37:55+00:00",
+   "topics": [
+    "Policy"
+   ],
+   "first_seen": "2026-10-21T00:37:10+00:00"
+  },
+  {
+   "id": "d4e57614c374e23f",
+   "title": "Anthropic pitches AI safety bill that may block a model if 50+ people could be killed",
+   "link": "https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/",
+   "source": "TechCrunch",
+   "kind": "press",
+   "summary": "The proposed policy seems to offer protections against AI run amok but actually forbids federal agencies from blocking a model's release without the permission of a judge.",
+   "published": "2026-10-20T23:01:23+00:00",
+   "topics": [
+    "Models",
+    "Policy",
+    "Tools"
+   ],
+   "first_seen": "2026-10-21T00:37:10+00:00"
+  },
+  {
+   "id": "7f6bb9c0aa5027ea",
+   "title": "Google’s more personalized Gemini AI is heading to your car",
+   "link": "https://www.theverge.com/tech/1014999/google-gemini-ai-cars-android-auto",
+   "source": "The Verge",
+   "kind": "press",
+   "summary": "Google is bringing Personal Intelligence to Gemini AI in your car. With this update, Gemini in Android Auto and cars with Google built-in can tap into your information across Google apps, including Gmail, Calendar, Maps, Photos, YouTube, and Search. As an example, Google says…",
+   "published": "2026-10-20T22:42:47+00:00",
+   "topics": [
+    "Models"
+   ],
+   "first_seen": "2026-10-21T00:37:10+00:00"
+  },
+  {
+   "id": "fda7124672794d3f",
+   "title": "Hugging Face CEO warns that Netflix’s OpenAI hack documentary isn’t accurate",
+   "link": "https://techcrunch.com/2026/10/20/hugging-face-ceo-warns-that-netflixs-openai-hack-documentary-isnt-accurate/",
+   "source": "TechCrunch",
+   "kind": "press",
+   "summary": "Before you share the Netflix documentary \"AI Gone Rogue\" take note. Clem Delangue, Hugging Face's co-founder who is featured in the film, says it went \"full doomer mode\" and isn't accurate.",
+   "published": "2026-10-20T22:24:02+00:00",
+   "topics": [],
+   "first_seen": "2026-10-21T00:37:10+00:00"
+  },
   {
    "id": "9ea810a533713aeb",
    "title": "Anthropic’s cloud partnerships are getting messy",
@@ -365,7 +428,7 @@
    "link": "https://techcrunch.com/2026/10/20/us-orders-federal-agencies-to-remove-chinas-deepseek-ai-from-their-systems/",
    "source": "TechCrunch",
    "kind": "press",
-   "summary": "The US has ordered federal civilian agencies to remove DeepSeek products and third-party services built using its technology, citing national security concerns.",
+   "summary": "The U.S. has ordered federal civilian agencies to remove DeepSeek products and third-party services built using its technology, citing national security concerns.",
    "published": "2026-10-20T13:07:24+00:00",
    "topics": [
     "Models"
@@ -5891,17 +5954,6 @@
    "kind": "lab",
    "summary": "",
    "published": "2026-09-22T00:00:00+00:00",
-   "topics": [],
-   "first_seen": "2026-10-11T09:46:44+00:00"
-  },
-  {
-   "id": "eb792e0fc3420085",
-   "title": "tokenizers v1: encode, decode and scaling, measured",
-   "link": "https://huggingface.co/blog/tokenizers-v1",
-   "source": "Hugging Face",
-   "kind": "lab",
-   "summary": "",
-   "published": "2026-09-21T00:00:00+00:00",
    "topics": [],
    "first_seen": "2026-10-11T09:46:44+00:00"
   }
