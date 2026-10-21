@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-21T18:38:59+00:00",
+ "updated": "2026-10-21T23:18:36+00:00",
  "sources": [
   {
    "name": "OpenAI",
@@ -13,9 +13,9 @@
    "name": "Google DeepMind",
    "url": "https://deepmind.google/blog/rss.xml",
    "kind": "lab",
-   "ok": true,
-   "count": 40,
-   "error": null
+   "ok": false,
+   "count": 0,
+   "error": "ParseError: not well-formed (invalid token): line 1, column 0"
   },
   {
    "name": "Google AI",
@@ -92,6 +92,185 @@
  ],
  "items": [
   {
+   "id": "25443172439e4af4",
+   "title": "Blackstone’s Jas Khaira says fears over AI-buildout debt are overblown",
+   "link": "https://techcrunch.com/2026/10/21/blackstones-jas-khaira-says-fears-over-ai-buildout-debt-are-overblown/",
+   "source": "TechCrunch",
+   "kind": "press",
+   "summary": "Blackstone’s AI head on why the PE giant isn't panicked by market jitters.",
+   "published": "2026-10-21T22:51:22+00:00",
+   "topics": [],
+   "first_seen": "2026-10-21T23:18:36+00:00"
+  },
+  {
+   "id": "eaa3fbf80042951c",
+   "title": "Data centers could erase decades of air quality gains",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/1015958/data-center-pollution-rising-report",
+   "source": "The Verge",
+   "kind": "press",
+   "summary": "A rush of new data centers could bring air pollution roaring back to levels not seen since the 2000s in Texas, which has become ground zero for the physical infrastructure behind generative AI. New and proposed data centers are demanding a tremendous amount of electricity. How…",
+   "published": "2026-10-21T22:33:44+00:00",
+   "topics": [
+    "Hardware"
+   ],
+   "first_seen": "2026-10-21T23:18:36+00:00"
+  },
+  {
+   "id": "89a2c6e8757c1903",
+   "title": "Walmart is inviting AI agents to shop for you",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/1015715/walmart-ai-shopping-agents",
+   "source": "The Verge",
+   "kind": "press",
+   "summary": "Walmart will soon let AI agents shop on its website for you. Next month, the retail giant will allow you to use an AI agent on the site, with systems in place to let you approve and review purchases and set spending limits. The embrace of AI agents stands in stark contrast to…",
+   "published": "2026-10-21T21:36:21+00:00",
+   "topics": [
+    "Tools"
+   ],
+   "first_seen": "2026-10-21T23:18:36+00:00"
+  },
+  {
+   "id": "86bbef590f282368",
+   "title": "Meta to create a new class of shares to fund AI push",
+   "link": "https://www.theverge.com/tech/1015799/meta-shares-class-ai-q3-2026-earnings",
+   "source": "The Verge",
+   "kind": "press",
+   "summary": "Meta says it's issuing a new class of shares to fund its AI initiatives. As part of its third-quarter earnings report released on Wednesday, the company says the non-voting stock will also go toward potential acquisitions and employee compensation, with trading beginning in…",
+   "published": "2026-10-21T21:30:02+00:00",
+   "topics": [
+    "Tools"
+   ],
+   "first_seen": "2026-10-21T23:18:36+00:00"
+  },
+  {
+   "id": "063c29a16ff7723c",
+   "title": "TechCrunch Founder Summit 2026: Everything you need to know",
+   "link": "https://techcrunch.com/2026/10/21/techcrunch-founder-summit-2026-everything-you-need-to-know/",
+   "source": "TechCrunch",
+   "kind": "press",
+   "summary": "TechCrunch Founder Summit is a full-day gathering in Boston on November 4 where founders across all stages connect with top VCs and experienced entrepreneurs to gain tactical insights on building and scaling their companies.",
+   "published": "2026-10-21T21:16:20+00:00",
+   "topics": [],
+   "first_seen": "2026-10-21T23:18:36+00:00"
+  },
+  {
+   "id": "21039cf535863304",
+   "title": "Meta says Muse has over 10M users, with shopping a top activity",
+   "link": "https://techcrunch.com/2026/10/21/meta-says-muse-has-over-10m-users-with-shopping-a-top-activity/",
+   "source": "TechCrunch",
+   "kind": "press",
+   "summary": "Meta Muse users are adopting the app for shopping and personal productivity, the company said during Q3 earnings. The AI app now has over 10M users.",
+   "published": "2026-10-21T21:14:19+00:00",
+   "topics": [
+    "Tools"
+   ],
+   "first_seen": "2026-10-21T23:18:36+00:00"
+  },
+  {
+   "id": "2ed22a61b2f19a0c",
+   "title": "Broad access through consistent standards",
+   "link": "https://openai.com/index/broad-access-through-consistent-standards",
+   "source": "OpenAI",
+   "kind": "lab",
+   "summary": "How OpenAI works with distribution partners to uphold consistent safeguards, support responsible access, and clarify expectations in our Usage Policies.",
+   "published": "2026-10-21T21:00:00+00:00",
+   "topics": [],
+   "first_seen": "2026-10-21T23:18:36+00:00"
+  },
+  {
+   "id": "dc1c99f7973e826c",
+   "title": "Recursive launches Flint, a laptop coding model it says was largely built by AI",
+   "link": "https://techcrunch.com/2026/10/21/recursive-launches-flint-a-laptop-coding-model-it-says-was-largely-built-by-ai/",
+   "source": "TechCrunch",
+   "kind": "press",
+   "summary": "Startup Recursive has released Flint, a free, laptop-sized coding model built largely by its own AI research system, as an early test of AI that improves itself.",
+   "published": "2026-10-21T20:27:41+00:00",
+   "topics": [
+    "Models",
+    "Research",
+    "Business",
+    "Tools"
+   ],
+   "first_seen": "2026-10-21T23:18:36+00:00"
+  },
+  {
+   "id": "0d8d033795840d49",
+   "title": "Anthropic takes on Muse with Claude Duet, its new AI agent",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/1015843/anthropic-claude-duet-ai-agent",
+   "source": "The Verge",
+   "kind": "press",
+   "summary": "Anthropic just announced an AI agent competitor to Meta's Muse and OpenAI's Dots: Claude Duet. The new agent, designed for professionals and small business owners, is launching as a \"research preview,\" according to Anthropic, and it's available as a standalone app on iOS and…",
+   "published": "2026-10-21T19:54:52+00:00",
+   "topics": [
+    "Models",
+    "Research",
+    "Tools"
+   ],
+   "first_seen": "2026-10-21T23:18:36+00:00"
+  },
+  {
+   "id": "140d853f0e3f908f",
+   "title": "The new human-crafted Apple Music brand matters in an AI world",
+   "link": "https://arstechnica.com/culture/2026/10/the-new-human-crafted-apple-music-brand-matters-in-an-ai-world/",
+   "source": "Ars Technica",
+   "kind": "press",
+   "summary": "Opinion: In a world of AI slop, showing the human hands making things helps.",
+   "published": "2026-10-21T19:44:40+00:00",
+   "topics": [],
+   "first_seen": "2026-10-21T23:18:36+00:00"
+  },
+  {
+   "id": "a9cc4be8b0bea8a2",
+   "title": "While Amazon blocks AI agents, Walmart rolls out the welcome mat",
+   "link": "https://techcrunch.com/2026/10/21/while-amazon-blocks-ai-agents-walmart-rolls-out-the-welcome-mat/",
+   "source": "TechCrunch",
+   "kind": "press",
+   "summary": "As Amazon blocks AI agents from shopping on its site, Walmart is taking the opposite approach, introducing new technology that lets AI agents make purchases on customers' behalf, with controls over spending and transaction approvals.",
+   "published": "2026-10-21T19:30:00+00:00",
+   "topics": [
+    "Tools"
+   ],
+   "first_seen": "2026-10-21T23:18:36+00:00"
+  },
+  {
+   "id": "5dbb54a005401fc7",
+   "title": "Claude Duet",
+   "link": "https://claude.com/product/claude-duet",
+   "source": "Hacker News",
+   "kind": "community",
+   "summary": "Article URL: https://claude.com/product/claude-duet Comments URL: https://news.ycombinator.com/item?id=50186037 Points: 274 # Comments: 228",
+   "published": "2026-10-21T19:14:01+00:00",
+   "topics": [
+    "Models"
+   ],
+   "first_seen": "2026-10-21T23:18:36+00:00"
+  },
+  {
+   "id": "53db5cc109270879",
+   "title": "OpenAI's latest AI models are coming to Google Cloud and Antigravity",
+   "link": "https://arstechnica.com/ai/2026/10/openais-latest-ai-models-are-coming-to-google-cloud-and-antigravity/",
+   "source": "Ars Technica",
+   "kind": "press",
+   "summary": "Google Cloud will have GPT 6.1 Astra, Sol, and Luna in the coming weeks.",
+   "published": "2026-10-21T18:51:42+00:00",
+   "topics": [
+    "Models"
+   ],
+   "first_seen": "2026-10-21T23:18:36+00:00"
+  },
+  {
+   "id": "952285572a8e70b9",
+   "title": "Today's PHP Security Release, and How We're Strengthening PHP Security",
+   "link": "https://simonwillison.net/2026/Oct/21/php-security-release/",
+   "source": "Simon Willison",
+   "kind": "community",
+   "summary": "Today's PHP Security Release, and How We're Strengthening PHP Security If you're running anything on PHP it's vital you upgrade - today's updates (across the entire PHP 8.x line) address two remote code execution holes, and there have been exploits circulating since last night…",
+   "published": "2026-10-21T18:41:53+00:00",
+   "topics": [
+    "Tools"
+   ],
+   "first_seen": "2026-10-21T23:18:36+00:00"
+  },
+  {
    "id": "7104bc51c29585cc",
    "title": "NVIDIA Kumo Relational Outperforms Supervised Machine Learning on Relational Data, No Training Required",
    "link": "https://huggingface.co/blog/nvidia/kumo-relational",
@@ -119,6 +298,17 @@
    "first_seen": "2026-10-21T18:38:59+00:00"
   },
   {
+   "id": "66d6885dea0a4d03",
+   "title": "PHP Armageddon: OpenAI, Google’s Wiz find ancient holes, panicking the internet",
+   "link": "https://techcrunch.com/2026/10/21/php-armageddon-openai-googles-wiz-find-ancient-holes-panicking-the-internet/",
+   "source": "TechCrunch",
+   "kind": "press",
+   "summary": "This is the kind of security issue that was found and prevented by AI, but is also a high risk because of AI.",
+   "published": "2026-10-21T17:59:12+00:00",
+   "topics": [],
+   "first_seen": "2026-10-21T23:18:36+00:00"
+  },
+  {
    "id": "354f89a6c7dbf10c",
    "title": "How Specializing the Vocabulary of SLMs Can Cut Inference Cost by 77% in Real Applications",
    "link": "https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization",
@@ -128,6 +318,19 @@
    "published": "2026-10-21T17:35:36+00:00",
    "topics": [],
    "first_seen": "2026-10-21T18:38:59+00:00"
+  },
+  {
+   "id": "49c4538f4284d648",
+   "title": "Blacksmith hits unicorn valuation after Sequoia leads Series C",
+   "link": "https://techcrunch.com/2026/10/21/blacksmith-hits-unicorn-valuation-after-sequoia-leads-series-c/",
+   "source": "TechCrunch",
+   "kind": "press",
+   "summary": "Blacksmith, a platform that lets companies build and test AI code more effectively, just announced a $66 million Series C round led by Sequoia that values the company at $1 billion.",
+   "published": "2026-10-21T17:18:27+00:00",
+   "topics": [
+    "Business"
+   ],
+   "first_seen": "2026-10-21T23:18:36+00:00"
   },
   {
    "id": "4ab93569e260b2b0",
@@ -220,10 +423,24 @@
    "link": "https://www.wiz.io/blog/php2shell-php-rce",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "https://www.php2shell.com/ Comments URL: https://news.ycombinator.com/item?id=50180836 Points: 398 # Comments: 151",
+   "summary": "https://www.php2shell.com/ Comments URL: https://news.ycombinator.com/item?id=50180836 Points: 428 # Comments: 171",
    "published": "2026-10-21T13:43:19+00:00",
    "topics": [],
    "first_seen": "2026-10-21T18:38:59+00:00"
+  },
+  {
+   "id": "e3212a9c9359a209",
+   "title": "Using thousands of AI agents to uncover new leads in biological data",
+   "link": "https://openai.com/index/scaling-ai-research-for-complex-biological-data/",
+   "source": "Hacker News",
+   "kind": "community",
+   "summary": "Article URL: https://openai.com/index/scaling-ai-research-for-complex-biological-data/ Comments URL: https://news.ycombinator.com/item?id=50180752 Points: 123 # Comments: 75",
+   "published": "2026-10-21T13:37:00+00:00",
+   "topics": [
+    "Research",
+    "Tools"
+   ],
+   "first_seen": "2026-10-21T23:18:36+00:00"
   },
   {
    "id": "1bbb4f6fc3d14211",
@@ -332,13 +549,24 @@
    "link": "https://www.anthropic.com/research/attack-surface-reduction",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://www.anthropic.com/research/attack-surface-reduction Comments URL: https://news.ycombinator.com/item?id=50175779 Points: 118 # Comments: 78",
+   "summary": "Article URL: https://www.anthropic.com/research/attack-surface-reduction Comments URL: https://news.ycombinator.com/item?id=50175779 Points: 129 # Comments: 84",
    "published": "2026-10-21T03:36:43+00:00",
    "topics": [
     "Models",
     "Research"
    ],
    "first_seen": "2026-10-21T18:38:59+00:00"
+  },
+  {
+   "id": "b2deaf97c98cf0ff",
+   "title": "Democratic governance of frontier AI, part II: Empowering cyber defenders",
+   "link": "https://openai.com/index/empowering-cyber-defenders",
+   "source": "OpenAI",
+   "kind": "lab",
+   "summary": "OpenAI outlines a blueprint for empowering cyber defenders with frontier AI, stronger safeguards, modernized cybersecurity, and more resilient public institutions.",
+   "published": "2026-10-21T00:00:00+00:00",
+   "topics": [],
+   "first_seen": "2026-10-21T23:18:36+00:00"
   },
   {
    "id": "aac036aa8666576a",
@@ -558,7 +786,7 @@
    "link": "https://www.anthropic.com/research/claude-scorpion-toxin-binder-design",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://www.anthropic.com/research/claude-scorpion-toxin-binder-design Comments URL: https://news.ycombinator.com/item?id=50170021 Points: 114 # Comments: 71",
+   "summary": "Article URL: https://www.anthropic.com/research/claude-scorpion-toxin-binder-design Comments URL: https://news.ycombinator.com/item?id=50170021 Points: 117 # Comments: 75",
    "published": "2026-10-20T17:48:29+00:00",
    "topics": [
     "Models",
@@ -645,7 +873,7 @@
    "link": "https://www.ign.com/articles/steam-fans-are-begging-for-a-no-ai-filter-as-steam-next-fest-is-filled-with-slop",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://www.ign.com/articles/steam-fans-are-begging-for-a-no-ai-filter-as-steam-next-fest-is-filled-with-slop Comments URL: https://news.ycombinator.com/item?id=50168190 Points: 183 # Comments: 220",
+   "summary": "Article URL: https://www.ign.com/articles/steam-fans-are-begging-for-a-no-ai-filter-as-steam-next-fest-is-filled-with-slop Comments URL: https://news.ycombinator.com/item?id=50168190 Points: 183 # Comments: 228",
    "published": "2026-10-20T15:48:26+00:00",
    "topics": [],
    "first_seen": "2026-10-20T21:37:04+00:00"
@@ -921,7 +1149,7 @@
    "link": "https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions Comments URL: https://news.ycombinator.com/item?id=50159341 Points: 736 # Comments: 216",
+   "summary": "Article URL: https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions Comments URL: https://news.ycombinator.com/item?id=50159341 Points: 737 # Comments: 215",
    "published": "2026-10-19T23:22:18+00:00",
    "topics": [
     "Models",
@@ -1157,7 +1385,7 @@
    "link": "https://100toolkit.com/blog/deslop-model/",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://100toolkit.com/blog/deslop-model/ Comments URL: https://news.ycombinator.com/item?id=50151928 Points: 157 # Comments: 111",
+   "summary": "Article URL: https://100toolkit.com/blog/deslop-model/ Comments URL: https://news.ycombinator.com/item?id=50151928 Points: 158 # Comments: 113",
    "published": "2026-10-19T13:00:47+00:00",
    "topics": [
     "Models"
@@ -1246,7 +1474,7 @@
    "link": "https://crystl.dev/guides/tmux-for-ai-agents/",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://crystl.dev/guides/tmux-for-ai-agents/ Comments URL: https://news.ycombinator.com/item?id=50148855 Points: 169 # Comments: 128",
+   "summary": "Article URL: https://crystl.dev/guides/tmux-for-ai-agents/ Comments URL: https://news.ycombinator.com/item?id=50148855 Points: 170 # Comments: 128",
    "published": "2026-10-19T05:55:31+00:00",
    "topics": [
     "Models",
@@ -1302,7 +1530,7 @@
    "link": "https://jrdsgl.com/if-you-dont-run-your-own-llm-proxy-how-the-fuck-do-you-even-know-whats-going-on/",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://jrdsgl.com/if-you-dont-run-your-own-llm-proxy-how-the-fuck-do-you-even-know-whats-going-on/ Comments URL: https://news.ycombinator.com/item?id=50145507 Points: 302 # Comments: 217",
+   "summary": "Article URL: https://jrdsgl.com/if-you-dont-run-your-own-llm-proxy-how-the-fuck-do-you-even-know-whats-going-on/ Comments URL: https://news.ycombinator.com/item?id=50145507 Points: 302 # Comments: 218",
    "published": "2026-10-18T21:09:12+00:00",
    "topics": [
     "Models"
@@ -1374,7 +1602,7 @@
    "link": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web Comments URL: https://news.ycombinator.com/item?id=50141657 Points: 157 # Comments: 149",
+   "summary": "Article URL: https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web Comments URL: https://news.ycombinator.com/item?id=50141657 Points: 158 # Comments: 149",
    "published": "2026-10-18T14:58:10+00:00",
    "topics": [
     "Tools"
@@ -1577,7 +1805,7 @@
    "link": "https://claude.dev/blog/solving-code-review-at-anthropic/",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://claude.dev/blog/solving-code-review-at-anthropic/ Comments URL: https://news.ycombinator.com/item?id=50122951 Points: 484 # Comments: 481",
+   "summary": "Article URL: https://claude.dev/blog/solving-code-review-at-anthropic/ Comments URL: https://news.ycombinator.com/item?id=50122951 Points: 484 # Comments: 480",
    "published": "2026-10-16T19:04:47+00:00",
    "topics": [
     "Models"
