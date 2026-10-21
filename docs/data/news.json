@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-21T00:37:10+00:00",
+ "updated": "2026-10-21T07:39:23+00:00",
  "sources": [
   {
    "name": "OpenAI",
@@ -13,9 +13,9 @@
    "name": "Google DeepMind",
    "url": "https://deepmind.google/blog/rss.xml",
    "kind": "lab",
-   "ok": true,
-   "count": 40,
-   "error": null
+   "ok": false,
+   "count": 0,
+   "error": "ParseError: not well-formed (invalid token): line 1, column 0"
   },
   {
    "name": "Google AI",
@@ -85,12 +85,23 @@
    "name": "Hacker News",
    "url": "https://hnrss.org/newest?q=AI+OR+LLM+OR+GPT+OR+Claude&points=100",
    "kind": "community",
-   "ok": false,
-   "count": 0,
-   "error": "TimeoutError: The read operation timed out"
+   "ok": true,
+   "count": 20,
+   "error": null
   }
  ],
  "items": [
+  {
+   "id": "1778fb273dbb6c0b",
+   "title": "Southeast Asia’s digital economy to hit $368 billion",
+   "link": "https://blog.google/company-news/inside-google/around-the-globe/google-asia/e-conomy-sea-report-2026/",
+   "source": "Google AI",
+   "kind": "lab",
+   "summary": "",
+   "published": "2026-10-21T04:00:00+00:00",
+   "topics": [],
+   "first_seen": "2026-10-21T07:39:23+00:00"
+  },
   {
    "id": "aac036aa8666576a",
    "title": "eMudhra Intermediate CA Compromise",
@@ -121,7 +132,7 @@
    "link": "https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/",
    "source": "TechCrunch",
    "kind": "press",
-   "summary": "The proposed policy seems to offer protections against AI run amok but actually forbids federal agencies from blocking a model's release without the permission of a judge.",
+   "summary": "The proposed policy seems to offer protections against AI running amok but actually forbids federal agencies from blocking a model's release without the permission of a judge.",
    "published": "2026-10-20T23:01:23+00:00",
    "topics": [
     "Models",
@@ -149,7 +160,7 @@
    "link": "https://techcrunch.com/2026/10/20/hugging-face-ceo-warns-that-netflixs-openai-hack-documentary-isnt-accurate/",
    "source": "TechCrunch",
    "kind": "press",
-   "summary": "Before you share the Netflix documentary \"AI Gone Rogue\" take note. Clem Delangue, Hugging Face's co-founder who is featured in the film, says it went \"full doomer mode\" and isn't accurate.",
+   "summary": "Before you share the Netflix documentary \"AI Gone Rogue,\" take note. Clem Delangue, Hugging Face's co-founder who is featured in the film, says it went \"full doomer mode\" and isn't accurate.",
    "published": "2026-10-20T22:24:02+00:00",
    "topics": [],
    "first_seen": "2026-10-21T00:37:10+00:00"
@@ -173,7 +184,7 @@
    "link": "https://techcrunch.com/2026/10/20/spacexs-ai-business-is-beating-expectations/",
    "source": "TechCrunch",
    "kind": "press",
-   "summary": "SpaceX hit profitably in the third-quarter, with net income of $4.4 billion. AI was the engine.",
+   "summary": "SpaceX hit profitability in the third quarter, with net income of $4.4 billion. AI was the engine.",
    "published": "2026-10-20T20:40:41+00:00",
    "topics": [],
    "first_seen": "2026-10-20T21:37:04+00:00"
@@ -298,10 +309,24 @@
    "link": "https://techcrunch.com/2026/10/20/eric-schmidt-reportedly-owns-about-half-as-much-of-anthropic-as-ceo-dario-amodei/",
    "source": "TechCrunch",
    "kind": "press",
-   "summary": "The former Google CEO owns about 1% stake in the leading AI lab, Bloomberg reported.",
+   "summary": "Eric Schmidt’s fortune is about to get even bigger.",
    "published": "2026-10-20T17:55:12+00:00",
    "topics": [],
    "first_seen": "2026-10-20T21:37:04+00:00"
+  },
+  {
+   "id": "c021c28354e5e9fa",
+   "title": "Claude designed protein binders against scorpion neurotoxins",
+   "link": "https://www.anthropic.com/research/claude-scorpion-toxin-binder-design",
+   "source": "Hacker News",
+   "kind": "community",
+   "summary": "Article URL: https://www.anthropic.com/research/claude-scorpion-toxin-binder-design Comments URL: https://news.ycombinator.com/item?id=50170021 Points: 104 # Comments: 67",
+   "published": "2026-10-20T17:48:29+00:00",
+   "topics": [
+    "Models",
+    "Research"
+   ],
+   "first_seen": "2026-10-21T07:39:23+00:00"
   },
   {
    "id": "f25d567c798eab30",
@@ -316,14 +341,27 @@
   },
   {
    "id": "8891282d78b30c77",
-   "title": "Meta’s Muse hits 10M U.S. downloads in 40 days, a milestone reached by only 11 other apps",
+   "title": "Meta’s Muse hits 10M US downloads in 40 days, a milestone reached by only 11 other apps",
    "link": "https://techcrunch.com/2026/10/20/metas-muse-hits-10m-u-s-downloads-in-40-days-a-milestone-reached-by-only-11-other-apps/",
    "source": "TechCrunch",
    "kind": "press",
-   "summary": "Meta's AI companion Muse has surpassed 10 million U.S. downloads in its first 40 days, joining an exclusive group of apps that includes Threads. New data also shows Muse is retaining users at higher rates than its AI rivals.",
+   "summary": "New data also shows Muse is retaining users at higher rates than its AI rivals.",
    "published": "2026-10-20T17:12:48+00:00",
    "topics": [],
    "first_seen": "2026-10-20T21:37:04+00:00"
+  },
+  {
+   "id": "6422ce081b343d5f",
+   "title": "Ex-Nvidia-turned-VC Amulya Vishwanath: ‘Physical AI is in its LEGO era’",
+   "link": "https://techcrunch.com/2026/10/20/ex-nvidia-turned-vc-amulya-vishwanath-physical-ai-is-in-its-lego-era/",
+   "source": "TechCrunch",
+   "kind": "press",
+   "summary": "It’s the moment everyone is waiting for — the ChatGPT moment for robotics, Amulya Vishwanath explained to TechCrunch’s Equity.",
+   "published": "2026-10-20T16:20:06+00:00",
+   "topics": [
+    "Hardware"
+   ],
+   "first_seen": "2026-10-21T07:39:23+00:00"
   },
   {
    "id": "ca293d8533a3487d",
@@ -369,7 +407,7 @@
    "link": "https://www.ign.com/articles/steam-fans-are-begging-for-a-no-ai-filter-as-steam-next-fest-is-filled-with-slop",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://www.ign.com/articles/steam-fans-are-begging-for-a-no-ai-filter-as-steam-next-fest-is-filled-with-slop Comments URL: https://news.ycombinator.com/item?id=50168190 Points: 151 # Comments: 179",
+   "summary": "Article URL: https://www.ign.com/articles/steam-fans-are-begging-for-a-no-ai-filter-as-steam-next-fest-is-filled-with-slop Comments URL: https://news.ycombinator.com/item?id=50168190 Points: 176 # Comments: 204",
    "published": "2026-10-20T15:48:26+00:00",
    "topics": [],
    "first_seen": "2026-10-20T21:37:04+00:00"
@@ -441,7 +479,7 @@
    "link": "https://techcrunch.com/2026/10/20/eka-is-worth-1-45-billion-thanks-to-a-physical-ai-model-that-has-experts-raving/",
    "source": "TechCrunch",
    "kind": "press",
-   "summary": "Eka Robotics may be the first robotic arm that is actually good at picking a wide range of objects up, and it is so smooth and human-like, it is wowing the industry.",
+   "summary": "Eka Robotics may be the first robotic arm that is actually good at picking up a wide range of objects, and it is so smooth and human-like, it is wowing the industry.",
    "published": "2026-10-20T13:00:00+00:00",
    "topics": [
     "Models"
@@ -474,11 +512,11 @@
   },
   {
    "id": "697eb620bfd36fec",
-   "title": "Otter.ai raises $320 million from General Catalyst’s growth fund for its meeting tool",
+   "title": "Otter AI raises $320M from General Catalyst’s growth fund for its meeting tool",
    "link": "https://techcrunch.com/2026/10/20/otter-ai-raises-320-million-from-general-catalysts-growth-fund-for-its-meeting-tool/",
    "source": "TechCrunch",
    "kind": "press",
-   "summary": "Meeting note-taking tool Otter.ai announced on Tuesday that it has raised $320 million from General Catalyst’s Customer Value Fund (CVF), which provides capital to startups without diluting equity and gets returns on the results of marketing spend. Otter.ai said that it will use…",
+   "summary": "Otter.ai said that it will use these funds for enterprise growth, go-to-market strategy, international expansion, and product innovation.",
    "published": "2026-10-20T11:00:00+00:00",
    "topics": [
     "Business"
@@ -536,6 +574,21 @@
     "Hardware"
    ],
    "first_seen": "2026-10-20T11:35:33+00:00"
+  },
+  {
+   "id": "a84b6a7bee5c68a6",
+   "title": "Terminal X matches senior investor judgment 88.6% with GPT-6.1",
+   "link": "https://openai.com/index/terminal-x",
+   "source": "OpenAI",
+   "kind": "lab",
+   "summary": "Terminal X’s Eval Agent grades outputs against a 54-criterion rubric, catching 25% more deviances from a fund’s mandate with GPT-6.1 Sol.",
+   "published": "2026-10-20T07:00:00+00:00",
+   "topics": [
+    "Models",
+    "Business",
+    "Tools"
+   ],
+   "first_seen": "2026-10-21T07:39:23+00:00"
   },
   {
    "id": "ed298111b59a085c",
@@ -630,7 +683,7 @@
    "link": "https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions Comments URL: https://news.ycombinator.com/item?id=50159341 Points: 703 # Comments: 204",
+   "summary": "Article URL: https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions Comments URL: https://news.ycombinator.com/item?id=50159341 Points: 724 # Comments: 208",
    "published": "2026-10-19T23:22:18+00:00",
    "topics": [
     "Models",
@@ -866,7 +919,7 @@
    "link": "https://100toolkit.com/blog/deslop-model/",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://100toolkit.com/blog/deslop-model/ Comments URL: https://news.ycombinator.com/item?id=50151928 Points: 154 # Comments: 110",
+   "summary": "Article URL: https://100toolkit.com/blog/deslop-model/ Comments URL: https://news.ycombinator.com/item?id=50151928 Points: 155 # Comments: 110",
    "published": "2026-10-19T13:00:47+00:00",
    "topics": [
     "Models"
@@ -955,7 +1008,7 @@
    "link": "https://crystl.dev/guides/tmux-for-ai-agents/",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://crystl.dev/guides/tmux-for-ai-agents/ Comments URL: https://news.ycombinator.com/item?id=50148855 Points: 165 # Comments: 125",
+   "summary": "Article URL: https://crystl.dev/guides/tmux-for-ai-agents/ Comments URL: https://news.ycombinator.com/item?id=50148855 Points: 168 # Comments: 127",
    "published": "2026-10-19T05:55:31+00:00",
    "topics": [
     "Models",
@@ -1011,7 +1064,7 @@
    "link": "https://jrdsgl.com/if-you-dont-run-your-own-llm-proxy-how-the-fuck-do-you-even-know-whats-going-on/",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://jrdsgl.com/if-you-dont-run-your-own-llm-proxy-how-the-fuck-do-you-even-know-whats-going-on/ Comments URL: https://news.ycombinator.com/item?id=50145507 Points: 299 # Comments: 213",
+   "summary": "Article URL: https://jrdsgl.com/if-you-dont-run-your-own-llm-proxy-how-the-fuck-do-you-even-know-whats-going-on/ Comments URL: https://news.ycombinator.com/item?id=50145507 Points: 301 # Comments: 216",
    "published": "2026-10-18T21:09:12+00:00",
    "topics": [
     "Models"
@@ -1083,7 +1136,7 @@
    "link": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web Comments URL: https://news.ycombinator.com/item?id=50141657 Points: 155 # Comments: 149",
+   "summary": "Article URL: https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web Comments URL: https://news.ycombinator.com/item?id=50141657 Points: 156 # Comments: 149",
    "published": "2026-10-18T14:58:10+00:00",
    "topics": [
     "Tools"
@@ -1286,7 +1339,7 @@
    "link": "https://claude.dev/blog/solving-code-review-at-anthropic/",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://claude.dev/blog/solving-code-review-at-anthropic/ Comments URL: https://news.ycombinator.com/item?id=50122951 Points: 483 # Comments: 481",
+   "summary": "Article URL: https://claude.dev/blog/solving-code-review-at-anthropic/ Comments URL: https://news.ycombinator.com/item?id=50122951 Points: 484 # Comments: 481",
    "published": "2026-10-16T19:04:47+00:00",
    "topics": [
     "Models"
@@ -1312,7 +1365,7 @@
    "link": "https://www.anthropic.com/research/ecdsa-curve-origins",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "https://words.filippo.io/seeds-solved/ Comments URL: https://news.ycombinator.com/item?id=50122800 Points: 1063 # Comments: 391",
+   "summary": "https://words.filippo.io/seeds-solved/ Comments URL: https://news.ycombinator.com/item?id=50122800 Points: 1064 # Comments: 391",
    "published": "2026-10-16T18:55:59+00:00",
    "topics": [
     "Models"
@@ -1365,7 +1418,7 @@
    "link": "https://www.mercor.com/research/labor-index/benchmark-map/",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://www.mercor.com/research/labor-index/benchmark-map/ Comments URL: https://news.ycombinator.com/item?id=50121179 Points: 628 # Comments: 574",
+   "summary": "Article URL: https://www.mercor.com/research/labor-index/benchmark-map/ Comments URL: https://news.ycombinator.com/item?id=50121179 Points: 628 # Comments: 575",
    "published": "2026-10-16T17:08:38+00:00",
    "topics": [
     "Research"
