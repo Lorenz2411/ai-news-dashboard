@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-21T07:39:23+00:00",
+ "updated": "2026-10-21T13:48:16+00:00",
  "sources": [
   {
    "name": "OpenAI",
@@ -61,9 +61,9 @@
    "name": "Ars Technica",
    "url": "https://arstechnica.com/ai/feed/",
    "kind": "press",
-   "ok": true,
-   "count": 20,
-   "error": null
+   "ok": false,
+   "count": 0,
+   "error": "HTTPError: HTTP Error 503: Service Temporarily Unavailable"
   },
   {
    "name": "VentureBeat",
@@ -91,6 +91,32 @@
   }
  ],
  "items": [
+  {
+   "id": "38715d90bd30f009",
+   "title": "NVIDIA Kumo Forecast Combines Pretrained Time-Series Representations with Historical Pattern Retrieval and Interpretability",
+   "link": "https://huggingface.co/blog/nvidia/kumo-forecast",
+   "source": "Hugging Face",
+   "kind": "lab",
+   "summary": "",
+   "published": "2026-10-21T12:51:24+00:00",
+   "topics": [
+    "Hardware"
+   ],
+   "first_seen": "2026-10-21T13:48:16+00:00"
+  },
+  {
+   "id": "61f4d0141ff303c0",
+   "title": "OpenAI models are coming to Google Cloud",
+   "link": "https://openai.com/index/openai-models-google-cloud",
+   "source": "OpenAI",
+   "kind": "lab",
+   "summary": "OpenAI and Google Cloud are bringing frontier models and Codex workflows to Gemini’s Model Garden, available through Google Cloud Marketplace.",
+   "published": "2026-10-21T12:00:00+00:00",
+   "topics": [
+    "Models"
+   ],
+   "first_seen": "2026-10-21T13:48:16+00:00"
+  },
   {
    "id": "1778fb273dbb6c0b",
    "title": "Southeast Asia’s digital economy to hit $368 billion",
@@ -320,7 +346,7 @@
    "link": "https://www.anthropic.com/research/claude-scorpion-toxin-binder-design",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://www.anthropic.com/research/claude-scorpion-toxin-binder-design Comments URL: https://news.ycombinator.com/item?id=50170021 Points: 104 # Comments: 67",
+   "summary": "Article URL: https://www.anthropic.com/research/claude-scorpion-toxin-binder-design Comments URL: https://news.ycombinator.com/item?id=50170021 Points: 110 # Comments: 70",
    "published": "2026-10-20T17:48:29+00:00",
    "topics": [
     "Models",
@@ -407,7 +433,7 @@
    "link": "https://www.ign.com/articles/steam-fans-are-begging-for-a-no-ai-filter-as-steam-next-fest-is-filled-with-slop",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://www.ign.com/articles/steam-fans-are-begging-for-a-no-ai-filter-as-steam-next-fest-is-filled-with-slop Comments URL: https://news.ycombinator.com/item?id=50168190 Points: 176 # Comments: 204",
+   "summary": "Article URL: https://www.ign.com/articles/steam-fans-are-begging-for-a-no-ai-filter-as-steam-next-fest-is-filled-with-slop Comments URL: https://news.ycombinator.com/item?id=50168190 Points: 180 # Comments: 215",
    "published": "2026-10-20T15:48:26+00:00",
    "topics": [],
    "first_seen": "2026-10-20T21:37:04+00:00"
@@ -683,7 +709,7 @@
    "link": "https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions Comments URL: https://news.ycombinator.com/item?id=50159341 Points: 724 # Comments: 208",
+   "summary": "Article URL: https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions Comments URL: https://news.ycombinator.com/item?id=50159341 Points: 732 # Comments: 210",
    "published": "2026-10-19T23:22:18+00:00",
    "topics": [
     "Models",
@@ -919,7 +945,7 @@
    "link": "https://100toolkit.com/blog/deslop-model/",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://100toolkit.com/blog/deslop-model/ Comments URL: https://news.ycombinator.com/item?id=50151928 Points: 155 # Comments: 110",
+   "summary": "Article URL: https://100toolkit.com/blog/deslop-model/ Comments URL: https://news.ycombinator.com/item?id=50151928 Points: 156 # Comments: 111",
    "published": "2026-10-19T13:00:47+00:00",
    "topics": [
     "Models"
@@ -1008,7 +1034,7 @@
    "link": "https://crystl.dev/guides/tmux-for-ai-agents/",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://crystl.dev/guides/tmux-for-ai-agents/ Comments URL: https://news.ycombinator.com/item?id=50148855 Points: 168 # Comments: 127",
+   "summary": "Article URL: https://crystl.dev/guides/tmux-for-ai-agents/ Comments URL: https://news.ycombinator.com/item?id=50148855 Points: 169 # Comments: 128",
    "published": "2026-10-19T05:55:31+00:00",
    "topics": [
     "Models",
@@ -1064,7 +1090,7 @@
    "link": "https://jrdsgl.com/if-you-dont-run-your-own-llm-proxy-how-the-fuck-do-you-even-know-whats-going-on/",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://jrdsgl.com/if-you-dont-run-your-own-llm-proxy-how-the-fuck-do-you-even-know-whats-going-on/ Comments URL: https://news.ycombinator.com/item?id=50145507 Points: 301 # Comments: 216",
+   "summary": "Article URL: https://jrdsgl.com/if-you-dont-run-your-own-llm-proxy-how-the-fuck-do-you-even-know-whats-going-on/ Comments URL: https://news.ycombinator.com/item?id=50145507 Points: 302 # Comments: 217",
    "published": "2026-10-18T21:09:12+00:00",
    "topics": [
     "Models"
@@ -1136,7 +1162,7 @@
    "link": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web Comments URL: https://news.ycombinator.com/item?id=50141657 Points: 156 # Comments: 149",
+   "summary": "Article URL: https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web Comments URL: https://news.ycombinator.com/item?id=50141657 Points: 157 # Comments: 149",
    "published": "2026-10-18T14:58:10+00:00",
    "topics": [
     "Tools"
@@ -1365,7 +1391,7 @@
    "link": "https://www.anthropic.com/research/ecdsa-curve-origins",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "https://words.filippo.io/seeds-solved/ Comments URL: https://news.ycombinator.com/item?id=50122800 Points: 1064 # Comments: 391",
+   "summary": "https://words.filippo.io/seeds-solved/ Comments URL: https://news.ycombinator.com/item?id=50122800 Points: 1065 # Comments: 391",
    "published": "2026-10-16T18:55:59+00:00",
    "topics": [
     "Models"
@@ -1378,7 +1404,7 @@
    "link": "https://www.anthropic.com/research/designing-efficient-quantum-circuits",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://www.anthropic.com/research/designing-efficient-quantum-circuits Comments URL: https://news.ycombinator.com/item?id=50121939 Points: 173 # Comments: 37",
+   "summary": "Article URL: https://www.anthropic.com/research/designing-efficient-quantum-circuits Comments URL: https://news.ycombinator.com/item?id=50121939 Points: 174 # Comments: 37",
    "published": "2026-10-16T18:00:18+00:00",
    "topics": [
     "Models",
