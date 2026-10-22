@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-22T04:44:18+00:00",
+ "updated": "2026-10-22T11:51:52+00:00",
  "sources": [
   {
    "name": "OpenAI",
@@ -13,9 +13,9 @@
    "name": "Google DeepMind",
    "url": "https://deepmind.google/blog/rss.xml",
    "kind": "lab",
-   "ok": true,
-   "count": 40,
-   "error": null
+   "ok": false,
+   "count": 0,
+   "error": "ParseError: not well-formed (invalid token): line 1, column 0"
   },
   {
    "name": "Google AI",
@@ -92,6 +92,57 @@
  ],
  "items": [
   {
+   "id": "e106504eaeceb2e8",
+   "title": "Eiliko maker says it’s hiring an ‘independent security firm’ after Verge report on its insecure robots",
+   "link": "https://www.theverge.com/news/1015824/eiliko-energize-lab-statement-on-robot-hack-breach",
+   "source": "The Verge",
+   "kind": "press",
+   "summary": "Eiliko, a cute robot charm you can hang on your bag with built-in AI conversations, turned out to be a security nightmare. It told owners that \"your secrets are safe with me,\" but hackers could easily read complete transcripts of everything we told the toy, and that was just the…",
+   "published": "2026-10-22T11:17:42+00:00",
+   "topics": [],
+   "first_seen": "2026-10-22T11:51:52+00:00"
+  },
+  {
+   "id": "6a85074051ec3677",
+   "title": "Making the case for context-aware AI",
+   "link": "https://www.technologyreview.com/2026/10/22/1146812/making-the-case-for-context-aware-ai/",
+   "source": "MIT Technology Review",
+   "kind": "press",
+   "summary": "Enterprise AI can generate recommendations, automate tasks, and help organizations make decisions faster. But without an understanding of how a business actually operates, even powerful models can miss the constraints and relationships that determine whether a decision is the…",
+   "published": "2026-10-22T10:00:00+00:00",
+   "topics": [
+    "Models"
+   ],
+   "first_seen": "2026-10-22T11:51:52+00:00"
+  },
+  {
+   "id": "1597d0c89acaa275",
+   "title": "AI’s hidden storage bill: What inference leaves behind",
+   "link": "https://www.technologyreview.com/2026/10/22/1146948/ais-hidden-storage-bill-what-inference-leaves-behind/",
+   "source": "MIT Technology Review",
+   "kind": "press",
+   "summary": "Ask most executives to picture the cost of AI and they’ll likely see GPUs—racks of accelerators with gigawatts of power—and a waitlist for silicon. But that picture leaves something out: Data storage costs. What happens to data after a model responds? Much of the back-end data…",
+   "published": "2026-10-22T08:41:18+00:00",
+   "topics": [
+    "Models",
+    "Hardware"
+   ],
+   "first_seen": "2026-10-22T11:51:52+00:00"
+  },
+  {
+   "id": "5d118fadbe793ddd",
+   "title": "Ensemble forecasting with IBM Granite time-series models",
+   "link": "https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1",
+   "source": "Hugging Face",
+   "kind": "lab",
+   "summary": "",
+   "published": "2026-10-22T07:51:31+00:00",
+   "topics": [
+    "Models"
+   ],
+   "first_seen": "2026-10-22T11:51:52+00:00"
+  },
+  {
    "id": "25443172439e4af4",
    "title": "Blackstone’s Jas Khaira says fears over AI-buildout debt are overblown",
    "link": "https://techcrunch.com/2026/10/21/blackstones-jas-khaira-says-fears-over-ai-buildout-debt-are-overblown/",
@@ -158,7 +209,7 @@
    "link": "https://techcrunch.com/2026/10/21/meta-says-muse-has-over-10m-users-with-shopping-a-top-activity/",
    "source": "TechCrunch",
    "kind": "press",
-   "summary": "Meta Muse users are adopting the app for shopping and personal productivity, the company said during Q3 earnings. The AI app now has over 10M users.",
+   "summary": "Meta Muse users are adopting the app for shopping and personal productivity, the company said during its Q3 earnings call. The AI app now has over 10M users.",
    "published": "2026-10-21T21:14:19+00:00",
    "topics": [
     "Tools"
@@ -237,7 +288,7 @@
    "link": "https://www.bbc.com/news/articles/cmreyvepnv0po",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://www.bbc.com/news/articles/cmreyvepnv0po Comments URL: https://news.ycombinator.com/item?id=50186043 Points: 118 # Comments: 23",
+   "summary": "Article URL: https://www.bbc.com/news/articles/cmreyvepnv0po Comments URL: https://news.ycombinator.com/item?id=50186043 Points: 124 # Comments: 25",
    "published": "2026-10-21T19:14:21+00:00",
    "topics": [],
    "first_seen": "2026-10-22T04:44:18+00:00"
@@ -248,7 +299,7 @@
    "link": "https://claude.com/product/claude-duet",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://claude.com/product/claude-duet Comments URL: https://news.ycombinator.com/item?id=50186037 Points: 336 # Comments: 301",
+   "summary": "Article URL: https://claude.com/product/claude-duet Comments URL: https://news.ycombinator.com/item?id=50186037 Points: 423 # Comments: 384",
    "published": "2026-10-21T19:14:01+00:00",
    "topics": [
     "Models"
@@ -434,7 +485,7 @@
    "link": "https://www.wiz.io/blog/php2shell-php-rce",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "https://www.php2shell.com/ Comments URL: https://news.ycombinator.com/item?id=50180836 Points: 439 # Comments: 173",
+   "summary": "https://www.php2shell.com/ Comments URL: https://news.ycombinator.com/item?id=50180836 Points: 441 # Comments: 180",
    "published": "2026-10-21T13:43:19+00:00",
    "topics": [],
    "first_seen": "2026-10-21T18:38:59+00:00"
@@ -445,7 +496,7 @@
    "link": "https://openai.com/index/scaling-ai-research-for-complex-biological-data/",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://openai.com/index/scaling-ai-research-for-complex-biological-data/ Comments URL: https://news.ycombinator.com/item?id=50180752 Points: 137 # Comments: 86",
+   "summary": "Article URL: https://openai.com/index/scaling-ai-research-for-complex-biological-data/ Comments URL: https://news.ycombinator.com/item?id=50180752 Points: 146 # Comments: 97",
    "published": "2026-10-21T13:37:00+00:00",
    "topics": [
     "Research",
@@ -544,6 +595,19 @@
    "first_seen": "2026-10-21T18:38:59+00:00"
   },
   {
+   "id": "0ef7b7288d260e9a",
+   "title": "Using LLM for confidence scoring is a bad idea",
+   "link": "https://rumple.github.io/blog/2026/10/20/asking-llm-for-confidence.html",
+   "source": "Hacker News",
+   "kind": "community",
+   "summary": "Article URL: https://rumple.github.io/blog/2026/10/20/asking-llm-for-confidence.html Comments URL: https://news.ycombinator.com/item?id=50176082 Points: 114 # Comments: 61",
+   "published": "2026-10-21T04:27:51+00:00",
+   "topics": [
+    "Models"
+   ],
+   "first_seen": "2026-10-22T11:51:52+00:00"
+  },
+  {
    "id": "1778fb273dbb6c0b",
    "title": "Southeast Asia’s digital economy to hit $368 billion",
    "link": "https://blog.google/company-news/inside-google/around-the-globe/google-asia/e-conomy-sea-report-2026/",
@@ -560,7 +624,7 @@
    "link": "https://www.anthropic.com/research/attack-surface-reduction",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://www.anthropic.com/research/attack-surface-reduction Comments URL: https://news.ycombinator.com/item?id=50175779 Points: 131 # Comments: 86",
+   "summary": "Article URL: https://www.anthropic.com/research/attack-surface-reduction Comments URL: https://news.ycombinator.com/item?id=50175779 Points: 132 # Comments: 87",
    "published": "2026-10-21T03:36:43+00:00",
    "topics": [
     "Models",
@@ -810,7 +874,7 @@
    "link": "https://www.anthropic.com/research/claude-scorpion-toxin-binder-design",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://www.anthropic.com/research/claude-scorpion-toxin-binder-design Comments URL: https://news.ycombinator.com/item?id=50170021 Points: 117 # Comments: 75",
+   "summary": "Article URL: https://www.anthropic.com/research/claude-scorpion-toxin-binder-design Comments URL: https://news.ycombinator.com/item?id=50170021 Points: 117 # Comments: 74",
    "published": "2026-10-20T17:48:29+00:00",
    "topics": [
     "Models",
@@ -1173,7 +1237,7 @@
    "link": "https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions Comments URL: https://news.ycombinator.com/item?id=50159341 Points: 738 # Comments: 216",
+   "summary": "Article URL: https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions Comments URL: https://news.ycombinator.com/item?id=50159341 Points: 739 # Comments: 217",
    "published": "2026-10-19T23:22:18+00:00",
    "topics": [
     "Models",
@@ -1498,7 +1562,7 @@
    "link": "https://crystl.dev/guides/tmux-for-ai-agents/",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://crystl.dev/guides/tmux-for-ai-agents/ Comments URL: https://news.ycombinator.com/item?id=50148855 Points: 170 # Comments: 128",
+   "summary": "Article URL: https://crystl.dev/guides/tmux-for-ai-agents/ Comments URL: https://news.ycombinator.com/item?id=50148855 Points: 171 # Comments: 128",
    "published": "2026-10-19T05:55:31+00:00",
    "topics": [
     "Models",
@@ -1554,7 +1618,7 @@
    "link": "https://jrdsgl.com/if-you-dont-run-your-own-llm-proxy-how-the-fuck-do-you-even-know-whats-going-on/",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://jrdsgl.com/if-you-dont-run-your-own-llm-proxy-how-the-fuck-do-you-even-know-whats-going-on/ Comments URL: https://news.ycombinator.com/item?id=50145507 Points: 302 # Comments: 218",
+   "summary": "Article URL: https://jrdsgl.com/if-you-dont-run-your-own-llm-proxy-how-the-fuck-do-you-even-know-whats-going-on/ Comments URL: https://news.ycombinator.com/item?id=50145507 Points: 302 # Comments: 219",
    "published": "2026-10-18T21:09:12+00:00",
    "topics": [
     "Models"
@@ -1652,7 +1716,7 @@
    "link": "https://www.vals.ai/blogs/impossible-refund",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://www.vals.ai/blogs/impossible-refund Comments URL: https://news.ycombinator.com/item?id=50140462 Points: 106 # Comments: 126",
+   "summary": "Article URL: https://www.vals.ai/blogs/impossible-refund Comments URL: https://news.ycombinator.com/item?id=50140462 Points: 107 # Comments: 127",
    "published": "2026-10-18T12:22:58+00:00",
    "topics": [],
    "first_seen": "2026-10-19T23:41:26+00:00"
