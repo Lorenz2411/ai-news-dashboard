@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-21T23:18:36+00:00",
+ "updated": "2026-10-22T04:44:18+00:00",
  "sources": [
   {
    "name": "OpenAI",
@@ -13,9 +13,9 @@
    "name": "Google DeepMind",
    "url": "https://deepmind.google/blog/rss.xml",
    "kind": "lab",
-   "ok": false,
-   "count": 0,
-   "error": "ParseError: not well-formed (invalid token): line 1, column 0"
+   "ok": true,
+   "count": 40,
+   "error": null
   },
   {
    "name": "Google AI",
@@ -232,12 +232,23 @@
    "first_seen": "2026-10-21T23:18:36+00:00"
   },
   {
+   "id": "eb0f1c4495dc1cfc",
+   "title": "Google staff resign in backlash over its AI contracts with military",
+   "link": "https://www.bbc.com/news/articles/cmreyvepnv0po",
+   "source": "Hacker News",
+   "kind": "community",
+   "summary": "Article URL: https://www.bbc.com/news/articles/cmreyvepnv0po Comments URL: https://news.ycombinator.com/item?id=50186043 Points: 118 # Comments: 23",
+   "published": "2026-10-21T19:14:21+00:00",
+   "topics": [],
+   "first_seen": "2026-10-22T04:44:18+00:00"
+  },
+  {
    "id": "5dbb54a005401fc7",
    "title": "Claude Duet",
    "link": "https://claude.com/product/claude-duet",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://claude.com/product/claude-duet Comments URL: https://news.ycombinator.com/item?id=50186037 Points: 274 # Comments: 228",
+   "summary": "Article URL: https://claude.com/product/claude-duet Comments URL: https://news.ycombinator.com/item?id=50186037 Points: 336 # Comments: 301",
    "published": "2026-10-21T19:14:01+00:00",
    "topics": [
     "Models"
@@ -423,7 +434,7 @@
    "link": "https://www.wiz.io/blog/php2shell-php-rce",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "https://www.php2shell.com/ Comments URL: https://news.ycombinator.com/item?id=50180836 Points: 428 # Comments: 171",
+   "summary": "https://www.php2shell.com/ Comments URL: https://news.ycombinator.com/item?id=50180836 Points: 439 # Comments: 173",
    "published": "2026-10-21T13:43:19+00:00",
    "topics": [],
    "first_seen": "2026-10-21T18:38:59+00:00"
@@ -434,7 +445,7 @@
    "link": "https://openai.com/index/scaling-ai-research-for-complex-biological-data/",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://openai.com/index/scaling-ai-research-for-complex-biological-data/ Comments URL: https://news.ycombinator.com/item?id=50180752 Points: 123 # Comments: 75",
+   "summary": "Article URL: https://openai.com/index/scaling-ai-research-for-complex-biological-data/ Comments URL: https://news.ycombinator.com/item?id=50180752 Points: 137 # Comments: 86",
    "published": "2026-10-21T13:37:00+00:00",
    "topics": [
     "Research",
@@ -549,7 +560,7 @@
    "link": "https://www.anthropic.com/research/attack-surface-reduction",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://www.anthropic.com/research/attack-surface-reduction Comments URL: https://news.ycombinator.com/item?id=50175779 Points: 129 # Comments: 84",
+   "summary": "Article URL: https://www.anthropic.com/research/attack-surface-reduction Comments URL: https://news.ycombinator.com/item?id=50175779 Points: 131 # Comments: 86",
    "published": "2026-10-21T03:36:43+00:00",
    "topics": [
     "Models",
@@ -567,6 +578,19 @@
    "published": "2026-10-21T00:00:00+00:00",
    "topics": [],
    "first_seen": "2026-10-21T23:18:36+00:00"
+  },
+  {
+   "id": "9201054eeb4c743a",
+   "title": "Cloudflare links vulnerability discovery to defense with OpenAI",
+   "link": "https://openai.com/index/cloudflare-cyber",
+   "source": "OpenAI",
+   "kind": "lab",
+   "summary": "Cloudflare uses OpenAI Daybreak to investigate vulnerabilities and propose fixes for review. Its developers use Codex to build faster and improve code quality.",
+   "published": "2026-10-21T00:00:00+00:00",
+   "topics": [
+    "Business"
+   ],
+   "first_seen": "2026-10-22T04:44:18+00:00"
   },
   {
    "id": "aac036aa8666576a",
@@ -873,7 +897,7 @@
    "link": "https://www.ign.com/articles/steam-fans-are-begging-for-a-no-ai-filter-as-steam-next-fest-is-filled-with-slop",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://www.ign.com/articles/steam-fans-are-begging-for-a-no-ai-filter-as-steam-next-fest-is-filled-with-slop Comments URL: https://news.ycombinator.com/item?id=50168190 Points: 183 # Comments: 228",
+   "summary": "Article URL: https://www.ign.com/articles/steam-fans-are-begging-for-a-no-ai-filter-as-steam-next-fest-is-filled-with-slop Comments URL: https://news.ycombinator.com/item?id=50168190 Points: 183 # Comments: 229",
    "published": "2026-10-20T15:48:26+00:00",
    "topics": [],
    "first_seen": "2026-10-20T21:37:04+00:00"
@@ -1149,7 +1173,7 @@
    "link": "https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions Comments URL: https://news.ycombinator.com/item?id=50159341 Points: 737 # Comments: 215",
+   "summary": "Article URL: https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions Comments URL: https://news.ycombinator.com/item?id=50159341 Points: 738 # Comments: 216",
    "published": "2026-10-19T23:22:18+00:00",
    "topics": [
     "Models",
@@ -6451,43 +6475,6 @@
    "topics": [
     "Research"
    ],
-   "first_seen": "2026-10-11T09:46:44+00:00"
-  },
-  {
-   "id": "2960c64a019e48fb",
-   "title": "How UK AISI and EvalEval Are Making Benchmark Results Reproducible",
-   "link": "https://huggingface.co/blog/evaleval-aisi",
-   "source": "Hugging Face",
-   "kind": "lab",
-   "summary": "",
-   "published": "2026-09-22T00:00:00+00:00",
-   "topics": [
-    "Research"
-   ],
-   "first_seen": "2026-10-11T09:46:44+00:00"
-  },
-  {
-   "id": "98acfe91fd30b730",
-   "title": "Transformers now runs llama.cpp quants",
-   "link": "https://huggingface.co/blog/transformers-llama-cpp-quants",
-   "source": "Hugging Face",
-   "kind": "lab",
-   "summary": "",
-   "published": "2026-09-22T00:00:00+00:00",
-   "topics": [
-    "Models"
-   ],
-   "first_seen": "2026-10-11T09:46:44+00:00"
-  },
-  {
-   "id": "fb8ad85c459c0cb6",
-   "title": "Jun Kim, oMLX creator and maintainer, joins Hugging Face to support the MLX community",
-   "link": "https://huggingface.co/blog/omlx",
-   "source": "Hugging Face",
-   "kind": "lab",
-   "summary": "",
-   "published": "2026-09-22T00:00:00+00:00",
-   "topics": [],
    "first_seen": "2026-10-11T09:46:44+00:00"
   }
  ]
