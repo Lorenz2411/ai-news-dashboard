@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-22T11:51:52+00:00",
+ "updated": "2026-10-22T17:10:11+00:00",
  "sources": [
   {
    "name": "OpenAI",
@@ -13,9 +13,9 @@
    "name": "Google DeepMind",
    "url": "https://deepmind.google/blog/rss.xml",
    "kind": "lab",
-   "ok": false,
-   "count": 0,
-   "error": "ParseError: not well-formed (invalid token): line 1, column 0"
+   "ok": true,
+   "count": 40,
+   "error": null
   },
   {
    "name": "Google AI",
@@ -85,12 +85,122 @@
    "name": "Hacker News",
    "url": "https://hnrss.org/newest?q=AI+OR+LLM+OR+GPT+OR+Claude&points=100",
    "kind": "community",
-   "ok": true,
-   "count": 20,
-   "error": null
+   "ok": false,
+   "count": 0,
+   "error": "HTTPError: HTTP Error 502: Bad Gateway"
   }
  ],
  "items": [
+  {
+   "id": "93c844a35d415e95",
+   "title": "Chinese hackers spied on thousands of companies after breaching IT giant ConnectWise",
+   "link": "https://techcrunch.com/2026/10/22/chinese-hackers-spied-on-thousands-of-companies-after-breaching-it-giant-connectwise/",
+   "source": "TechCrunch",
+   "kind": "press",
+   "summary": "Microsoft points the blame for ConnectWise's breach at a China-aligned hacker, which relied on AI agents to rapidly hack into thousands of its customers.",
+   "published": "2026-10-22T16:47:17+00:00",
+   "topics": [
+    "Tools"
+   ],
+   "first_seen": "2026-10-22T17:10:11+00:00"
+  },
+  {
+   "id": "7faddebfff09c3d3",
+   "title": "PHP: The three little letters wreaking havoc across the web",
+   "link": "https://www.theverge.com/tech/1016574/php2shell-security-vulnerability-websites-down",
+   "source": "The Verge",
+   "kind": "press",
+   "summary": "Two vulnerabilities found in the programming language PHP put enormous swaths of the internet in danger. By some accounts, up to 70 percent of websites use PHP in some capacity. It powers Wikipedia, WordPress, Drupal, and a host of other popular sites and platforms, including…",
+   "published": "2026-10-22T16:46:40+00:00",
+   "topics": [],
+   "first_seen": "2026-10-22T17:10:11+00:00"
+  },
+  {
+   "id": "2a8e11324f4e3ec3",
+   "title": "Wildwood’s director says AI is ‘antithetical to everything that we are at this studio’",
+   "link": "https://www.theverge.com/entertainment/1016647/wildwood-travis-knight-interview-ai-laika-stop-motion",
+   "source": "The Verge",
+   "kind": "press",
+   "summary": "Wildwood is the most ambitious film yet from Laika, the stop-motion studio best known for the likes of Coraline and ParaNorman. It's a sprawling fantasy adventure that took five years to complete. The process involved more 230 puppets - including 36 of the main character Prue…",
+   "published": "2026-10-22T16:16:15+00:00",
+   "topics": [],
+   "first_seen": "2026-10-22T17:10:11+00:00"
+  },
+  {
+   "id": "eaa0ebff7daf626e",
+   "title": "OlmoEarth v1.3: State-of-the-art embeddings for the whole planet",
+   "link": "https://huggingface.co/blog/allenai/olmoearth-v1-3",
+   "source": "Hugging Face",
+   "kind": "lab",
+   "summary": "",
+   "published": "2026-10-22T16:11:31+00:00",
+   "topics": [],
+   "first_seen": "2026-10-22T17:10:11+00:00"
+  },
+  {
+   "id": "9d72639f5e003f5a",
+   "title": "Uber puts all 30,000 employees on ChatGPT Work",
+   "link": "https://techcrunch.com/2026/10/22/uber-puts-all-30000-employees-on-chatgpt-work/",
+   "source": "TechCrunch",
+   "kind": "press",
+   "summary": "The ride-share giant previously deployed a much smaller pilot for ChatGPT Work but is now taking the enterprise agent company-wide.",
+   "published": "2026-10-22T16:00:00+00:00",
+   "topics": [
+    "Tools"
+   ],
+   "first_seen": "2026-10-22T17:10:11+00:00"
+  },
+  {
+   "id": "540e896edf86465f",
+   "title": "OpenAI, Anthropic, and Nvidia had record lobbying quarters",
+   "link": "https://www.theverge.com/policy/1016585/openai-anthropic-nvidia-lobbying-records",
+   "source": "The Verge",
+   "kind": "press",
+   "summary": "It was a busy summer for AI lobbyists. Anthropic, OpenAI, and Nvidia each had their highest-spending lobbying quarter between July and September, federal disclosures show. Nvidia spent the most of the group at $2.2 million, followed by Anthropic's $2.1 million and OpenAI's $1.5…",
+   "published": "2026-10-22T15:50:30+00:00",
+   "topics": [
+    "Hardware"
+   ],
+   "first_seen": "2026-10-22T17:10:11+00:00"
+  },
+  {
+   "id": "633b64365941d14c",
+   "title": "1Password lets AI agents use your passwords without seeing them",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/1016399/1password-ai-agent-password-sign-in",
+   "source": "The Verge",
+   "kind": "press",
+   "summary": "1Password is introducing a new feature that allows AI agents to sign into your accounts without actually seeing or handling your passwords. The aptly named 1Password for Agents doesn't give bots free reign to access all of your connected accounts - you'll still need to grant…",
+   "published": "2026-10-22T15:34:31+00:00",
+   "topics": [
+    "Tools"
+   ],
+   "first_seen": "2026-10-22T17:10:11+00:00"
+  },
+  {
+   "id": "0acbee798fb21bdf",
+   "title": "Quoting Armin Ronacher",
+   "link": "https://simonwillison.net/2026/Oct/22/armin-ronacher/",
+   "source": "Simon Willison",
+   "kind": "community",
+   "summary": "As fun as AI is, we built so much bad software over the last 30 years, and now the universe is punishing us for our sins. — Armin Ronacher Tags: security , generative-ai , armin-ronacher , ai , ai-security-research , llms",
+   "published": "2026-10-22T15:34:13+00:00",
+   "topics": [
+    "Models",
+    "Research"
+   ],
+   "first_seen": "2026-10-22T17:10:11+00:00"
+  },
+  {
+   "id": "c625905b3719c2e1",
+   "title": "Hackers got a four-day head start on epic PHP2Shell vulnerability",
+   "link": "https://arstechnica.com/security/2026/10/hackers-got-a-four-day-head-start-on-epic-php2shell-vulnerability/",
+   "source": "Ars Technica",
+   "kind": "press",
+   "summary": "Hackers were already probing the bug before defenders were told it existed.",
+   "published": "2026-10-22T15:25:02+00:00",
+   "topics": [],
+   "first_seen": "2026-10-22T17:10:11+00:00"
+  },
   {
    "id": "e106504eaeceb2e8",
    "title": "Eiliko maker says it’s hiring an ‘independent security firm’ after Verge report on its insecure robots",
@@ -98,9 +208,113 @@
    "source": "The Verge",
    "kind": "press",
    "summary": "Eiliko, a cute robot charm you can hang on your bag with built-in AI conversations, turned out to be a security nightmare. It told owners that \"your secrets are safe with me,\" but hackers could easily read complete transcripts of everything we told the toy, and that was just the…",
-   "published": "2026-10-22T11:17:42+00:00",
+   "published": "2026-10-22T15:21:54+00:00",
    "topics": [],
    "first_seen": "2026-10-22T11:51:52+00:00"
+  },
+  {
+   "id": "c24876b37e469f74",
+   "title": "AI agents are ready to shop. Some retailers are wary",
+   "link": "https://www.theverge.com/report/1015811/ai-shopping-agents-blocked-amazon-the-realreal-target-meta-muse",
+   "source": "The Verge",
+   "kind": "press",
+   "summary": "Using an AI agent to shop for you is a strange experience. Tech companies have marketed them as personal assistants - the democratizing of labor that ordinarily would only be available to the rich and powerful. In practice, at least for buying things, it's more like sending an…",
+   "published": "2026-10-22T15:10:56+00:00",
+   "topics": [
+    "Tools"
+   ],
+   "first_seen": "2026-10-22T17:10:11+00:00"
+  },
+  {
+   "id": "0bffbef0359b5df6",
+   "title": "Spotify’s current AI bet is about being the music service that agents choose",
+   "link": "https://techcrunch.com/2026/10/22/spotifys-current-ai-bet-is-about-being-the-music-service-that-agents-choose/",
+   "source": "TechCrunch",
+   "kind": "press",
+   "summary": "Spotify co-CEO Gustav Söderström explains why the rise of AI agents could be good news for the music service.",
+   "published": "2026-10-22T15:03:58+00:00",
+   "topics": [
+    "Tools"
+   ],
+   "first_seen": "2026-10-22T17:10:11+00:00"
+  },
+  {
+   "id": "e66e9796ba6be5e9",
+   "title": "Beyond tree cover: mapping the world’s forest types",
+   "link": "https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types/",
+   "source": "Google DeepMind",
+   "kind": "lab",
+   "summary": "A global map categorizing every 10-meter patch of land on Earth into distinct forest types.",
+   "published": "2026-10-22T14:30:24+00:00",
+   "topics": [],
+   "first_seen": "2026-10-22T17:10:11+00:00"
+  },
+  {
+   "id": "6aa970c38b499724",
+   "title": "Claude Duet app is Anthropic’s bet on agents",
+   "link": "https://techcrunch.com/2026/10/22/claude-duet-app-is-anthropics-bet-on-agents/",
+   "source": "TechCrunch",
+   "kind": "press",
+   "summary": "Claude Duet is available through waitlist for Pro and Max plan users.",
+   "published": "2026-10-22T13:53:26+00:00",
+   "topics": [
+    "Models",
+    "Tools"
+   ],
+   "first_seen": "2026-10-22T17:10:11+00:00"
+  },
+  {
+   "id": "ff67e4725a210245",
+   "title": "Claude did not invent scorpion antivenom",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/1016443/anthropic-claude-citrini-vibecoding-scorpion-antivenom",
+   "source": "The Verge",
+   "kind": "press",
+   "summary": "An investment research firm wanted to prove AI could revolutionize drug development. So they teamed up with Anthropic to see whether an unreleased version of Claude could make scorpion antivenom. It couldn't. It came up with some promising starting points, but nothing close to…",
+   "published": "2026-10-22T13:45:49+00:00",
+   "topics": [
+    "Models",
+    "Research",
+    "Business"
+   ],
+   "first_seen": "2026-10-22T17:10:11+00:00"
+  },
+  {
+   "id": "a4344d39d17adb1d",
+   "title": "Nirva raises $33M for a pendant that only listens to you",
+   "link": "https://techcrunch.com/2026/10/22/nirva-raises-33m-for-a-pendant-that-only-listens-to-you/",
+   "source": "TechCrunch",
+   "kind": "press",
+   "summary": "Nirva will ship its $249 ambient AI pendant by the end of the year.",
+   "published": "2026-10-22T13:26:52+00:00",
+   "topics": [
+    "Business"
+   ],
+   "first_seen": "2026-10-22T17:10:11+00:00"
+  },
+  {
+   "id": "12686626013b51e1",
+   "title": "Bill Gates says to prepare for 20 years of ‘tumultuous’ AI disruption",
+   "link": "https://www.theverge.com/podcast/1015408/bill-gates-ai-interview-microsoft-openai-anthropic-risk-policy-regulation",
+   "source": "The Verge",
+   "kind": "press",
+   "summary": "Today, I’m talking to Bill Gates, cofounder and former CEO of Microsoft and chairman of the Gates Foundation. You may have noticed Bill in the news more lately — he’s been on something of a tour for the past few months, ever since publishing an essay in late August titled “The…",
+   "published": "2026-10-22T13:20:55+00:00",
+   "topics": [],
+   "first_seen": "2026-10-22T17:10:11+00:00"
+  },
+  {
+   "id": "779cc50e4b9b64fb",
+   "title": "DeepSeek reportedly raises $15B days after US restrictions",
+   "link": "https://techcrunch.com/2026/10/22/deepseek-reportedly-raises-15b-days-after-us-restrictions/",
+   "source": "TechCrunch",
+   "kind": "press",
+   "summary": "DeepSeek has reportedly raised $15 billion in one of China's largest funding rounds, just days after the U.S. ordered federal agencies to remove its technology over national security concerns.",
+   "published": "2026-10-22T13:11:13+00:00",
+   "topics": [
+    "Models",
+    "Business"
+   ],
+   "first_seen": "2026-10-22T17:10:11+00:00"
   },
   {
    "id": "6a85074051ec3677",
@@ -143,6 +357,30 @@
    "first_seen": "2026-10-22T11:51:52+00:00"
   },
   {
+   "id": "63c31ca523f91ccf",
+   "title": "What FDE means at OpenAI",
+   "link": "https://openai.com/index/forward-deployed-engineering-means",
+   "source": "OpenAI",
+   "kind": "lab",
+   "summary": "What forward deployed engineering means at OpenAI",
+   "published": "2026-10-22T06:00:00+00:00",
+   "topics": [],
+   "first_seen": "2026-10-22T17:10:11+00:00"
+  },
+  {
+   "id": "ba6fa07d677a8221",
+   "title": "Uber brings ChatGPT Work to all employees with OpenAI",
+   "link": "https://openai.com/index/uber-chatgpt-work-rollout",
+   "source": "OpenAI",
+   "kind": "lab",
+   "summary": "Uber is rolling out ChatGPT Work to more than 30,000 employees, helping teams research, analyze data, create presentations, and complete complex workflows.",
+   "published": "2026-10-22T00:00:00+00:00",
+   "topics": [
+    "Research"
+   ],
+   "first_seen": "2026-10-22T17:10:11+00:00"
+  },
+  {
    "id": "25443172439e4af4",
    "title": "Blackstone’s Jas Khaira says fears over AI-buildout debt are overblown",
    "link": "https://techcrunch.com/2026/10/21/blackstones-jas-khaira-says-fears-over-ai-buildout-debt-are-overblown/",
@@ -152,6 +390,20 @@
    "published": "2026-10-21T22:51:22+00:00",
    "topics": [],
    "first_seen": "2026-10-21T23:18:36+00:00"
+  },
+  {
+   "id": "c1d080de5b4338cf",
+   "title": "Meta wants to pay for its broad AI buildout with a newly created class of stock",
+   "link": "https://techcrunch.com/2026/10/21/meta-wants-to-pay-for-its-broad-ai-buildout-with-a-newly-created-class-of-stock/",
+   "source": "TechCrunch",
+   "kind": "press",
+   "summary": "The social media giant is planning a new stock strategy to help power its broad investments in AI models and services.",
+   "published": "2026-10-21T22:45:34+00:00",
+   "topics": [
+    "Models",
+    "Business"
+   ],
+   "first_seen": "2026-10-22T17:10:11+00:00"
   },
   {
    "id": "eaa3fbf80042951c",
