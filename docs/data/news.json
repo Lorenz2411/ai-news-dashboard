@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-22T17:10:11+00:00",
+ "updated": "2026-10-22T21:35:16+00:00",
  "sources": [
   {
    "name": "OpenAI",
@@ -85,12 +85,256 @@
    "name": "Hacker News",
    "url": "https://hnrss.org/newest?q=AI+OR+LLM+OR+GPT+OR+Claude&points=100",
    "kind": "community",
-   "ok": false,
-   "count": 0,
-   "error": "HTTPError: HTTP Error 502: Bad Gateway"
+   "ok": true,
+   "count": 20,
+   "error": null
   }
  ],
  "items": [
+  {
+   "id": "2aedd54f3eb3c474",
+   "title": "Designing an AI serving harness built to last",
+   "link": "https://www.technologyreview.com/2026/10/22/1146109/designing-an-ai-serving-harness-built-to-last/",
+   "source": "MIT Technology Review",
+   "kind": "press",
+   "summary": "The next competitive advantage in enterprise AI has less to do with which model you choose than with what you build around it. That’s an important shift. For the past several years, much of the AI conversation has centered on model capability: bigger models, better reasoning…",
+   "published": "2026-10-22T21:17:29+00:00",
+   "topics": [
+    "Models"
+   ],
+   "first_seen": "2026-10-22T21:35:16+00:00"
+  },
+  {
+   "id": "3992fc4ed3eb0dfa",
+   "title": "Sure, let’s smoosh SpaceX and Tesla together, who cares",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/1016879/spacex-tesla-cursed-katamari",
+   "source": "The Verge",
+   "kind": "press",
+   "summary": "Oh sure, SpaceX's credit risk is pretty high because it's about to borrow another $40 billion to spend on Nvidia chips, but who cares about that? SpaceX and Tesla have formed special committees to discuss a merger! The degree to which you find this merger compelling likely has…",
+   "published": "2026-10-22T21:14:26+00:00",
+   "topics": [
+    "Hardware"
+   ],
+   "first_seen": "2026-10-22T21:35:16+00:00"
+  },
+  {
+   "id": "afeec198fbf511f7",
+   "title": "Meta turns Muse sharing back on",
+   "link": "https://www.theverge.com/tech/1017066/meta-muse-sharing-back-on-artifiacts",
+   "source": "The Verge",
+   "kind": "press",
+   "summary": "Meta has re-enabled Muse sharing after security researchers had reported that public conversation links could be easy to find. The researchers said they had been able to find Muse pages like a marketing company's internal revenue review and a small business owner's loan…",
+   "published": "2026-10-22T20:33:38+00:00",
+   "topics": [
+    "Business"
+   ],
+   "first_seen": "2026-10-22T21:35:16+00:00"
+  },
+  {
+   "id": "29a87826b845358b",
+   "title": "Meta’s AI could still scrape news sites, legal experts say",
+   "link": "https://www.theverge.com/tech/1017082/meta-terms-update-ai-training-concerns",
+   "source": "The Verge",
+   "kind": "press",
+   "summary": "Meta has tweaked its business terms to remove language suggesting that it could freely train its AI models on news sites, like The Verge - but legal experts say these changes aren't enough to address their concerns. \"This does nothing to restrict the 'associated with your…",
+   "published": "2026-10-22T20:32:05+00:00",
+   "topics": [
+    "Models"
+   ],
+   "first_seen": "2026-10-22T21:35:16+00:00"
+  },
+  {
+   "id": "2c1b17b371894ee5",
+   "title": "In Meta’s version of the future, I’ll have my Muse call your Muse",
+   "link": "https://www.theverge.com/tech/1016905/meta-earnings-fall-2026-muse-network",
+   "source": "The Verge",
+   "kind": "press",
+   "summary": "Mark Zuckerberg is barrelling toward a future in which an autonomous network of AI agents will run our lives - shopping for us, working for us, talking to other people's AI agents for us. Are humans ready for this very specific and unrelenting vision of a life in which we…",
+   "published": "2026-10-22T20:30:41+00:00",
+   "topics": [
+    "Tools"
+   ],
+   "first_seen": "2026-10-22T21:35:16+00:00"
+  },
+  {
+   "id": "98a7f3683d8fe8db",
+   "title": "Microsoft says its AI tool is better than doctors at diagnosing conditions",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/1016690/suleyman-microsoft-diagnostic-orchestrator-science-medical-superintelligence",
+   "source": "The Verge",
+   "kind": "press",
+   "summary": "For years, AI leaders have touted healthcare as one of the clearest examples of where their technology will improve lives. Now \"it is finally here,\" Microsoft AI CEO Mustafa Suleyman tells The Verge. The company claims to have developed an AI-powered tool it says can diagnose…",
+   "published": "2026-10-22T19:48:37+00:00",
+   "topics": [],
+   "first_seen": "2026-10-22T21:35:16+00:00"
+  },
+  {
+   "id": "474d46551650ea30",
+   "title": "DE STAAT - FREEDOM (Official Music Video)",
+   "link": "https://simonwillison.net/2026/Oct/22/de-staat-freedom/",
+   "source": "Simon Willison",
+   "kind": "community",
+   "summary": "DE STAAT - FREEDOM (Official Music Video) OK well this is a first for me... at 00:44 in this new music video by Dutch alternative rock band De Staat : The visual effects are credited to Matties Grooten of Fake it or Leave it . Via flir on Hacker News Tags: music , ai …",
+   "published": "2026-10-22T19:42:26+00:00",
+   "topics": [],
+   "first_seen": "2026-10-22T21:35:16+00:00"
+  },
+  {
+   "id": "ee7ecab289596410",
+   "title": "1Password launches a way for AI agents to log in on your behalf without seeing your password",
+   "link": "https://techcrunch.com/2026/10/22/1password-launches-a-way-for-ai-agents-to-log-in-on-your-behalf-without-seeing-your-password/",
+   "source": "TechCrunch",
+   "kind": "press",
+   "summary": "The new feature allows agents to log into a customer's personal accounts while still protecting the private credentials that secure those accounts.",
+   "published": "2026-10-22T19:07:09+00:00",
+   "topics": [
+    "Tools"
+   ],
+   "first_seen": "2026-10-22T21:35:16+00:00"
+  },
+  {
+   "id": "27825e3003584012",
+   "title": "Build more responsive apps with the Decisions API",
+   "link": "https://openai.com/index/decisions-api",
+   "source": "OpenAI",
+   "kind": "lab",
+   "summary": "Fast, focused, low-cost decisions for any application.",
+   "published": "2026-10-22T19:00:00+00:00",
+   "topics": [
+    "Tools"
+   ],
+   "first_seen": "2026-10-22T21:35:16+00:00"
+  },
+  {
+   "id": "afbb328c263f52ce",
+   "title": "Canva releases its first image generation model",
+   "link": "https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/",
+   "source": "TechCrunch",
+   "kind": "press",
+   "summary": "Canva is making its new image model available to all users, promising better, more customizable performance at lower costs.",
+   "published": "2026-10-22T19:00:00+00:00",
+   "topics": [
+    "Models",
+    "Tools"
+   ],
+   "first_seen": "2026-10-22T21:35:16+00:00"
+  },
+  {
+   "id": "1d8d266cc065f7b3",
+   "title": "OpenAI makes its Jev competitor widely available as decision model competition heats up",
+   "link": "https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/",
+   "source": "TechCrunch",
+   "kind": "press",
+   "summary": "OpenAI is launching its decision model to the world. Can it compete with the original Jev?",
+   "published": "2026-10-22T19:00:00+00:00",
+   "topics": [
+    "Models",
+    "Tools"
+   ],
+   "first_seen": "2026-10-22T21:35:16+00:00"
+  },
+  {
+   "id": "6dc97b2e6ae28cfe",
+   "title": "Discord now formats Markdown previews right",
+   "link": "https://www.theverge.com/news/1017012/discord-markdown-previews-organize-servers-channels",
+   "source": "The Verge",
+   "kind": "press",
+   "summary": "Discord's latest update released today has a big improvement for Markdown previews: they should now render correctly instead of with \"a bunch of symbols,\" according to the company. LLMs and AI agents often rely on Markdown files for instructions and context, so these improved…",
+   "published": "2026-10-22T18:58:19+00:00",
+   "topics": [
+    "Models",
+    "Tools"
+   ],
+   "first_seen": "2026-10-22T21:35:16+00:00"
+  },
+  {
+   "id": "d8c2939ee8cf1af6",
+   "title": "The Foundations of Scalable AI",
+   "link": "https://www.technologyreview.com/2026/10/22/1146103/the-foundations-of-scalable-ai/",
+   "source": "MIT Technology Review",
+   "kind": "press",
+   "summary": "A scalable AI system requires a strong foundation. Data, engineering, platforms, operating models, and governance must converge to work as one. This session from MIT Technology Review’s EmTech Future conference explores what it takes to build that foundation in a highly…",
+   "published": "2026-10-22T18:48:04+00:00",
+   "topics": [
+    "Models"
+   ],
+   "first_seen": "2026-10-22T21:35:16+00:00"
+  },
+  {
+   "id": "4baf690dfb57b3c5",
+   "title": "Microsoft’s Mustafa Suleyman says its AI outperforms doctors on hard cases as he chases ‘medical superintelligence’",
+   "link": "https://techcrunch.com/2026/10/22/microsofts-mustafa-suleyman-says-its-ai-outperforms-doctors-on-hard-cases-as-he-chases-medical-superintelligence/",
+   "source": "TechCrunch",
+   "kind": "press",
+   "summary": "Microsoft’s new AI diagnostic system beat generalist doctors on hard cases, according to a study in Science. But most of the improvement seems to come from the AI models underneath, not from Microsoft’s system itself.",
+   "published": "2026-10-22T18:43:53+00:00",
+   "topics": [
+    "Models",
+    "Research"
+   ],
+   "first_seen": "2026-10-22T21:35:16+00:00"
+  },
+  {
+   "id": "2a8e11324f4e3ec3",
+   "title": "Wildwood’s director says AI is ‘antithetical to everything that we are at this studio’",
+   "link": "https://www.theverge.com/entertainment/1016647/wildwood-travis-knight-interview-ai-laika-stop-motion",
+   "source": "The Verge",
+   "kind": "press",
+   "summary": "Wildwood is the most ambitious film yet from Laika, the stop-motion studio best known for the likes of Coraline and ParaNorman. It's a sprawling fantasy adventure that took five years to complete. The process involved more 230 puppets - including 36 of the main character Prue…",
+   "published": "2026-10-22T18:12:48+00:00",
+   "topics": [],
+   "first_seen": "2026-10-22T17:10:11+00:00"
+  },
+  {
+   "id": "09776931f4659a5d",
+   "title": "Donating Agent Skills to the Agentic AI Foundation",
+   "link": "https://simonwillison.net/2026/Oct/22/donating-agent-skills/",
+   "source": "Simon Willison",
+   "kind": "community",
+   "summary": "Donating Agent Skills to the Agentic AI Foundation News today from Anthropic: We’re committed to keeping Agent Skills open, community-driven, and vendor-neutral. Today, we are donating the standard to the Agentic AI Foundation (AAIF) under the Linux Foundation, which we…",
+   "published": "2026-10-22T18:09:56+00:00",
+   "topics": [
+    "Tools"
+   ],
+   "first_seen": "2026-10-22T21:35:16+00:00"
+  },
+  {
+   "id": "4dcdb95578272074",
+   "title": "OpenShell – A safe, private runtime for fleets of autonomous AI agents",
+   "link": "https://github.com/NVIDIA/OpenShell",
+   "source": "Hacker News",
+   "kind": "community",
+   "summary": "Article URL: https://github.com/NVIDIA/OpenShell Comments URL: https://news.ycombinator.com/item?id=50198675 Points: 199 # Comments: 102",
+   "published": "2026-10-22T17:44:06+00:00",
+   "topics": [
+    "Tools",
+    "Hardware"
+   ],
+   "first_seen": "2026-10-22T21:35:16+00:00"
+  },
+  {
+   "id": "540e896edf86465f",
+   "title": "OpenAI, Anthropic, and Nvidia had record lobbying quarters",
+   "link": "https://www.theverge.com/policy/1016585/openai-anthropic-nvidia-lobbying-records",
+   "source": "The Verge",
+   "kind": "press",
+   "summary": "It was a busy summer for AI lobbyists. Anthropic, OpenAI, and Nvidia each had their highest-spending lobbying quarter between July and September, federal disclosures show. Nvidia spent the most of the group at $2.2 million, followed by Anthropic's $2.1 million and OpenAI's $1.5…",
+   "published": "2026-10-22T17:36:30+00:00",
+   "topics": [
+    "Hardware"
+   ],
+   "first_seen": "2026-10-22T17:10:11+00:00"
+  },
+  {
+   "id": "7b213ad205a3643b",
+   "title": "Someone hacked the Switch 2 by using an old game and AI",
+   "link": "https://www.theverge.com/games/1016862/nintendo-switch-2-jailbreak-ai",
+   "source": "The Verge",
+   "kind": "press",
+   "summary": "The Nintendo Switch 2 has apparently been jailbroken, and a modder has already shown the console running a custom version of Mario Kart World featuring new playable characters like Cinnamoroll, the red Angry Bird, Peter Griffin, and Steve from Minecraft. OpenAI's Codex helped…",
+   "published": "2026-10-22T17:21:31+00:00",
+   "topics": [],
+   "first_seen": "2026-10-22T21:35:16+00:00"
+  },
   {
    "id": "93c844a35d415e95",
    "title": "Chinese hackers spied on thousands of companies after breaching IT giant ConnectWise",
@@ -116,17 +360,6 @@
    "first_seen": "2026-10-22T17:10:11+00:00"
   },
   {
-   "id": "2a8e11324f4e3ec3",
-   "title": "Wildwood’s director says AI is ‘antithetical to everything that we are at this studio’",
-   "link": "https://www.theverge.com/entertainment/1016647/wildwood-travis-knight-interview-ai-laika-stop-motion",
-   "source": "The Verge",
-   "kind": "press",
-   "summary": "Wildwood is the most ambitious film yet from Laika, the stop-motion studio best known for the likes of Coraline and ParaNorman. It's a sprawling fantasy adventure that took five years to complete. The process involved more 230 puppets - including 36 of the main character Prue…",
-   "published": "2026-10-22T16:16:15+00:00",
-   "topics": [],
-   "first_seen": "2026-10-22T17:10:11+00:00"
-  },
-  {
    "id": "eaa0ebff7daf626e",
    "title": "OlmoEarth v1.3: State-of-the-art embeddings for the whole planet",
    "link": "https://huggingface.co/blog/allenai/olmoearth-v1-3",
@@ -147,19 +380,6 @@
    "published": "2026-10-22T16:00:00+00:00",
    "topics": [
     "Tools"
-   ],
-   "first_seen": "2026-10-22T17:10:11+00:00"
-  },
-  {
-   "id": "540e896edf86465f",
-   "title": "OpenAI, Anthropic, and Nvidia had record lobbying quarters",
-   "link": "https://www.theverge.com/policy/1016585/openai-anthropic-nvidia-lobbying-records",
-   "source": "The Verge",
-   "kind": "press",
-   "summary": "It was a busy summer for AI lobbyists. Anthropic, OpenAI, and Nvidia each had their highest-spending lobbying quarter between July and September, federal disclosures show. Nvidia spent the most of the group at $2.2 million, followed by Anthropic's $2.1 million and OpenAI's $1.5…",
-   "published": "2026-10-22T15:50:30+00:00",
-   "topics": [
-    "Hardware"
    ],
    "first_seen": "2026-10-22T17:10:11+00:00"
   },
@@ -540,7 +760,7 @@
    "link": "https://www.bbc.com/news/articles/cmreyvepnv0po",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://www.bbc.com/news/articles/cmreyvepnv0po Comments URL: https://news.ycombinator.com/item?id=50186043 Points: 124 # Comments: 25",
+   "summary": "Article URL: https://www.bbc.com/news/articles/cmreyvepnv0po Comments URL: https://news.ycombinator.com/item?id=50186043 Points: 125 # Comments: 26",
    "published": "2026-10-21T19:14:21+00:00",
    "topics": [],
    "first_seen": "2026-10-22T04:44:18+00:00"
@@ -551,7 +771,7 @@
    "link": "https://claude.com/product/claude-duet",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://claude.com/product/claude-duet Comments URL: https://news.ycombinator.com/item?id=50186037 Points: 423 # Comments: 384",
+   "summary": "Article URL: https://claude.com/product/claude-duet Comments URL: https://news.ycombinator.com/item?id=50186037 Points: 544 # Comments: 507",
    "published": "2026-10-21T19:14:01+00:00",
    "topics": [
     "Models"
@@ -658,6 +878,20 @@
    "first_seen": "2026-10-21T18:38:59+00:00"
   },
   {
+   "id": "b328ea6101ebd166",
+   "title": "Show HN: Omnara – Open-source alternative to Claude Managed Agents",
+   "link": "https://github.com/omnara-ai/omnara",
+   "source": "Hacker News",
+   "kind": "community",
+   "summary": "Hey all, Kartik from Omnara ( https://omnara.com ) here. We're building an open-source API for running durable agents. You create an agent with an API call, and Omnara runs the agent loop, gives the agent sandboxes to run commands in, and handles secrets, permissions, and RBAC…",
+   "published": "2026-10-21T16:44:53+00:00",
+   "topics": [
+    "Models",
+    "Tools"
+   ],
+   "first_seen": "2026-10-22T21:35:16+00:00"
+  },
+  {
    "id": "6c1da1b548c04122",
    "title": "Panache — RTS Belle Époque pour mobile",
    "link": "https://simonwillison.net/2026/Oct/21/panache/",
@@ -737,7 +971,7 @@
    "link": "https://www.wiz.io/blog/php2shell-php-rce",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "https://www.php2shell.com/ Comments URL: https://news.ycombinator.com/item?id=50180836 Points: 441 # Comments: 180",
+   "summary": "https://www.php2shell.com/ Comments URL: https://news.ycombinator.com/item?id=50180836 Points: 446 # Comments: 184",
    "published": "2026-10-21T13:43:19+00:00",
    "topics": [],
    "first_seen": "2026-10-21T18:38:59+00:00"
@@ -748,7 +982,7 @@
    "link": "https://openai.com/index/scaling-ai-research-for-complex-biological-data/",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://openai.com/index/scaling-ai-research-for-complex-biological-data/ Comments URL: https://news.ycombinator.com/item?id=50180752 Points: 146 # Comments: 97",
+   "summary": "Article URL: https://openai.com/index/scaling-ai-research-for-complex-biological-data/ Comments URL: https://news.ycombinator.com/item?id=50180752 Points: 153 # Comments: 103",
    "published": "2026-10-21T13:37:00+00:00",
    "topics": [
     "Research",
@@ -852,7 +1086,7 @@
    "link": "https://rumple.github.io/blog/2026/10/20/asking-llm-for-confidence.html",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://rumple.github.io/blog/2026/10/20/asking-llm-for-confidence.html Comments URL: https://news.ycombinator.com/item?id=50176082 Points: 114 # Comments: 61",
+   "summary": "Article URL: https://rumple.github.io/blog/2026/10/20/asking-llm-for-confidence.html Comments URL: https://news.ycombinator.com/item?id=50176082 Points: 196 # Comments: 97",
    "published": "2026-10-21T04:27:51+00:00",
    "topics": [
     "Models"
@@ -876,7 +1110,7 @@
    "link": "https://www.anthropic.com/research/attack-surface-reduction",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://www.anthropic.com/research/attack-surface-reduction Comments URL: https://news.ycombinator.com/item?id=50175779 Points: 132 # Comments: 87",
+   "summary": "Article URL: https://www.anthropic.com/research/attack-surface-reduction Comments URL: https://news.ycombinator.com/item?id=50175779 Points: 133 # Comments: 89",
    "published": "2026-10-21T03:36:43+00:00",
    "topics": [
     "Models",
@@ -1489,7 +1723,7 @@
    "link": "https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions Comments URL: https://news.ycombinator.com/item?id=50159341 Points: 739 # Comments: 217",
+   "summary": "Article URL: https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions Comments URL: https://news.ycombinator.com/item?id=50159341 Points: 740 # Comments: 217",
    "published": "2026-10-19T23:22:18+00:00",
    "topics": [
     "Models",
