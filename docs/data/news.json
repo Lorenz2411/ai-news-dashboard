@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-23T18:21:12+00:00",
+ "updated": "2026-10-23T23:08:37+00:00",
  "sources": [
   {
    "name": "OpenAI",
@@ -13,9 +13,9 @@
    "name": "Google DeepMind",
    "url": "https://deepmind.google/blog/rss.xml",
    "kind": "lab",
-   "ok": true,
-   "count": 40,
-   "error": null
+   "ok": false,
+   "count": 0,
+   "error": "ParseError: not well-formed (invalid token): line 1, column 0"
   },
   {
    "name": "Google AI",
@@ -85,12 +85,118 @@
    "name": "Hacker News",
    "url": "https://hnrss.org/newest?q=AI+OR+LLM+OR+GPT+OR+Claude&points=100",
    "kind": "community",
-   "ok": false,
-   "count": 0,
-   "error": "HTTPError: HTTP Error 502: Bad Gateway"
+   "ok": true,
+   "count": 20,
+   "error": null
   }
  ],
  "items": [
+  {
+   "id": "b15a6fb9671b3fea",
+   "title": "OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”",
+   "link": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/",
+   "source": "TechCrunch",
+   "kind": "press",
+   "summary": "OpenAI will cut frontier models off from the internet weeks after one of its engineers said that solution wouldn't work.",
+   "published": "2026-10-23T23:05:49+00:00",
+   "topics": [
+    "Models"
+   ],
+   "first_seen": "2026-10-23T23:08:37+00:00"
+  },
+  {
+   "id": "f782f2bc9618a504",
+   "title": "Hottest toy for Christmas? Nvidia CEO plays with adorable Microduck robots, 20,000 sell",
+   "link": "https://techcrunch.com/2026/10/23/hottest-toy-for-christmas-nvidia-ceo-plays-with-adorable-microduck-robots-20000-sell/",
+   "source": "TechCrunch",
+   "kind": "press",
+   "summary": "The robots, stomping their little feet and making tiny R2-D2 noises, sat, fell down dead for a \"nap,\" and summersaulted on voice command.",
+   "published": "2026-10-23T21:59:19+00:00",
+   "topics": [
+    "Hardware"
+   ],
+   "first_seen": "2026-10-23T23:08:37+00:00"
+  },
+  {
+   "id": "ece6c921b830e7e3",
+   "title": "Quick Study",
+   "link": "https://simonwillison.net/2026/Oct/23/quick-study-painter/",
+   "source": "Simon Willison",
+   "kind": "community",
+   "summary": "Tool: Quick Study Prompt to Claude Opus 5.5 High : Build an artifact where you open a photo and it rapidly (in a few seconds) paints a version of that photo using a canvas element and simulated paintbrush See also my previous experiment getting Claude Fable to simulate a…",
+   "published": "2026-10-23T21:35:13+00:00",
+   "topics": [
+    "Models",
+    "Research"
+   ],
+   "first_seen": "2026-10-23T23:08:37+00:00"
+  },
+  {
+   "id": "f9113fa394af665d",
+   "title": "OpenAI now trains its frontier AI models with no internet access",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/1018021/openai-training-top-ai-models-no-internet",
+   "source": "The Verge",
+   "kind": "press",
+   "summary": "OpenAI is now training its most advanced AI models without internet access following a string of rogue hacking incidents. In a blog post on Friday, OpenAI says it built an offline testing environment where AI models can interact with indexed and cached web content \"without risk…",
+   "published": "2026-10-23T21:11:07+00:00",
+   "topics": [
+    "Models"
+   ],
+   "first_seen": "2026-10-23T23:08:37+00:00"
+  },
+  {
+   "id": "3e249e7fc631b679",
+   "title": "Updated Google privacy policy says your Gmail might be used for advertising",
+   "link": "https://arstechnica.com/gadgets/2026/10/updated-google-privacy-policy-says-your-gmail-might-be-used-for-advertising/",
+   "source": "Ars Technica",
+   "kind": "press",
+   "summary": "Turning on Personal Intelligence gives the company more data for ad targeting.",
+   "published": "2026-10-23T20:19:55+00:00",
+   "topics": [
+    "Policy"
+   ],
+   "first_seen": "2026-10-23T23:08:37+00:00"
+  },
+  {
+   "id": "2e71264ea893e482",
+   "title": "Introducing Kimi K3.1 Pro",
+   "link": "https://simonwillison.net/2026/Oct/23/kimi-k31-pro/",
+   "source": "Simon Willison",
+   "kind": "community",
+   "summary": "Introducing Kimi K3.1 Pro Kimi K3.1 Pro landed on the Kimi API today - it's not yet open weights, but Moonshot promise \"Full model weights will be released by Nov 4, 2026\". They're also offering a \"Highspeed\" version that's 2-3x faster, at twice the price (except for input token…",
+   "published": "2026-10-23T19:40:54+00:00",
+   "topics": [
+    "Models",
+    "Tools"
+   ],
+   "first_seen": "2026-10-23T23:08:37+00:00"
+  },
+  {
+   "id": "f490e9c8ed30cee3",
+   "title": "Jack Dorsey’s Block made an AI model that talks to you like an awkward new friend",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/1017906/jack-dorsey-block-dessa-ai-voice-speech",
+   "source": "The Verge",
+   "kind": "press",
+   "summary": "Jack Dorsey's Block announced an AI model called Dessa that's trained \"from scratch on nothing but human conversation,\" and to show off the model, Block shared chats it has had with humans that can occasionally be a little awkward and uncanny. Take this one, for example, shared…",
+   "published": "2026-10-23T19:32:39+00:00",
+   "topics": [
+    "Models"
+   ],
+   "first_seen": "2026-10-23T23:08:37+00:00"
+  },
+  {
+   "id": "0931d3afc7b71d97",
+   "title": "From Toast to Bessemer: Who founders will hear from at TechCrunch Founder Summit 2026",
+   "link": "https://techcrunch.com/2026/10/23/from-toast-to-bessemer-who-founders-will-hear-from-at-techcrunch-founder-summit-2026/",
+   "source": "TechCrunch",
+   "kind": "press",
+   "summary": "Hosted by TechCrunch in partnership with Fidelity Private Shares, the full-day event goes beyond fundraising and AI to explore the realities of finding customers, building teams, sharpening a pitch, developing founder leadership, and scaling companies both inside and outside…",
+   "published": "2026-10-23T19:06:23+00:00",
+   "topics": [
+    "Business"
+   ],
+   "first_seen": "2026-10-23T23:08:37+00:00"
+  },
   {
    "id": "e44aee2d4402241c",
    "title": "Intel gets waiver after worries fuzzy US ban on foreign-made robots may hit fabs",
@@ -175,6 +281,20 @@
    "first_seen": "2026-10-23T13:26:29+00:00"
   },
   {
+   "id": "1f9eddacbb7de266",
+   "title": "Swedish government offices to ban ChatGPT and Claude",
+   "link": "https://www.sverigesradio.se/artikel/chat-gpt-och-claude-forbjuder-regeringskansliet",
+   "source": "Hacker News",
+   "kind": "community",
+   "summary": "Article URL: https://www.sverigesradio.se/artikel/chat-gpt-och-claude-forbjuder-regeringskansliet Comments URL: https://news.ycombinator.com/item?id=50207405 Points: 314 # Comments: 114",
+   "published": "2026-10-23T11:39:54+00:00",
+   "topics": [
+    "Models",
+    "Policy"
+   ],
+   "first_seen": "2026-10-23T23:08:37+00:00"
+  },
+  {
    "id": "3992fc4ed3eb0dfa",
    "title": "Sure, let’s smoosh SpaceX and Tesla together, who cares",
    "link": "https://www.theverge.com/ai-artificial-intelligence/1016879/spacex-tesla-cursed-katamari",
@@ -186,6 +306,32 @@
     "Hardware"
    ],
    "first_seen": "2026-10-22T21:35:16+00:00"
+  },
+  {
+   "id": "48e2274fdf2ba9fe",
+   "title": "Securing our frontier model training environment",
+   "link": "https://openai.com/index/securing-our-frontier-model-training-environment",
+   "source": "OpenAI",
+   "kind": "lab",
+   "summary": "OpenAI explains how we strengthened containment for frontier model training and evaluation, including offline environments and high-compute red-teaming.",
+   "published": "2026-10-23T10:00:00+00:00",
+   "topics": [
+    "Models"
+   ],
+   "first_seen": "2026-10-23T23:08:37+00:00"
+  },
+  {
+   "id": "8db2bf743b5d8d77",
+   "title": "The same AI request emits 8.5 times more CO2 in Texas than in Sweden",
+   "link": "https://berget.ai/en/blog/per-request-co2-press-release",
+   "source": "Hacker News",
+   "kind": "community",
+   "summary": "Article URL: https://berget.ai/en/blog/per-request-co2-press-release Comments URL: https://news.ycombinator.com/item?id=50205229 Points: 140 # Comments: 154",
+   "published": "2026-10-23T06:41:11+00:00",
+   "topics": [
+    "Tools"
+   ],
+   "first_seen": "2026-10-23T23:08:37+00:00"
   },
   {
    "id": "94cd4ca5fb66dd5d",
@@ -455,7 +601,7 @@
    "link": "https://arxiv.org/abs/2610.27251",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://arxiv.org/abs/2610.27251 Comments URL: https://news.ycombinator.com/item?id=50199230 Points: 131 # Comments: 77",
+   "summary": "Article URL: https://arxiv.org/abs/2610.27251 Comments URL: https://news.ycombinator.com/item?id=50199230 Points: 137 # Comments: 80",
    "published": "2026-10-22T18:28:16+00:00",
    "topics": [
     "Research"
@@ -492,7 +638,7 @@
    "link": "https://github.com/NVIDIA/OpenShell",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://github.com/NVIDIA/OpenShell Comments URL: https://news.ycombinator.com/item?id=50198675 Points: 372 # Comments: 187",
+   "summary": "Article URL: https://github.com/NVIDIA/OpenShell Comments URL: https://news.ycombinator.com/item?id=50198675 Points: 488 # Comments: 213",
    "published": "2026-10-22T17:44:06+00:00",
    "topics": [
     "Tools",
@@ -565,7 +711,7 @@
    "link": "https://www.modelcompare.ai/blog/ai-models-controversial-take-on-humans",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://www.modelcompare.ai/blog/ai-models-controversial-take-on-humans Comments URL: https://news.ycombinator.com/item?id=50197313 Points: 362 # Comments: 391",
+   "summary": "Article URL: https://www.modelcompare.ai/blog/ai-models-controversial-take-on-humans Comments URL: https://news.ycombinator.com/item?id=50197313 Points: 611 # Comments: 592",
    "published": "2026-10-22T16:08:00+00:00",
    "topics": [
     "Models"
@@ -962,7 +1108,7 @@
    "link": "https://www.bbc.com/news/articles/cmreyvepnv0po",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://www.bbc.com/news/articles/cmreyvepnv0po Comments URL: https://news.ycombinator.com/item?id=50186043 Points: 126 # Comments: 26",
+   "summary": "Article URL: https://www.bbc.com/news/articles/cmreyvepnv0po Comments URL: https://news.ycombinator.com/item?id=50186043 Points: 127 # Comments: 26",
    "published": "2026-10-21T19:14:21+00:00",
    "topics": [],
    "first_seen": "2026-10-22T04:44:18+00:00"
@@ -973,7 +1119,7 @@
    "link": "https://claude.com/product/claude-duet",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://claude.com/product/claude-duet Comments URL: https://news.ycombinator.com/item?id=50186037 Points: 550 # Comments: 519",
+   "summary": "Article URL: https://claude.com/product/claude-duet Comments URL: https://news.ycombinator.com/item?id=50186037 Points: 561 # Comments: 528",
    "published": "2026-10-21T19:14:01+00:00",
    "topics": [
     "Models"
@@ -1173,7 +1319,7 @@
    "link": "https://www.wiz.io/blog/php2shell-php-rce",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "https://www.php2shell.com/ Comments URL: https://news.ycombinator.com/item?id=50180836 Points: 450 # Comments: 184",
+   "summary": "https://www.php2shell.com/ Comments URL: https://news.ycombinator.com/item?id=50180836 Points: 452 # Comments: 185",
    "published": "2026-10-21T13:43:19+00:00",
    "topics": [],
    "first_seen": "2026-10-21T18:38:59+00:00"
@@ -1184,7 +1330,7 @@
    "link": "https://openai.com/index/scaling-ai-research-for-complex-biological-data/",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://openai.com/index/scaling-ai-research-for-complex-biological-data/ Comments URL: https://news.ycombinator.com/item?id=50180752 Points: 157 # Comments: 105",
+   "summary": "Article URL: https://openai.com/index/scaling-ai-research-for-complex-biological-data/ Comments URL: https://news.ycombinator.com/item?id=50180752 Points: 158 # Comments: 105",
    "published": "2026-10-21T13:37:00+00:00",
    "topics": [
     "Research",
@@ -1288,7 +1434,7 @@
    "link": "https://rumple.github.io/blog/2026/10/20/asking-llm-for-confidence.html",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://rumple.github.io/blog/2026/10/20/asking-llm-for-confidence.html Comments URL: https://news.ycombinator.com/item?id=50176082 Points: 208 # Comments: 100",
+   "summary": "Article URL: https://rumple.github.io/blog/2026/10/20/asking-llm-for-confidence.html Comments URL: https://news.ycombinator.com/item?id=50176082 Points: 221 # Comments: 100",
    "published": "2026-10-21T04:27:51+00:00",
    "topics": [
     "Models"
@@ -1312,7 +1458,7 @@
    "link": "https://www.anthropic.com/research/attack-surface-reduction",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://www.anthropic.com/research/attack-surface-reduction Comments URL: https://news.ycombinator.com/item?id=50175779 Points: 135 # Comments: 89",
+   "summary": "Article URL: https://www.anthropic.com/research/attack-surface-reduction Comments URL: https://news.ycombinator.com/item?id=50175779 Points: 135 # Comments: 91",
    "published": "2026-10-21T03:36:43+00:00",
    "topics": [
     "Models",
@@ -1649,7 +1795,7 @@
    "link": "https://www.ign.com/articles/steam-fans-are-begging-for-a-no-ai-filter-as-steam-next-fest-is-filled-with-slop",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://www.ign.com/articles/steam-fans-are-begging-for-a-no-ai-filter-as-steam-next-fest-is-filled-with-slop Comments URL: https://news.ycombinator.com/item?id=50168190 Points: 183 # Comments: 229",
+   "summary": "Article URL: https://www.ign.com/articles/steam-fans-are-begging-for-a-no-ai-filter-as-steam-next-fest-is-filled-with-slop Comments URL: https://news.ycombinator.com/item?id=50168190 Points: 183 # Comments: 231",
    "published": "2026-10-20T15:48:26+00:00",
    "topics": [],
    "first_seen": "2026-10-20T21:37:04+00:00"
@@ -1925,7 +2071,7 @@
    "link": "https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions Comments URL: https://news.ycombinator.com/item?id=50159341 Points: 740 # Comments: 218",
+   "summary": "Article URL: https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions Comments URL: https://news.ycombinator.com/item?id=50159341 Points: 741 # Comments: 219",
    "published": "2026-10-19T23:22:18+00:00",
    "topics": [
     "Models",
