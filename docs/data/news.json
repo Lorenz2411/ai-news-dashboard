@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-23T07:31:43+00:00",
+ "updated": "2026-10-23T13:26:29+00:00",
  "sources": [
   {
    "name": "OpenAI",
@@ -13,9 +13,9 @@
    "name": "Google DeepMind",
    "url": "https://deepmind.google/blog/rss.xml",
    "kind": "lab",
-   "ok": true,
-   "count": 40,
-   "error": null
+   "ok": false,
+   "count": 0,
+   "error": "ParseError: not well-formed (invalid token): line 1, column 0"
   },
   {
    "name": "Google AI",
@@ -85,12 +85,36 @@
    "name": "Hacker News",
    "url": "https://hnrss.org/newest?q=AI+OR+LLM+OR+GPT+OR+Claude&points=100",
    "kind": "community",
-   "ok": true,
-   "count": 20,
-   "error": null
+   "ok": false,
+   "count": 0,
+   "error": "HTTPError: HTTP Error 502: Bad Gateway"
   }
  ],
  "items": [
+  {
+   "id": "fa80f1a6b4b706ff",
+   "title": "Retro gaming is being overrun with AI",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/1015430/ai-retro-games-decomp-recomp-port",
+   "source": "The Verge",
+   "kind": "press",
+   "summary": "Retro video games are everywhere lately - especially in places where they aren't supposed to be. Halo in a web browser, Wind Waker on the iPhone, Super Smash Bros. in mixed reality. Over the past month or so, these kinds of unexpected projects have gone viral with incredible…",
+   "published": "2026-10-23T13:05:57+00:00",
+   "topics": [],
+   "first_seen": "2026-10-23T13:26:29+00:00"
+  },
+  {
+   "id": "3992fc4ed3eb0dfa",
+   "title": "Sure, let’s smoosh SpaceX and Tesla together, who cares",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/1016879/spacex-tesla-cursed-katamari",
+   "source": "The Verge",
+   "kind": "press",
+   "summary": "Oh sure, SpaceX's credit risk is pretty high because it's about to borrow another $40 billion to spend on Nvidia chips, but who cares about that? SpaceX and Tesla have formed special committees to discuss a merger! The degree to which you find this merger compelling likely has…",
+   "published": "2026-10-23T11:28:50+00:00",
+   "topics": [
+    "Hardware"
+   ],
+   "first_seen": "2026-10-22T21:35:16+00:00"
+  },
   {
    "id": "94cd4ca5fb66dd5d",
    "title": "Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony.ai and Nvidia",
@@ -130,6 +154,19 @@
     "Policy"
    ],
    "first_seen": "2026-10-23T07:31:43+00:00"
+  },
+  {
+   "id": "6430909168b58685",
+   "title": "Does Your Model Run on AWS Trainium? Look It Up",
+   "link": "https://huggingface.co/blog/torch-neuronx-model-support",
+   "source": "Hugging Face",
+   "kind": "lab",
+   "summary": "",
+   "published": "2026-10-23T00:00:00+00:00",
+   "topics": [
+    "Models"
+   ],
+   "first_seen": "2026-10-23T13:26:29+00:00"
   },
   {
    "id": "95eb6975ad245049",
@@ -181,19 +218,6 @@
    "published": "2026-10-22T21:17:29+00:00",
    "topics": [
     "Models"
-   ],
-   "first_seen": "2026-10-22T21:35:16+00:00"
-  },
-  {
-   "id": "3992fc4ed3eb0dfa",
-   "title": "Sure, let’s smoosh SpaceX and Tesla together, who cares",
-   "link": "https://www.theverge.com/ai-artificial-intelligence/1016879/spacex-tesla-cursed-katamari",
-   "source": "The Verge",
-   "kind": "press",
-   "summary": "Oh sure, SpaceX's credit risk is pretty high because it's about to borrow another $40 billion to spend on Nvidia chips, but who cares about that? SpaceX and Tesla have formed special committees to discuss a merger! The degree to which you find this merger compelling likely has…",
-   "published": "2026-10-22T21:14:26+00:00",
-   "topics": [
-    "Hardware"
    ],
    "first_seen": "2026-10-22T21:35:16+00:00"
   },
@@ -7055,83 +7079,6 @@
     "Models"
    ],
    "first_seen": "2026-10-11T16:19:26+00:00"
-  },
-  {
-   "id": "1d77064cbebb782f",
-   "title": "OpenAI extends cyber access to Ukraine for civilian defense",
-   "link": "https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense",
-   "source": "OpenAI",
-   "kind": "lab",
-   "summary": "OpenAI is extending access to its Daybreak program to the Government of Ukraine to support the cyber defense of civilian infrastructure.",
-   "published": "2026-09-23T13:00:00+00:00",
-   "topics": [
-    "Policy"
-   ],
-   "first_seen": "2026-10-11T09:46:44+00:00"
-  },
-  {
-   "id": "7cff1964bf19497f",
-   "title": "Ringg’s AI agents resolve up to 65% of customer calls with OpenAI",
-   "link": "https://openai.com/index/ringg",
-   "source": "OpenAI",
-   "kind": "lab",
-   "summary": "Using GPT-5.6, Ringg powers multilingual agents across voice, chat, WhatsApp, and web for 90% less cost vs. GPT-4.1.",
-   "published": "2026-09-23T12:00:00+00:00",
-   "topics": [
-    "Models",
-    "Tools"
-   ],
-   "first_seen": "2026-10-11T09:46:44+00:00"
-  },
-  {
-   "id": "7357353a1f1d61a6",
-   "title": "How invideo improves color grading 3x with GPT‑6 Astra",
-   "link": "https://openai.com/index/invideo-builds-with-gpt-6-astra",
-   "source": "OpenAI",
-   "kind": "lab",
-   "summary": "With GPT‑6 Astra, invideo plans edits with greater precision, improves color correction and grading threefold, and produces 50 custom effects in one day.",
-   "published": "2026-09-23T12:00:00+00:00",
-   "topics": [],
-   "first_seen": "2026-10-11T09:46:44+00:00"
-  },
-  {
-   "id": "f7558dc5c9de5bb5",
-   "title": "Harvey turns legal context into stronger drafts with GPT-6 Astra",
-   "link": "https://openai.com/index/harvey-from-context-to-confidence-with-astra",
-   "source": "OpenAI",
-   "kind": "lab",
-   "summary": "GPT-6 Astra produces more structured, context-aware legal documents, freeing lawyers to focus on strategy.",
-   "published": "2026-09-23T12:00:00+00:00",
-   "topics": [
-    "Models"
-   ],
-   "first_seen": "2026-10-11T09:46:44+00:00"
-  },
-  {
-   "id": "01d4e543c9419cea",
-   "title": "Sam Altman’s remarks at the United Nations Security Council",
-   "link": "https://openai.com/index/sam-altman-un-security-council-remarks",
-   "source": "OpenAI",
-   "kind": "lab",
-   "summary": "OpenAI CEO Sam Altman discusses AI safety, human control, and international cooperation in remarks to the United Nations Security Council.",
-   "published": "2026-09-23T12:00:00+00:00",
-   "topics": [
-    "Policy"
-   ],
-   "first_seen": "2026-10-11T09:46:44+00:00"
-  },
-  {
-   "id": "1d5a9cc2d9509da8",
-   "title": "Introducing MentalHealthBench",
-   "link": "https://openai.com/index/introducing-mentalhealthbench",
-   "source": "OpenAI",
-   "kind": "lab",
-   "summary": "MentalHealthBench is an expert-informed benchmark for evaluating helpful and safe AI responses across realistic mental health conversations.",
-   "published": "2026-09-23T10:00:00+00:00",
-   "topics": [
-    "Research"
-   ],
-   "first_seen": "2026-10-11T09:46:44+00:00"
   }
  ]
 }
