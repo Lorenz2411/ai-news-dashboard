@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-22T21:35:16+00:00",
+ "updated": "2026-10-23T00:39:44+00:00",
  "sources": [
   {
    "name": "OpenAI",
@@ -91,6 +91,46 @@
   }
  ],
  "items": [
+  {
+   "id": "95eb6975ad245049",
+   "title": "Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox",
+   "link": "https://huggingface.co/blog/microsoft/thinkingbox-training",
+   "source": "Hugging Face",
+   "kind": "lab",
+   "summary": "",
+   "published": "2026-10-22T22:24:34+00:00",
+   "topics": [
+    "Tools"
+   ],
+   "first_seen": "2026-10-23T00:39:44+00:00"
+  },
+  {
+   "id": "d73c3fbf5a8b67dc",
+   "title": "OpenAI working on new $30B raise at $1.25T valuation ahead of IPO",
+   "link": "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/",
+   "source": "TechCrunch",
+   "kind": "press",
+   "summary": "Should OpenAI command an over $1 trillion valuation with this round, it would break records as the most highly valued private company ever.",
+   "published": "2026-10-22T22:08:24+00:00",
+   "topics": [
+    "Business"
+   ],
+   "first_seen": "2026-10-23T00:39:44+00:00"
+  },
+  {
+   "id": "1437b0ebe886b61e",
+   "title": "Canva’s first AI image model plans designs before generating them",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/1017151/canva-craft-in-house-ai-model",
+   "source": "The Verge",
+   "kind": "press",
+   "summary": "Canva is diving even deeper into AI with the launch of an image generation model that competes directly with those from OpenAI, Microsoft, and Google. The model, called Canva Craft, uses a two-stage architecture that allows it to plan a design before generating an image…",
+   "published": "2026-10-22T21:53:22+00:00",
+   "topics": [
+    "Models",
+    "Tools"
+   ],
+   "first_seen": "2026-10-23T00:39:44+00:00"
+  },
   {
    "id": "2aedd54f3eb3c474",
    "title": "Designing an AI serving harness built to last",
@@ -274,6 +314,19 @@
    "first_seen": "2026-10-22T21:35:16+00:00"
   },
   {
+   "id": "a89c1639c81cde6e",
+   "title": "AI and the Enclosure of the Scientific Commons",
+   "link": "https://arxiv.org/abs/2610.27251",
+   "source": "Hacker News",
+   "kind": "community",
+   "summary": "Article URL: https://arxiv.org/abs/2610.27251 Comments URL: https://news.ycombinator.com/item?id=50199230 Points: 105 # Comments: 59",
+   "published": "2026-10-22T18:28:16+00:00",
+   "topics": [
+    "Research"
+   ],
+   "first_seen": "2026-10-23T00:39:44+00:00"
+  },
+  {
    "id": "2a8e11324f4e3ec3",
    "title": "Wildwood’s director says AI is ‘antithetical to everything that we are at this studio’",
    "link": "https://www.theverge.com/entertainment/1016647/wildwood-travis-knight-interview-ai-laika-stop-motion",
@@ -303,7 +356,7 @@
    "link": "https://github.com/NVIDIA/OpenShell",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://github.com/NVIDIA/OpenShell Comments URL: https://news.ycombinator.com/item?id=50198675 Points: 199 # Comments: 102",
+   "summary": "Article URL: https://github.com/NVIDIA/OpenShell Comments URL: https://news.ycombinator.com/item?id=50198675 Points: 286 # Comments: 144",
    "published": "2026-10-22T17:44:06+00:00",
    "topics": [
     "Tools",
@@ -369,6 +422,19 @@
    "published": "2026-10-22T16:11:31+00:00",
    "topics": [],
    "first_seen": "2026-10-22T17:10:11+00:00"
+  },
+  {
+   "id": "36b89264973fd28e",
+   "title": "Every AI model has the same \"controversial\" take on humans",
+   "link": "https://www.modelcompare.ai/blog/ai-models-controversial-take-on-humans",
+   "source": "Hacker News",
+   "kind": "community",
+   "summary": "Article URL: https://www.modelcompare.ai/blog/ai-models-controversial-take-on-humans Comments URL: https://news.ycombinator.com/item?id=50197313 Points: 219 # Comments: 264",
+   "published": "2026-10-22T16:08:00+00:00",
+   "topics": [
+    "Models"
+   ],
+   "first_seen": "2026-10-23T00:39:44+00:00"
   },
   {
    "id": "9d72639f5e003f5a",
@@ -760,7 +826,7 @@
    "link": "https://www.bbc.com/news/articles/cmreyvepnv0po",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://www.bbc.com/news/articles/cmreyvepnv0po Comments URL: https://news.ycombinator.com/item?id=50186043 Points: 125 # Comments: 26",
+   "summary": "Article URL: https://www.bbc.com/news/articles/cmreyvepnv0po Comments URL: https://news.ycombinator.com/item?id=50186043 Points: 126 # Comments: 26",
    "published": "2026-10-21T19:14:21+00:00",
    "topics": [],
    "first_seen": "2026-10-22T04:44:18+00:00"
@@ -771,7 +837,7 @@
    "link": "https://claude.com/product/claude-duet",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://claude.com/product/claude-duet Comments URL: https://news.ycombinator.com/item?id=50186037 Points: 544 # Comments: 507",
+   "summary": "Article URL: https://claude.com/product/claude-duet Comments URL: https://news.ycombinator.com/item?id=50186037 Points: 547 # Comments: 511",
    "published": "2026-10-21T19:14:01+00:00",
    "topics": [
     "Models"
@@ -982,7 +1048,7 @@
    "link": "https://openai.com/index/scaling-ai-research-for-complex-biological-data/",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://openai.com/index/scaling-ai-research-for-complex-biological-data/ Comments URL: https://news.ycombinator.com/item?id=50180752 Points: 153 # Comments: 103",
+   "summary": "Article URL: https://openai.com/index/scaling-ai-research-for-complex-biological-data/ Comments URL: https://news.ycombinator.com/item?id=50180752 Points: 155 # Comments: 104",
    "published": "2026-10-21T13:37:00+00:00",
    "topics": [
     "Research",
@@ -1086,7 +1152,7 @@
    "link": "https://rumple.github.io/blog/2026/10/20/asking-llm-for-confidence.html",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://rumple.github.io/blog/2026/10/20/asking-llm-for-confidence.html Comments URL: https://news.ycombinator.com/item?id=50176082 Points: 196 # Comments: 97",
+   "summary": "Article URL: https://rumple.github.io/blog/2026/10/20/asking-llm-for-confidence.html Comments URL: https://news.ycombinator.com/item?id=50176082 Points: 202 # Comments: 99",
    "published": "2026-10-21T04:27:51+00:00",
    "topics": [
     "Models"
@@ -1110,7 +1176,7 @@
    "link": "https://www.anthropic.com/research/attack-surface-reduction",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://www.anthropic.com/research/attack-surface-reduction Comments URL: https://news.ycombinator.com/item?id=50175779 Points: 133 # Comments: 89",
+   "summary": "Article URL: https://www.anthropic.com/research/attack-surface-reduction Comments URL: https://news.ycombinator.com/item?id=50175779 Points: 134 # Comments: 89",
    "published": "2026-10-21T03:36:43+00:00",
    "topics": [
     "Models",
@@ -2048,7 +2114,7 @@
    "link": "https://crystl.dev/guides/tmux-for-ai-agents/",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://crystl.dev/guides/tmux-for-ai-agents/ Comments URL: https://news.ycombinator.com/item?id=50148855 Points: 171 # Comments: 128",
+   "summary": "Article URL: https://crystl.dev/guides/tmux-for-ai-agents/ Comments URL: https://news.ycombinator.com/item?id=50148855 Points: 172 # Comments: 128",
    "published": "2026-10-19T05:55:31+00:00",
    "topics": [
     "Models",
