@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-23T00:39:44+00:00",
+ "updated": "2026-10-23T07:31:43+00:00",
  "sources": [
   {
    "name": "OpenAI",
@@ -91,6 +91,46 @@
   }
  ],
  "items": [
+  {
+   "id": "94cd4ca5fb66dd5d",
+   "title": "Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony.ai and Nvidia",
+   "link": "https://techcrunch.com/2026/10/22/uber-rival-indrive-eyes-2027-robotaxi-tests-in-central-asia-with-pony-ai-and-nvidia/",
+   "source": "TechCrunch",
+   "kind": "press",
+   "summary": "inDrive plans to begin testing Pony.ai's robotaxis in Kazakhstan's capital in the first half of 2027.",
+   "published": "2026-10-23T04:00:00+00:00",
+   "topics": [
+    "Hardware"
+   ],
+   "first_seen": "2026-10-23T07:31:43+00:00"
+  },
+  {
+   "id": "085ba153da3bfb79",
+   "title": "Left alone with nothing to do, AI agents started playing",
+   "link": "https://techcrunch.com/2026/10/22/left-alone-with-nothing-to-do-ai-agents-started-playing/",
+   "source": "TechCrunch",
+   "kind": "press",
+   "summary": "MIT researchers marooned 13 AIs on a virtual island, and they responded by inventing games, mourning a lost ring and, eventually, getting better at their jobs.",
+   "published": "2026-10-23T00:45:37+00:00",
+   "topics": [
+    "Tools"
+   ],
+   "first_seen": "2026-10-23T07:31:43+00:00"
+  },
+  {
+   "id": "15c1f8ef7a582594",
+   "title": "OpenAI and Poland’s NASK partner to advance AI safety and security",
+   "link": "https://openai.com/index/openai-nask-ai-safety-security-partnership",
+   "source": "OpenAI",
+   "kind": "lab",
+   "summary": "OpenAI and Poland’s NASK are partnering on AI safety, security, and technical research to strengthen safeguards and support a more resilient digital ecosystem.",
+   "published": "2026-10-23T00:00:00+00:00",
+   "topics": [
+    "Research",
+    "Policy"
+   ],
+   "first_seen": "2026-10-23T07:31:43+00:00"
+  },
   {
    "id": "95eb6975ad245049",
    "title": "Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox",
@@ -319,7 +359,7 @@
    "link": "https://arxiv.org/abs/2610.27251",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://arxiv.org/abs/2610.27251 Comments URL: https://news.ycombinator.com/item?id=50199230 Points: 105 # Comments: 59",
+   "summary": "Article URL: https://arxiv.org/abs/2610.27251 Comments URL: https://news.ycombinator.com/item?id=50199230 Points: 131 # Comments: 77",
    "published": "2026-10-22T18:28:16+00:00",
    "topics": [
     "Research"
@@ -356,7 +396,7 @@
    "link": "https://github.com/NVIDIA/OpenShell",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://github.com/NVIDIA/OpenShell Comments URL: https://news.ycombinator.com/item?id=50198675 Points: 286 # Comments: 144",
+   "summary": "Article URL: https://github.com/NVIDIA/OpenShell Comments URL: https://news.ycombinator.com/item?id=50198675 Points: 372 # Comments: 187",
    "published": "2026-10-22T17:44:06+00:00",
    "topics": [
     "Tools",
@@ -429,7 +469,7 @@
    "link": "https://www.modelcompare.ai/blog/ai-models-controversial-take-on-humans",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://www.modelcompare.ai/blog/ai-models-controversial-take-on-humans Comments URL: https://news.ycombinator.com/item?id=50197313 Points: 219 # Comments: 264",
+   "summary": "Article URL: https://www.modelcompare.ai/blog/ai-models-controversial-take-on-humans Comments URL: https://news.ycombinator.com/item?id=50197313 Points: 362 # Comments: 391",
    "published": "2026-10-22T16:08:00+00:00",
    "topics": [
     "Models"
@@ -837,7 +877,7 @@
    "link": "https://claude.com/product/claude-duet",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://claude.com/product/claude-duet Comments URL: https://news.ycombinator.com/item?id=50186037 Points: 547 # Comments: 511",
+   "summary": "Article URL: https://claude.com/product/claude-duet Comments URL: https://news.ycombinator.com/item?id=50186037 Points: 550 # Comments: 519",
    "published": "2026-10-21T19:14:01+00:00",
    "topics": [
     "Models"
@@ -1037,7 +1077,7 @@
    "link": "https://www.wiz.io/blog/php2shell-php-rce",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "https://www.php2shell.com/ Comments URL: https://news.ycombinator.com/item?id=50180836 Points: 446 # Comments: 184",
+   "summary": "https://www.php2shell.com/ Comments URL: https://news.ycombinator.com/item?id=50180836 Points: 450 # Comments: 184",
    "published": "2026-10-21T13:43:19+00:00",
    "topics": [],
    "first_seen": "2026-10-21T18:38:59+00:00"
@@ -1048,7 +1088,7 @@
    "link": "https://openai.com/index/scaling-ai-research-for-complex-biological-data/",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://openai.com/index/scaling-ai-research-for-complex-biological-data/ Comments URL: https://news.ycombinator.com/item?id=50180752 Points: 155 # Comments: 104",
+   "summary": "Article URL: https://openai.com/index/scaling-ai-research-for-complex-biological-data/ Comments URL: https://news.ycombinator.com/item?id=50180752 Points: 157 # Comments: 105",
    "published": "2026-10-21T13:37:00+00:00",
    "topics": [
     "Research",
@@ -1152,7 +1192,7 @@
    "link": "https://rumple.github.io/blog/2026/10/20/asking-llm-for-confidence.html",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://rumple.github.io/blog/2026/10/20/asking-llm-for-confidence.html Comments URL: https://news.ycombinator.com/item?id=50176082 Points: 202 # Comments: 99",
+   "summary": "Article URL: https://rumple.github.io/blog/2026/10/20/asking-llm-for-confidence.html Comments URL: https://news.ycombinator.com/item?id=50176082 Points: 208 # Comments: 100",
    "published": "2026-10-21T04:27:51+00:00",
    "topics": [
     "Models"
@@ -1176,7 +1216,7 @@
    "link": "https://www.anthropic.com/research/attack-surface-reduction",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://www.anthropic.com/research/attack-surface-reduction Comments URL: https://news.ycombinator.com/item?id=50175779 Points: 134 # Comments: 89",
+   "summary": "Article URL: https://www.anthropic.com/research/attack-surface-reduction Comments URL: https://news.ycombinator.com/item?id=50175779 Points: 135 # Comments: 89",
    "published": "2026-10-21T03:36:43+00:00",
    "topics": [
     "Models",
@@ -1789,7 +1829,7 @@
    "link": "https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions Comments URL: https://news.ycombinator.com/item?id=50159341 Points: 740 # Comments: 217",
+   "summary": "Article URL: https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions Comments URL: https://news.ycombinator.com/item?id=50159341 Points: 740 # Comments: 218",
    "published": "2026-10-19T23:22:18+00:00",
    "topics": [
     "Models",
@@ -2242,7 +2282,7 @@
    "link": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web Comments URL: https://news.ycombinator.com/item?id=50141657 Points: 158 # Comments: 149",
+   "summary": "Article URL: https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web Comments URL: https://news.ycombinator.com/item?id=50141657 Points: 159 # Comments: 149",
    "published": "2026-10-18T14:58:10+00:00",
    "topics": [
     "Tools"
