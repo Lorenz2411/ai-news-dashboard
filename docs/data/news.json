@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-24T18:47:22+00:00",
+ "updated": "2026-10-24T22:28:15+00:00",
  "sources": [
   {
    "name": "OpenAI",
@@ -13,9 +13,9 @@
    "name": "Google DeepMind",
    "url": "https://deepmind.google/blog/rss.xml",
    "kind": "lab",
-   "ok": false,
-   "count": 0,
-   "error": "ParseError: not well-formed (invalid token): line 1, column 0"
+   "ok": true,
+   "count": 40,
+   "error": null
   },
   {
    "name": "Google AI",
@@ -91,6 +91,68 @@
   }
  ],
  "items": [
+  {
+   "id": "0509c80e85fbace7",
+   "title": "Blue Planet III is keeping the rough edges in the age of AI",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/1018205/blue-planet-iii-authentic-organic-ai",
+   "source": "The Verge",
+   "kind": "press",
+   "summary": "BBC's Blue Planet III is looking to prove its authenticity by leaving in the less-than-perfect shots. Previous incarnations of the nature series were defined by their gorgeous, crystal-clear footage that seemed almost too good to be real. But one dead giveaway of AI is when…",
+   "published": "2026-10-24T21:29:12+00:00",
+   "topics": [],
+   "first_seen": "2026-10-24T22:28:15+00:00"
+  },
+  {
+   "id": "074b7d5e1602db74",
+   "title": "No signs of AI payoff outside the tech sector",
+   "link": "https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector",
+   "source": "Hacker News",
+   "kind": "community",
+   "summary": "Article URL: https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector Comments URL: https://news.ycombinator.com/item?id=50224463 Points: 371 # Comments: 348",
+   "published": "2026-10-24T19:47:19+00:00",
+   "topics": [],
+   "first_seen": "2026-10-24T22:28:15+00:00"
+  },
+  {
+   "id": "b0af889ad05fbb7f",
+   "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
+   "link": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+   "source": "TechCrunch",
+   "kind": "press",
+   "summary": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
+   "published": "2026-10-24T19:00:00+00:00",
+   "topics": [
+    "Business",
+    "Tools"
+   ],
+   "first_seen": "2026-10-24T22:28:15+00:00"
+  },
+  {
+   "id": "09a5dda451583962",
+   "title": "Pennsylvania will require labels on AI-generated ads",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/1018187/pennsylvania-ai-deceptive-advertising-act",
+   "source": "The Verge",
+   "kind": "press",
+   "summary": "On Thursday, Pennsylvania Governor Josh Shapiro signed the Artificial Intelligence Deceptive Advertising Act into law, requiring disclosures on AI-generated ads. The law requires any ad - whether it's a still image, video, audio, or text - that \"has been significantly modified…",
+   "published": "2026-10-24T18:32:44+00:00",
+   "topics": [
+    "Policy"
+   ],
+   "first_seen": "2026-10-24T22:28:15+00:00"
+  },
+  {
+   "id": "81c8fd74d5e2c7e1",
+   "title": "Why is AI generated language so hard to understand?",
+   "link": "https://arxiv.org/abs/2610.29162",
+   "source": "Hacker News",
+   "kind": "community",
+   "summary": "Article URL: https://arxiv.org/abs/2610.29162 Comments URL: https://news.ycombinator.com/item?id=50223647 Points: 127 # Comments: 123",
+   "published": "2026-10-24T18:04:57+00:00",
+   "topics": [
+    "Research"
+   ],
+   "first_seen": "2026-10-24T22:28:15+00:00"
+  },
   {
    "id": "35d668020c863316",
    "title": "Block’s new voice model sounds eerily human",
@@ -350,7 +412,7 @@
    "link": "https://www.sverigesradio.se/artikel/chat-gpt-och-claude-forbjuder-regeringskansliet",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://www.sverigesradio.se/artikel/chat-gpt-och-claude-forbjuder-regeringskansliet Comments URL: https://news.ycombinator.com/item?id=50207405 Points: 321 # Comments: 120",
+   "summary": "Article URL: https://www.sverigesradio.se/artikel/chat-gpt-och-claude-forbjuder-regeringskansliet Comments URL: https://news.ycombinator.com/item?id=50207405 Points: 322 # Comments: 120",
    "published": "2026-10-23T11:39:54+00:00",
    "topics": [
     "Models",
@@ -665,7 +727,7 @@
    "link": "https://arxiv.org/abs/2610.27251",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://arxiv.org/abs/2610.27251 Comments URL: https://news.ycombinator.com/item?id=50199230 Points: 140 # Comments: 80",
+   "summary": "Article URL: https://arxiv.org/abs/2610.27251 Comments URL: https://news.ycombinator.com/item?id=50199230 Points: 140 # Comments: 81",
    "published": "2026-10-22T18:28:16+00:00",
    "topics": [
     "Research"
@@ -775,7 +837,7 @@
    "link": "https://www.modelcompare.ai/blog/ai-models-controversial-take-on-humans",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://www.modelcompare.ai/blog/ai-models-controversial-take-on-humans Comments URL: https://news.ycombinator.com/item?id=50197313 Points: 645 # Comments: 618",
+   "summary": "Article URL: https://www.modelcompare.ai/blog/ai-models-controversial-take-on-humans Comments URL: https://news.ycombinator.com/item?id=50197313 Points: 645 # Comments: 621",
    "published": "2026-10-22T16:08:00+00:00",
    "topics": [
     "Models"
@@ -1183,7 +1245,7 @@
    "link": "https://claude.com/product/claude-duet",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://claude.com/product/claude-duet Comments URL: https://news.ycombinator.com/item?id=50186037 Points: 565 # Comments: 532",
+   "summary": "Article URL: https://claude.com/product/claude-duet Comments URL: https://news.ycombinator.com/item?id=50186037 Points: 565 # Comments: 533",
    "published": "2026-10-21T19:14:01+00:00",
    "topics": [
     "Models"
@@ -1394,7 +1456,7 @@
    "link": "https://openai.com/index/scaling-ai-research-for-complex-biological-data/",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://openai.com/index/scaling-ai-research-for-complex-biological-data/ Comments URL: https://news.ycombinator.com/item?id=50180752 Points: 159 # Comments: 105",
+   "summary": "Article URL: https://openai.com/index/scaling-ai-research-for-complex-biological-data/ Comments URL: https://news.ycombinator.com/item?id=50180752 Points: 160 # Comments: 105",
    "published": "2026-10-21T13:37:00+00:00",
    "topics": [
     "Research",
@@ -1701,7 +1763,7 @@
    "link": "https://danielball.com/notes/ai_image_generation.html",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://danielball.com/notes/ai_image_generation.html Comments URL: https://news.ycombinator.com/item?id=50171379 Points: 214 # Comments: 65",
+   "summary": "Article URL: https://danielball.com/notes/ai_image_generation.html Comments URL: https://news.ycombinator.com/item?id=50171379 Points: 236 # Comments: 79",
    "published": "2026-10-20T19:22:39+00:00",
    "topics": [
     "Tools"
@@ -2148,7 +2210,7 @@
    "link": "https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions Comments URL: https://news.ycombinator.com/item?id=50159341 Points: 742 # Comments: 220",
+   "summary": "Article URL: https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions Comments URL: https://news.ycombinator.com/item?id=50159341 Points: 742 # Comments: 221",
    "published": "2026-10-19T23:22:18+00:00",
    "topics": [
     "Models",
