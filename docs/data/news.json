@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-24T15:56:28+00:00",
+ "updated": "2026-10-24T18:47:22+00:00",
  "sources": [
   {
    "name": "OpenAI",
@@ -13,9 +13,9 @@
    "name": "Google DeepMind",
    "url": "https://deepmind.google/blog/rss.xml",
    "kind": "lab",
-   "ok": true,
-   "count": 40,
-   "error": null
+   "ok": false,
+   "count": 0,
+   "error": "ParseError: not well-formed (invalid token): line 1, column 0"
   },
   {
    "name": "Google AI",
@@ -91,6 +91,19 @@
   }
  ],
  "items": [
+  {
+   "id": "35d668020c863316",
+   "title": "Block’s new voice model sounds eerily human",
+   "link": "https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/",
+   "source": "TechCrunch",
+   "kind": "press",
+   "summary": "Block said that the voice model can run locally on a MacBook M4 Max",
+   "published": "2026-10-24T16:00:00+00:00",
+   "topics": [
+    "Models"
+   ],
+   "first_seen": "2026-10-24T18:47:22+00:00"
+  },
   {
    "id": "110fd09f65f25a52",
    "title": "Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats.",
@@ -337,7 +350,7 @@
    "link": "https://www.sverigesradio.se/artikel/chat-gpt-och-claude-forbjuder-regeringskansliet",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://www.sverigesradio.se/artikel/chat-gpt-och-claude-forbjuder-regeringskansliet Comments URL: https://news.ycombinator.com/item?id=50207405 Points: 321 # Comments: 119",
+   "summary": "Article URL: https://www.sverigesradio.se/artikel/chat-gpt-och-claude-forbjuder-regeringskansliet Comments URL: https://news.ycombinator.com/item?id=50207405 Points: 321 # Comments: 120",
    "published": "2026-10-23T11:39:54+00:00",
    "topics": [
     "Models",
@@ -652,7 +665,7 @@
    "link": "https://arxiv.org/abs/2610.27251",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://arxiv.org/abs/2610.27251 Comments URL: https://news.ycombinator.com/item?id=50199230 Points: 139 # Comments: 80",
+   "summary": "Article URL: https://arxiv.org/abs/2610.27251 Comments URL: https://news.ycombinator.com/item?id=50199230 Points: 140 # Comments: 80",
    "published": "2026-10-22T18:28:16+00:00",
    "topics": [
     "Research"
@@ -689,7 +702,7 @@
    "link": "https://github.com/NVIDIA/OpenShell",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://github.com/NVIDIA/OpenShell Comments URL: https://news.ycombinator.com/item?id=50198675 Points: 496 # Comments: 217",
+   "summary": "Article URL: https://github.com/NVIDIA/OpenShell Comments URL: https://news.ycombinator.com/item?id=50198675 Points: 499 # Comments: 217",
    "published": "2026-10-22T17:44:06+00:00",
    "topics": [
     "Tools",
@@ -762,7 +775,7 @@
    "link": "https://www.modelcompare.ai/blog/ai-models-controversial-take-on-humans",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://www.modelcompare.ai/blog/ai-models-controversial-take-on-humans Comments URL: https://news.ycombinator.com/item?id=50197313 Points: 640 # Comments: 617",
+   "summary": "Article URL: https://www.modelcompare.ai/blog/ai-models-controversial-take-on-humans Comments URL: https://news.ycombinator.com/item?id=50197313 Points: 645 # Comments: 618",
    "published": "2026-10-22T16:08:00+00:00",
    "topics": [
     "Models"
@@ -1485,7 +1498,7 @@
    "link": "https://rumple.github.io/blog/2026/10/20/asking-llm-for-confidence.html",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://rumple.github.io/blog/2026/10/20/asking-llm-for-confidence.html Comments URL: https://news.ycombinator.com/item?id=50176082 Points: 224 # Comments: 102",
+   "summary": "Article URL: https://rumple.github.io/blog/2026/10/20/asking-llm-for-confidence.html Comments URL: https://news.ycombinator.com/item?id=50176082 Points: 224 # Comments: 103",
    "published": "2026-10-21T04:27:51+00:00",
    "topics": [
     "Models"
@@ -1688,7 +1701,7 @@
    "link": "https://danielball.com/notes/ai_image_generation.html",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://danielball.com/notes/ai_image_generation.html Comments URL: https://news.ycombinator.com/item?id=50171379 Points: 186 # Comments: 52",
+   "summary": "Article URL: https://danielball.com/notes/ai_image_generation.html Comments URL: https://news.ycombinator.com/item?id=50171379 Points: 214 # Comments: 65",
    "published": "2026-10-20T19:22:39+00:00",
    "topics": [
     "Tools"
@@ -7302,19 +7315,6 @@
     "Models"
    ],
    "first_seen": "2026-10-11T09:46:44+00:00"
-  },
-  {
-   "id": "e7107d9a76d915c4",
-   "title": "Introducing Gemini 3.8 Live with Live Avatar",
-   "link": "https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar/",
-   "source": "Google DeepMind",
-   "kind": "lab",
-   "summary": "",
-   "published": "2026-09-24T16:20:39+00:00",
-   "topics": [
-    "Models"
-   ],
-   "first_seen": "2026-10-11T16:19:26+00:00"
   }
  ]
 }
