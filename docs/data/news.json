@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-24T10:59:03+00:00",
+ "updated": "2026-10-24T15:56:28+00:00",
  "sources": [
   {
    "name": "OpenAI",
@@ -85,12 +85,63 @@
    "name": "Hacker News",
    "url": "https://hnrss.org/newest?q=AI+OR+LLM+OR+GPT+OR+Claude&points=100",
    "kind": "community",
-   "ok": false,
-   "count": 0,
-   "error": "HTTPError: HTTP Error 502: Bad Gateway"
+   "ok": true,
+   "count": 20,
+   "error": null
   }
  ],
  "items": [
+  {
+   "id": "110fd09f65f25a52",
+   "title": "Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats.",
+   "link": "https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/",
+   "source": "TechCrunch",
+   "kind": "press",
+   "summary": "A new study found Grok's AI overwhelmingly recommends Republican candidates while OpenAI's GPT favors Democrats, with the two AI models disagreeing in more than 90% of nearly 500 election races.",
+   "published": "2026-10-24T15:00:00+00:00",
+   "topics": [
+    "Models",
+    "Research"
+   ],
+   "first_seen": "2026-10-24T15:56:28+00:00"
+  },
+  {
+   "id": "0d4ae8a7dd392962",
+   "title": "Here are the top AI agents that can live in your text messages",
+   "link": "https://techcrunch.com/2026/10/24/all-the-ai-agents-that-can-live-in-your-text-messages/",
+   "source": "TechCrunch",
+   "kind": "press",
+   "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
+   "published": "2026-10-24T14:00:00+00:00",
+   "topics": [
+    "Tools"
+   ],
+   "first_seen": "2026-10-24T15:56:28+00:00"
+  },
+  {
+   "id": "3c20f3ab5bf10ab8",
+   "title": "Hacker reverses Samsung TV, finds on-board AI listening OpenAI account suspended",
+   "link": "https://www.reddit.com/r/antiai/comments/1xdv3e5/hacker_reverse_engineers_his_samsung_tv_and_finds/",
+   "source": "Hacker News",
+   "kind": "community",
+   "summary": "Article URL: https://www.reddit.com/r/antiai/comments/1xdv3e5/hacker_reverse_engineers_his_samsung_tv_and_finds/ Comments URL: https://news.ycombinator.com/item?id=50218633 Points: 391 # Comments: 137",
+   "published": "2026-10-24T05:49:57+00:00",
+   "topics": [],
+   "first_seen": "2026-10-24T15:56:28+00:00"
+  },
+  {
+   "id": "3812b4d599bb7adb",
+   "title": "battledrones v14: Compass Rose, a four player map",
+   "link": "https://simonwillison.net/2026/Oct/24/battledrones/",
+   "source": "Simon Willison",
+   "kind": "community",
+   "summary": "Release: battledrones v14: Compass Rose, a four player map I added four player online mode to Battledrones - previous maps were limited to two. Here's the initial prompt I used: Add a new map for a four player battle - four way rotational symmetry, up to four AI players, works…",
+   "published": "2026-10-24T03:59:57+00:00",
+   "topics": [
+    "Tools"
+   ],
+   "first_seen": "2026-10-24T15:56:28+00:00"
+  },
   {
    "id": "b15a6fb9671b3fea",
    "title": "OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”",
@@ -286,7 +337,7 @@
    "link": "https://www.sverigesradio.se/artikel/chat-gpt-och-claude-forbjuder-regeringskansliet",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://www.sverigesradio.se/artikel/chat-gpt-och-claude-forbjuder-regeringskansliet Comments URL: https://news.ycombinator.com/item?id=50207405 Points: 314 # Comments: 114",
+   "summary": "Article URL: https://www.sverigesradio.se/artikel/chat-gpt-och-claude-forbjuder-regeringskansliet Comments URL: https://news.ycombinator.com/item?id=50207405 Points: 321 # Comments: 119",
    "published": "2026-10-23T11:39:54+00:00",
    "topics": [
     "Models",
@@ -326,7 +377,7 @@
    "link": "https://berget.ai/en/blog/per-request-co2-press-release",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://berget.ai/en/blog/per-request-co2-press-release Comments URL: https://news.ycombinator.com/item?id=50205229 Points: 140 # Comments: 154",
+   "summary": "Article URL: https://berget.ai/en/blog/per-request-co2-press-release Comments URL: https://news.ycombinator.com/item?id=50205229 Points: 141 # Comments: 156",
    "published": "2026-10-23T06:41:11+00:00",
    "topics": [
     "Tools"
@@ -601,7 +652,7 @@
    "link": "https://arxiv.org/abs/2610.27251",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://arxiv.org/abs/2610.27251 Comments URL: https://news.ycombinator.com/item?id=50199230 Points: 137 # Comments: 80",
+   "summary": "Article URL: https://arxiv.org/abs/2610.27251 Comments URL: https://news.ycombinator.com/item?id=50199230 Points: 139 # Comments: 80",
    "published": "2026-10-22T18:28:16+00:00",
    "topics": [
     "Research"
@@ -638,7 +689,7 @@
    "link": "https://github.com/NVIDIA/OpenShell",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://github.com/NVIDIA/OpenShell Comments URL: https://news.ycombinator.com/item?id=50198675 Points: 488 # Comments: 213",
+   "summary": "Article URL: https://github.com/NVIDIA/OpenShell Comments URL: https://news.ycombinator.com/item?id=50198675 Points: 496 # Comments: 217",
    "published": "2026-10-22T17:44:06+00:00",
    "topics": [
     "Tools",
@@ -711,7 +762,7 @@
    "link": "https://www.modelcompare.ai/blog/ai-models-controversial-take-on-humans",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://www.modelcompare.ai/blog/ai-models-controversial-take-on-humans Comments URL: https://news.ycombinator.com/item?id=50197313 Points: 611 # Comments: 592",
+   "summary": "Article URL: https://www.modelcompare.ai/blog/ai-models-controversial-take-on-humans Comments URL: https://news.ycombinator.com/item?id=50197313 Points: 640 # Comments: 617",
    "published": "2026-10-22T16:08:00+00:00",
    "topics": [
     "Models"
@@ -1119,7 +1170,7 @@
    "link": "https://claude.com/product/claude-duet",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://claude.com/product/claude-duet Comments URL: https://news.ycombinator.com/item?id=50186037 Points: 561 # Comments: 528",
+   "summary": "Article URL: https://claude.com/product/claude-duet Comments URL: https://news.ycombinator.com/item?id=50186037 Points: 565 # Comments: 532",
    "published": "2026-10-21T19:14:01+00:00",
    "topics": [
     "Models"
@@ -1319,7 +1370,7 @@
    "link": "https://www.wiz.io/blog/php2shell-php-rce",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "https://www.php2shell.com/ Comments URL: https://news.ycombinator.com/item?id=50180836 Points: 452 # Comments: 185",
+   "summary": "https://www.php2shell.com/ Comments URL: https://news.ycombinator.com/item?id=50180836 Points: 454 # Comments: 185",
    "published": "2026-10-21T13:43:19+00:00",
    "topics": [],
    "first_seen": "2026-10-21T18:38:59+00:00"
@@ -1330,7 +1381,7 @@
    "link": "https://openai.com/index/scaling-ai-research-for-complex-biological-data/",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://openai.com/index/scaling-ai-research-for-complex-biological-data/ Comments URL: https://news.ycombinator.com/item?id=50180752 Points: 158 # Comments: 105",
+   "summary": "Article URL: https://openai.com/index/scaling-ai-research-for-complex-biological-data/ Comments URL: https://news.ycombinator.com/item?id=50180752 Points: 159 # Comments: 105",
    "published": "2026-10-21T13:37:00+00:00",
    "topics": [
     "Research",
@@ -1434,7 +1485,7 @@
    "link": "https://rumple.github.io/blog/2026/10/20/asking-llm-for-confidence.html",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://rumple.github.io/blog/2026/10/20/asking-llm-for-confidence.html Comments URL: https://news.ycombinator.com/item?id=50176082 Points: 221 # Comments: 100",
+   "summary": "Article URL: https://rumple.github.io/blog/2026/10/20/asking-llm-for-confidence.html Comments URL: https://news.ycombinator.com/item?id=50176082 Points: 224 # Comments: 102",
    "published": "2026-10-21T04:27:51+00:00",
    "topics": [
     "Models"
@@ -1458,7 +1509,7 @@
    "link": "https://www.anthropic.com/research/attack-surface-reduction",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://www.anthropic.com/research/attack-surface-reduction Comments URL: https://news.ycombinator.com/item?id=50175779 Points: 135 # Comments: 91",
+   "summary": "Article URL: https://www.anthropic.com/research/attack-surface-reduction Comments URL: https://news.ycombinator.com/item?id=50175779 Points: 136 # Comments: 91",
    "published": "2026-10-21T03:36:43+00:00",
    "topics": [
     "Models",
@@ -1630,6 +1681,19 @@
     "Models"
    ],
    "first_seen": "2026-10-20T21:37:04+00:00"
+  },
+  {
+   "id": "c27242c921217b92",
+   "title": "A practical guide to AI image generation, from diffusion to agents",
+   "link": "https://danielball.com/notes/ai_image_generation.html",
+   "source": "Hacker News",
+   "kind": "community",
+   "summary": "Article URL: https://danielball.com/notes/ai_image_generation.html Comments URL: https://news.ycombinator.com/item?id=50171379 Points: 186 # Comments: 52",
+   "published": "2026-10-20T19:22:39+00:00",
+   "topics": [
+    "Tools"
+   ],
+   "first_seen": "2026-10-24T15:56:28+00:00"
   },
   {
    "id": "45cc8f58865901fe",
@@ -2071,7 +2135,7 @@
    "link": "https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions Comments URL: https://news.ycombinator.com/item?id=50159341 Points: 741 # Comments: 219",
+   "summary": "Article URL: https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions Comments URL: https://news.ycombinator.com/item?id=50159341 Points: 742 # Comments: 220",
    "published": "2026-10-19T23:22:18+00:00",
    "topics": [
     "Models",
