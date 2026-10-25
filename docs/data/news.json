@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-25T11:28:09+00:00",
+ "updated": "2026-10-25T16:18:18+00:00",
  "sources": [
   {
    "name": "OpenAI",
@@ -13,9 +13,9 @@
    "name": "Google DeepMind",
    "url": "https://deepmind.google/blog/rss.xml",
    "kind": "lab",
-   "ok": false,
-   "count": 0,
-   "error": "ParseError: not well-formed (invalid token): line 1, column 0"
+   "ok": true,
+   "count": 40,
+   "error": null
   },
   {
    "name": "Google AI",
@@ -92,12 +92,34 @@
  ],
  "items": [
   {
+   "id": "4262d71f08be8cda",
+   "title": "The hottest AI wearables and gadgets you should know about",
+   "link": "https://techcrunch.com/2026/10/25/the-hottest-ai-wearables-and-gadgets-you-should-know-about/",
+   "source": "TechCrunch",
+   "kind": "press",
+   "summary": "We compiled a list of all the hottest AI wearables, including Muse Charm, Bee, Friend, Plaud, and more.",
+   "published": "2026-10-25T14:10:00+00:00",
+   "topics": [],
+   "first_seen": "2026-10-25T16:18:18+00:00"
+  },
+  {
+   "id": "b366ba776fde8cd4",
+   "title": "r/opensource just banned AI, non-English speakers, and more",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/1018217/reddit-opensource-ai-ban",
+   "source": "The Verge",
+   "kind": "press",
+   "summary": "The mods at r/opensource posted new submission rules that, among other things, banned projects that use AI. The post made Saturday evening opens by saying, \"If your project uses AI, is made by AI, or is intended for AI, it's not welcome on r/opensource. AI, as it exists today…",
+   "published": "2026-10-25T13:52:12+00:00",
+   "topics": [],
+   "first_seen": "2026-10-25T16:18:18+00:00"
+  },
+  {
    "id": "2325af3360e06716",
    "title": "Cerebras Deploys Trillion-Parameter AI Models",
    "link": "https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras Comments URL: https://news.ycombinator.com/item?id=50227356 Points: 191 # Comments: 63",
+   "summary": "Article URL: https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras Comments URL: https://news.ycombinator.com/item?id=50227356 Points: 276 # Comments: 94",
    "published": "2026-10-25T01:33:49+00:00",
    "topics": [
     "Models"
@@ -110,7 +132,7 @@
    "link": "https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class Comments URL: https://news.ycombinator.com/item?id=50226419 Points: 379 # Comments: 384",
+   "summary": "Article URL: https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class Comments URL: https://news.ycombinator.com/item?id=50226419 Points: 445 # Comments: 465",
    "published": "2026-10-24T23:11:54+00:00",
    "topics": [],
    "first_seen": "2026-10-25T04:40:34+00:00"
@@ -132,7 +154,7 @@
    "link": "https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector Comments URL: https://news.ycombinator.com/item?id=50224463 Points: 559 # Comments: 594",
+   "summary": "Article URL: https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector Comments URL: https://news.ycombinator.com/item?id=50224463 Points: 588 # Comments: 624",
    "published": "2026-10-24T19:47:19+00:00",
    "topics": [],
    "first_seen": "2026-10-24T22:28:15+00:00"
@@ -170,7 +192,7 @@
    "link": "https://arxiv.org/abs/2610.29162",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://arxiv.org/abs/2610.29162 Comments URL: https://news.ycombinator.com/item?id=50223647 Points: 208 # Comments: 171",
+   "summary": "Article URL: https://arxiv.org/abs/2610.29162 Comments URL: https://news.ycombinator.com/item?id=50223647 Points: 224 # Comments: 181",
    "published": "2026-10-24T18:04:57+00:00",
    "topics": [
     "Research"
@@ -293,6 +315,17 @@
     "Models"
    ],
    "first_seen": "2026-10-23T23:08:37+00:00"
+  },
+  {
+   "id": "99c99157c7fa1579",
+   "title": "Google’s AI search changes upended online publishing",
+   "link": "https://www.theverge.com/column/1017983/google-ai-search-online-publishing",
+   "source": "The Verge",
+   "kind": "press",
+   "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more about AI's impact on the web, follow Emma Roth. The Stepback arrives in our subscribers' inboxes on Sunday at 8AM ET. Opt in for The Stepback here. How it started The…",
+   "published": "2026-10-23T20:42:34+00:00",
+   "topics": [],
+   "first_seen": "2026-10-25T16:18:18+00:00"
   },
   {
    "id": "3e249e7fc631b679",
@@ -751,7 +784,7 @@
    "link": "https://arxiv.org/abs/2610.27251",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://arxiv.org/abs/2610.27251 Comments URL: https://news.ycombinator.com/item?id=50199230 Points: 140 # Comments: 81",
+   "summary": "Article URL: https://arxiv.org/abs/2610.27251 Comments URL: https://news.ycombinator.com/item?id=50199230 Points: 141 # Comments: 81",
    "published": "2026-10-22T18:28:16+00:00",
    "topics": [
     "Research"
@@ -788,7 +821,7 @@
    "link": "https://github.com/NVIDIA/OpenShell",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://github.com/NVIDIA/OpenShell Comments URL: https://news.ycombinator.com/item?id=50198675 Points: 499 # Comments: 217",
+   "summary": "Article URL: https://github.com/NVIDIA/OpenShell Comments URL: https://news.ycombinator.com/item?id=50198675 Points: 500 # Comments: 217",
    "published": "2026-10-22T17:44:06+00:00",
    "topics": [
     "Tools",
@@ -861,7 +894,7 @@
    "link": "https://www.modelcompare.ai/blog/ai-models-controversial-take-on-humans",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://www.modelcompare.ai/blog/ai-models-controversial-take-on-humans Comments URL: https://news.ycombinator.com/item?id=50197313 Points: 650 # Comments: 624",
+   "summary": "Article URL: https://www.modelcompare.ai/blog/ai-models-controversial-take-on-humans Comments URL: https://news.ycombinator.com/item?id=50197313 Points: 652 # Comments: 628",
    "published": "2026-10-22T16:08:00+00:00",
    "topics": [
     "Models"
@@ -1787,7 +1820,7 @@
    "link": "https://danielball.com/notes/ai_image_generation.html",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://danielball.com/notes/ai_image_generation.html Comments URL: https://news.ycombinator.com/item?id=50171379 Points: 273 # Comments: 90",
+   "summary": "Article URL: https://danielball.com/notes/ai_image_generation.html Comments URL: https://news.ycombinator.com/item?id=50171379 Points: 281 # Comments: 93",
    "published": "2026-10-20T19:22:39+00:00",
    "topics": [
     "Tools"
@@ -1958,7 +1991,7 @@
    "link": "https://www.ign.com/articles/steam-fans-are-begging-for-a-no-ai-filter-as-steam-next-fest-is-filled-with-slop",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://www.ign.com/articles/steam-fans-are-begging-for-a-no-ai-filter-as-steam-next-fest-is-filled-with-slop Comments URL: https://news.ycombinator.com/item?id=50168190 Points: 183 # Comments: 231",
+   "summary": "Article URL: https://www.ign.com/articles/steam-fans-are-begging-for-a-no-ai-filter-as-steam-next-fest-is-filled-with-slop Comments URL: https://news.ycombinator.com/item?id=50168190 Points: 184 # Comments: 231",
    "published": "2026-10-20T15:48:26+00:00",
    "topics": [],
    "first_seen": "2026-10-20T21:37:04+00:00"
