@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-25T16:18:18+00:00",
+ "updated": "2026-10-25T20:50:34+00:00",
  "sources": [
   {
    "name": "OpenAI",
@@ -92,6 +92,30 @@
  ],
  "items": [
   {
+   "id": "71334093a413753d",
+   "title": "AI delivers ‘zero financial payoff’ to most companies, Apollo economist says",
+   "link": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
+   "source": "TechCrunch",
+   "kind": "press",
+   "summary": "\"Despite massive investments and widespread hype around artificial intelligence, the technology has delivered zero financial payoff to corporate America outside of tech.\"",
+   "published": "2026-10-25T16:57:32+00:00",
+   "topics": [
+    "Business"
+   ],
+   "first_seen": "2026-10-25T20:50:34+00:00"
+  },
+  {
+   "id": "2af7003f0e2faf2b",
+   "title": "AI use leads UC Berkeley math professor to see 'no point' in grading homework",
+   "link": "https://www.dailycal.org/news/campus/academics/ai-use-leads-uc-berkeley-math-professor-to-see-no-point-in-grading-homework/article_bdf1eae2-c08b-491f-b9f1-81a7cea177de.html",
+   "source": "Hacker News",
+   "kind": "community",
+   "summary": "Article URL: https://www.dailycal.org/news/campus/academics/ai-use-leads-uc-berkeley-math-professor-to-see-no-point-in-grading-homework/article_bdf1eae2-c08b-491f-b9f1-81a7cea177de.html Comments URL: https://news.ycombinator.com/item?id=50233304 Points: 135 # Comments: 214",
+   "published": "2026-10-25T16:28:26+00:00",
+   "topics": [],
+   "first_seen": "2026-10-25T20:50:34+00:00"
+  },
+  {
    "id": "4262d71f08be8cda",
    "title": "The hottest AI wearables and gadgets you should know about",
    "link": "https://techcrunch.com/2026/10/25/the-hottest-ai-wearables-and-gadgets-you-should-know-about/",
@@ -114,12 +138,23 @@
    "first_seen": "2026-10-25T16:18:18+00:00"
   },
   {
+   "id": "b82b80f1678212b4",
+   "title": "Nikon photography contest winner loses title after scientists spot signs of AI",
+   "link": "https://www.techspot.com/news/114171-nikon-photography-contest-winner-loses-title-after-scientists.html",
+   "source": "Hacker News",
+   "kind": "community",
+   "summary": "Article URL: https://www.techspot.com/news/114171-nikon-photography-contest-winner-loses-title-after-scientists.html Comments URL: https://news.ycombinator.com/item?id=50229827 Points: 124 # Comments: 59",
+   "published": "2026-10-25T09:51:17+00:00",
+   "topics": [],
+   "first_seen": "2026-10-25T20:50:34+00:00"
+  },
+  {
    "id": "2325af3360e06716",
    "title": "Cerebras Deploys Trillion-Parameter AI Models",
    "link": "https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras Comments URL: https://news.ycombinator.com/item?id=50227356 Points: 276 # Comments: 94",
+   "summary": "Article URL: https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras Comments URL: https://news.ycombinator.com/item?id=50227356 Points: 338 # Comments: 121",
    "published": "2026-10-25T01:33:49+00:00",
    "topics": [
     "Models"
@@ -132,7 +167,7 @@
    "link": "https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class Comments URL: https://news.ycombinator.com/item?id=50226419 Points: 445 # Comments: 465",
+   "summary": "Article URL: https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class Comments URL: https://news.ycombinator.com/item?id=50226419 Points: 488 # Comments: 522",
    "published": "2026-10-24T23:11:54+00:00",
    "topics": [],
    "first_seen": "2026-10-25T04:40:34+00:00"
@@ -154,7 +189,7 @@
    "link": "https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector Comments URL: https://news.ycombinator.com/item?id=50224463 Points: 588 # Comments: 624",
+   "summary": "Article URL: https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector Comments URL: https://news.ycombinator.com/item?id=50224463 Points: 601 # Comments: 643",
    "published": "2026-10-24T19:47:19+00:00",
    "topics": [],
    "first_seen": "2026-10-24T22:28:15+00:00"
@@ -192,7 +227,7 @@
    "link": "https://arxiv.org/abs/2610.29162",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://arxiv.org/abs/2610.29162 Comments URL: https://news.ycombinator.com/item?id=50223647 Points: 224 # Comments: 181",
+   "summary": "Article URL: https://arxiv.org/abs/2610.29162 Comments URL: https://news.ycombinator.com/item?id=50223647 Points: 238 # Comments: 194",
    "published": "2026-10-24T18:04:57+00:00",
    "topics": [
     "Research"
@@ -469,7 +504,7 @@
    "link": "https://www.sverigesradio.se/artikel/chat-gpt-och-claude-forbjuder-regeringskansliet",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://www.sverigesradio.se/artikel/chat-gpt-och-claude-forbjuder-regeringskansliet Comments URL: https://news.ycombinator.com/item?id=50207405 Points: 322 # Comments: 122",
+   "summary": "Article URL: https://www.sverigesradio.se/artikel/chat-gpt-och-claude-forbjuder-regeringskansliet Comments URL: https://news.ycombinator.com/item?id=50207405 Points: 322 # Comments: 123",
    "published": "2026-10-23T11:39:54+00:00",
    "topics": [
     "Models",
@@ -821,7 +856,7 @@
    "link": "https://github.com/NVIDIA/OpenShell",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://github.com/NVIDIA/OpenShell Comments URL: https://news.ycombinator.com/item?id=50198675 Points: 500 # Comments: 217",
+   "summary": "Article URL: https://github.com/NVIDIA/OpenShell Comments URL: https://news.ycombinator.com/item?id=50198675 Points: 501 # Comments: 217",
    "published": "2026-10-22T17:44:06+00:00",
    "topics": [
     "Tools",
@@ -894,7 +929,7 @@
    "link": "https://www.modelcompare.ai/blog/ai-models-controversial-take-on-humans",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://www.modelcompare.ai/blog/ai-models-controversial-take-on-humans Comments URL: https://news.ycombinator.com/item?id=50197313 Points: 652 # Comments: 628",
+   "summary": "Article URL: https://www.modelcompare.ai/blog/ai-models-controversial-take-on-humans Comments URL: https://news.ycombinator.com/item?id=50197313 Points: 655 # Comments: 632",
    "published": "2026-10-22T16:08:00+00:00",
    "topics": [
     "Models"
@@ -1820,7 +1855,7 @@
    "link": "https://danielball.com/notes/ai_image_generation.html",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://danielball.com/notes/ai_image_generation.html Comments URL: https://news.ycombinator.com/item?id=50171379 Points: 281 # Comments: 93",
+   "summary": "Article URL: https://danielball.com/notes/ai_image_generation.html Comments URL: https://news.ycombinator.com/item?id=50171379 Points: 282 # Comments: 94",
    "published": "2026-10-20T19:22:39+00:00",
    "topics": [
     "Tools"
@@ -7394,19 +7429,6 @@
    "summary": "",
    "published": "2026-09-28T00:00:00+00:00",
    "topics": [],
-   "first_seen": "2026-10-11T09:46:44+00:00"
-  },
-  {
-   "id": "d2d497e5eee41848",
-   "title": "Proaction boosts sales 60% and saves 75+ hours with Codex",
-   "link": "https://openai.com/index/proaction",
-   "source": "OpenAI",
-   "kind": "lab",
-   "summary": "With Codex, GPT-Live-1, and GPT-6 Astra, Proaction builds, operates, and sells modern fleet management faster.",
-   "published": "2026-09-25T19:00:00+00:00",
-   "topics": [
-    "Models"
-   ],
    "first_seen": "2026-10-11T09:46:44+00:00"
   }
  ]
