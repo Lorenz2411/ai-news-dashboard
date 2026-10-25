@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-24T22:28:15+00:00",
+ "updated": "2026-10-25T04:40:34+00:00",
  "sources": [
   {
    "name": "OpenAI",
@@ -92,6 +92,17 @@
  ],
  "items": [
   {
+   "id": "8f5707e9a13cb370",
+   "title": "America has lost 200k of jobs in media, film and the arts. How much is AI?",
+   "link": "https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class",
+   "source": "Hacker News",
+   "kind": "community",
+   "summary": "Article URL: https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class Comments URL: https://news.ycombinator.com/item?id=50226419 Points: 246 # Comments: 254",
+   "published": "2026-10-24T23:11:54+00:00",
+   "topics": [],
+   "first_seen": "2026-10-25T04:40:34+00:00"
+  },
+  {
    "id": "0509c80e85fbace7",
    "title": "Blue Planet III is keeping the rough edges in the age of AI",
    "link": "https://www.theverge.com/ai-artificial-intelligence/1018205/blue-planet-iii-authentic-organic-ai",
@@ -108,7 +119,7 @@
    "link": "https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector Comments URL: https://news.ycombinator.com/item?id=50224463 Points: 371 # Comments: 348",
+   "summary": "Article URL: https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector Comments URL: https://news.ycombinator.com/item?id=50224463 Points: 513 # Comments: 530",
    "published": "2026-10-24T19:47:19+00:00",
    "topics": [],
    "first_seen": "2026-10-24T22:28:15+00:00"
@@ -146,7 +157,7 @@
    "link": "https://arxiv.org/abs/2610.29162",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://arxiv.org/abs/2610.29162 Comments URL: https://news.ycombinator.com/item?id=50223647 Points: 127 # Comments: 123",
+   "summary": "Article URL: https://arxiv.org/abs/2610.29162 Comments URL: https://news.ycombinator.com/item?id=50223647 Points: 170 # Comments: 155",
    "published": "2026-10-24T18:04:57+00:00",
    "topics": [
     "Research"
@@ -412,7 +423,7 @@
    "link": "https://www.sverigesradio.se/artikel/chat-gpt-och-claude-forbjuder-regeringskansliet",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://www.sverigesradio.se/artikel/chat-gpt-och-claude-forbjuder-regeringskansliet Comments URL: https://news.ycombinator.com/item?id=50207405 Points: 322 # Comments: 120",
+   "summary": "Article URL: https://www.sverigesradio.se/artikel/chat-gpt-och-claude-forbjuder-regeringskansliet Comments URL: https://news.ycombinator.com/item?id=50207405 Points: 322 # Comments: 122",
    "published": "2026-10-23T11:39:54+00:00",
    "topics": [
     "Models",
@@ -452,7 +463,7 @@
    "link": "https://berget.ai/en/blog/per-request-co2-press-release",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://berget.ai/en/blog/per-request-co2-press-release Comments URL: https://news.ycombinator.com/item?id=50205229 Points: 141 # Comments: 156",
+   "summary": "Article URL: https://berget.ai/en/blog/per-request-co2-press-release Comments URL: https://news.ycombinator.com/item?id=50205229 Points: 142 # Comments: 156",
    "published": "2026-10-23T06:41:11+00:00",
    "topics": [
     "Tools"
@@ -837,7 +848,7 @@
    "link": "https://www.modelcompare.ai/blog/ai-models-controversial-take-on-humans",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://www.modelcompare.ai/blog/ai-models-controversial-take-on-humans Comments URL: https://news.ycombinator.com/item?id=50197313 Points: 645 # Comments: 621",
+   "summary": "Article URL: https://www.modelcompare.ai/blog/ai-models-controversial-take-on-humans Comments URL: https://news.ycombinator.com/item?id=50197313 Points: 648 # Comments: 623",
    "published": "2026-10-22T16:08:00+00:00",
    "topics": [
     "Models"
@@ -1456,7 +1467,7 @@
    "link": "https://openai.com/index/scaling-ai-research-for-complex-biological-data/",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://openai.com/index/scaling-ai-research-for-complex-biological-data/ Comments URL: https://news.ycombinator.com/item?id=50180752 Points: 160 # Comments: 105",
+   "summary": "Article URL: https://openai.com/index/scaling-ai-research-for-complex-biological-data/ Comments URL: https://news.ycombinator.com/item?id=50180752 Points: 160 # Comments: 106",
    "published": "2026-10-21T13:37:00+00:00",
    "topics": [
     "Research",
@@ -1560,7 +1571,7 @@
    "link": "https://rumple.github.io/blog/2026/10/20/asking-llm-for-confidence.html",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://rumple.github.io/blog/2026/10/20/asking-llm-for-confidence.html Comments URL: https://news.ycombinator.com/item?id=50176082 Points: 224 # Comments: 103",
+   "summary": "Article URL: https://rumple.github.io/blog/2026/10/20/asking-llm-for-confidence.html Comments URL: https://news.ycombinator.com/item?id=50176082 Points: 225 # Comments: 103",
    "published": "2026-10-21T04:27:51+00:00",
    "topics": [
     "Models"
@@ -1763,7 +1774,7 @@
    "link": "https://danielball.com/notes/ai_image_generation.html",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://danielball.com/notes/ai_image_generation.html Comments URL: https://news.ycombinator.com/item?id=50171379 Points: 236 # Comments: 79",
+   "summary": "Article URL: https://danielball.com/notes/ai_image_generation.html Comments URL: https://news.ycombinator.com/item?id=50171379 Points: 248 # Comments: 83",
    "published": "2026-10-20T19:22:39+00:00",
    "topics": [
     "Tools"
@@ -2210,7 +2221,7 @@
    "link": "https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions Comments URL: https://news.ycombinator.com/item?id=50159341 Points: 742 # Comments: 221",
+   "summary": "Article URL: https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions Comments URL: https://news.ycombinator.com/item?id=50159341 Points: 743 # Comments: 221",
    "published": "2026-10-19T23:22:18+00:00",
    "topics": [
     "Models",
@@ -7360,19 +7371,6 @@
    "kind": "lab",
    "summary": "Lowe’s uses OpenAI models to power Mylow and Mylow Companion, helping customers and associates answer 25M+ questions and move home improvement projects forward.",
    "published": "2026-09-25T07:00:00+00:00",
-   "topics": [
-    "Models"
-   ],
-   "first_seen": "2026-10-11T09:46:44+00:00"
-  },
-  {
-   "id": "69f2b5ec7d181072",
-   "title": "Wayfair boosts catalog accuracy and support speed with OpenAI",
-   "link": "https://openai.com/index/wayfair",
-   "source": "OpenAI",
-   "kind": "lab",
-   "summary": "Wayfair uses OpenAI models to improve ecommerce support and product catalog accuracy, automating ticket triage and enhancing millions of product attributes at scale.",
-   "published": "2026-09-25T00:00:00+00:00",
    "topics": [
     "Models"
    ],
