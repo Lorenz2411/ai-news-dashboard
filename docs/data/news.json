@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-26T07:47:43+00:00",
+ "updated": "2026-10-26T15:11:29+00:00",
  "sources": [
   {
    "name": "OpenAI",
@@ -13,9 +13,9 @@
    "name": "Google DeepMind",
    "url": "https://deepmind.google/blog/rss.xml",
    "kind": "lab",
-   "ok": false,
-   "count": 0,
-   "error": "ParseError: not well-formed (invalid token): line 1, column 0"
+   "ok": true,
+   "count": 40,
+   "error": null
   },
   {
    "name": "Google AI",
@@ -92,6 +92,93 @@
  ],
  "items": [
   {
+   "id": "2c43c284058f6166",
+   "title": "Anthropic officially files for its public debut",
+   "link": "https://techcrunch.com/2026/10/26/anthropic-officially-files-for-its-public-debut/",
+   "source": "TechCrunch",
+   "kind": "press",
+   "summary": "Anthropic has officially filed for an IPO, revealing soaring revenue, mounting losses, major enterprise adoption, and an unusual governance structure designed to preserve founder control and its AI safety mission.",
+   "published": "2026-10-26T14:35:22+00:00",
+   "topics": [
+    "Policy",
+    "Business"
+   ],
+   "first_seen": "2026-10-26T15:11:29+00:00"
+  },
+  {
+   "id": "6a47f3e0c8812311",
+   "title": "Tesla gave up the EV crown. Now it wants to win the autonomy race",
+   "link": "https://arstechnica.com/cars/2026/10/tesla-wants-ai-and-software-to-be-its-next-profit-engine/",
+   "source": "Ars Technica",
+   "kind": "press",
+   "summary": "Tesla hopes autonomy subscriptions can deliver the margins car sales cannot.",
+   "published": "2026-10-26T14:30:27+00:00",
+   "topics": [],
+   "first_seen": "2026-10-26T15:11:29+00:00"
+  },
+  {
+   "id": "a0064ee100f0c0b3",
+   "title": "Anthropic’s IPO filing lays out a plan to ‘revolutionize every area of human endeavor’ with AI",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/1018476/anthropic-ipo-details-s1-filed-sec",
+   "source": "The Verge",
+   "kind": "press",
+   "summary": "Anthropic has filed its S-1 prospectus with the Securities and Exchange Commission, preparing the company behind Claude to beat OpenAI to the punch with an IPO. In a filing with the SEC, Anthropic said it plans to list on the Nasdaq exchange under the ticker symbol \"ANT.\" The AI…",
+   "published": "2026-10-26T13:55:23+00:00",
+   "topics": [
+    "Models",
+    "Business"
+   ],
+   "first_seen": "2026-10-26T15:11:29+00:00"
+  },
+  {
+   "id": "df88ce95d957f878",
+   "title": "Kevin Roose is AGI-pilled. Why aren’t you?",
+   "link": "https://www.theverge.com/podcast/1018264/kevin-roose-the-agi-chronicles-machine-gods-podcast-youtube-openai-anthropic",
+   "source": "The Verge",
+   "kind": "press",
+   "summary": "Today, I’m talking to Kevin Roose, journalist and author of the new book The AGI Chronicles, which details the recent and explosive transformation of the AI industry. Kevin was a longtime New York Times reporter and host of the popular podcast Hard Fork, but he and friend of the…",
+   "published": "2026-10-26T13:37:13+00:00",
+   "topics": [],
+   "first_seen": "2026-10-26T15:11:29+00:00"
+  },
+  {
+   "id": "9c0a98fa46a8163e",
+   "title": "Can AI help solve the COBOL code crisis?",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/1018434/cobol-migration-legacy-code-openai-anthropic",
+   "source": "The Verge",
+   "kind": "press",
+   "summary": "What do the IRS, banks, airlines, and government infrastructure around the world have in common? They're all running on systems propped up by antique computer code that nobody dares touch, lest everything come crashing down. OpenAI thinks it may have a solution. On October 19th…",
+   "published": "2026-10-26T13:26:44+00:00",
+   "topics": [
+    "Policy"
+   ],
+   "first_seen": "2026-10-26T15:11:29+00:00"
+  },
+  {
+   "id": "69d5a0023539efcf",
+   "title": "The focus on AI safety disasters ignores everyday harms",
+   "link": "https://www.technologyreview.com/2026/10/26/1147645/the-focus-on-ai-safety-disasters-ignores-everyday-harms/",
+   "source": "MIT Technology Review",
+   "kind": "press",
+   "summary": "Consider what passes for success in technology policy. An AI company promises that its chatbot will not encourage suicide. A social media platform makes it more difficult for children to buy fentanyl. These are important protections, and they should have existed all along. But…",
+   "published": "2026-10-26T09:01:00+00:00",
+   "topics": [
+    "Policy"
+   ],
+   "first_seen": "2026-10-26T15:11:29+00:00"
+  },
+  {
+   "id": "eb7708c5f537ab79",
+   "title": "How Fanatics and OpenAI streamline the fan experience",
+   "link": "https://openai.com/index/fanatics-streamline-fan-experience",
+   "source": "OpenAI",
+   "kind": "lab",
+   "summary": "Fanatics uses OpenAI to help fans complete their game-day outfits with Shop the Look. Testing across roughly 30,000 MLB products showed 10% higher engagement.",
+   "published": "2026-10-26T07:00:00+00:00",
+   "topics": [],
+   "first_seen": "2026-10-26T15:11:29+00:00"
+  },
+  {
    "id": "a6feae291b1a855a",
    "title": "Grok releases the first seven minutes of its AI-generated ‘Odyssey’",
    "link": "https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey/",
@@ -111,7 +198,7 @@
    "link": "https://minimaxir.com/2026/10/cheap-llms/",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://minimaxir.com/2026/10/cheap-llms/ Comments URL: https://news.ycombinator.com/item?id=50236102 Points: 268 # Comments: 279",
+   "summary": "Article URL: https://minimaxir.com/2026/10/cheap-llms/ Comments URL: https://news.ycombinator.com/item?id=50236102 Points: 387 # Comments: 391",
    "published": "2026-10-25T21:11:31+00:00",
    "topics": [
     "Models"
@@ -137,7 +224,7 @@
    "link": "https://www.dailycal.org/news/campus/academics/ai-use-leads-uc-berkeley-math-professor-to-see-no-point-in-grading-homework/article_bdf1eae2-c08b-491f-b9f1-81a7cea177de.html",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://www.dailycal.org/news/campus/academics/ai-use-leads-uc-berkeley-math-professor-to-see-no-point-in-grading-homework/article_bdf1eae2-c08b-491f-b9f1-81a7cea177de.html Comments URL: https://news.ycombinator.com/item?id=50233304 Points: 215 # Comments: 312",
+   "summary": "Article URL: https://www.dailycal.org/news/campus/academics/ai-use-leads-uc-berkeley-math-professor-to-see-no-point-in-grading-homework/article_bdf1eae2-c08b-491f-b9f1-81a7cea177de.html Comments URL: https://news.ycombinator.com/item?id=50233304 Points: 228 # Comments: 321",
    "published": "2026-10-25T16:28:26+00:00",
    "topics": [],
    "first_seen": "2026-10-25T20:50:34+00:00"
@@ -181,7 +268,7 @@
    "link": "https://www.techspot.com/news/114171-nikon-photography-contest-winner-loses-title-after-scientists.html",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://www.techspot.com/news/114171-nikon-photography-contest-winner-loses-title-after-scientists.html Comments URL: https://news.ycombinator.com/item?id=50229827 Points: 139 # Comments: 77",
+   "summary": "Article URL: https://www.techspot.com/news/114171-nikon-photography-contest-winner-loses-title-after-scientists.html Comments URL: https://news.ycombinator.com/item?id=50229827 Points: 144 # Comments: 84",
    "published": "2026-10-25T09:51:17+00:00",
    "topics": [],
    "first_seen": "2026-10-25T20:50:34+00:00"
@@ -192,7 +279,7 @@
    "link": "https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras Comments URL: https://news.ycombinator.com/item?id=50227356 Points: 355 # Comments: 132",
+   "summary": "Article URL: https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras Comments URL: https://news.ycombinator.com/item?id=50227356 Points: 361 # Comments: 139",
    "published": "2026-10-25T01:33:49+00:00",
    "topics": [
     "Models"
@@ -205,7 +292,7 @@
    "link": "https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class Comments URL: https://news.ycombinator.com/item?id=50226419 Points: 517 # Comments: 555",
+   "summary": "Article URL: https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class Comments URL: https://news.ycombinator.com/item?id=50226419 Points: 534 # Comments: 568",
    "published": "2026-10-24T23:11:54+00:00",
    "topics": [],
    "first_seen": "2026-10-25T04:40:34+00:00"
@@ -227,7 +314,7 @@
    "link": "https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector Comments URL: https://news.ycombinator.com/item?id=50224463 Points: 621 # Comments: 655",
+   "summary": "Article URL: https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector Comments URL: https://news.ycombinator.com/item?id=50224463 Points: 634 # Comments: 662",
    "published": "2026-10-24T19:47:19+00:00",
    "topics": [],
    "first_seen": "2026-10-24T22:28:15+00:00"
@@ -265,7 +352,7 @@
    "link": "https://arxiv.org/abs/2610.29162",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://arxiv.org/abs/2610.29162 Comments URL: https://news.ycombinator.com/item?id=50223647 Points: 246 # Comments: 198",
+   "summary": "Article URL: https://arxiv.org/abs/2610.29162 Comments URL: https://news.ycombinator.com/item?id=50223647 Points: 248 # Comments: 199",
    "published": "2026-10-24T18:04:57+00:00",
    "topics": [
     "Research"
@@ -542,7 +629,7 @@
    "link": "https://www.sverigesradio.se/artikel/chat-gpt-och-claude-forbjuder-regeringskansliet",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://www.sverigesradio.se/artikel/chat-gpt-och-claude-forbjuder-regeringskansliet Comments URL: https://news.ycombinator.com/item?id=50207405 Points: 322 # Comments: 124",
+   "summary": "Article URL: https://www.sverigesradio.se/artikel/chat-gpt-och-claude-forbjuder-regeringskansliet Comments URL: https://news.ycombinator.com/item?id=50207405 Points: 323 # Comments: 124",
    "published": "2026-10-23T11:39:54+00:00",
    "topics": [
     "Models",
@@ -582,7 +669,7 @@
    "link": "https://berget.ai/en/blog/per-request-co2-press-release",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://berget.ai/en/blog/per-request-co2-press-release Comments URL: https://news.ycombinator.com/item?id=50205229 Points: 142 # Comments: 157",
+   "summary": "Article URL: https://berget.ai/en/blog/per-request-co2-press-release Comments URL: https://news.ycombinator.com/item?id=50205229 Points: 143 # Comments: 157",
    "published": "2026-10-23T06:41:11+00:00",
    "topics": [
     "Tools"
@@ -894,7 +981,7 @@
    "link": "https://github.com/NVIDIA/OpenShell",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://github.com/NVIDIA/OpenShell Comments URL: https://news.ycombinator.com/item?id=50198675 Points: 502 # Comments: 218",
+   "summary": "Article URL: https://github.com/NVIDIA/OpenShell Comments URL: https://news.ycombinator.com/item?id=50198675 Points: 503 # Comments: 218",
    "published": "2026-10-22T17:44:06+00:00",
    "topics": [
     "Tools",
@@ -967,7 +1054,7 @@
    "link": "https://www.modelcompare.ai/blog/ai-models-controversial-take-on-humans",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://www.modelcompare.ai/blog/ai-models-controversial-take-on-humans Comments URL: https://news.ycombinator.com/item?id=50197313 Points: 658 # Comments: 638",
+   "summary": "Article URL: https://www.modelcompare.ai/blog/ai-models-controversial-take-on-humans Comments URL: https://news.ycombinator.com/item?id=50197313 Points: 658 # Comments: 640",
    "published": "2026-10-22T16:08:00+00:00",
    "topics": [
     "Models"
@@ -1575,7 +1662,7 @@
    "link": "https://www.wiz.io/blog/php2shell-php-rce",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "https://www.php2shell.com/ Comments URL: https://news.ycombinator.com/item?id=50180836 Points: 454 # Comments: 185",
+   "summary": "https://www.php2shell.com/ Comments URL: https://news.ycombinator.com/item?id=50180836 Points: 455 # Comments: 185",
    "published": "2026-10-21T13:43:19+00:00",
    "topics": [],
    "first_seen": "2026-10-21T18:38:59+00:00"
@@ -1690,7 +1777,7 @@
    "link": "https://rumple.github.io/blog/2026/10/20/asking-llm-for-confidence.html",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://rumple.github.io/blog/2026/10/20/asking-llm-for-confidence.html Comments URL: https://news.ycombinator.com/item?id=50176082 Points: 226 # Comments: 103",
+   "summary": "Article URL: https://rumple.github.io/blog/2026/10/20/asking-llm-for-confidence.html Comments URL: https://news.ycombinator.com/item?id=50176082 Points: 226 # Comments: 105",
    "published": "2026-10-21T04:27:51+00:00",
    "topics": [
     "Models"
@@ -1893,7 +1980,7 @@
    "link": "https://danielball.com/notes/ai_image_generation.html",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://danielball.com/notes/ai_image_generation.html Comments URL: https://news.ycombinator.com/item?id=50171379 Points: 283 # Comments: 94",
+   "summary": "Article URL: https://danielball.com/notes/ai_image_generation.html Comments URL: https://news.ycombinator.com/item?id=50171379 Points: 284 # Comments: 94",
    "published": "2026-10-20T19:22:39+00:00",
    "topics": [
     "Tools"
