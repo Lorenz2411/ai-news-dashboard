@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-27T01:28:46+00:00",
+ "updated": "2026-10-27T07:51:24+00:00",
  "sources": [
   {
    "name": "OpenAI",
@@ -85,12 +85,25 @@
    "name": "Hacker News",
    "url": "https://hnrss.org/newest?q=AI+OR+LLM+OR+GPT+OR+Claude&points=100",
    "kind": "community",
-   "ok": true,
-   "count": 20,
-   "error": null
+   "ok": false,
+   "count": 0,
+   "error": "HTTPError: HTTP Error 502: Bad Gateway"
   }
  ],
  "items": [
+  {
+   "id": "858bf7d244f35ab5",
+   "title": "How OpenAI turned its coding tools into dots, an always-on personal assistant",
+   "link": "https://techcrunch.com/2026/10/26/how-openai-turned-its-coding-tools-into-dots-an-always-on-personal-assistant/",
+   "source": "TechCrunch",
+   "kind": "press",
+   "summary": "Alexander Embiricos, the OpenAI executive responsible for dots, never wants to have a meeting with someone else's AI agent.",
+   "published": "2026-10-27T02:00:00+00:00",
+   "topics": [
+    "Tools"
+   ],
+   "first_seen": "2026-10-27T07:51:24+00:00"
+  },
   {
    "id": "543832a6d8326a90",
    "title": "Cohere says Alibaba’s Qwen model tried to send a file to Beijing",
