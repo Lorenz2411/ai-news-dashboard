@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-27T14:31:13+00:00",
+ "updated": "2026-10-27T20:41:33+00:00",
  "sources": [
   {
    "name": "OpenAI",
@@ -13,9 +13,9 @@
    "name": "Google DeepMind",
    "url": "https://deepmind.google/blog/rss.xml",
    "kind": "lab",
-   "ok": true,
-   "count": 40,
-   "error": null
+   "ok": false,
+   "count": 0,
+   "error": "ParseError: not well-formed (invalid token): line 1, column 0"
   },
   {
    "name": "Google AI",
@@ -85,12 +85,213 @@
    "name": "Hacker News",
    "url": "https://hnrss.org/newest?q=AI+OR+LLM+OR+GPT+OR+Claude&points=100",
    "kind": "community",
-   "ok": false,
-   "count": 0,
-   "error": "HTTPError: HTTP Error 502: Bad Gateway"
+   "ok": true,
+   "count": 20,
+   "error": null
   }
  ],
  "items": [
+  {
+   "id": "a9c65cb8282253c6",
+   "title": "Game Boy Color on My Conference Badge",
+   "link": "https://simonwillison.net/2026/Oct/27/game-boy-color-on-my-conference-badge/",
+   "source": "Simon Willison",
+   "kind": "community",
+   "summary": "Game Boy Color on My Conference Badge I'm at GitHub Universe this week and, similar to last year , the conference badge is a full-blown color screen computer. I've been hacking around with it again, and then I ran into with Steve Francia... who worked with Gemini to get a full…",
+   "published": "2026-10-27T19:34:18+00:00",
+   "topics": [
+    "Models"
+   ],
+   "first_seen": "2026-10-27T20:41:33+00:00"
+  },
+  {
+   "id": "44543de8094b27f0",
+   "title": "Disruptive raises $10B fund to make big bets on at least 10 companies",
+   "link": "https://techcrunch.com/2026/10/27/disruptive-raises-10b-fund-to-make-big-bets-on-at-least-10-companies/",
+   "source": "TechCrunch",
+   "kind": "press",
+   "summary": "Disruptive has made headlines in recent years for pouring money into companies like chip startup Groq and the AI voice-generation startup ElevenLabs.",
+   "published": "2026-10-27T18:55:35+00:00",
+   "topics": [
+    "Business",
+    "Hardware"
+   ],
+   "first_seen": "2026-10-27T20:41:33+00:00"
+  },
+  {
+   "id": "a6a1f4abbd10c813",
+   "title": "Vibe genes? Natural(ish) language comes to protein, genome design software",
+   "link": "https://arstechnica.com/science/2026/10/vibe-genes-naturalish-language-comes-to-protein-genome-design-software/",
+   "source": "Ars Technica",
+   "kind": "press",
+   "summary": "You can apparently now tell AI tools what sort of protein you want them to make.",
+   "published": "2026-10-27T18:49:08+00:00",
+   "topics": [],
+   "first_seen": "2026-10-27T20:41:33+00:00"
+  },
+  {
+   "id": "d8c87d0b44570f5f",
+   "title": "VisionQuest is what happens when AI really goes rogue",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/1017064/visionquest-marvel-rogue-ai",
+   "source": "The Verge",
+   "kind": "press",
+   "summary": "In Marvel's VisionQuest, a superpowered robot tries to better understand humanity by getting lost in elaborate, digital daydreams in which he and other artificial intelligence-powered beings live together in a home. The series is deeply fantastical, yet it plays with some of the…",
+   "published": "2026-10-27T17:31:36+00:00",
+   "topics": [],
+   "first_seen": "2026-10-27T20:41:33+00:00"
+  },
+  {
+   "id": "db98bf59a6c7e420",
+   "title": "Build specialized multimodal models with LFM3",
+   "link": "https://huggingface.co/blog/LiquidAI/lfm3",
+   "source": "Hugging Face",
+   "kind": "lab",
+   "summary": "",
+   "published": "2026-10-27T17:16:52+00:00",
+   "topics": [
+    "Models"
+   ],
+   "first_seen": "2026-10-27T20:41:33+00:00"
+  },
+  {
+   "id": "9ffebaf1b25a4f9b",
+   "title": "Frontier AI labs say their models refuted the Exponential Time Hypothesis. What does that mean?",
+   "link": "https://techcrunch.com/2026/10/27/frontier-ai-labs-say-their-models-refuted-the-exponential-time-hypothesis-what-does-that-mean/",
+   "source": "TechCrunch",
+   "kind": "press",
+   "summary": "TechCrunch spoke to the MIT computer scientist charged with explaining OpenAI's latest mind-bending discovery.",
+   "published": "2026-10-27T17:08:08+00:00",
+   "topics": [
+    "Models"
+   ],
+   "first_seen": "2026-10-27T20:41:33+00:00"
+  },
+  {
+   "id": "5d9174dd4f1a7b53",
+   "title": "Anthropic’s elaborate plan to keep Wall Street at bay",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/1019470/anthropic-ipo-resist-investor-pressure-cut-corners-safety",
+   "source": "The Verge",
+   "kind": "press",
+   "summary": "Anthropic wants to have it both ways. With its impending IPO, it wants to tap the vast riches of the public markets and insists it doesn't want to compromise its core mission of developing AI safely and for the benefit of humanity. But greater model capabilities bring greater…",
+   "published": "2026-10-27T17:04:30+00:00",
+   "topics": [
+    "Models",
+    "Business"
+   ],
+   "first_seen": "2026-10-27T20:41:33+00:00"
+  },
+  {
+   "id": "099c4912233a64d5",
+   "title": "Police are using AI to pull over drivers for 'suspicious' behavior",
+   "link": "https://gizmodo.com/police-are-using-ai-to-pull-over-drivers-for-suspicious-behavior-2000831220",
+   "source": "Hacker News",
+   "kind": "community",
+   "summary": "Article URL: https://gizmodo.com/police-are-using-ai-to-pull-over-drivers-for-suspicious-behavior-2000831220 Comments URL: https://news.ycombinator.com/item?id=50261819 Points: 273 # Comments: 201",
+   "published": "2026-10-27T16:40:15+00:00",
+   "topics": [],
+   "first_seen": "2026-10-27T20:41:33+00:00"
+  },
+  {
+   "id": "dddf43d553b66f1e",
+   "title": "Google’s Genie 4 world model adds audio, more realistic worlds, and real-time steering",
+   "link": "https://techcrunch.com/2026/10/27/googles-genie-4-world-model-adds-audio-more-realistic-worlds-and-real-time-steering/",
+   "source": "TechCrunch",
+   "kind": "press",
+   "summary": "Genie 4 can maintain a consistent scene for up to two minutes, double Genie 3's limit, and offers better physics and more humanlike characters.",
+   "published": "2026-10-27T16:30:57+00:00",
+   "topics": [
+    "Models"
+   ],
+   "first_seen": "2026-10-27T20:41:33+00:00"
+  },
+  {
+   "id": "a044912b52ff7a52",
+   "title": "Amazon Is Gutting Its AI Division After Sustained Failure",
+   "link": "https://futurism.com/artificial-intelligence/amazon-ai-division-failure-nova",
+   "source": "Hacker News",
+   "kind": "community",
+   "summary": "Article URL: https://futurism.com/artificial-intelligence/amazon-ai-division-failure-nova Comments URL: https://news.ycombinator.com/item?id=50261589 Points: 112 # Comments: 51",
+   "published": "2026-10-27T16:25:30+00:00",
+   "topics": [],
+   "first_seen": "2026-10-27T20:41:33+00:00"
+  },
+  {
+   "id": "abb96e9fdd6f617e",
+   "title": "Firefox’s Smart Window adds AI form filling and webpage monitoring",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/1019551/firefox-smart-window-ai-fill-forms",
+   "source": "The Verge",
+   "kind": "press",
+   "summary": "Mozilla is updating Smart Window - Firefox's AI-powered browsing experience - with a new feature that can help you fill out online forms based on your open tabs. As an example, Mozilla says Smart Window can pull information from your online portfolio or LinkedIn page to paste…",
+   "published": "2026-10-27T16:14:18+00:00",
+   "topics": [],
+   "first_seen": "2026-10-27T20:41:33+00:00"
+  },
+  {
+   "id": "34370e88c88d0cd4",
+   "title": "Can we trust LLMs to judge whether a research idea is novel?",
+   "link": "https://huggingface.co/blog/allenai/novelty-bench",
+   "source": "Hugging Face",
+   "kind": "lab",
+   "summary": "",
+   "published": "2026-10-27T16:12:42+00:00",
+   "topics": [
+    "Models",
+    "Research"
+   ],
+   "first_seen": "2026-10-27T20:41:33+00:00"
+  },
+  {
+   "id": "a60188d04998fded",
+   "title": "DeepMind unveils Genie 4 world model promising more realistic physics and humans",
+   "link": "https://arstechnica.com/google/2026/10/deepminds-genie-4-world-model-adds-audio-and-more-realistic-people-to-simulations/",
+   "source": "Ars Technica",
+   "kind": "press",
+   "summary": "Genie 4 will roll out to developers and Google AI Ultra subscribers soon.",
+   "published": "2026-10-27T16:00:22+00:00",
+   "topics": [
+    "Models"
+   ],
+   "first_seen": "2026-10-27T20:41:33+00:00"
+  },
+  {
+   "id": "022826ad38b2818e",
+   "title": "Anthropic trained Claude on illegally obtained Stanford professors' books",
+   "link": "https://stanforddaily.com/2026/10/27/professors-books-pirated-to-train-claude/",
+   "source": "Hacker News",
+   "kind": "community",
+   "summary": "Article URL: https://stanforddaily.com/2026/10/27/professors-books-pirated-to-train-claude/ Comments URL: https://news.ycombinator.com/item?id=50260814 Points: 307 # Comments: 168",
+   "published": "2026-10-27T15:28:26+00:00",
+   "topics": [
+    "Models"
+   ],
+   "first_seen": "2026-10-27T20:41:33+00:00"
+  },
+  {
+   "id": "3513fbe8e9520556",
+   "title": "Google’s next Genie AI model generates more realistic experiences",
+   "link": "https://www.theverge.com/tech/1019076/google-genie-4-ai-model",
+   "source": "The Verge",
+   "kind": "press",
+   "summary": "Google announced today its Genie 4 world model for generating interactive experiences using AI. The company says the model has four main updates: It allows for more realistic worlds, lets users update an experience in real time with a natural language prompt, can generate audio…",
+   "published": "2026-10-27T15:07:35+00:00",
+   "topics": [
+    "Models"
+   ],
+   "first_seen": "2026-10-27T20:41:33+00:00"
+  },
+  {
+   "id": "122f4e228239d6c9",
+   "title": "Meta AI director Rohit Patel leaves to take on Microsoft Office and Google Workspace",
+   "link": "https://techcrunch.com/2026/10/27/meta-ai-director-rohit-patel-leaves-to-take-on-microsoft-office-and-google-workspace/",
+   "source": "TechCrunch",
+   "kind": "press",
+   "summary": "Rohit Patel is departing Meta after eight years working on AI evaluations and reinforcement learning, TechCrunch has exclusively learned. His startup, Ndoc, aims to take on Microsoft Office Suite.",
+   "published": "2026-10-27T14:59:09+00:00",
+   "topics": [
+    "Business"
+   ],
+   "first_seen": "2026-10-27T20:41:33+00:00"
+  },
   {
    "id": "0d516a24ee36aa2d",
    "title": "Apple is adding an AI chatbot to Pages, Keynote, and Numbers",
@@ -167,6 +368,28 @@
    "first_seen": "2026-10-27T14:31:13+00:00"
   },
   {
+   "id": "acb3a24ef951cfe3",
+   "title": "Wikipedia's Cleanup of AI-Generated Content",
+   "link": "https://spectrum.ieee.org/wikipedia-wikiproject-ai-writing-cleanup",
+   "source": "Hacker News",
+   "kind": "community",
+   "summary": "Article URL: https://spectrum.ieee.org/wikipedia-wikiproject-ai-writing-cleanup Comments URL: https://news.ycombinator.com/item?id=50257326 Points: 384 # Comments: 175",
+   "published": "2026-10-27T11:08:15+00:00",
+   "topics": [],
+   "first_seen": "2026-10-27T20:41:33+00:00"
+  },
+  {
+   "id": "fc1a2e358b9174b1",
+   "title": "AI promised less work. I've never worked more",
+   "link": "https://oioannou.com/blog/ai-promised-less-work/",
+   "source": "Hacker News",
+   "kind": "community",
+   "summary": "Article URL: https://oioannou.com/blog/ai-promised-less-work/ Comments URL: https://news.ycombinator.com/item?id=50257325 Points: 603 # Comments: 579",
+   "published": "2026-10-27T11:08:14+00:00",
+   "topics": [],
+   "first_seen": "2026-10-27T20:41:33+00:00"
+  },
+  {
    "id": "b007bafd9ff10551",
    "title": "Nvidia backs Indian startup helping companies run AI models with fewer GPUs",
    "link": "https://techcrunch.com/2026/10/27/nvidia-backs-indian-startup-helping-companies-run-ai-models-with-fewer-gpus/",
@@ -180,6 +403,31 @@
     "Hardware"
    ],
    "first_seen": "2026-10-27T14:31:13+00:00"
+  },
+  {
+   "id": "a3a879144b2984ac",
+   "title": "OpenAI expands partnership with Oracle to bring its apps to ChatGPT",
+   "link": "https://openai.com/index/oracle-apps-in-chatgpt",
+   "source": "OpenAI",
+   "kind": "lab",
+   "summary": "OpenAI and Oracle are expanding their partnership to bring business applications and AI agents into ChatGPT and power new Oracle offerings.",
+   "published": "2026-10-27T07:00:00+00:00",
+   "topics": [
+    "Business",
+    "Tools"
+   ],
+   "first_seen": "2026-10-27T20:41:33+00:00"
+  },
+  {
+   "id": "eb967c2830c030f6",
+   "title": "The Mythical Man-Month in the Age of AI",
+   "link": "https://j11g.com/the-mythical-man-month-in-the-age-of-ai",
+   "source": "Hacker News",
+   "kind": "community",
+   "summary": "Article URL: https://j11g.com/the-mythical-man-month-in-the-age-of-ai Comments URL: https://news.ycombinator.com/item?id=50255298 Points: 398 # Comments: 281",
+   "published": "2026-10-27T06:25:37+00:00",
+   "topics": [],
+   "first_seen": "2026-10-27T20:41:33+00:00"
   },
   {
    "id": "858bf7d244f35ab5",
@@ -208,6 +456,19 @@
    "first_seen": "2026-10-27T01:28:46+00:00"
   },
   {
+   "id": "8cb333260a17a324",
+   "title": "How Check Point accelerates vulnerability research with Daybreak",
+   "link": "https://openai.com/index/check-point-daybreak",
+   "source": "OpenAI",
+   "kind": "lab",
+   "summary": "With OpenAI Daybreak, Check Point speeds up the research behind new security protections, enabling its analysts to turn vulnerability intelligence into customer defenses faster.",
+   "published": "2026-10-27T00:00:00+00:00",
+   "topics": [
+    "Research"
+   ],
+   "first_seen": "2026-10-27T20:41:33+00:00"
+  },
+  {
    "id": "51b6dc021077f16c",
    "title": "GPT-6.1 Terra",
    "link": "https://simonwillison.net/2026/Oct/26/gpt-61-terra/",
@@ -233,6 +494,19 @@
     "Tools"
    ],
    "first_seen": "2026-10-27T01:28:46+00:00"
+  },
+  {
+   "id": "bfdba109b967dc22",
+   "title": "Cross-request KV cache exposure in the GLM-5.3 Workers AI model (155 responses)",
+   "link": "https://blog.cloudflare.com/kv-cache-exposure-remediation/",
+   "source": "Hacker News",
+   "kind": "community",
+   "summary": "Article URL: https://blog.cloudflare.com/kv-cache-exposure-remediation/ Comments URL: https://news.ycombinator.com/item?id=50252159 Points: 176 # Comments: 71",
+   "published": "2026-10-26T22:41:48+00:00",
+   "topics": [
+    "Models"
+   ],
+   "first_seen": "2026-10-27T20:41:33+00:00"
   },
   {
    "id": "250e5d8f302445e7",
@@ -312,7 +586,7 @@
    "link": "https://openai.com/index/introducing-gpt-6-1-terra/",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "https://developers.openai.com/api/docs/models/gpt-6.1-terra Comments URL: https://news.ycombinator.com/item?id=50248124 Points: 494 # Comments: 314",
+   "summary": "https://developers.openai.com/api/docs/models/gpt-6.1-terra Comments URL: https://news.ycombinator.com/item?id=50248124 Points: 620 # Comments: 411",
    "published": "2026-10-26T18:01:17+00:00",
    "topics": [
     "Models",
@@ -421,7 +695,7 @@
    "link": "https://cohere.com/blog/concerning-behaviour-popular-open-weight-ai-model",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://cohere.com/blog/concerning-behaviour-popular-open-weight-ai-model Comments URL: https://news.ycombinator.com/item?id=50246658 Points: 254 # Comments: 109",
+   "summary": "Article URL: https://cohere.com/blog/concerning-behaviour-popular-open-weight-ai-model Comments URL: https://news.ycombinator.com/item?id=50246658 Points: 320 # Comments: 124",
    "published": "2026-10-26T16:35:44+00:00",
    "topics": [
     "Models"
@@ -549,7 +823,7 @@
    "link": "https://www.brown.edu/news/2026-10-26/ai-data-workers",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://www.brown.edu/news/2026-10-26/ai-data-workers Comments URL: https://news.ycombinator.com/item?id=50242843 Points: 175 # Comments: 165",
+   "summary": "Article URL: https://www.brown.edu/news/2026-10-26/ai-data-workers Comments URL: https://news.ycombinator.com/item?id=50242843 Points: 182 # Comments: 177",
    "published": "2026-10-26T12:58:27+00:00",
    "topics": [],
    "first_seen": "2026-10-27T01:28:46+00:00"
@@ -635,7 +909,7 @@
    "link": "https://minimaxir.com/2026/10/cheap-llms/",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://minimaxir.com/2026/10/cheap-llms/ Comments URL: https://news.ycombinator.com/item?id=50236102 Points: 415 # Comments: 424",
+   "summary": "Article URL: https://minimaxir.com/2026/10/cheap-llms/ Comments URL: https://news.ycombinator.com/item?id=50236102 Points: 432 # Comments: 433",
    "published": "2026-10-25T21:11:31+00:00",
    "topics": [
     "Models"
@@ -661,7 +935,7 @@
    "link": "https://www.dailycal.org/news/campus/academics/ai-use-leads-uc-berkeley-math-professor-to-see-no-point-in-grading-homework/article_bdf1eae2-c08b-491f-b9f1-81a7cea177de.html",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://www.dailycal.org/news/campus/academics/ai-use-leads-uc-berkeley-math-professor-to-see-no-point-in-grading-homework/article_bdf1eae2-c08b-491f-b9f1-81a7cea177de.html Comments URL: https://news.ycombinator.com/item?id=50233304 Points: 237 # Comments: 328",
+   "summary": "Article URL: https://www.dailycal.org/news/campus/academics/ai-use-leads-uc-berkeley-math-professor-to-see-no-point-in-grading-homework/article_bdf1eae2-c08b-491f-b9f1-81a7cea177de.html Comments URL: https://news.ycombinator.com/item?id=50233304 Points: 238 # Comments: 328",
    "published": "2026-10-25T16:28:26+00:00",
    "topics": [],
    "first_seen": "2026-10-25T20:50:34+00:00"
@@ -705,7 +979,7 @@
    "link": "https://www.techspot.com/news/114171-nikon-photography-contest-winner-loses-title-after-scientists.html",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://www.techspot.com/news/114171-nikon-photography-contest-winner-loses-title-after-scientists.html Comments URL: https://news.ycombinator.com/item?id=50229827 Points: 144 # Comments: 88",
+   "summary": "Article URL: https://www.techspot.com/news/114171-nikon-photography-contest-winner-loses-title-after-scientists.html Comments URL: https://news.ycombinator.com/item?id=50229827 Points: 144 # Comments: 87",
    "published": "2026-10-25T09:51:17+00:00",
    "topics": [],
    "first_seen": "2026-10-25T20:50:34+00:00"
@@ -716,7 +990,7 @@
    "link": "https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras Comments URL: https://news.ycombinator.com/item?id=50227356 Points: 364 # Comments: 141",
+   "summary": "Article URL: https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras Comments URL: https://news.ycombinator.com/item?id=50227356 Points: 367 # Comments: 142",
    "published": "2026-10-25T01:33:49+00:00",
    "topics": [
     "Models"
@@ -729,7 +1003,7 @@
    "link": "https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class Comments URL: https://news.ycombinator.com/item?id=50226419 Points: 541 # Comments: 581",
+   "summary": "Article URL: https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class Comments URL: https://news.ycombinator.com/item?id=50226419 Points: 542 # Comments: 585",
    "published": "2026-10-24T23:11:54+00:00",
    "topics": [],
    "first_seen": "2026-10-25T04:40:34+00:00"
@@ -762,7 +1036,7 @@
    "link": "https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector Comments URL: https://news.ycombinator.com/item?id=50224463 Points: 638 # Comments: 668",
+   "summary": "Article URL: https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector Comments URL: https://news.ycombinator.com/item?id=50224463 Points: 641 # Comments: 672",
    "published": "2026-10-24T19:47:19+00:00",
    "topics": [],
    "first_seen": "2026-10-24T22:28:15+00:00"
@@ -800,7 +1074,7 @@
    "link": "https://arxiv.org/abs/2610.29162",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://arxiv.org/abs/2610.29162 Comments URL: https://news.ycombinator.com/item?id=50223647 Points: 254 # Comments: 201",
+   "summary": "Article URL: https://arxiv.org/abs/2610.29162 Comments URL: https://news.ycombinator.com/item?id=50223647 Points: 256 # Comments: 205",
    "published": "2026-10-24T18:04:57+00:00",
    "topics": [
     "Research"
@@ -1117,7 +1391,7 @@
    "link": "https://berget.ai/en/blog/per-request-co2-press-release",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://berget.ai/en/blog/per-request-co2-press-release Comments URL: https://news.ycombinator.com/item?id=50205229 Points: 143 # Comments: 157",
+   "summary": "Article URL: https://berget.ai/en/blog/per-request-co2-press-release Comments URL: https://news.ycombinator.com/item?id=50205229 Points: 144 # Comments: 157",
    "published": "2026-10-23T06:41:11+00:00",
    "topics": [
     "Tools"
@@ -1176,6 +1450,19 @@
     "Models"
    ],
    "first_seen": "2026-10-23T13:26:29+00:00"
+  },
+  {
+   "id": "c6099fc8919f3d54",
+   "title": "Anima helps clinics cut call waits by 75% with GPT-6 and GPT-Live",
+   "link": "https://openai.com/index/anima",
+   "source": "OpenAI",
+   "kind": "lab",
+   "summary": "Anima expands what care teams can do with OpenAI models, giving them more capacity to respond to patients.",
+   "published": "2026-10-23T00:00:00+00:00",
+   "topics": [
+    "Models"
+   ],
+   "first_seen": "2026-10-27T20:41:33+00:00"
   },
   {
    "id": "95eb6975ad245049",
