@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-27T07:51:24+00:00",
+ "updated": "2026-10-27T14:31:13+00:00",
  "sources": [
   {
    "name": "OpenAI",
@@ -91,6 +91,96 @@
   }
  ],
  "items": [
+  {
+   "id": "0d516a24ee36aa2d",
+   "title": "Apple is adding an AI chatbot to Pages, Keynote, and Numbers",
+   "link": "https://www.theverge.com/tech/1019373/apple-pages-keynote-numbers-ai-chatbot-update",
+   "source": "The Verge",
+   "kind": "press",
+   "summary": "Apple is bringing an AI assistant to its suite of productivity apps, including Keynote, Pages, and Numbers. The assistant, which is built on AI models from Apple and OpenAI, can understand a document's context to perform tasks like designing, animating, and refining slides in…",
+   "published": "2026-10-27T13:50:51+00:00",
+   "topics": [
+    "Models"
+   ],
+   "first_seen": "2026-10-27T14:31:13+00:00"
+  },
+  {
+   "id": "6c930674e3dc0d82",
+   "title": "Japan internet giant GMO says hackers posted stolen customer data",
+   "link": "https://techcrunch.com/2026/10/27/japan-internet-giant-gmo-says-hackers-posted-stolen-customer-data/",
+   "source": "TechCrunch",
+   "kind": "press",
+   "summary": "Japan's GMO Internet is verifying alleged customer data posted by suspected hackers following a cloud service breach.",
+   "published": "2026-10-27T13:32:57+00:00",
+   "topics": [],
+   "first_seen": "2026-10-27T14:31:13+00:00"
+  },
+  {
+   "id": "c3f55709f5e3f7ea",
+   "title": "Opera introduces a new web standard to let users deploy AI locally in their browser",
+   "link": "https://techcrunch.com/2026/10/27/opera-introduces-a-new-web-standard-to-let-users-deploy-ai-locally-in-their-browser/",
+   "source": "TechCrunch",
+   "kind": "press",
+   "summary": "The new standard, WebAI, is designed to work with a variety of AI models.",
+   "published": "2026-10-27T13:00:00+00:00",
+   "topics": [
+    "Models"
+   ],
+   "first_seen": "2026-10-27T14:31:13+00:00"
+  },
+  {
+   "id": "a878112837ec2938",
+   "title": "General Compute raises $100 million Series A, countering the neocloud disaster narrative",
+   "link": "https://techcrunch.com/2026/10/27/general-compute-raises-100-million-series-a-countering-the-neocloud-disaster-narrative/",
+   "source": "TechCrunch",
+   "kind": "press",
+   "summary": "General Compute is betting on inference chips from outside the Nvidia ecosystem.",
+   "published": "2026-10-27T13:00:00+00:00",
+   "topics": [
+    "Business",
+    "Hardware"
+   ],
+   "first_seen": "2026-10-27T14:31:13+00:00"
+  },
+  {
+   "id": "415aa97d276f6d69",
+   "title": "Data center backlash is uniting America",
+   "link": "https://www.theverge.com/policy/1019152/data-centers-midterm-elections",
+   "source": "The Verge",
+   "kind": "press",
+   "summary": "If there's one issue that seems to activate all kinds of voters in 2026, it's data centers. The rapid buildout of these massive server storage facilities - and the infrastructure construction and expenses that come with them - has sparked local opposition in communities across…",
+   "published": "2026-10-27T12:20:38+00:00",
+   "topics": [
+    "Hardware"
+   ],
+   "first_seen": "2026-10-27T14:31:13+00:00"
+  },
+  {
+   "id": "9dbb9e5222c01ce0",
+   "title": "Industrial Intelligence: The next growth opportunity for manufacturing",
+   "link": "https://www.technologyreview.com/2026/10/27/1147142/industrial-intelligence-the-next-growth-opportunity-for-manufacturing/",
+   "source": "MIT Technology Review",
+   "kind": "press",
+   "summary": "Every manufacturer has its own industrial intelligence. Some is documented, and some resides in the knowledge of experienced workers. Consider an experienced operator preparing to restart a line after a changeover. The machine settings matter, but so does knowing how a…",
+   "published": "2026-10-27T11:19:18+00:00",
+   "topics": [],
+   "first_seen": "2026-10-27T14:31:13+00:00"
+  },
+  {
+   "id": "b007bafd9ff10551",
+   "title": "Nvidia backs Indian startup helping companies run AI models with fewer GPUs",
+   "link": "https://techcrunch.com/2026/10/27/nvidia-backs-indian-startup-helping-companies-run-ai-models-with-fewer-gpus/",
+   "source": "TechCrunch",
+   "kind": "press",
+   "summary": "Simplismart says its annualized revenue run rate has grown 14-fold in six months, with the U.S. accounting for more than half its revenue.",
+   "published": "2026-10-27T11:00:00+00:00",
+   "topics": [
+    "Models",
+    "Business",
+    "Hardware"
+   ],
+   "first_seen": "2026-10-27T14:31:13+00:00"
+  },
   {
    "id": "858bf7d244f35ab5",
    "title": "How OpenAI turned its coding tools into dots, an always-on personal assistant",
