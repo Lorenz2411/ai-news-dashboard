@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-26T21:01:01+00:00",
+ "updated": "2026-10-27T01:28:46+00:00",
  "sources": [
   {
    "name": "OpenAI",
@@ -13,9 +13,9 @@
    "name": "Google DeepMind",
    "url": "https://deepmind.google/blog/rss.xml",
    "kind": "lab",
-   "ok": false,
-   "count": 0,
-   "error": "ParseError: not well-formed (invalid token): line 1, column 0"
+   "ok": true,
+   "count": 40,
+   "error": null
   },
   {
    "name": "Google AI",
@@ -85,12 +85,78 @@
    "name": "Hacker News",
    "url": "https://hnrss.org/newest?q=AI+OR+LLM+OR+GPT+OR+Claude&points=100",
    "kind": "community",
-   "ok": false,
-   "count": 0,
-   "error": "HTTPError: HTTP Error 502: Bad Gateway"
+   "ok": true,
+   "count": 20,
+   "error": null
   }
  ],
  "items": [
+  {
+   "id": "543832a6d8326a90",
+   "title": "Cohere says Alibaba’s Qwen model tried to send a file to Beijing",
+   "link": "https://techcrunch.com/2026/10/26/cohere-says-alibabas-qwen-model-tried-to-send-a-file-to-beijing/",
+   "source": "TechCrunch",
+   "kind": "press",
+   "summary": "An AI model said it wouldn’t use any tools, then tried to send something to a server in Beijing anyway, and while researchers say it’s probably a training quirk and not espionage, the whole thing has people asking how much to trust free Chinese AI.",
+   "published": "2026-10-27T01:12:21+00:00",
+   "topics": [
+    "Models"
+   ],
+   "first_seen": "2026-10-27T01:28:46+00:00"
+  },
+  {
+   "id": "51b6dc021077f16c",
+   "title": "GPT-6.1 Terra",
+   "link": "https://simonwillison.net/2026/Oct/26/gpt-61-terra/",
+   "source": "Simon Willison",
+   "kind": "community",
+   "summary": "GPT-6.1 Terra It's always interesting to note which aspects of a new model are emphasized in the release announcement. In the case of GPT-6.1 Terra, OpenAI went with visual reasoning and computer use: We’re introducing GPT-6.1 Terra , a fast, efficient model that combines…",
+   "published": "2026-10-26T23:53:07+00:00",
+   "topics": [
+    "Models",
+    "Tools"
+   ],
+   "first_seen": "2026-10-27T01:28:46+00:00"
+  },
+  {
+   "id": "bba291662c45fb8c",
+   "title": "OpenAI announces three big science discoveries and a new way to work with academics",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/1019143/openai-eth-kaseya-science-math-physics",
+   "source": "The Verge",
+   "kind": "press",
+   "summary": "Less than a month after its mass release of hundreds of manuscripts that it said contained solutions to long-standing mathematics questions, OpenAI is back with three more \"major\" discoveries in math, computer science, and physics. What's different this time is the choice to…",
+   "published": "2026-10-26T23:47:59+00:00",
+   "topics": [
+    "Tools"
+   ],
+   "first_seen": "2026-10-27T01:28:46+00:00"
+  },
+  {
+   "id": "250e5d8f302445e7",
+   "title": "Greptile takes bug detection beyond code review with GPT-6 Astra",
+   "link": "https://openai.com/index/greptile-code-review-codex-astra",
+   "source": "OpenAI",
+   "kind": "lab",
+   "summary": "How Greptile uses GPT-6 Astra to test user workflows, Daybreak to strengthen security, and Codex to reduce rework.",
+   "published": "2026-10-26T22:00:00+00:00",
+   "topics": [
+    "Models"
+   ],
+   "first_seen": "2026-10-27T01:28:46+00:00"
+  },
+  {
+   "id": "96b9f45bb2e6d933",
+   "title": "Anthropic is burning gas to feed the AI boom",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/1018994/anthropic-ipo-ai-data-center-energy-climate-risk",
+   "source": "The Verge",
+   "kind": "press",
+   "summary": "As it prepares to go public, Anthropic's S-1 filing makes generative AI's methane dependency glaringly obvious. \"Competition for access to electrical supply and data center locations with adequate power availability is intense.\" In documents filed with the US Securities and…",
+   "published": "2026-10-26T21:45:31+00:00",
+   "topics": [
+    "Hardware"
+   ],
+   "first_seen": "2026-10-27T01:28:46+00:00"
+  },
   {
    "id": "5d5ff332a0b6b5ff",
    "title": "Apple releases iOS and macOS 27.2 with new Siri AI features, new Music logo",
@@ -136,6 +202,20 @@
    "published": "2026-10-26T18:50:41+00:00",
    "topics": [],
    "first_seen": "2026-10-26T21:01:01+00:00"
+  },
+  {
+   "id": "f108b5ceacfa1c86",
+   "title": "GPT-6.1 Terra",
+   "link": "https://openai.com/index/introducing-gpt-6-1-terra/",
+   "source": "Hacker News",
+   "kind": "community",
+   "summary": "https://developers.openai.com/api/docs/models/gpt-6.1-terra Comments URL: https://news.ycombinator.com/item?id=50248124 Points: 494 # Comments: 314",
+   "published": "2026-10-26T18:01:17+00:00",
+   "topics": [
+    "Models",
+    "Tools"
+   ],
+   "first_seen": "2026-10-27T01:28:46+00:00"
   },
   {
    "id": "c6549f35a055aa19",
@@ -233,6 +313,46 @@
    "first_seen": "2026-10-26T21:01:01+00:00"
   },
   {
+   "id": "ce5ce5fc43fb0958",
+   "title": "Concerning behavior from a popular open-weight AI model",
+   "link": "https://cohere.com/blog/concerning-behaviour-popular-open-weight-ai-model",
+   "source": "Hacker News",
+   "kind": "community",
+   "summary": "Article URL: https://cohere.com/blog/concerning-behaviour-popular-open-weight-ai-model Comments URL: https://news.ycombinator.com/item?id=50246658 Points: 254 # Comments: 109",
+   "published": "2026-10-26T16:35:44+00:00",
+   "topics": [
+    "Models"
+   ],
+   "first_seen": "2026-10-27T01:28:46+00:00"
+  },
+  {
+   "id": "d4fc15392e5cfcdd",
+   "title": "webframe: evaluated as a scraper and a sandbox",
+   "link": "https://simonwillison.net/2026/Oct/26/webframe-evaluation/",
+   "source": "Simon Willison",
+   "kind": "community",
+   "summary": "Research: webframe: evaluated as a scraper and a sandbox webframe is a neat little project from Jeff Lindsay which lets you \"run a web page like a program\" - you point it at a URL or file and it executes it in a hidden headless web view and outputs console.log() to standard…",
+   "published": "2026-10-26T16:15:00+00:00",
+   "topics": [
+    "Research"
+   ],
+   "first_seen": "2026-10-27T01:28:46+00:00"
+  },
+  {
+   "id": "8cfee209e93b7c87",
+   "title": "Show HN: Hob - Open-source, on device alternative to Claude Cowork and ChatGPT",
+   "link": "https://github.com/FrigadeHQ/hob",
+   "source": "Hacker News",
+   "kind": "community",
+   "summary": "Hey HN, I'm Christian and this is a new OSS project I've been noodling on for the last couple of weeks. Hob is a free, MIT-licensed desktop app for Mac, Windows and Linux that works on your files the way the Claude and ChatGPT desktop apps do, except the model runs on your own…",
+   "published": "2026-10-26T16:12:29+00:00",
+   "topics": [
+    "Models",
+    "Tools"
+   ],
+   "first_seen": "2026-10-27T01:28:46+00:00"
+  },
+  {
    "id": "b8f740314eab2229",
    "title": "Microsoft offers buyouts to 60,000 employees",
    "link": "https://www.theverge.com/tech/1018666/microsoft-expands-buyouts-60000-employees-eligible",
@@ -280,6 +400,34 @@
    "first_seen": "2026-10-26T15:11:29+00:00"
   },
   {
+   "id": "f16aefe89a6e3f3b",
+   "title": "Working with academic communities to build scientific understanding",
+   "link": "https://openai.com/index/building-scientific-understanding-with-academic-communities",
+   "source": "OpenAI",
+   "kind": "lab",
+   "summary": "OpenAI shares model results on the Kakeya conjecture, Exponential Time Hypothesis, and quantum chromodynamics—and how researchers can verify and build on them.",
+   "published": "2026-10-26T14:30:00+00:00",
+   "topics": [
+    "Models"
+   ],
+   "first_seen": "2026-10-27T01:28:46+00:00"
+  },
+  {
+   "id": "1a1d4bf2fc111eb8",
+   "title": "GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebases",
+   "link": "https://openai.com/index/gpt-6-1-sol-coderabbit-code-security",
+   "source": "OpenAI",
+   "kind": "lab",
+   "summary": "CodeRabbit uses GPT-6.1 Sol to investigate security risks across complex codebases. Its security agent helps developers review findings and proposed fixes.",
+   "published": "2026-10-26T13:45:00+00:00",
+   "topics": [
+    "Models",
+    "Business",
+    "Tools"
+   ],
+   "first_seen": "2026-10-27T01:28:46+00:00"
+  },
+  {
    "id": "9c0a98fa46a8163e",
    "title": "Can AI help solve the COBOL code crisis?",
    "link": "https://www.theverge.com/ai-artificial-intelligence/1018434/cobol-migration-legacy-code-openai-anthropic",
@@ -291,6 +439,17 @@
     "Policy"
    ],
    "first_seen": "2026-10-26T15:11:29+00:00"
+  },
+  {
+   "id": "6da005897fea9861",
+   "title": "Brown student maps the hidden global labor powering AI",
+   "link": "https://www.brown.edu/news/2026-10-26/ai-data-workers",
+   "source": "Hacker News",
+   "kind": "community",
+   "summary": "Article URL: https://www.brown.edu/news/2026-10-26/ai-data-workers Comments URL: https://news.ycombinator.com/item?id=50242843 Points: 175 # Comments: 165",
+   "published": "2026-10-26T12:58:27+00:00",
+   "topics": [],
+   "first_seen": "2026-10-27T01:28:46+00:00"
   },
   {
    "id": "64d59b55a8fb8666",
@@ -373,7 +532,7 @@
    "link": "https://minimaxir.com/2026/10/cheap-llms/",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://minimaxir.com/2026/10/cheap-llms/ Comments URL: https://news.ycombinator.com/item?id=50236102 Points: 387 # Comments: 391",
+   "summary": "Article URL: https://minimaxir.com/2026/10/cheap-llms/ Comments URL: https://news.ycombinator.com/item?id=50236102 Points: 415 # Comments: 424",
    "published": "2026-10-25T21:11:31+00:00",
    "topics": [
     "Models"
@@ -399,7 +558,7 @@
    "link": "https://www.dailycal.org/news/campus/academics/ai-use-leads-uc-berkeley-math-professor-to-see-no-point-in-grading-homework/article_bdf1eae2-c08b-491f-b9f1-81a7cea177de.html",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://www.dailycal.org/news/campus/academics/ai-use-leads-uc-berkeley-math-professor-to-see-no-point-in-grading-homework/article_bdf1eae2-c08b-491f-b9f1-81a7cea177de.html Comments URL: https://news.ycombinator.com/item?id=50233304 Points: 228 # Comments: 321",
+   "summary": "Article URL: https://www.dailycal.org/news/campus/academics/ai-use-leads-uc-berkeley-math-professor-to-see-no-point-in-grading-homework/article_bdf1eae2-c08b-491f-b9f1-81a7cea177de.html Comments URL: https://news.ycombinator.com/item?id=50233304 Points: 237 # Comments: 328",
    "published": "2026-10-25T16:28:26+00:00",
    "topics": [],
    "first_seen": "2026-10-25T20:50:34+00:00"
@@ -443,7 +602,7 @@
    "link": "https://www.techspot.com/news/114171-nikon-photography-contest-winner-loses-title-after-scientists.html",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://www.techspot.com/news/114171-nikon-photography-contest-winner-loses-title-after-scientists.html Comments URL: https://news.ycombinator.com/item?id=50229827 Points: 144 # Comments: 84",
+   "summary": "Article URL: https://www.techspot.com/news/114171-nikon-photography-contest-winner-loses-title-after-scientists.html Comments URL: https://news.ycombinator.com/item?id=50229827 Points: 144 # Comments: 88",
    "published": "2026-10-25T09:51:17+00:00",
    "topics": [],
    "first_seen": "2026-10-25T20:50:34+00:00"
@@ -454,7 +613,7 @@
    "link": "https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras Comments URL: https://news.ycombinator.com/item?id=50227356 Points: 361 # Comments: 139",
+   "summary": "Article URL: https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras Comments URL: https://news.ycombinator.com/item?id=50227356 Points: 364 # Comments: 141",
    "published": "2026-10-25T01:33:49+00:00",
    "topics": [
     "Models"
@@ -467,7 +626,7 @@
    "link": "https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class Comments URL: https://news.ycombinator.com/item?id=50226419 Points: 534 # Comments: 568",
+   "summary": "Article URL: https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class Comments URL: https://news.ycombinator.com/item?id=50226419 Points: 541 # Comments: 581",
    "published": "2026-10-24T23:11:54+00:00",
    "topics": [],
    "first_seen": "2026-10-25T04:40:34+00:00"
@@ -500,7 +659,7 @@
    "link": "https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector Comments URL: https://news.ycombinator.com/item?id=50224463 Points: 634 # Comments: 662",
+   "summary": "Article URL: https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector Comments URL: https://news.ycombinator.com/item?id=50224463 Points: 638 # Comments: 668",
    "published": "2026-10-24T19:47:19+00:00",
    "topics": [],
    "first_seen": "2026-10-24T22:28:15+00:00"
@@ -538,7 +697,7 @@
    "link": "https://arxiv.org/abs/2610.29162",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://arxiv.org/abs/2610.29162 Comments URL: https://news.ycombinator.com/item?id=50223647 Points: 248 # Comments: 199",
+   "summary": "Article URL: https://arxiv.org/abs/2610.29162 Comments URL: https://news.ycombinator.com/item?id=50223647 Points: 254 # Comments: 201",
    "published": "2026-10-24T18:04:57+00:00",
    "topics": [
     "Research"
@@ -815,7 +974,7 @@
    "link": "https://www.sverigesradio.se/artikel/chat-gpt-och-claude-forbjuder-regeringskansliet",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://www.sverigesradio.se/artikel/chat-gpt-och-claude-forbjuder-regeringskansliet Comments URL: https://news.ycombinator.com/item?id=50207405 Points: 323 # Comments: 124",
+   "summary": "Article URL: https://www.sverigesradio.se/artikel/chat-gpt-och-claude-forbjuder-regeringskansliet Comments URL: https://news.ycombinator.com/item?id=50207405 Points: 323 # Comments: 125",
    "published": "2026-10-23T11:39:54+00:00",
    "topics": [
     "Models",
@@ -1130,7 +1289,7 @@
    "link": "https://arxiv.org/abs/2610.27251",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://arxiv.org/abs/2610.27251 Comments URL: https://news.ycombinator.com/item?id=50199230 Points: 141 # Comments: 81",
+   "summary": "Article URL: https://arxiv.org/abs/2610.27251 Comments URL: https://news.ycombinator.com/item?id=50199230 Points: 142 # Comments: 81",
    "published": "2026-10-22T18:28:16+00:00",
    "topics": [
     "Research"
@@ -1167,7 +1326,7 @@
    "link": "https://github.com/NVIDIA/OpenShell",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://github.com/NVIDIA/OpenShell Comments URL: https://news.ycombinator.com/item?id=50198675 Points: 503 # Comments: 218",
+   "summary": "Article URL: https://github.com/NVIDIA/OpenShell Comments URL: https://news.ycombinator.com/item?id=50198675 Points: 504 # Comments: 218",
    "published": "2026-10-22T17:44:06+00:00",
    "topics": [
     "Tools",
@@ -1240,7 +1399,7 @@
    "link": "https://www.modelcompare.ai/blog/ai-models-controversial-take-on-humans",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://www.modelcompare.ai/blog/ai-models-controversial-take-on-humans Comments URL: https://news.ycombinator.com/item?id=50197313 Points: 658 # Comments: 640",
+   "summary": "Article URL: https://www.modelcompare.ai/blog/ai-models-controversial-take-on-humans Comments URL: https://news.ycombinator.com/item?id=50197313 Points: 661 # Comments: 642",
    "published": "2026-10-22T16:08:00+00:00",
    "topics": [
     "Models"
@@ -1648,7 +1807,7 @@
    "link": "https://claude.com/product/claude-duet",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://claude.com/product/claude-duet Comments URL: https://news.ycombinator.com/item?id=50186037 Points: 567 # Comments: 534",
+   "summary": "Article URL: https://claude.com/product/claude-duet Comments URL: https://news.ycombinator.com/item?id=50186037 Points: 567 # Comments: 535",
    "published": "2026-10-21T19:14:01+00:00",
    "topics": [
     "Models"
