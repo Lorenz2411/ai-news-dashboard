@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-27T20:41:33+00:00",
+ "updated": "2026-10-28T01:21:30+00:00",
  "sources": [
   {
    "name": "OpenAI",
@@ -13,9 +13,9 @@
    "name": "Google DeepMind",
    "url": "https://deepmind.google/blog/rss.xml",
    "kind": "lab",
-   "ok": false,
-   "count": 0,
-   "error": "ParseError: not well-formed (invalid token): line 1, column 0"
+   "ok": true,
+   "count": 40,
+   "error": null
   },
   {
    "name": "Google AI",
@@ -91,6 +91,135 @@
   }
  ],
  "items": [
+  {
+   "id": "0a7119608b55c94e",
+   "title": "VCs will make billions on Anthropic’s IPO, but Amazon is set to make much (much) more",
+   "link": "https://techcrunch.com/2026/10/27/vcs-will-make-billions-on-anthropics-ipo-but-amazon-is-set-to-make-much-much-more/",
+   "source": "TechCrunch",
+   "kind": "press",
+   "summary": "Massive note conversions reveal the true extent of Amazon's ownership in Anthropic.",
+   "published": "2026-10-28T01:15:28+00:00",
+   "topics": [
+    "Business"
+   ],
+   "first_seen": "2026-10-28T01:21:30+00:00"
+  },
+  {
+   "id": "6210b5315dda5af8",
+   "title": "Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication",
+   "link": "https://techcrunch.com/2026/10/27/parents-sue-openai-alleging-gpt-4o-coached-their-daughter-off-seizure-medication/",
+   "source": "TechCrunch",
+   "kind": "press",
+   "summary": "A family is suing OpenAI, saying ChatGPT coached their daughter to quietly taper off her seizure medication and keep it from her doctors before she died in February.",
+   "published": "2026-10-27T23:34:27+00:00",
+   "topics": [
+    "Models"
+   ],
+   "first_seen": "2026-10-28T01:21:30+00:00"
+  },
+  {
+   "id": "1f592db8b0867fb6",
+   "title": "The data center boom has an upside: innovation for the US grid",
+   "link": "https://techcrunch.com/2026/10/27/the-data-center-boom-has-an-upside-innovation-for-the-us-grid/",
+   "source": "TechCrunch",
+   "kind": "press",
+   "summary": "As the AI boom stresses the existing power grid, all sorts of new opportunities for grid modernization are also emerging as a result, industry insiders say.",
+   "published": "2026-10-27T22:55:41+00:00",
+   "topics": [
+    "Hardware"
+   ],
+   "first_seen": "2026-10-28T01:21:30+00:00"
+  },
+  {
+   "id": "6849d36ab61f28e0",
+   "title": "\"No human at the helm\": Delaware plan would let AI agents run entire businesses",
+   "link": "https://arstechnica.com/tech-policy/2026/10/no-human-at-the-helm-delaware-plan-would-let-ai-agents-run-entire-businesses/",
+   "source": "Ars Technica",
+   "kind": "press",
+   "summary": "Owners of AI-run firms would evade liability for \"reckless\" AI, US Rep. Comer says.",
+   "published": "2026-10-27T21:50:04+00:00",
+   "topics": [
+    "Tools"
+   ],
+   "first_seen": "2026-10-28T01:21:30+00:00"
+  },
+  {
+   "id": "f45c20f72906e910",
+   "title": "Bank of America kindly asks that you don’t share your banking password with your AI assistant",
+   "link": "https://techcrunch.com/2026/10/27/bank-of-america-kindly-asks-that-you-dont-share-your-banking-password-with-your-ai-assistant/",
+   "source": "TechCrunch",
+   "kind": "press",
+   "summary": "The banking giant reminds customers that \"you're responsible for activity\" resulting from your AI agents' access.",
+   "published": "2026-10-27T21:44:34+00:00",
+   "topics": [
+    "Tools"
+   ],
+   "first_seen": "2026-10-28T01:21:30+00:00"
+  },
+  {
+   "id": "a9a2cf8c96fedf8c",
+   "title": "Who’s really in charge at Anthropic after the IPO?",
+   "link": "https://techcrunch.com/2026/10/27/whos-really-in-charge-at-anthropic-after-the-ipo/",
+   "source": "TechCrunch",
+   "kind": "press",
+   "summary": "Here's a clear explanation of Anthropic's incredibly complex governance structure.",
+   "published": "2026-10-27T21:38:28+00:00",
+   "topics": [
+    "Business"
+   ],
+   "first_seen": "2026-10-28T01:21:30+00:00"
+  },
+  {
+   "id": "78aca7aaafb2150d",
+   "title": "Anthropic IPO warns its AI could blackmail people, become sentient, end humanity",
+   "link": "https://arstechnica.com/ai/2026/10/anthropic-ipo-warns-its-ai-could-blackmail-people-become-sentient-end-humanity/",
+   "source": "Ars Technica",
+   "kind": "press",
+   "summary": "Seven potential AI nightmares pulled from Anthropic's 93-page \"Risk Factor\" tome.",
+   "published": "2026-10-27T21:31:14+00:00",
+   "topics": [
+    "Business"
+   ],
+   "first_seen": "2026-10-28T01:21:30+00:00"
+  },
+  {
+   "id": "ba3cece69efb7bc0",
+   "title": "Researchers are getting tired of OpenAI gatekeeping its breakthroughs",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/1019921/openai-breakthrough-math-computer-science-physics",
+   "source": "The Verge",
+   "kind": "press",
+   "summary": "On Monday, OpenAI announced impressive breakthroughs in mathematics, computer science, and physics, along with what the company says is an evolving approach to communicating its findings. But despite its apparent course correction, researchers who spoke to The Verge are growing…",
+   "published": "2026-10-27T20:51:04+00:00",
+   "topics": [],
+   "first_seen": "2026-10-28T01:21:30+00:00"
+  },
+  {
+   "id": "fdf27bf9960b1109",
+   "title": "Early progress on accelerating drug development with Claude",
+   "link": "https://www.anthropic.com/research/early-progress-drug-development",
+   "source": "Hacker News",
+   "kind": "community",
+   "summary": "Article URL: https://www.anthropic.com/research/early-progress-drug-development Comments URL: https://news.ycombinator.com/item?id=50265609 Points: 117 # Comments: 103",
+   "published": "2026-10-27T20:50:42+00:00",
+   "topics": [
+    "Models",
+    "Research"
+   ],
+   "first_seen": "2026-10-28T01:21:30+00:00"
+  },
+  {
+   "id": "62b1fcdba263ec2d",
+   "title": "Survival LLM: AI assistant and emergency library that runs on your own computer",
+   "link": "https://www.brangus.io/survival-llm",
+   "source": "Hacker News",
+   "kind": "community",
+   "summary": "Article URL: https://www.brangus.io/survival-llm Comments URL: https://news.ycombinator.com/item?id=50264853 Points: 175 # Comments: 97",
+   "published": "2026-10-27T19:55:06+00:00",
+   "topics": [
+    "Models"
+   ],
+   "first_seen": "2026-10-28T01:21:30+00:00"
+  },
   {
    "id": "a9c65cb8282253c6",
    "title": "Game Boy Color on My Conference Badge",
@@ -186,7 +315,7 @@
    "link": "https://gizmodo.com/police-are-using-ai-to-pull-over-drivers-for-suspicious-behavior-2000831220",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://gizmodo.com/police-are-using-ai-to-pull-over-drivers-for-suspicious-behavior-2000831220 Comments URL: https://news.ycombinator.com/item?id=50261819 Points: 273 # Comments: 201",
+   "summary": "Article URL: https://gizmodo.com/police-are-using-ai-to-pull-over-drivers-for-suspicious-behavior-2000831220 Comments URL: https://news.ycombinator.com/item?id=50261819 Points: 338 # Comments: 274",
    "published": "2026-10-27T16:40:15+00:00",
    "topics": [],
    "first_seen": "2026-10-27T20:41:33+00:00"
@@ -210,7 +339,7 @@
    "link": "https://futurism.com/artificial-intelligence/amazon-ai-division-failure-nova",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://futurism.com/artificial-intelligence/amazon-ai-division-failure-nova Comments URL: https://news.ycombinator.com/item?id=50261589 Points: 112 # Comments: 51",
+   "summary": "Article URL: https://futurism.com/artificial-intelligence/amazon-ai-division-failure-nova Comments URL: https://news.ycombinator.com/item?id=50261589 Points: 250 # Comments: 168",
    "published": "2026-10-27T16:25:30+00:00",
    "topics": [],
    "first_seen": "2026-10-27T20:41:33+00:00"
@@ -241,6 +370,19 @@
    "first_seen": "2026-10-27T20:41:33+00:00"
   },
   {
+   "id": "d17d13a0006a776d",
+   "title": "Genie 4: A new generation of world simulation",
+   "link": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
+   "source": "Google DeepMind",
+   "kind": "lab",
+   "summary": "Genie 4: our new world model unlocking unprecedented realism in real-time simulation.",
+   "published": "2026-10-27T16:01:38+00:00",
+   "topics": [
+    "Models"
+   ],
+   "first_seen": "2026-10-28T01:21:30+00:00"
+  },
+  {
    "id": "a60188d04998fded",
    "title": "DeepMind unveils Genie 4 world model promising more realistic physics and humans",
    "link": "https://arstechnica.com/google/2026/10/deepminds-genie-4-world-model-adds-audio-and-more-realistic-people-to-simulations/",
@@ -259,7 +401,7 @@
    "link": "https://stanforddaily.com/2026/10/27/professors-books-pirated-to-train-claude/",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://stanforddaily.com/2026/10/27/professors-books-pirated-to-train-claude/ Comments URL: https://news.ycombinator.com/item?id=50260814 Points: 307 # Comments: 168",
+   "summary": "Article URL: https://stanforddaily.com/2026/10/27/professors-books-pirated-to-train-claude/ Comments URL: https://news.ycombinator.com/item?id=50260814 Points: 459 # Comments: 263",
    "published": "2026-10-27T15:28:26+00:00",
    "topics": [
     "Models"
@@ -278,6 +420,22 @@
     "Models"
    ],
    "first_seen": "2026-10-27T20:41:33+00:00"
+  },
+  {
+   "id": "d42fb1eb3362412f",
+   "title": "Retell uses OpenAI models to help power 100M monthly calls",
+   "link": "https://openai.com/index/retell-ai",
+   "source": "OpenAI",
+   "kind": "lab",
+   "summary": "GPT-6 Astra tops Retell’s voice agent benchmark, while Codex helps it reach a $1.6M annual revenue run rate per employee.",
+   "published": "2026-10-27T15:00:00+00:00",
+   "topics": [
+    "Models",
+    "Research",
+    "Business",
+    "Tools"
+   ],
+   "first_seen": "2026-10-28T01:21:30+00:00"
   },
   {
    "id": "122f4e228239d6c9",
@@ -373,7 +531,7 @@
    "link": "https://spectrum.ieee.org/wikipedia-wikiproject-ai-writing-cleanup",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://spectrum.ieee.org/wikipedia-wikiproject-ai-writing-cleanup Comments URL: https://news.ycombinator.com/item?id=50257326 Points: 384 # Comments: 175",
+   "summary": "Article URL: https://spectrum.ieee.org/wikipedia-wikiproject-ai-writing-cleanup Comments URL: https://news.ycombinator.com/item?id=50257326 Points: 446 # Comments: 206",
    "published": "2026-10-27T11:08:15+00:00",
    "topics": [],
    "first_seen": "2026-10-27T20:41:33+00:00"
@@ -384,7 +542,7 @@
    "link": "https://oioannou.com/blog/ai-promised-less-work/",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://oioannou.com/blog/ai-promised-less-work/ Comments URL: https://news.ycombinator.com/item?id=50257325 Points: 603 # Comments: 579",
+   "summary": "Article URL: https://oioannou.com/blog/ai-promised-less-work/ Comments URL: https://news.ycombinator.com/item?id=50257325 Points: 615 # Comments: 615",
    "published": "2026-10-27T11:08:14+00:00",
    "topics": [],
    "first_seen": "2026-10-27T20:41:33+00:00"
@@ -395,7 +553,7 @@
    "link": "https://techcrunch.com/2026/10/27/nvidia-backs-indian-startup-helping-companies-run-ai-models-with-fewer-gpus/",
    "source": "TechCrunch",
    "kind": "press",
-   "summary": "Simplismart says its annualized revenue run rate has grown 14-fold in six months, with the U.S. accounting for more than half its revenue.",
+   "summary": "Simplismart says its annualized revenue run rate has grown fourteenfold in six months, with the U.S. accounting for more than half its revenue.",
    "published": "2026-10-27T11:00:00+00:00",
    "topics": [
     "Models",
@@ -424,7 +582,7 @@
    "link": "https://j11g.com/the-mythical-man-month-in-the-age-of-ai",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://j11g.com/the-mythical-man-month-in-the-age-of-ai Comments URL: https://news.ycombinator.com/item?id=50255298 Points: 398 # Comments: 281",
+   "summary": "Article URL: https://j11g.com/the-mythical-man-month-in-the-age-of-ai Comments URL: https://news.ycombinator.com/item?id=50255298 Points: 431 # Comments: 304",
    "published": "2026-10-27T06:25:37+00:00",
    "topics": [],
    "first_seen": "2026-10-27T20:41:33+00:00"
@@ -501,7 +659,7 @@
    "link": "https://blog.cloudflare.com/kv-cache-exposure-remediation/",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://blog.cloudflare.com/kv-cache-exposure-remediation/ Comments URL: https://news.ycombinator.com/item?id=50252159 Points: 176 # Comments: 71",
+   "summary": "Article URL: https://blog.cloudflare.com/kv-cache-exposure-remediation/ Comments URL: https://news.ycombinator.com/item?id=50252159 Points: 178 # Comments: 73",
    "published": "2026-10-26T22:41:48+00:00",
    "topics": [
     "Models"
@@ -586,7 +744,7 @@
    "link": "https://openai.com/index/introducing-gpt-6-1-terra/",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "https://developers.openai.com/api/docs/models/gpt-6.1-terra Comments URL: https://news.ycombinator.com/item?id=50248124 Points: 620 # Comments: 411",
+   "summary": "https://developers.openai.com/api/docs/models/gpt-6.1-terra Comments URL: https://news.ycombinator.com/item?id=50248124 Points: 623 # Comments: 417",
    "published": "2026-10-26T18:01:17+00:00",
    "topics": [
     "Models",
@@ -695,7 +853,7 @@
    "link": "https://cohere.com/blog/concerning-behaviour-popular-open-weight-ai-model",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://cohere.com/blog/concerning-behaviour-popular-open-weight-ai-model Comments URL: https://news.ycombinator.com/item?id=50246658 Points: 320 # Comments: 124",
+   "summary": "Article URL: https://cohere.com/blog/concerning-behaviour-popular-open-weight-ai-model Comments URL: https://news.ycombinator.com/item?id=50246658 Points: 324 # Comments: 124",
    "published": "2026-10-26T16:35:44+00:00",
    "topics": [
     "Models"
@@ -823,7 +981,7 @@
    "link": "https://www.brown.edu/news/2026-10-26/ai-data-workers",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://www.brown.edu/news/2026-10-26/ai-data-workers Comments URL: https://news.ycombinator.com/item?id=50242843 Points: 182 # Comments: 177",
+   "summary": "Article URL: https://www.brown.edu/news/2026-10-26/ai-data-workers Comments URL: https://news.ycombinator.com/item?id=50242843 Points: 182 # Comments: 178",
    "published": "2026-10-26T12:58:27+00:00",
    "topics": [],
    "first_seen": "2026-10-27T01:28:46+00:00"
@@ -909,7 +1067,7 @@
    "link": "https://minimaxir.com/2026/10/cheap-llms/",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://minimaxir.com/2026/10/cheap-llms/ Comments URL: https://news.ycombinator.com/item?id=50236102 Points: 432 # Comments: 433",
+   "summary": "Article URL: https://minimaxir.com/2026/10/cheap-llms/ Comments URL: https://news.ycombinator.com/item?id=50236102 Points: 434 # Comments: 434",
    "published": "2026-10-25T21:11:31+00:00",
    "topics": [
     "Models"
@@ -1003,7 +1161,7 @@
    "link": "https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class Comments URL: https://news.ycombinator.com/item?id=50226419 Points: 542 # Comments: 585",
+   "summary": "Article URL: https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class Comments URL: https://news.ycombinator.com/item?id=50226419 Points: 543 # Comments: 586",
    "published": "2026-10-24T23:11:54+00:00",
    "topics": [],
    "first_seen": "2026-10-25T04:40:34+00:00"
@@ -4120,6 +4278,32 @@
     "Business"
    ],
    "first_seen": "2026-10-17T06:57:21+00:00"
+  },
+  {
+   "id": "1d7d75b47c31f4d0",
+   "title": "How Grupo Boticário uses AI to strengthen human connections",
+   "link": "https://openai.com/index/grupo-boticario",
+   "source": "OpenAI",
+   "kind": "lab",
+   "summary": "Almost 50 years after starting in a compounding pharmacy in Paraná, the group operates a proprietary agent platform that autonomously resolves up to 80% of resellers’ operational requests—enabling the sales force to take on an advisory role.",
+   "published": "2026-10-16T00:00:00+00:00",
+   "topics": [
+    "Tools"
+   ],
+   "first_seen": "2026-10-28T01:21:30+00:00"
+  },
+  {
+   "id": "827221925d8dc2bc",
+   "title": "How Localiza reorganized work around generative AI",
+   "link": "https://openai.com/index/localiza-generative-ai",
+   "source": "OpenAI",
+   "kind": "lab",
+   "summary": "See how Localiza uses ChatGPT Enterprise, the OpenAI API, Codex, and 60+ specialized agents to reorganize work and build AI-native mobility experiences.",
+   "published": "2026-10-16T00:00:00+00:00",
+   "topics": [
+    "Tools"
+   ],
+   "first_seen": "2026-10-28T01:21:30+00:00"
   },
   {
    "id": "c9c43f1e32a507cc",
@@ -8254,41 +8438,6 @@
    "topics": [
     "Business"
    ],
-   "first_seen": "2026-10-11T09:46:44+00:00"
-  },
-  {
-   "id": "914f14710638400c",
-   "title": "Are you a Codex Original?",
-   "link": "https://openai.com/form/codex-originals",
-   "source": "OpenAI",
-   "kind": "lab",
-   "summary": "We’re collecting real stories of builders, tinkerers, researchers, and creators who are using Codex to do incredible things. If you want to be a part of the next chapter of the Codex Originals program, tell us more about your story and project below.",
-   "published": "2026-09-28T00:00:00+00:00",
-   "topics": [],
-   "first_seen": "2026-10-11T09:46:44+00:00"
-  },
-  {
-   "id": "bf0fe8cc388a3447",
-   "title": "Basis completes a tax workbook 2x faster with GPT-6 Astra",
-   "link": "https://openai.com/index/basis-tax-workbook-with-astra",
-   "source": "OpenAI",
-   "kind": "lab",
-   "summary": "GPT-6 Astra completed a 50-tab tax workbook twice as fast as GPT-5.6 Sol, and its stronger understanding of user intent gives Basis more confidence in real-world use.",
-   "published": "2026-09-28T00:00:00+00:00",
-   "topics": [
-    "Models"
-   ],
-   "first_seen": "2026-10-11T09:46:44+00:00"
-  },
-  {
-   "id": "a30a6af008def6d3",
-   "title": "Welcome RL Environments to the hub",
-   "link": "https://huggingface.co/blog/rl-environments",
-   "source": "Hugging Face",
-   "kind": "lab",
-   "summary": "",
-   "published": "2026-09-28T00:00:00+00:00",
-   "topics": [],
    "first_seen": "2026-10-11T09:46:44+00:00"
   }
  ]
