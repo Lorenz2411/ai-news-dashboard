@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-28T08:30:53+00:00",
+ "updated": "2026-10-28T16:37:40+00:00",
  "sources": [
   {
    "name": "OpenAI",
@@ -13,9 +13,9 @@
    "name": "Google DeepMind",
    "url": "https://deepmind.google/blog/rss.xml",
    "kind": "lab",
-   "ok": false,
-   "count": 0,
-   "error": "ParseError: not well-formed (invalid token): line 1, column 0"
+   "ok": true,
+   "count": 40,
+   "error": null
   },
   {
    "name": "Google AI",
@@ -91,6 +91,184 @@
   }
  ],
  "items": [
+  {
+   "id": "1739307690c34a28",
+   "title": "Meta says it’ll probably delay its controversial new business terms again",
+   "link": "https://www.theverge.com/tech/1020769/meta-updated-business-terms-delay-indefinitely",
+   "source": "The Verge",
+   "kind": "press",
+   "summary": "Meta says it may push the implementation of its new business terms past November 20th as it faces backlash from publishers over concerns about AI training. In a post on X, Meta communications head Andy Stone said the company does \"not plan to make policy changes without a full…",
+   "published": "2026-10-28T16:15:30+00:00",
+   "topics": [
+    "Policy"
+   ],
+   "first_seen": "2026-10-28T16:37:40+00:00"
+  },
+  {
+   "id": "d0407e5d8c6e4e86",
+   "title": "AI execs may be too out of touch to build for the general public",
+   "link": "https://techcrunch.com/2026/10/28/ai-execs-may-be-too-out-of-touch-to-build-for-the-general-public/",
+   "source": "TechCrunch",
+   "kind": "press",
+   "summary": "Tech leaders are flaunting how out of touch they are when they brag about using AI to connect with their families.",
+   "published": "2026-10-28T15:53:52+00:00",
+   "topics": [],
+   "first_seen": "2026-10-28T16:37:40+00:00"
+  },
+  {
+   "id": "feda3ad530f5eea0",
+   "title": "South Korea’s financial industry hit by fresh wave of cyberattacks",
+   "link": "https://techcrunch.com/2026/10/28/south-koreas-financial-industry-hit-by-fresh-wave-of-cyberattacks/",
+   "source": "TechCrunch",
+   "kind": "press",
+   "summary": "South Korea’s financial institutions have been hit by another wave of cyberattacks, highlighting the growing risk of AI-driven hacking in Asia.",
+   "published": "2026-10-28T15:41:18+00:00",
+   "topics": [],
+   "first_seen": "2026-10-28T16:37:40+00:00"
+  },
+  {
+   "id": "f1ebb512d4e04c57",
+   "title": "Voice AI in vogue: Nvidia releases new open transcription model",
+   "link": "https://techcrunch.com/2026/10/28/voice-ai-in-vogue-nvidia-releases-new-open-transcription-model/",
+   "source": "TechCrunch",
+   "kind": "press",
+   "summary": "Nvidia just released a free speech-to-text model that can transcribe up to 40 languages, but it only works on recordings, not live audio, so it’s a big step for meeting and medical transcription tools while still leaving real-time use to rivals like ElevenLabs.",
+   "published": "2026-10-28T15:00:00+00:00",
+   "topics": [
+    "Models",
+    "Tools",
+    "Hardware"
+   ],
+   "first_seen": "2026-10-28T16:37:40+00:00"
+  },
+  {
+   "id": "7ae8eb20550eee76",
+   "title": "NVIDIA Nemotron 3.5 Transcribe and Granary v2: Intelligent Multilingual Transcription You Can Prompt and Adapt",
+   "link": "https://huggingface.co/blog/nvidia/nemotron-transcribe-granary",
+   "source": "Hugging Face",
+   "kind": "lab",
+   "summary": "",
+   "published": "2026-10-28T14:58:17+00:00",
+   "topics": [
+    "Hardware"
+   ],
+   "first_seen": "2026-10-28T16:37:40+00:00"
+  },
+  {
+   "id": "5283652bd524be85",
+   "title": "xAI is buying out homeowners who promise not to sue over data center noise",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/1020596/xai-mississippi-neighborhood-data-center-lawsuit",
+   "source": "The Verge",
+   "kind": "press",
+   "summary": "A subsidiary of Elon Musk's xAI is offering to buy up homes in a Mississippi neighborhood, as long as residents don't join a lawsuit targeting the company's nearby data center and power plant, according to a report from The Guardian. A realtor going door-to-door in the Southaven…",
+   "published": "2026-10-28T14:44:00+00:00",
+   "topics": [
+    "Policy",
+    "Hardware"
+   ],
+   "first_seen": "2026-10-28T16:37:40+00:00"
+  },
+  {
+   "id": "93b9dc1d31289278",
+   "title": "The October inflection point for vibe game development",
+   "link": "https://simonwillison.net/2026/Oct/28/vibe-game-development/",
+   "source": "Simon Willison",
+   "kind": "community",
+   "summary": "I've written before about how November 2025 was an inflection point for coding agents - the point where Opus 4.5 and GPT-5.1 crossed a tipping point that meant their respective coding agents became reliable daily drivers for software engineers. I think we've reached a new…",
+   "published": "2026-10-28T13:55:15+00:00",
+   "topics": [
+    "Models",
+    "Tools"
+   ],
+   "first_seen": "2026-10-28T16:37:40+00:00"
+  },
+  {
+   "id": "11933a85bc5f9fa3",
+   "title": "7 days until TechCrunch Founder Summit: Save up to $100 on your pass before doors open",
+   "link": "https://techcrunch.com/2026/10/28/7-days-until-techcrunch-founder-summit-save-up-to-100-before-doors-open/",
+   "source": "TechCrunch",
+   "kind": "press",
+   "summary": "In just 7 days, TechCrunch Founder Summit takes over Boston’s SoWa Power Station on November 4. Your chance to save up to $100 on tickets is running out, and the opportunity to learn and connect directly with experienced founders, investors, and startup leaders is almost here.",
+   "published": "2026-10-28T13:00:00+00:00",
+   "topics": [
+    "Business"
+   ],
+   "first_seen": "2026-10-28T16:37:40+00:00"
+  },
+  {
+   "id": "8030d1b5c63548db",
+   "title": "Voters in Texas agree: They hate data centers",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/1018676/data-center-midterm-election-energy-water-texas",
+   "source": "The Verge",
+   "kind": "press",
+   "summary": "Ask Texas NAACP president Gary Bledsoe what it's been like to see data center developers descend upon Austin and its surrounding suburbs and he can rattle off project after project facing opposition from locals. There's the fight in Taylor over plans to build a data center at a…",
+   "published": "2026-10-28T12:39:57+00:00",
+   "topics": [
+    "Hardware"
+   ],
+   "first_seen": "2026-10-28T16:37:40+00:00"
+  },
+  {
+   "id": "056614830d953cd4",
+   "title": "Pairing industrial AI autonomy and human control",
+   "link": "https://www.technologyreview.com/2026/10/28/1147637/pairing-industrial-ai-autonomy-and-human-control/",
+   "source": "MIT Technology Review",
+   "kind": "press",
+   "summary": "",
+   "published": "2026-10-28T12:00:00+00:00",
+   "topics": [],
+   "first_seen": "2026-10-28T16:37:40+00:00"
+  },
+  {
+   "id": "6da995572c9c0a77",
+   "title": "Meta quietly launched an ‘AI pet journal’ app",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/1020410/meta-launched-ai-pet-journal-app-waddle-world",
+   "source": "The Verge",
+   "kind": "press",
+   "summary": "Meta has launched a \"tamagotchi-style\" pet game called Waddle World, with virtual creatures that chat with users and create doodles to illustrate conversations. According to its Apple and Play Store listings, the \"16-bit pet care game\" is not really a game, but \"a daily journal…",
+   "published": "2026-10-28T11:27:30+00:00",
+   "topics": [
+    "Tools"
+   ],
+   "first_seen": "2026-10-28T16:37:40+00:00"
+  },
+  {
+   "id": "5d9615019ec259be",
+   "title": "Quoting Terk Terkowitz",
+   "link": "https://simonwillison.net/2026/Oct/28/terk-terkowitz/",
+   "source": "Simon Willison",
+   "kind": "community",
+   "summary": "If your work does not benefit from current AI tooling, that is a finding, not a failing. Document why, share it with your community of peers, bring it to your manager, and work to find solutions. An engineer who can explain where AI does not yet help their work is demonstrating…",
+   "published": "2026-10-28T10:09:07+00:00",
+   "topics": [],
+   "first_seen": "2026-10-28T16:37:40+00:00"
+  },
+  {
+   "id": "2fc8e689e413caad",
+   "title": "Legora is building the agentic operating system for legal work",
+   "link": "https://openai.com/index/legora-agentic-operating-system-for-legal-work",
+   "source": "OpenAI",
+   "kind": "lab",
+   "summary": "See how Legora uses OpenAI models, ChatGPT, and Codex to accelerate legal workflows, expand contract analysis, and free lawyers to focus on higher-value work.",
+   "published": "2026-10-28T09:30:00+00:00",
+   "topics": [
+    "Models"
+   ],
+   "first_seen": "2026-10-28T16:37:40+00:00"
+  },
+  {
+   "id": "41c97fe8dc29ac4a",
+   "title": "Legora is building the agentic operating system for legal work",
+   "link": "https://openai.com/index/legora",
+   "source": "OpenAI",
+   "kind": "lab",
+   "summary": "See how Legora uses OpenAI models, ChatGPT, and Codex to accelerate legal workflows, expand contract analysis, and free lawyers to focus on higher-value work.",
+   "published": "2026-10-28T09:30:00+00:00",
+   "topics": [
+    "Models"
+   ],
+   "first_seen": "2026-10-28T16:37:40+00:00"
+  },
   {
    "id": "0a7119608b55c94e",
    "title": "VCs will make billions on Anthropic’s IPO, but Amazon is set to make much (much) more",
@@ -8412,19 +8590,6 @@
    "summary": "",
    "published": "2026-09-28T19:00:00+00:00",
    "topics": [],
-   "first_seen": "2026-10-11T09:46:44+00:00"
-  },
-  {
-   "id": "9552195c964ddb7b",
-   "title": "Holo4: powering generalist computer-use agents",
-   "link": "https://huggingface.co/blog/Hcompany/holo4",
-   "source": "Hugging Face",
-   "kind": "lab",
-   "summary": "",
-   "published": "2026-09-28T09:44:05+00:00",
-   "topics": [
-    "Tools"
-   ],
    "first_seen": "2026-10-11T09:46:44+00:00"
   }
  ]
