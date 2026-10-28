@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-28T01:21:30+00:00",
+ "updated": "2026-10-28T08:30:53+00:00",
  "sources": [
   {
    "name": "OpenAI",
@@ -13,9 +13,9 @@
    "name": "Google DeepMind",
    "url": "https://deepmind.google/blog/rss.xml",
    "kind": "lab",
-   "ok": true,
-   "count": 40,
-   "error": null
+   "ok": false,
+   "count": 0,
+   "error": "ParseError: not well-formed (invalid token): line 1, column 0"
   },
   {
    "name": "Google AI",
@@ -85,9 +85,9 @@
    "name": "Hacker News",
    "url": "https://hnrss.org/newest?q=AI+OR+LLM+OR+GPT+OR+Claude&points=100",
    "kind": "community",
-   "ok": true,
-   "count": 20,
-   "error": null
+   "ok": false,
+   "count": 0,
+   "error": "HTTPError: HTTP Error 502: Bad Gateway"
   }
  ],
  "items": [
@@ -2481,7 +2481,7 @@
    "link": "https://simonwillison.net/2026/Oct/21/panache/",
    "source": "Simon Willison",
    "kind": "community",
-   "summary": "Panache — RTS Belle Époque pour mobile Well this is delightful: I released Battle Drones yesterday under an Apache 2.0 License and there's already a French language fork which reskins the game to take place in steampunk 1900s France and adds an animated intro! Panache est un jeu…",
+   "summary": "Panache — RTS Belle Époque pour mobile Well this is delightful: I released Battle Drones yesterday under an Apache 2.0 License and there's already a French language fork by Gabriel Turpin which reskins the game to take place in steampunk 1900s France and adds an animated intro!…",
    "published": "2026-10-21T16:25:16+00:00",
    "topics": [
     "Tools"
@@ -8424,19 +8424,6 @@
    "published": "2026-09-28T09:44:05+00:00",
    "topics": [
     "Tools"
-   ],
-   "first_seen": "2026-10-11T09:46:44+00:00"
-  },
-  {
-   "id": "216d56bba26ca458",
-   "title": "The Lenfest Institute grows landmark program with expanded OpenAI support",
-   "link": "https://openai.com/index/lenfest-ai-collaborative-expansion",
-   "source": "OpenAI",
-   "kind": "lab",
-   "summary": "OpenAI is expanding the Lenfest AI Collaborative and Fellowship Program with $5 million in funding and up to $5 million in software credits and engineering support.",
-   "published": "2026-09-28T07:00:00+00:00",
-   "topics": [
-    "Business"
    ],
    "first_seen": "2026-10-11T09:46:44+00:00"
   }
