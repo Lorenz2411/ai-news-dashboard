@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-28T16:37:40+00:00",
+ "updated": "2026-10-28T22:34:39+00:00",
  "sources": [
   {
    "name": "OpenAI",
@@ -85,12 +85,254 @@
    "name": "Hacker News",
    "url": "https://hnrss.org/newest?q=AI+OR+LLM+OR+GPT+OR+Claude&points=100",
    "kind": "community",
-   "ok": false,
-   "count": 0,
-   "error": "HTTPError: HTTP Error 502: Bad Gateway"
+   "ok": true,
+   "count": 20,
+   "error": null
   }
  ],
  "items": [
+  {
+   "id": "b126d7721238eea7",
+   "title": "Microsoft just shared Azure’s actual revenue in dollars: $33.2 billion",
+   "link": "https://techcrunch.com/2026/10/28/microsoft-just-shared-azures-actual-revenue-in-dollars-33-2-billion/",
+   "source": "TechCrunch",
+   "kind": "press",
+   "summary": "Microsoft has never disclosed Azure's quarterly revenue in dollars. But for the first time, we can see just how close it is getting to besting the biggest competitor in the market, AWS.",
+   "published": "2026-10-28T21:58:32+00:00",
+   "topics": [
+    "Business"
+   ],
+   "first_seen": "2026-10-28T22:34:39+00:00"
+  },
+  {
+   "id": "f348c6db37d87fbe",
+   "title": "Google expands AI Search ads globally as core ad growth slows",
+   "link": "https://techcrunch.com/2026/10/28/google-expands-ai-search-ads-globally-as-core-ad-growth-slows/",
+   "source": "TechCrunch",
+   "kind": "press",
+   "summary": "The announcement came alongside parent company Alphabet's third-quarter earnings report, which saw revenue grow 25% year over year to $127.6 billion.",
+   "published": "2026-10-28T21:48:37+00:00",
+   "topics": [
+    "Business"
+   ],
+   "first_seen": "2026-10-28T22:34:39+00:00"
+  },
+  {
+   "id": "90b267becbf2eaa8",
+   "title": "Microsoft recorded $10 billion in revenue from OpenAI",
+   "link": "https://techcrunch.com/2026/10/28/microsoft-recorded-10-billion-in-revenue-from-openai/",
+   "source": "TechCrunch",
+   "kind": "press",
+   "summary": "Microsoft said it made $10 billion in revenue from commercial arrangements with OpenAI, including revenue-sharing payments, in the quarter ending September 30. It underscores the still-enormous financial dependency of the partnership.",
+   "published": "2026-10-28T21:34:30+00:00",
+   "topics": [
+    "Business"
+   ],
+   "first_seen": "2026-10-28T22:34:39+00:00"
+  },
+  {
+   "id": "e4867209a9cdfe0b",
+   "title": "Akai is embracing vibe-coded mods with an open-source MPC",
+   "link": "https://www.theverge.com/gadgets/1021405/akai-open-source-mpc-sample-key",
+   "source": "The Verge",
+   "kind": "press",
+   "summary": "The MPC Sample Key isn't even formally announced yet, but Akai is already showing off what the modding community is cooking up through vibe coding. Akai has decided to embrace the explosion of hackers and custom firmware developers by giving them early access to the device…",
+   "published": "2026-10-28T21:34:04+00:00",
+   "topics": [
+    "Tools"
+   ],
+   "first_seen": "2026-10-28T22:34:39+00:00"
+  },
+  {
+   "id": "f7041d98b5619cae",
+   "title": "Microsoft hits 10 quarters of record-breaking revenue in a row",
+   "link": "https://techcrunch.com/2026/10/28/microsoft-hits-10-quarters-of-record-breaking-revenue-in-a-row/",
+   "source": "TechCrunch",
+   "kind": "press",
+   "summary": "Whatever the future of AI might be, the current situation is still very good for Microsoft. The tech giant reported yet another record for quarterly revenue on Wednesday: $92.3 billion, a 19% increase over the year-ago quarter.",
+   "published": "2026-10-28T21:25:30+00:00",
+   "topics": [
+    "Business"
+   ],
+   "first_seen": "2026-10-28T22:34:39+00:00"
+  },
+  {
+   "id": "5d25973f53528cf6",
+   "title": "Creating AI value with enterprise context",
+   "link": "https://www.technologyreview.com/2026/10/28/1147709/creating-ai-value-with-enterprise-context/",
+   "source": "MIT Technology Review",
+   "kind": "press",
+   "summary": "Across a business, any number of AI platforms, systems, and tools may be at work simultaneously—for example, AI-powered customer platforms, conversational assistants, and workflow and process automation tools. Each one is sophisticated, advanced, and quick to respond. But, when…",
+   "published": "2026-10-28T20:32:02+00:00",
+   "topics": [],
+   "first_seen": "2026-10-28T22:34:39+00:00"
+  },
+  {
+   "id": "fc7d1d71bde9a18e",
+   "title": "Google launches Gemini 4 Carbon with a ‘significant leap’ in cybersecurity",
+   "link": "https://www.theverge.com/tech/1021339/google-gemini-4-carbon-cybersecurity-frontier",
+   "source": "The Verge",
+   "kind": "press",
+   "summary": "Google has released its latest frontier model, Gemini 4 Carbon, offering \"significant gains\" in coding, agentic tasks, and cybersecurity. In an announcement on Wednesday, Google highlights Carbon's top spot on the Artificial Analysis Intelligence Index (v5.0) benchmark, with…",
+   "published": "2026-10-28T20:03:00+00:00",
+   "topics": [
+    "Models",
+    "Research",
+    "Tools"
+   ],
+   "first_seen": "2026-10-28T22:34:39+00:00"
+  },
+  {
+   "id": "2ede9b7f343197b4",
+   "title": "Anthropic just launched tools to show companies what their AI spending is buying",
+   "link": "https://techcrunch.com/2026/10/28/anthropic-just-launched-tools-to-show-companies-what-their-ai-spending-is-buying/",
+   "source": "TechCrunch",
+   "kind": "press",
+   "summary": "The frontier lab is lifting the curtain on how users spend money on its models ahead of a planned IPO.",
+   "published": "2026-10-28T19:19:58+00:00",
+   "topics": [
+    "Models",
+    "Business",
+    "Tools"
+   ],
+   "first_seen": "2026-10-28T22:34:39+00:00"
+  },
+  {
+   "id": "8030d1b5c63548db",
+   "title": "Voters in Texas agree: They hate data centers",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/1018676/data-center-midterm-election-energy-water-texas",
+   "source": "The Verge",
+   "kind": "press",
+   "summary": "Ask Texas NAACP president Gary Bledsoe what it's been like to see data center developers descend upon Austin and its surrounding suburbs and he can rattle off project after project facing opposition from locals. There's the fight in Taylor over plans to build a data center at a…",
+   "published": "2026-10-28T19:17:42+00:00",
+   "topics": [
+    "Hardware"
+   ],
+   "first_seen": "2026-10-28T16:37:40+00:00"
+  },
+  {
+   "id": "66c9055b3cf21443",
+   "title": "Wiz’s CTO on PHP2Shell and the coming ‘vulnpocalypse’",
+   "link": "https://techcrunch.com/video/wizs-cto-on-php2shell-and-the-coming-vulnpocalypse/",
+   "source": "TechCrunch",
+   "kind": "press",
+   "summary": "The PHP scare may have faded from your feed, but the cleanup is far from over. Last week, two critical bugs in the open source language behind roughly 70% of websites left organizations scrambling to fix their systems, with some taking sites offline until the vulnerabilities…",
+   "published": "2026-10-28T19:05:46+00:00",
+   "topics": [
+    "Tools"
+   ],
+   "first_seen": "2026-10-28T22:34:39+00:00"
+  },
+  {
+   "id": "24b289310b1971f4",
+   "title": "The ‘Vulnpocalypse’ is coming for the internet’s aging code, says Wiz’s CTO",
+   "link": "https://techcrunch.com/podcast/the-vulnpocalypse-is-coming-for-the-internets-aging-code-says-wizs-cto/",
+   "source": "TechCrunch",
+   "kind": "press",
+   "summary": "The PHP scare may have faded from your feed, but the cleanup is far from over. Last week, two critical bugs in the open source language behind roughly 70% of websites left organizations scrambling to fix their systems, with some taking sites offline until the vulnerabilities…",
+   "published": "2026-10-28T18:50:39+00:00",
+   "topics": [
+    "Tools"
+   ],
+   "first_seen": "2026-10-28T22:34:39+00:00"
+  },
+  {
+   "id": "bfd6acefc1fbf840",
+   "title": "Google announces Gemini 4 Carbon, its latest frontier AI model that you can't use",
+   "link": "https://arstechnica.com/ai/2026/10/google-announces-gemini-4-carbon-its-latest-frontier-ai-model-that-you-cant-use/",
+   "source": "Ars Technica",
+   "kind": "press",
+   "summary": "Gemini 4 Carbon is essentially a slightly better version of Argon.",
+   "published": "2026-10-28T18:47:27+00:00",
+   "topics": [
+    "Models"
+   ],
+   "first_seen": "2026-10-28T22:34:39+00:00"
+  },
+  {
+   "id": "d0753be868cc7807",
+   "title": "Microsoft is ending Copilot support on smart TVs",
+   "link": "https://www.theverge.com/tech/1021143/microsoft-lg-samsung-copilot-ai-assistant-smart-tvs-ending",
+   "source": "The Verge",
+   "kind": "press",
+   "summary": "Nearly two years after LG and Samsung announced at CES 2025 that their latest smart TVs would include access to Microsoft's Copilot, the company is ending support for the AI assistant's functionality on all TVs this year, according to a report by Windows Central. The news comes…",
+   "published": "2026-10-28T18:36:26+00:00",
+   "topics": [
+    "Tools"
+   ],
+   "first_seen": "2026-10-28T22:34:39+00:00"
+  },
+  {
+   "id": "0676def7896cb16a",
+   "title": "Google AI gets cagey when asked who won the 2020 elections",
+   "link": "https://arstechnica.com/ai/2026/10/google-ai-gets-cagey-when-asked-who-won-the-2020-elections/",
+   "source": "Ars Technica",
+   "kind": "press",
+   "summary": "But the AI responses get more forthright when asked outside the US.",
+   "published": "2026-10-28T17:46:32+00:00",
+   "topics": [],
+   "first_seen": "2026-10-28T22:34:39+00:00"
+  },
+  {
+   "id": "b0da25ea6c1a2967",
+   "title": "Gemini 4 Carbon: Our next frontier model",
+   "link": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/",
+   "source": "Google DeepMind",
+   "kind": "lab",
+   "summary": "",
+   "published": "2026-10-28T17:00:58+00:00",
+   "topics": [
+    "Models"
+   ],
+   "first_seen": "2026-10-28T22:34:39+00:00"
+  },
+  {
+   "id": "765a5a74d2443b20",
+   "title": "Chrome’s AI-powered Autofill can now dig through your Gmail to fill out forms",
+   "link": "https://techcrunch.com/2026/10/28/chromes-ai-powered-autofill-can-now-dig-through-your-gmail-to-fill-out-forms/",
+   "source": "TechCrunch",
+   "kind": "press",
+   "summary": "The autofill update lets Chrome pull flight confirmations, tracking info, order details, and other information from your inbox, with your permission.",
+   "published": "2026-10-28T17:00:00+00:00",
+   "topics": [],
+   "first_seen": "2026-10-28T22:34:39+00:00"
+  },
+  {
+   "id": "1e8ba9106ed897eb",
+   "title": "As AI agents reshape the web, Google opens Gemini and Search to more apps",
+   "link": "https://techcrunch.com/2026/10/28/as-ai-agents-reshape-the-web-google-opens-gemini-and-search-to-more-apps/",
+   "source": "TechCrunch",
+   "kind": "press",
+   "summary": "A new developer platform will let businesses bring their services to Google's AI experiences, potentially changing how consumers discover and use apps.",
+   "published": "2026-10-28T17:00:00+00:00",
+   "topics": [
+    "Models",
+    "Tools"
+   ],
+   "first_seen": "2026-10-28T22:34:39+00:00"
+  },
+  {
+   "id": "d8f853e661d65a1d",
+   "title": "GitHub Octoverse 2026",
+   "link": "https://simonwillison.net/2026/Oct/28/github-octoverse-2026/",
+   "source": "Simon Willison",
+   "kind": "community",
+   "summary": "GitHub Octoverse 2026 I'm at GitHub Universe today (GitHub gave me a free ticket through their \"GitHub Stars\" program). EVP Jay Parikh just announced this year's Octoverse report, and highlighted these numbers in particular: This is a pretty stark representation of the impact of…",
+   "published": "2026-10-28T16:45:23+00:00",
+   "topics": [],
+   "first_seen": "2026-10-28T22:34:39+00:00"
+  },
+  {
+   "id": "c802108aab79694f",
+   "title": "Chrome’s enhanced autofill can now pull info from Gmail to help you fill out forms",
+   "link": "https://www.theverge.com/tech/1020626/chrome-enhanced-autofill-gmail-forms-gemini-personal-intelligence",
+   "source": "The Verge",
+   "kind": "press",
+   "summary": "Following improvements made to Chrome's enhanced autofill last year that included your name, passport number, email address, and physical addresses sourced from your Google Accounts and services like Google Wallet, the feature is now expanding. Starting today, Chrome's enhanced…",
+   "published": "2026-10-28T16:32:41+00:00",
+   "topics": [],
+   "first_seen": "2026-10-28T22:34:39+00:00"
+  },
   {
    "id": "1739307690c34a28",
    "title": "Meta says it’ll probably delay its controversial new business terms again",
@@ -114,6 +356,19 @@
    "published": "2026-10-28T15:53:52+00:00",
    "topics": [],
    "first_seen": "2026-10-28T16:37:40+00:00"
+  },
+  {
+   "id": "97373eedda74b8cd",
+   "title": "Dayjob: Tax – evaluating AI agents on 50 professional tax assignments",
+   "link": "https://surgehq.ai/blog/dayjob-tax",
+   "source": "Hacker News",
+   "kind": "community",
+   "summary": "Article URL: https://surgehq.ai/blog/dayjob-tax Comments URL: https://news.ycombinator.com/item?id=50275626 Points: 168 # Comments: 98",
+   "published": "2026-10-28T15:46:30+00:00",
+   "topics": [
+    "Tools"
+   ],
+   "first_seen": "2026-10-28T22:34:39+00:00"
   },
   {
    "id": "feda3ad530f5eea0",
@@ -183,6 +438,32 @@
    "first_seen": "2026-10-28T16:37:40+00:00"
   },
   {
+   "id": "28c9ad1a666fcfcd",
+   "title": "Kentucky man becomes the first humanist granted religious exemption from AI",
+   "link": "https://religionnews.com/2026/10/26/in-a-first-a-humanist-granted-a-religious-exemption-from-using-ai/",
+   "source": "Hacker News",
+   "kind": "community",
+   "summary": "Article URL: https://religionnews.com/2026/10/26/in-a-first-a-humanist-granted-a-religious-exemption-from-using-ai/ Comments URL: https://news.ycombinator.com/item?id=50273396 Points: 392 # Comments: 438",
+   "published": "2026-10-28T13:41:30+00:00",
+   "topics": [],
+   "first_seen": "2026-10-28T22:34:39+00:00"
+  },
+  {
+   "id": "75e2017ed4c5a2ec",
+   "title": "OpenAI and ServiceNow expand partnership across enterprise workflows",
+   "link": "https://openai.com/index/openai-servicenow-partnership-expansion",
+   "source": "OpenAI",
+   "kind": "lab",
+   "summary": "OpenAI and ServiceNow expand their partnership to bring OpenAI models and agents into ServiceNow and ServiceNow workflows into ChatGPT and Codex.",
+   "published": "2026-10-28T13:15:00+00:00",
+   "topics": [
+    "Models",
+    "Business",
+    "Tools"
+   ],
+   "first_seen": "2026-10-28T22:34:39+00:00"
+  },
+  {
    "id": "11933a85bc5f9fa3",
    "title": "7 days until TechCrunch Founder Summit: Save up to $100 on your pass before doors open",
    "link": "https://techcrunch.com/2026/10/28/7-days-until-techcrunch-founder-summit-save-up-to-100-before-doors-open/",
@@ -192,19 +473,6 @@
    "published": "2026-10-28T13:00:00+00:00",
    "topics": [
     "Business"
-   ],
-   "first_seen": "2026-10-28T16:37:40+00:00"
-  },
-  {
-   "id": "8030d1b5c63548db",
-   "title": "Voters in Texas agree: They hate data centers",
-   "link": "https://www.theverge.com/ai-artificial-intelligence/1018676/data-center-midterm-election-energy-water-texas",
-   "source": "The Verge",
-   "kind": "press",
-   "summary": "Ask Texas NAACP president Gary Bledsoe what it's been like to see data center developers descend upon Austin and its surrounding suburbs and he can rattle off project after project facing opposition from locals. There's the fight in Taylor over plans to build a data center at a…",
-   "published": "2026-10-28T12:39:57+00:00",
-   "topics": [
-    "Hardware"
    ],
    "first_seen": "2026-10-28T16:37:40+00:00"
   },
@@ -242,6 +510,17 @@
    "published": "2026-10-28T10:09:07+00:00",
    "topics": [],
    "first_seen": "2026-10-28T16:37:40+00:00"
+  },
+  {
+   "id": "0dc3cf0b7c98dcde",
+   "title": "The future of the firm",
+   "link": "https://openai.com/index/the-future-of-the-firm",
+   "source": "OpenAI",
+   "kind": "lab",
+   "summary": "How AI might enter the org chart—beneath, beside, and between us.",
+   "published": "2026-10-28T10:00:00+00:00",
+   "topics": [],
+   "first_seen": "2026-10-28T22:34:39+00:00"
   },
   {
    "id": "2fc8e689e413caad",
@@ -377,7 +656,7 @@
    "link": "https://www.anthropic.com/research/early-progress-drug-development",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://www.anthropic.com/research/early-progress-drug-development Comments URL: https://news.ycombinator.com/item?id=50265609 Points: 117 # Comments: 103",
+   "summary": "Article URL: https://www.anthropic.com/research/early-progress-drug-development Comments URL: https://news.ycombinator.com/item?id=50265609 Points: 318 # Comments: 326",
    "published": "2026-10-27T20:50:42+00:00",
    "topics": [
     "Models",
@@ -391,7 +670,7 @@
    "link": "https://www.brangus.io/survival-llm",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://www.brangus.io/survival-llm Comments URL: https://news.ycombinator.com/item?id=50264853 Points: 175 # Comments: 97",
+   "summary": "Article URL: https://www.brangus.io/survival-llm Comments URL: https://news.ycombinator.com/item?id=50264853 Points: 510 # Comments: 193",
    "published": "2026-10-27T19:55:06+00:00",
    "topics": [
     "Models"
@@ -493,7 +772,7 @@
    "link": "https://gizmodo.com/police-are-using-ai-to-pull-over-drivers-for-suspicious-behavior-2000831220",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://gizmodo.com/police-are-using-ai-to-pull-over-drivers-for-suspicious-behavior-2000831220 Comments URL: https://news.ycombinator.com/item?id=50261819 Points: 338 # Comments: 274",
+   "summary": "Article URL: https://gizmodo.com/police-are-using-ai-to-pull-over-drivers-for-suspicious-behavior-2000831220 Comments URL: https://news.ycombinator.com/item?id=50261819 Points: 391 # Comments: 307",
    "published": "2026-10-27T16:40:15+00:00",
    "topics": [],
    "first_seen": "2026-10-27T20:41:33+00:00"
@@ -517,7 +796,7 @@
    "link": "https://futurism.com/artificial-intelligence/amazon-ai-division-failure-nova",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://futurism.com/artificial-intelligence/amazon-ai-division-failure-nova Comments URL: https://news.ycombinator.com/item?id=50261589 Points: 250 # Comments: 168",
+   "summary": "Article URL: https://futurism.com/artificial-intelligence/amazon-ai-division-failure-nova Comments URL: https://news.ycombinator.com/item?id=50261589 Points: 364 # Comments: 283",
    "published": "2026-10-27T16:25:30+00:00",
    "topics": [],
    "first_seen": "2026-10-27T20:41:33+00:00"
@@ -579,7 +858,7 @@
    "link": "https://stanforddaily.com/2026/10/27/professors-books-pirated-to-train-claude/",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://stanforddaily.com/2026/10/27/professors-books-pirated-to-train-claude/ Comments URL: https://news.ycombinator.com/item?id=50260814 Points: 459 # Comments: 263",
+   "summary": "Article URL: https://stanforddaily.com/2026/10/27/professors-books-pirated-to-train-claude/ Comments URL: https://news.ycombinator.com/item?id=50260814 Points: 566 # Comments: 287",
    "published": "2026-10-27T15:28:26+00:00",
    "topics": [
     "Models"
@@ -709,7 +988,7 @@
    "link": "https://spectrum.ieee.org/wikipedia-wikiproject-ai-writing-cleanup",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://spectrum.ieee.org/wikipedia-wikiproject-ai-writing-cleanup Comments URL: https://news.ycombinator.com/item?id=50257326 Points: 446 # Comments: 206",
+   "summary": "Article URL: https://spectrum.ieee.org/wikipedia-wikiproject-ai-writing-cleanup Comments URL: https://news.ycombinator.com/item?id=50257326 Points: 497 # Comments: 235",
    "published": "2026-10-27T11:08:15+00:00",
    "topics": [],
    "first_seen": "2026-10-27T20:41:33+00:00"
@@ -720,7 +999,7 @@
    "link": "https://oioannou.com/blog/ai-promised-less-work/",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://oioannou.com/blog/ai-promised-less-work/ Comments URL: https://news.ycombinator.com/item?id=50257325 Points: 615 # Comments: 615",
+   "summary": "Article URL: https://oioannou.com/blog/ai-promised-less-work/ Comments URL: https://news.ycombinator.com/item?id=50257325 Points: 660 # Comments: 651",
    "published": "2026-10-27T11:08:14+00:00",
    "topics": [],
    "first_seen": "2026-10-27T20:41:33+00:00"
@@ -760,7 +1039,7 @@
    "link": "https://j11g.com/the-mythical-man-month-in-the-age-of-ai",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://j11g.com/the-mythical-man-month-in-the-age-of-ai Comments URL: https://news.ycombinator.com/item?id=50255298 Points: 431 # Comments: 304",
+   "summary": "Article URL: https://j11g.com/the-mythical-man-month-in-the-age-of-ai Comments URL: https://news.ycombinator.com/item?id=50255298 Points: 474 # Comments: 351",
    "published": "2026-10-27T06:25:37+00:00",
    "topics": [],
    "first_seen": "2026-10-27T20:41:33+00:00"
@@ -837,7 +1116,7 @@
    "link": "https://blog.cloudflare.com/kv-cache-exposure-remediation/",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://blog.cloudflare.com/kv-cache-exposure-remediation/ Comments URL: https://news.ycombinator.com/item?id=50252159 Points: 178 # Comments: 73",
+   "summary": "Article URL: https://blog.cloudflare.com/kv-cache-exposure-remediation/ Comments URL: https://news.ycombinator.com/item?id=50252159 Points: 181 # Comments: 79",
    "published": "2026-10-26T22:41:48+00:00",
    "topics": [
     "Models"
@@ -922,7 +1201,7 @@
    "link": "https://openai.com/index/introducing-gpt-6-1-terra/",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "https://developers.openai.com/api/docs/models/gpt-6.1-terra Comments URL: https://news.ycombinator.com/item?id=50248124 Points: 623 # Comments: 417",
+   "summary": "https://developers.openai.com/api/docs/models/gpt-6.1-terra Comments URL: https://news.ycombinator.com/item?id=50248124 Points: 633 # Comments: 426",
    "published": "2026-10-26T18:01:17+00:00",
    "topics": [
     "Models",
@@ -1031,7 +1310,7 @@
    "link": "https://cohere.com/blog/concerning-behaviour-popular-open-weight-ai-model",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://cohere.com/blog/concerning-behaviour-popular-open-weight-ai-model Comments URL: https://news.ycombinator.com/item?id=50246658 Points: 324 # Comments: 124",
+   "summary": "Article URL: https://cohere.com/blog/concerning-behaviour-popular-open-weight-ai-model Comments URL: https://news.ycombinator.com/item?id=50246658 Points: 329 # Comments: 129",
    "published": "2026-10-26T16:35:44+00:00",
    "topics": [
     "Models"
@@ -1159,7 +1438,7 @@
    "link": "https://www.brown.edu/news/2026-10-26/ai-data-workers",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://www.brown.edu/news/2026-10-26/ai-data-workers Comments URL: https://news.ycombinator.com/item?id=50242843 Points: 182 # Comments: 178",
+   "summary": "Article URL: https://www.brown.edu/news/2026-10-26/ai-data-workers Comments URL: https://news.ycombinator.com/item?id=50242843 Points: 182 # Comments: 177",
    "published": "2026-10-26T12:58:27+00:00",
    "topics": [],
    "first_seen": "2026-10-27T01:28:46+00:00"
@@ -1245,7 +1524,7 @@
    "link": "https://minimaxir.com/2026/10/cheap-llms/",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://minimaxir.com/2026/10/cheap-llms/ Comments URL: https://news.ycombinator.com/item?id=50236102 Points: 434 # Comments: 434",
+   "summary": "Article URL: https://minimaxir.com/2026/10/cheap-llms/ Comments URL: https://news.ycombinator.com/item?id=50236102 Points: 439 # Comments: 436",
    "published": "2026-10-25T21:11:31+00:00",
    "topics": [
     "Models"
@@ -1271,7 +1550,7 @@
    "link": "https://www.dailycal.org/news/campus/academics/ai-use-leads-uc-berkeley-math-professor-to-see-no-point-in-grading-homework/article_bdf1eae2-c08b-491f-b9f1-81a7cea177de.html",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://www.dailycal.org/news/campus/academics/ai-use-leads-uc-berkeley-math-professor-to-see-no-point-in-grading-homework/article_bdf1eae2-c08b-491f-b9f1-81a7cea177de.html Comments URL: https://news.ycombinator.com/item?id=50233304 Points: 238 # Comments: 328",
+   "summary": "Article URL: https://www.dailycal.org/news/campus/academics/ai-use-leads-uc-berkeley-math-professor-to-see-no-point-in-grading-homework/article_bdf1eae2-c08b-491f-b9f1-81a7cea177de.html Comments URL: https://news.ycombinator.com/item?id=50233304 Points: 239 # Comments: 336",
    "published": "2026-10-25T16:28:26+00:00",
    "topics": [],
    "first_seen": "2026-10-25T20:50:34+00:00"
@@ -1310,12 +1589,23 @@
    "first_seen": "2026-10-25T16:18:18+00:00"
   },
   {
+   "id": "8a99d48c2aa46073",
+   "title": "Imagine an AI future where being banned means you are now economically useless",
+   "link": "https://twitter.com/boneGPT/status/2114035719853265264",
+   "source": "Hacker News",
+   "kind": "community",
+   "summary": "Article URL: https://twitter.com/boneGPT/status/2114035719853265264 Comments URL: https://news.ycombinator.com/item?id=50230995 Points: 100 # Comments: 80",
+   "published": "2026-10-25T12:47:20+00:00",
+   "topics": [],
+   "first_seen": "2026-10-28T22:34:39+00:00"
+  },
+  {
    "id": "b82b80f1678212b4",
    "title": "Nikon photography contest winner loses title after scientists spot signs of AI",
    "link": "https://www.techspot.com/news/114171-nikon-photography-contest-winner-loses-title-after-scientists.html",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://www.techspot.com/news/114171-nikon-photography-contest-winner-loses-title-after-scientists.html Comments URL: https://news.ycombinator.com/item?id=50229827 Points: 144 # Comments: 87",
+   "summary": "Article URL: https://www.techspot.com/news/114171-nikon-photography-contest-winner-loses-title-after-scientists.html Comments URL: https://news.ycombinator.com/item?id=50229827 Points: 144 # Comments: 88",
    "published": "2026-10-25T09:51:17+00:00",
    "topics": [],
    "first_seen": "2026-10-25T20:50:34+00:00"
@@ -1326,7 +1616,7 @@
    "link": "https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras Comments URL: https://news.ycombinator.com/item?id=50227356 Points: 367 # Comments: 142",
+   "summary": "Article URL: https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras Comments URL: https://news.ycombinator.com/item?id=50227356 Points: 368 # Comments: 142",
    "published": "2026-10-25T01:33:49+00:00",
    "topics": [
     "Models"
@@ -8551,44 +8841,6 @@
    "kind": "lab",
    "summary": "Dots by OpenAI are proactive assistants that can keep working across complex projects and everyday tasks. Learn how dots help you stay in control while work moves forward.",
    "published": "2026-09-29T00:00:00+00:00",
-   "topics": [],
-   "first_seen": "2026-10-11T09:46:44+00:00"
-  },
-  {
-   "id": "cfe8e900401f31bb",
-   "title": "How we will do better for Australia",
-   "link": "https://openai.com/index/how-we-will-do-better-for-australia",
-   "source": "OpenAI",
-   "kind": "lab",
-   "summary": "OpenAI apologises for incidents involving Australian government websites and outlines stronger safeguards and support to strengthen Australia’s cyber defences.",
-   "published": "2026-09-28T19:00:00+00:00",
-   "topics": [
-    "Policy"
-   ],
-   "first_seen": "2026-10-11T09:46:44+00:00"
-  },
-  {
-   "id": "cf468ec39dd67f09",
-   "title": "Towards safety cases for frontier AI training",
-   "link": "https://openai.com/index/towards-safety-cases-for-frontier-ai-training",
-   "source": "OpenAI",
-   "kind": "lab",
-   "summary": "Our early guidelines for safety cases in frontier AI training cover technical safeguards, operational practices, and investigating misalignment incidents",
-   "published": "2026-09-28T19:00:00+00:00",
-   "topics": [
-    "Policy",
-    "Business"
-   ],
-   "first_seen": "2026-10-11T09:46:44+00:00"
-  },
-  {
-   "id": "1eadd5627184a89f",
-   "title": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
-   "link": "https://blog.google/innovation-and-ai/technology/ai/winner-future-vision-xprize/",
-   "source": "Google AI",
-   "kind": "lab",
-   "summary": "",
-   "published": "2026-09-28T19:00:00+00:00",
    "topics": [],
    "first_seen": "2026-10-11T09:46:44+00:00"
   }
