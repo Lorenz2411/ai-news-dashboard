@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-29T12:59:53+00:00",
+ "updated": "2026-10-29T19:38:07+00:00",
  "sources": [
   {
    "name": "OpenAI",
@@ -92,15 +92,284 @@
  ],
  "items": [
   {
+   "id": "31a141606e86628d",
+   "title": "Meta quietly launches an AI fashion app called Style Sketch",
+   "link": "https://techcrunch.com/2026/10/29/meta-quietly-launches-an-ai-fashion-app-called-style-sketch/",
+   "source": "TechCrunch",
+   "kind": "press",
+   "summary": "The app connects to Instagram to build a virtual closet from photos you’ve already shared, or lets you add items manually by snapping a photo, recording a quick video, or uploading images from your camera roll.",
+   "published": "2026-10-29T19:14:36+00:00",
+   "topics": [
+    "Tools"
+   ],
+   "first_seen": "2026-10-29T19:38:07+00:00"
+  },
+  {
+   "id": "2eb0eeefec6e6320",
+   "title": "Trump declares robot imports a national security threat",
+   "link": "https://arstechnica.com/gadgets/2026/10/trump-declares-robot-imports-a-national-security-threat/",
+   "source": "Ars Technica",
+   "kind": "press",
+   "summary": "President orders trade talks on foreign-made factory robots, threatens tariffs.",
+   "published": "2026-10-29T19:07:53+00:00",
+   "topics": [],
+   "first_seen": "2026-10-29T19:38:07+00:00"
+  },
+  {
+   "id": "2a1a8a7c88a01340",
+   "title": "You can generate and edit Google Docs files directly in Gemini chats now",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/1022519/google-gemini-file-editing-documents-pdfs",
+   "source": "The Verge",
+   "kind": "press",
+   "summary": "Now you can generate, preview, and edit PDFs, Google Docs, Google Sheets, slide decks, Markdown files, TXT files, and code directly within Google Gemini. The new file editing capabilities are available starting today for all Gemini users, and while PDF previews/editing works on…",
+   "published": "2026-10-29T18:45:31+00:00",
+   "topics": [
+    "Models"
+   ],
+   "first_seen": "2026-10-29T19:38:07+00:00"
+  },
+  {
+   "id": "a39d2cb266f95450",
+   "title": "Granola crunches up a dictation feature to compete with Wispr",
+   "link": "https://techcrunch.com/2026/10/29/granola-crunches-up-a-dictation-feature-to-compete-with-wispr/",
+   "source": "TechCrunch",
+   "kind": "press",
+   "summary": "Uno reverse! After Wispr added meeting notes to its dictation app, Granola is adding dictation to its meeting notetaker. The voice AI wars are getting interesting.",
+   "published": "2026-10-29T17:54:38+00:00",
+   "topics": [
+    "Tools"
+   ],
+   "first_seen": "2026-10-29T19:38:07+00:00"
+  },
+  {
+   "id": "672400a4a73efc0d",
+   "title": "Building a multiplayer game world with autonomous Fable-class models",
+   "link": "https://simonwillison.net/2026/Oct/29/how-i-built-the-most-ai-pilled-company-in-the-world/",
+   "source": "Simon Willison",
+   "kind": "community",
+   "summary": "How I Built the Most AI-Pilled Company in the World Don't be put off by the clickbait headline, this piece by Jacob Sansbury describing how they are building Spawn is a fascinating exploration of the bleeding edge of what's possible with agentic engineering against frontier…",
+   "published": "2026-10-29T17:00:26+00:00",
+   "topics": [
+    "Models"
+   ],
+   "first_seen": "2026-10-29T19:38:07+00:00"
+  },
+  {
+   "id": "7bf0065ceb1646f5",
+   "title": "An updated Model Spec for more capable and beneficial AI",
+   "link": "https://openai.com/index/updated-model-spec",
+   "source": "OpenAI",
+   "kind": "lab",
+   "summary": "OpenAI’s updated Model Spec outlines five core values to guide more capable AI toward sound judgment, human agency, and faithfulness to human intent.",
+   "published": "2026-10-29T17:00:00+00:00",
+   "topics": [
+    "Models"
+   ],
+   "first_seen": "2026-10-29T19:38:07+00:00"
+  },
+  {
+   "id": "bcae5e5bffd4de8a",
+   "title": "Mistral releases weights for its trillion-parameter AI model, targeting cybersecurity",
+   "link": "https://techcrunch.com/2026/10/29/mistral-releases-weights-for-its-trillion-parameter-ai-model-targeting-cybersecurity/",
+   "source": "TechCrunch",
+   "kind": "press",
+   "summary": "Mistral says its new model can afford organizations a kind of control over its cyber defenses that closed models can't.",
+   "published": "2026-10-29T17:00:00+00:00",
+   "topics": [
+    "Models",
+    "Tools"
+   ],
+   "first_seen": "2026-10-29T19:38:07+00:00"
+  },
+  {
+   "id": "45b4ef0b726f6d16",
+   "title": "Microsoft’s AI future has fewer jobs",
+   "link": "https://www.theverge.com/tech/1022023/microsoft-exit-offer-layoffs-notepad",
+   "source": "The Verge",
+   "kind": "press",
+   "summary": "To anyone listening closely to what Microsoft CEO Satya Nadella has been saying over the past couple of years, this week felt like the clearest sign yet that AI is about to fundamentally change the size of Microsoft's workforce. Microsoft is now offering voluntary buyouts to…",
+   "published": "2026-10-29T16:48:16+00:00",
+   "topics": [],
+   "first_seen": "2026-10-29T19:38:07+00:00"
+  },
+  {
    "id": "9cd5509199bff926",
    "title": "AI has come for Arizona’s water",
    "link": "https://www.theverge.com/cs/features/1016650/arizona-water-data-center-tsmc",
    "source": "The Verge",
    "kind": "press",
    "summary": "A hulking gray giant rises from the desert. Inside, engineers create the force behind our phones and computers and appliances, our streaming services and search engines and chatbots and vibe-coded apps and websites. The complex is simultaneously massive and squat, dwarfed by the…",
-   "published": "2026-10-29T12:29:06+00:00",
+   "published": "2026-10-29T16:47:27+00:00",
    "topics": [],
    "first_seen": "2026-10-29T12:59:53+00:00"
+  },
+  {
+   "id": "7610575f95441b58",
+   "title": "US investigated Chinese spy plot aimed at Nvidia CEO",
+   "link": "https://techcrunch.com/2026/10/29/u-s-investigated-chinese-spy-plot-aimed-at-nvidia-ceo/",
+   "source": "TechCrunch",
+   "kind": "press",
+   "summary": "A top executive of a Singapore AI cloud company that was accused of illegally selling Nvidia chips to China could also have been a Chinese spy, sources have told the New York Times.",
+   "published": "2026-10-29T16:42:32+00:00",
+   "topics": [
+    "Business",
+    "Hardware"
+   ],
+   "first_seen": "2026-10-29T19:38:07+00:00"
+  },
+  {
+   "id": "4fecc0fbd4dea111",
+   "title": "Google admits AI search makes less money, but it's fixing that with more ads",
+   "link": "https://arstechnica.com/gadgets/2026/10/google-admits-ai-search-makes-less-money-but-its-fixing-that-with-more-ads/",
+   "source": "Ars Technica",
+   "kind": "press",
+   "summary": "Google's negative cash flow balloons to -$9.06 billion, and stock price tumbles following Q3 earnings.",
+   "published": "2026-10-29T16:24:55+00:00",
+   "topics": [],
+   "first_seen": "2026-10-29T19:38:07+00:00"
+  },
+  {
+   "id": "88294416a4cb1079",
+   "title": "Ex-Palantir execs launch Dream with $17M from a16z to build AI world models for construction",
+   "link": "https://techcrunch.com/2026/10/29/ex-palantir-execs-launch-dream-with-17m-from-a16z-to-build-ai-world-models-for-construction/",
+   "source": "TechCrunch",
+   "kind": "press",
+   "summary": "Dream is grounded in real physics and construction standards. Just as LLMs learn from text, Dream's world model is trained on more than 100 million square feet of building data gathered from permit archives across the United States.",
+   "published": "2026-10-29T16:21:00+00:00",
+   "topics": [
+    "Models",
+    "Tools"
+   ],
+   "first_seen": "2026-10-29T19:38:07+00:00"
+  },
+  {
+   "id": "9d92d4ec6e5e3635",
+   "title": "The NYT Cooking app is testing AI recipe modifications",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/1022193/nyt-cooking-app-ai-recipe-modification-tool",
+   "source": "The Verge",
+   "kind": "press",
+   "summary": "The New York Times is testing a new AI feature for its Cooking app that helps users to modify recipes, and it has sparked some drama among users. Last Friday, NYT Cooking senior editor Genevieve Ko announced the feature, which can be used to recommend substitutions for…",
+   "published": "2026-10-29T16:02:16+00:00",
+   "topics": [
+    "Tools"
+   ],
+   "first_seen": "2026-10-29T19:38:07+00:00"
+  },
+  {
+   "id": "bd43dca7b97353c9",
+   "title": "Zombie stats: Where the numbers AI quotes come from",
+   "link": "https://trakkr.ai/trakkr-research/zombie-stats",
+   "source": "Hacker News",
+   "kind": "community",
+   "summary": "Article URL: https://trakkr.ai/trakkr-research/zombie-stats Comments URL: https://news.ycombinator.com/item?id=50290283 Points: 101 # Comments: 52",
+   "published": "2026-10-29T15:06:17+00:00",
+   "topics": [
+    "Research"
+   ],
+   "first_seen": "2026-10-29T19:38:07+00:00"
+  },
+  {
+   "id": "739e0b5535e3ec06",
+   "title": "LLM Voice",
+   "link": "https://martinfowler.com/bliki/LLM-Voice.html",
+   "source": "Hacker News",
+   "kind": "community",
+   "summary": "Article URL: https://martinfowler.com/bliki/LLM-Voice.html Comments URL: https://news.ycombinator.com/item?id=50290177 Points: 189 # Comments: 106",
+   "published": "2026-10-29T14:57:55+00:00",
+   "topics": [
+    "Models"
+   ],
+   "first_seen": "2026-10-29T19:38:07+00:00"
+  },
+  {
+   "id": "60c269dfa54ed7c5",
+   "title": "Wabi, the AI agent that builds mini apps, now valued at $1.25B after latest round",
+   "link": "https://techcrunch.com/2026/10/29/wabi-the-ai-agent-that-builds-mini-apps-now-valued-at-1-25b-after-latest-round/",
+   "source": "TechCrunch",
+   "kind": "press",
+   "summary": "On Thursday, AI app Wabi, now describing itself as a \"personal agent,\" said it has raised $55 million at a $1.25 billion valuation.",
+   "published": "2026-10-29T14:35:26+00:00",
+   "topics": [
+    "Business",
+    "Tools"
+   ],
+   "first_seen": "2026-10-29T19:38:07+00:00"
+  },
+  {
+   "id": "18c36f7241d29e16",
+   "title": "Quoting Ben Hylak",
+   "link": "https://simonwillison.net/2026/Oct/29/ben-hylak/",
+   "source": "Simon Willison",
+   "kind": "community",
+   "summary": "every product i use should just be a headless mcp, that feeds into an agent, where i never have to think about anything underneath. except for our product, of course. in our product, customers love the ui and love us very much. we're special that way. — Ben Hylak Tags…",
+   "published": "2026-10-29T14:06:27+00:00",
+   "topics": [
+    "Tools"
+   ],
+   "first_seen": "2026-10-29T19:38:07+00:00"
+  },
+  {
+   "id": "079251699e8ed6ea",
+   "title": "Anthropic is asking Wall Street to believe in AGI",
+   "link": "https://www.theverge.com/podcast/1021322/anthropic-ipo-filing-s-1-claude-semianalysis-joey-brookhart-interview",
+   "source": "The Verge",
+   "kind": "press",
+   "summary": "Today on Decoder, I’m joined by Joey Brookhart, an analyst at the chip and AI research firm SemiAnalysis, to help me dig into the story inside the numbers of the Anthropic IPO filing — a document known as an S-1. Anthropic just filed its S-1 to go public on the Nasdaq, and it…",
+   "published": "2026-10-29T13:47:56+00:00",
+   "topics": [
+    "Research",
+    "Business",
+    "Hardware"
+   ],
+   "first_seen": "2026-10-29T19:38:07+00:00"
+  },
+  {
+   "id": "f3538b6fb36f4f58",
+   "title": "Granite Switch 4.1.1 — Update models like you update software",
+   "link": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1",
+   "source": "Hugging Face",
+   "kind": "lab",
+   "summary": "",
+   "published": "2026-10-29T13:37:07+00:00",
+   "topics": [
+    "Models"
+   ],
+   "first_seen": "2026-10-29T19:38:07+00:00"
+  },
+  {
+   "id": "0b3918620b863475",
+   "title": "Anthropic’s business plan: Build God or die trying",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/1021476/anthropic-s-1-compute-recursive",
+   "source": "The Verge",
+   "kind": "press",
+   "summary": "The Anthropic S-1 seems to have provided the financial justification for the company to spend as much as it possibly can on compute. If you are the kind of person who wonders if Anthropic is doing its level best to build a machine god while convincing Wall Street it's in the…",
+   "published": "2026-10-29T13:20:35+00:00",
+   "topics": [],
+   "first_seen": "2026-10-29T19:38:07+00:00"
+  },
+  {
+   "id": "c546a70dbf994e9c",
+   "title": "Deepgram acquires Pipecat-maker Daily to bolster its voice AI infrastructure",
+   "link": "https://techcrunch.com/2026/10/29/deepgram-acquires-pipecat-maker-daily-to-bolster-its-voice-ai-infrastructure/",
+   "source": "TechCrunch",
+   "kind": "press",
+   "summary": "With Pipecat, Deepgram will likely gain a deeper understanding of real-time voice and video infrastructure.",
+   "published": "2026-10-29T13:00:00+00:00",
+   "topics": [
+    "Business"
+   ],
+   "first_seen": "2026-10-29T19:38:07+00:00"
+  },
+  {
+   "id": "fd92a529665f18a7",
+   "title": "Amazon updates Alexa to help you manage shopping lists and subscriptions and update delivery instructions",
+   "link": "https://techcrunch.com/2026/10/29/amazon-updates-alexa-to-help-you-manage-shopping-lists-and-subscriptions-and-update-delivery-instructions/",
+   "source": "TechCrunch",
+   "kind": "press",
+   "summary": "The update allows you to use Alexa to create lists, register them, see what's on them, and add or edit items. You can also manage subscriptions.",
+   "published": "2026-10-29T13:00:00+00:00",
+   "topics": [],
+   "first_seen": "2026-10-29T19:38:07+00:00"
   },
   {
    "id": "f863128399a5ccb3",
@@ -116,12 +385,37 @@
    "first_seen": "2026-10-29T12:59:53+00:00"
   },
   {
+   "id": "d28967fce9c692cd",
+   "title": "How we detect frontier model misalignment",
+   "link": "https://openai.com/index/how-we-detect-frontier-model-misalignment",
+   "source": "OpenAI",
+   "kind": "lab",
+   "summary": "OpenAI uses layered monitoring to detect frontier model misalignment and unauthorized agent behavior so responders can intervene before incidents escalate.",
+   "published": "2026-10-29T09:00:00+00:00",
+   "topics": [
+    "Models",
+    "Tools"
+   ],
+   "first_seen": "2026-10-29T19:38:07+00:00"
+  },
+  {
+   "id": "2d9928289658e986",
+   "title": "How Ropes & Gray is developing AI for transactional diligence",
+   "link": "https://openai.com/index/ropes-gray-ai-diligence",
+   "source": "OpenAI",
+   "kind": "lab",
+   "summary": "Ropes & Gray is developing AI for transactional diligence with OpenAI. Lawyers review grouped documents, summaries, and reports before advising clients.",
+   "published": "2026-10-29T07:00:00+00:00",
+   "topics": [],
+   "first_seen": "2026-10-29T19:38:07+00:00"
+  },
+  {
    "id": "271134257c4af766",
    "title": "Claude Code regularly sends each background agent’s transcript to its model",
    "link": "https://gist.github.com/flamerix-ai/c3905705cc4205e5de3011fa2e74efce",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://gist.github.com/flamerix-ai/c3905705cc4205e5de3011fa2e74efce Comments URL: https://news.ycombinator.com/item?id=50284255 Points: 448 # Comments: 183",
+   "summary": "Article URL: https://gist.github.com/flamerix-ai/c3905705cc4205e5de3011fa2e74efce Comments URL: https://news.ycombinator.com/item?id=50284255 Points: 549 # Comments: 220",
    "published": "2026-10-29T03:33:42+00:00",
    "topics": [
     "Models",
@@ -141,6 +435,30 @@
     "Models"
    ],
    "first_seen": "2026-10-29T12:59:53+00:00"
+  },
+  {
+   "id": "e1c742c1d925baf7",
+   "title": "Announcing Project ProtoStar: Making Publicly Funded Science AI-Ready",
+   "link": "https://huggingface.co/blog/announcing-project-protostar",
+   "source": "Hugging Face",
+   "kind": "lab",
+   "summary": "",
+   "published": "2026-10-29T00:00:00+00:00",
+   "topics": [],
+   "first_seen": "2026-10-29T19:38:07+00:00"
+  },
+  {
+   "id": "a1765f446c5b64b5",
+   "title": "Welcome Le Chonk: Mistral Large 4 on Hugging Face",
+   "link": "https://huggingface.co/blog/mistral-large4",
+   "source": "Hugging Face",
+   "kind": "lab",
+   "summary": "",
+   "published": "2026-10-29T00:00:00+00:00",
+   "topics": [
+    "Models"
+   ],
+   "first_seen": "2026-10-29T19:38:07+00:00"
   },
   {
    "id": "b0fbfced4c005ad4",
@@ -248,7 +566,7 @@
    "link": "https://arstechnica.com/ai/2026/10/google-ai-gets-cagey-when-asked-who-won-the-2020-elections/",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://arstechnica.com/ai/2026/10/google-ai-gets-cagey-when-asked-who-won-the-2020-elections/ Comments URL: https://news.ycombinator.com/item?id=50280178 Points: 156 # Comments: 71",
+   "summary": "Article URL: https://arstechnica.com/ai/2026/10/google-ai-gets-cagey-when-asked-who-won-the-2020-elections/ Comments URL: https://news.ycombinator.com/item?id=50280178 Points: 164 # Comments: 74",
    "published": "2026-10-28T20:10:16+00:00",
    "topics": [],
    "first_seen": "2026-10-28T22:34:39+00:00"
@@ -438,7 +756,7 @@
    "link": "https://surgehq.ai/blog/dayjob-tax",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://surgehq.ai/blog/dayjob-tax Comments URL: https://news.ycombinator.com/item?id=50275626 Points: 246 # Comments: 154",
+   "summary": "Article URL: https://surgehq.ai/blog/dayjob-tax Comments URL: https://news.ycombinator.com/item?id=50275626 Points: 249 # Comments: 166",
    "published": "2026-10-28T15:46:30+00:00",
    "topics": [
     "Tools"
@@ -518,7 +836,7 @@
    "link": "https://religionnews.com/2026/10/26/in-a-first-a-humanist-granted-a-religious-exemption-from-using-ai/",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://religionnews.com/2026/10/26/in-a-first-a-humanist-granted-a-religious-exemption-from-using-ai/ Comments URL: https://news.ycombinator.com/item?id=50273396 Points: 470 # Comments: 507",
+   "summary": "Article URL: https://religionnews.com/2026/10/26/in-a-first-a-humanist-granted-a-religious-exemption-from-using-ai/ Comments URL: https://news.ycombinator.com/item?id=50273396 Points: 479 # Comments: 517",
    "published": "2026-10-28T13:41:30+00:00",
    "topics": [],
    "first_seen": "2026-10-28T22:34:39+00:00"
@@ -731,7 +1049,7 @@
    "link": "https://www.anthropic.com/research/early-progress-drug-development",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://www.anthropic.com/research/early-progress-drug-development Comments URL: https://news.ycombinator.com/item?id=50265609 Points: 325 # Comments: 337",
+   "summary": "Article URL: https://www.anthropic.com/research/early-progress-drug-development Comments URL: https://news.ycombinator.com/item?id=50265609 Points: 328 # Comments: 340",
    "published": "2026-10-27T20:50:42+00:00",
    "topics": [
     "Models",
@@ -745,7 +1063,7 @@
    "link": "https://www.brangus.io/survival-llm",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://www.brangus.io/survival-llm Comments URL: https://news.ycombinator.com/item?id=50264853 Points: 528 # Comments: 196",
+   "summary": "Article URL: https://www.brangus.io/survival-llm Comments URL: https://news.ycombinator.com/item?id=50264853 Points: 536 # Comments: 201",
    "published": "2026-10-27T19:55:06+00:00",
    "topics": [
     "Models"
@@ -847,7 +1165,7 @@
    "link": "https://gizmodo.com/police-are-using-ai-to-pull-over-drivers-for-suspicious-behavior-2000831220",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://gizmodo.com/police-are-using-ai-to-pull-over-drivers-for-suspicious-behavior-2000831220 Comments URL: https://news.ycombinator.com/item?id=50261819 Points: 396 # Comments: 312",
+   "summary": "Article URL: https://gizmodo.com/police-are-using-ai-to-pull-over-drivers-for-suspicious-behavior-2000831220 Comments URL: https://news.ycombinator.com/item?id=50261819 Points: 397 # Comments: 312",
    "published": "2026-10-27T16:40:15+00:00",
    "topics": [],
    "first_seen": "2026-10-27T20:41:33+00:00"
@@ -871,7 +1189,7 @@
    "link": "https://futurism.com/artificial-intelligence/amazon-ai-division-failure-nova",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://futurism.com/artificial-intelligence/amazon-ai-division-failure-nova Comments URL: https://news.ycombinator.com/item?id=50261589 Points: 377 # Comments: 286",
+   "summary": "Article URL: https://futurism.com/artificial-intelligence/amazon-ai-division-failure-nova Comments URL: https://news.ycombinator.com/item?id=50261589 Points: 380 # Comments: 291",
    "published": "2026-10-27T16:25:30+00:00",
    "topics": [],
    "first_seen": "2026-10-27T20:41:33+00:00"
@@ -933,7 +1251,7 @@
    "link": "https://stanforddaily.com/2026/10/27/professors-books-pirated-to-train-claude/",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://stanforddaily.com/2026/10/27/professors-books-pirated-to-train-claude/ Comments URL: https://news.ycombinator.com/item?id=50260814 Points: 586 # Comments: 294",
+   "summary": "Article URL: https://stanforddaily.com/2026/10/27/professors-books-pirated-to-train-claude/ Comments URL: https://news.ycombinator.com/item?id=50260814 Points: 595 # Comments: 295",
    "published": "2026-10-27T15:28:26+00:00",
    "topics": [
     "Models"
@@ -1063,7 +1381,7 @@
    "link": "https://spectrum.ieee.org/wikipedia-wikiproject-ai-writing-cleanup",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://spectrum.ieee.org/wikipedia-wikiproject-ai-writing-cleanup Comments URL: https://news.ycombinator.com/item?id=50257326 Points: 509 # Comments: 237",
+   "summary": "Article URL: https://spectrum.ieee.org/wikipedia-wikiproject-ai-writing-cleanup Comments URL: https://news.ycombinator.com/item?id=50257326 Points: 513 # Comments: 240",
    "published": "2026-10-27T11:08:15+00:00",
    "topics": [],
    "first_seen": "2026-10-27T20:41:33+00:00"
@@ -1074,7 +1392,7 @@
    "link": "https://oioannou.com/blog/ai-promised-less-work/",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://oioannou.com/blog/ai-promised-less-work/ Comments URL: https://news.ycombinator.com/item?id=50257325 Points: 674 # Comments: 657",
+   "summary": "Article URL: https://oioannou.com/blog/ai-promised-less-work/ Comments URL: https://news.ycombinator.com/item?id=50257325 Points: 676 # Comments: 659",
    "published": "2026-10-27T11:08:14+00:00",
    "topics": [],
    "first_seen": "2026-10-27T20:41:33+00:00"
@@ -1114,7 +1432,7 @@
    "link": "https://j11g.com/the-mythical-man-month-in-the-age-of-ai",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://j11g.com/the-mythical-man-month-in-the-age-of-ai Comments URL: https://news.ycombinator.com/item?id=50255298 Points: 482 # Comments: 354",
+   "summary": "Article URL: https://j11g.com/the-mythical-man-month-in-the-age-of-ai Comments URL: https://news.ycombinator.com/item?id=50255298 Points: 485 # Comments: 358",
    "published": "2026-10-27T06:25:37+00:00",
    "topics": [],
    "first_seen": "2026-10-27T20:41:33+00:00"
@@ -1276,7 +1594,7 @@
    "link": "https://openai.com/index/introducing-gpt-6-1-terra/",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "https://developers.openai.com/api/docs/models/gpt-6.1-terra Comments URL: https://news.ycombinator.com/item?id=50248124 Points: 633 # Comments: 426",
+   "summary": "https://developers.openai.com/api/docs/models/gpt-6.1-terra Comments URL: https://news.ycombinator.com/item?id=50248124 Points: 635 # Comments: 426",
    "published": "2026-10-26T18:01:17+00:00",
    "topics": [
     "Models",
@@ -1385,7 +1703,7 @@
    "link": "https://cohere.com/blog/concerning-behaviour-popular-open-weight-ai-model",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://cohere.com/blog/concerning-behaviour-popular-open-weight-ai-model Comments URL: https://news.ycombinator.com/item?id=50246658 Points: 330 # Comments: 130",
+   "summary": "Article URL: https://cohere.com/blog/concerning-behaviour-popular-open-weight-ai-model Comments URL: https://news.ycombinator.com/item?id=50246658 Points: 331 # Comments: 132",
    "published": "2026-10-26T16:35:44+00:00",
    "topics": [
     "Models"
@@ -1599,7 +1917,7 @@
    "link": "https://minimaxir.com/2026/10/cheap-llms/",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://minimaxir.com/2026/10/cheap-llms/ Comments URL: https://news.ycombinator.com/item?id=50236102 Points: 441 # Comments: 436",
+   "summary": "Article URL: https://minimaxir.com/2026/10/cheap-llms/ Comments URL: https://news.ycombinator.com/item?id=50236102 Points: 441 # Comments: 437",
    "published": "2026-10-25T21:11:31+00:00",
    "topics": [
     "Models"
@@ -8866,19 +9184,6 @@
    "summary": "",
    "published": "2026-09-30T00:00:00+00:00",
    "topics": [],
-   "first_seen": "2026-10-11T09:46:44+00:00"
-  },
-  {
-   "id": "984223f109f3360b",
-   "title": "Getting the Source Right, Not Just the Fact: Source-Aware Verification for MCP Agents",
-   "link": "https://huggingface.co/blog/MultiverseComputingCAI/getting-the-source-right-not-just-the-fact-source",
-   "source": "Hugging Face",
-   "kind": "lab",
-   "summary": "",
-   "published": "2026-09-29T13:07:00+00:00",
-   "topics": [
-    "Tools"
-   ],
    "first_seen": "2026-10-11T09:46:44+00:00"
   }
  ]
