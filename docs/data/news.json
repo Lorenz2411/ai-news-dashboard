@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-28T22:34:39+00:00",
+ "updated": "2026-10-29T05:47:21+00:00",
  "sources": [
   {
    "name": "OpenAI",
@@ -92,6 +92,43 @@
  ],
  "items": [
   {
+   "id": "271134257c4af766",
+   "title": "Claude Code burns ~15–20% of your tokens on a 3-word status line",
+   "link": "https://gist.github.com/flamerix-ai/c3905705cc4205e5de3011fa2e74efce",
+   "source": "Hacker News",
+   "kind": "community",
+   "summary": "Article URL: https://gist.github.com/flamerix-ai/c3905705cc4205e5de3011fa2e74efce Comments URL: https://news.ycombinator.com/item?id=50284255 Points: 178 # Comments: 39",
+   "published": "2026-10-29T03:33:42+00:00",
+   "topics": [
+    "Models"
+   ],
+   "first_seen": "2026-10-29T05:47:21+00:00"
+  },
+  {
+   "id": "b0fbfced4c005ad4",
+   "title": "Quoting Ted Sanders",
+   "link": "https://simonwillison.net/2026/Oct/28/ted-sanders/",
+   "source": "Simon Willison",
+   "kind": "community",
+   "summary": "In general, LLM performance is incredibly multidimensional. There's no guarantee of a fixed ordering where the model that is best at math is also the model that's best at jokes. Despite that complexity, much of the variation in performance is explained by just a single variable…",
+   "published": "2026-10-28T23:23:21+00:00",
+   "topics": [
+    "Models"
+   ],
+   "first_seen": "2026-10-29T05:47:21+00:00"
+  },
+  {
+   "id": "09f762edab0d4f19",
+   "title": "Adam Mosseri says negativity around AI is ‘going to get worse’",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/1021644/adam-mosseri-instagram-ai-negativity",
+   "source": "The Verge",
+   "kind": "press",
+   "summary": "Asked about AI and the trend of college students booing tech CEOs at graduation ceremonies, Instagram head Adam Mosseri acknowledged in an interview that a lot of people really don't like AI, and it's not just young people and creatives. Appearing on the Colin and Samir podcast…",
+   "published": "2026-10-28T23:05:39+00:00",
+   "topics": [],
+   "first_seen": "2026-10-29T05:47:21+00:00"
+  },
+  {
    "id": "b126d7721238eea7",
    "title": "Microsoft just shared Azure’s actual revenue in dollars: $33.2 billion",
    "link": "https://techcrunch.com/2026/10/28/microsoft-just-shared-azures-actual-revenue-in-dollars-33-2-billion/",
@@ -164,6 +201,17 @@
    "kind": "press",
    "summary": "Across a business, any number of AI platforms, systems, and tools may be at work simultaneously—for example, AI-powered customer platforms, conversational assistants, and workflow and process automation tools. Each one is sophisticated, advanced, and quick to respond. But, when…",
    "published": "2026-10-28T20:32:02+00:00",
+   "topics": [],
+   "first_seen": "2026-10-28T22:34:39+00:00"
+  },
+  {
+   "id": "0676def7896cb16a",
+   "title": "Google AI gets cagey when asked who won the 2020 elections",
+   "link": "https://arstechnica.com/ai/2026/10/google-ai-gets-cagey-when-asked-who-won-the-2020-elections/",
+   "source": "Hacker News",
+   "kind": "community",
+   "summary": "Article URL: https://arstechnica.com/ai/2026/10/google-ai-gets-cagey-when-asked-who-won-the-2020-elections/ Comments URL: https://news.ycombinator.com/item?id=50280178 Points: 139 # Comments: 67",
+   "published": "2026-10-28T20:10:16+00:00",
    "topics": [],
    "first_seen": "2026-10-28T22:34:39+00:00"
   },
@@ -263,17 +311,6 @@
    "first_seen": "2026-10-28T22:34:39+00:00"
   },
   {
-   "id": "0676def7896cb16a",
-   "title": "Google AI gets cagey when asked who won the 2020 elections",
-   "link": "https://arstechnica.com/ai/2026/10/google-ai-gets-cagey-when-asked-who-won-the-2020-elections/",
-   "source": "Ars Technica",
-   "kind": "press",
-   "summary": "But the AI responses get more forthright when asked outside the US.",
-   "published": "2026-10-28T17:46:32+00:00",
-   "topics": [],
-   "first_seen": "2026-10-28T22:34:39+00:00"
-  },
-  {
    "id": "b0da25ea6c1a2967",
    "title": "Gemini 4 Carbon: Our next frontier model",
    "link": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/",
@@ -363,7 +400,7 @@
    "link": "https://surgehq.ai/blog/dayjob-tax",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://surgehq.ai/blog/dayjob-tax Comments URL: https://news.ycombinator.com/item?id=50275626 Points: 168 # Comments: 98",
+   "summary": "Article URL: https://surgehq.ai/blog/dayjob-tax Comments URL: https://news.ycombinator.com/item?id=50275626 Points: 220 # Comments: 142",
    "published": "2026-10-28T15:46:30+00:00",
    "topics": [
     "Tools"
@@ -443,7 +480,7 @@
    "link": "https://religionnews.com/2026/10/26/in-a-first-a-humanist-granted-a-religious-exemption-from-using-ai/",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://religionnews.com/2026/10/26/in-a-first-a-humanist-granted-a-religious-exemption-from-using-ai/ Comments URL: https://news.ycombinator.com/item?id=50273396 Points: 392 # Comments: 438",
+   "summary": "Article URL: https://religionnews.com/2026/10/26/in-a-first-a-humanist-granted-a-religious-exemption-from-using-ai/ Comments URL: https://news.ycombinator.com/item?id=50273396 Points: 449 # Comments: 496",
    "published": "2026-10-28T13:41:30+00:00",
    "topics": [],
    "first_seen": "2026-10-28T22:34:39+00:00"
@@ -656,7 +693,7 @@
    "link": "https://www.anthropic.com/research/early-progress-drug-development",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://www.anthropic.com/research/early-progress-drug-development Comments URL: https://news.ycombinator.com/item?id=50265609 Points: 318 # Comments: 326",
+   "summary": "Article URL: https://www.anthropic.com/research/early-progress-drug-development Comments URL: https://news.ycombinator.com/item?id=50265609 Points: 322 # Comments: 336",
    "published": "2026-10-27T20:50:42+00:00",
    "topics": [
     "Models",
@@ -670,7 +707,7 @@
    "link": "https://www.brangus.io/survival-llm",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://www.brangus.io/survival-llm Comments URL: https://news.ycombinator.com/item?id=50264853 Points: 510 # Comments: 193",
+   "summary": "Article URL: https://www.brangus.io/survival-llm Comments URL: https://news.ycombinator.com/item?id=50264853 Points: 525 # Comments: 194",
    "published": "2026-10-27T19:55:06+00:00",
    "topics": [
     "Models"
@@ -772,7 +809,7 @@
    "link": "https://gizmodo.com/police-are-using-ai-to-pull-over-drivers-for-suspicious-behavior-2000831220",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://gizmodo.com/police-are-using-ai-to-pull-over-drivers-for-suspicious-behavior-2000831220 Comments URL: https://news.ycombinator.com/item?id=50261819 Points: 391 # Comments: 307",
+   "summary": "Article URL: https://gizmodo.com/police-are-using-ai-to-pull-over-drivers-for-suspicious-behavior-2000831220 Comments URL: https://news.ycombinator.com/item?id=50261819 Points: 394 # Comments: 312",
    "published": "2026-10-27T16:40:15+00:00",
    "topics": [],
    "first_seen": "2026-10-27T20:41:33+00:00"
@@ -796,7 +833,7 @@
    "link": "https://futurism.com/artificial-intelligence/amazon-ai-division-failure-nova",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://futurism.com/artificial-intelligence/amazon-ai-division-failure-nova Comments URL: https://news.ycombinator.com/item?id=50261589 Points: 364 # Comments: 283",
+   "summary": "Article URL: https://futurism.com/artificial-intelligence/amazon-ai-division-failure-nova Comments URL: https://news.ycombinator.com/item?id=50261589 Points: 373 # Comments: 284",
    "published": "2026-10-27T16:25:30+00:00",
    "topics": [],
    "first_seen": "2026-10-27T20:41:33+00:00"
@@ -858,7 +895,7 @@
    "link": "https://stanforddaily.com/2026/10/27/professors-books-pirated-to-train-claude/",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://stanforddaily.com/2026/10/27/professors-books-pirated-to-train-claude/ Comments URL: https://news.ycombinator.com/item?id=50260814 Points: 566 # Comments: 287",
+   "summary": "Article URL: https://stanforddaily.com/2026/10/27/professors-books-pirated-to-train-claude/ Comments URL: https://news.ycombinator.com/item?id=50260814 Points: 575 # Comments: 292",
    "published": "2026-10-27T15:28:26+00:00",
    "topics": [
     "Models"
@@ -988,7 +1025,7 @@
    "link": "https://spectrum.ieee.org/wikipedia-wikiproject-ai-writing-cleanup",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://spectrum.ieee.org/wikipedia-wikiproject-ai-writing-cleanup Comments URL: https://news.ycombinator.com/item?id=50257326 Points: 497 # Comments: 235",
+   "summary": "Article URL: https://spectrum.ieee.org/wikipedia-wikiproject-ai-writing-cleanup Comments URL: https://news.ycombinator.com/item?id=50257326 Points: 499 # Comments: 237",
    "published": "2026-10-27T11:08:15+00:00",
    "topics": [],
    "first_seen": "2026-10-27T20:41:33+00:00"
@@ -999,7 +1036,7 @@
    "link": "https://oioannou.com/blog/ai-promised-less-work/",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://oioannou.com/blog/ai-promised-less-work/ Comments URL: https://news.ycombinator.com/item?id=50257325 Points: 660 # Comments: 651",
+   "summary": "Article URL: https://oioannou.com/blog/ai-promised-less-work/ Comments URL: https://news.ycombinator.com/item?id=50257325 Points: 669 # Comments: 655",
    "published": "2026-10-27T11:08:14+00:00",
    "topics": [],
    "first_seen": "2026-10-27T20:41:33+00:00"
@@ -1039,7 +1076,7 @@
    "link": "https://j11g.com/the-mythical-man-month-in-the-age-of-ai",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://j11g.com/the-mythical-man-month-in-the-age-of-ai Comments URL: https://news.ycombinator.com/item?id=50255298 Points: 474 # Comments: 351",
+   "summary": "Article URL: https://j11g.com/the-mythical-man-month-in-the-age-of-ai Comments URL: https://news.ycombinator.com/item?id=50255298 Points: 477 # Comments: 353",
    "published": "2026-10-27T06:25:37+00:00",
    "topics": [],
    "first_seen": "2026-10-27T20:41:33+00:00"
@@ -1310,7 +1347,7 @@
    "link": "https://cohere.com/blog/concerning-behaviour-popular-open-weight-ai-model",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://cohere.com/blog/concerning-behaviour-popular-open-weight-ai-model Comments URL: https://news.ycombinator.com/item?id=50246658 Points: 329 # Comments: 129",
+   "summary": "Article URL: https://cohere.com/blog/concerning-behaviour-popular-open-weight-ai-model Comments URL: https://news.ycombinator.com/item?id=50246658 Points: 329 # Comments: 130",
    "published": "2026-10-26T16:35:44+00:00",
    "topics": [
     "Models"
@@ -1524,7 +1561,7 @@
    "link": "https://minimaxir.com/2026/10/cheap-llms/",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://minimaxir.com/2026/10/cheap-llms/ Comments URL: https://news.ycombinator.com/item?id=50236102 Points: 439 # Comments: 436",
+   "summary": "Article URL: https://minimaxir.com/2026/10/cheap-llms/ Comments URL: https://news.ycombinator.com/item?id=50236102 Points: 441 # Comments: 436",
    "published": "2026-10-25T21:11:31+00:00",
    "topics": [
     "Models"
@@ -1550,7 +1587,7 @@
    "link": "https://www.dailycal.org/news/campus/academics/ai-use-leads-uc-berkeley-math-professor-to-see-no-point-in-grading-homework/article_bdf1eae2-c08b-491f-b9f1-81a7cea177de.html",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://www.dailycal.org/news/campus/academics/ai-use-leads-uc-berkeley-math-professor-to-see-no-point-in-grading-homework/article_bdf1eae2-c08b-491f-b9f1-81a7cea177de.html Comments URL: https://news.ycombinator.com/item?id=50233304 Points: 239 # Comments: 336",
+   "summary": "Article URL: https://www.dailycal.org/news/campus/academics/ai-use-leads-uc-berkeley-math-professor-to-see-no-point-in-grading-homework/article_bdf1eae2-c08b-491f-b9f1-81a7cea177de.html Comments URL: https://news.ycombinator.com/item?id=50233304 Points: 239 # Comments: 337",
    "published": "2026-10-25T16:28:26+00:00",
    "topics": [],
    "first_seen": "2026-10-25T20:50:34+00:00"
@@ -8831,17 +8868,6 @@
     "Models",
     "Tools"
    ],
-   "first_seen": "2026-10-11T09:46:44+00:00"
-  },
-  {
-   "id": "884977ecb8004cb3",
-   "title": "Introducing dots",
-   "link": "https://openai.com/index/introducing-dots",
-   "source": "OpenAI",
-   "kind": "lab",
-   "summary": "Dots by OpenAI are proactive assistants that can keep working across complex projects and everyday tasks. Learn how dots help you stay in control while work moves forward.",
-   "published": "2026-09-29T00:00:00+00:00",
-   "topics": [],
    "first_seen": "2026-10-11T09:46:44+00:00"
   }
  ]
