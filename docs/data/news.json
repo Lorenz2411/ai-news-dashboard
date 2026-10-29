@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-29T05:47:21+00:00",
+ "updated": "2026-10-29T12:59:53+00:00",
  "sources": [
   {
    "name": "OpenAI",
@@ -13,9 +13,9 @@
    "name": "Google DeepMind",
    "url": "https://deepmind.google/blog/rss.xml",
    "kind": "lab",
-   "ok": true,
-   "count": 40,
-   "error": null
+   "ok": false,
+   "count": 0,
+   "error": "ParseError: not well-formed (invalid token): line 1, column 0"
   },
   {
    "name": "Google AI",
@@ -92,17 +92,55 @@
  ],
  "items": [
   {
+   "id": "9cd5509199bff926",
+   "title": "AI has come for Arizona’s water",
+   "link": "https://www.theverge.com/cs/features/1016650/arizona-water-data-center-tsmc",
+   "source": "The Verge",
+   "kind": "press",
+   "summary": "A hulking gray giant rises from the desert. Inside, engineers create the force behind our phones and computers and appliances, our streaming services and search engines and chatbots and vibe-coded apps and websites. The complex is simultaneously massive and squat, dwarfed by the…",
+   "published": "2026-10-29T12:29:06+00:00",
+   "topics": [],
+   "first_seen": "2026-10-29T12:59:53+00:00"
+  },
+  {
+   "id": "f863128399a5ccb3",
+   "title": "We urgently need to monitor AI agents’ actions in real time",
+   "link": "https://www.technologyreview.com/2026/10/29/1147824/monitor-ai-agents-actions-real-time/",
+   "source": "MIT Technology Review",
+   "kind": "press",
+   "summary": "This summer, hundreds of OpenAI agents tried to cheat on a cybersecurity test. They broke out of their test environment and successfully hacked Hugging Face, a site that they believed held clues about how they’d be graded. Around the same time, another OpenAI agent accessed…",
+   "published": "2026-10-29T10:11:12+00:00",
+   "topics": [
+    "Tools"
+   ],
+   "first_seen": "2026-10-29T12:59:53+00:00"
+  },
+  {
    "id": "271134257c4af766",
-   "title": "Claude Code burns ~15–20% of your tokens on a 3-word status line",
+   "title": "Claude Code regularly sends each background agent’s transcript to its model",
    "link": "https://gist.github.com/flamerix-ai/c3905705cc4205e5de3011fa2e74efce",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://gist.github.com/flamerix-ai/c3905705cc4205e5de3011fa2e74efce Comments URL: https://news.ycombinator.com/item?id=50284255 Points: 178 # Comments: 39",
+   "summary": "Article URL: https://gist.github.com/flamerix-ai/c3905705cc4205e5de3011fa2e74efce Comments URL: https://news.ycombinator.com/item?id=50284255 Points: 448 # Comments: 183",
    "published": "2026-10-29T03:33:42+00:00",
+   "topics": [
+    "Models",
+    "Tools"
+   ],
+   "first_seen": "2026-10-29T05:47:21+00:00"
+  },
+  {
+   "id": "85d975255b4f9d00",
+   "title": "Introducing AnySpeechRecognizer and AnyDecisionModel: Open Models for Speech and Decisions on Apple Platforms",
+   "link": "https://huggingface.co/blog/anydecisionmodel",
+   "source": "Hugging Face",
+   "kind": "lab",
+   "summary": "",
+   "published": "2026-10-29T00:00:00+00:00",
    "topics": [
     "Models"
    ],
-   "first_seen": "2026-10-29T05:47:21+00:00"
+   "first_seen": "2026-10-29T12:59:53+00:00"
   },
   {
    "id": "b0fbfced4c005ad4",
@@ -210,7 +248,7 @@
    "link": "https://arstechnica.com/ai/2026/10/google-ai-gets-cagey-when-asked-who-won-the-2020-elections/",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://arstechnica.com/ai/2026/10/google-ai-gets-cagey-when-asked-who-won-the-2020-elections/ Comments URL: https://news.ycombinator.com/item?id=50280178 Points: 139 # Comments: 67",
+   "summary": "Article URL: https://arstechnica.com/ai/2026/10/google-ai-gets-cagey-when-asked-who-won-the-2020-elections/ Comments URL: https://news.ycombinator.com/item?id=50280178 Points: 156 # Comments: 71",
    "published": "2026-10-28T20:10:16+00:00",
    "topics": [],
    "first_seen": "2026-10-28T22:34:39+00:00"
@@ -400,7 +438,7 @@
    "link": "https://surgehq.ai/blog/dayjob-tax",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://surgehq.ai/blog/dayjob-tax Comments URL: https://news.ycombinator.com/item?id=50275626 Points: 220 # Comments: 142",
+   "summary": "Article URL: https://surgehq.ai/blog/dayjob-tax Comments URL: https://news.ycombinator.com/item?id=50275626 Points: 246 # Comments: 154",
    "published": "2026-10-28T15:46:30+00:00",
    "topics": [
     "Tools"
@@ -480,7 +518,7 @@
    "link": "https://religionnews.com/2026/10/26/in-a-first-a-humanist-granted-a-religious-exemption-from-using-ai/",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://religionnews.com/2026/10/26/in-a-first-a-humanist-granted-a-religious-exemption-from-using-ai/ Comments URL: https://news.ycombinator.com/item?id=50273396 Points: 449 # Comments: 496",
+   "summary": "Article URL: https://religionnews.com/2026/10/26/in-a-first-a-humanist-granted-a-religious-exemption-from-using-ai/ Comments URL: https://news.ycombinator.com/item?id=50273396 Points: 470 # Comments: 507",
    "published": "2026-10-28T13:41:30+00:00",
    "topics": [],
    "first_seen": "2026-10-28T22:34:39+00:00"
@@ -693,7 +731,7 @@
    "link": "https://www.anthropic.com/research/early-progress-drug-development",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://www.anthropic.com/research/early-progress-drug-development Comments URL: https://news.ycombinator.com/item?id=50265609 Points: 322 # Comments: 336",
+   "summary": "Article URL: https://www.anthropic.com/research/early-progress-drug-development Comments URL: https://news.ycombinator.com/item?id=50265609 Points: 325 # Comments: 337",
    "published": "2026-10-27T20:50:42+00:00",
    "topics": [
     "Models",
@@ -707,7 +745,7 @@
    "link": "https://www.brangus.io/survival-llm",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://www.brangus.io/survival-llm Comments URL: https://news.ycombinator.com/item?id=50264853 Points: 525 # Comments: 194",
+   "summary": "Article URL: https://www.brangus.io/survival-llm Comments URL: https://news.ycombinator.com/item?id=50264853 Points: 528 # Comments: 196",
    "published": "2026-10-27T19:55:06+00:00",
    "topics": [
     "Models"
@@ -809,7 +847,7 @@
    "link": "https://gizmodo.com/police-are-using-ai-to-pull-over-drivers-for-suspicious-behavior-2000831220",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://gizmodo.com/police-are-using-ai-to-pull-over-drivers-for-suspicious-behavior-2000831220 Comments URL: https://news.ycombinator.com/item?id=50261819 Points: 394 # Comments: 312",
+   "summary": "Article URL: https://gizmodo.com/police-are-using-ai-to-pull-over-drivers-for-suspicious-behavior-2000831220 Comments URL: https://news.ycombinator.com/item?id=50261819 Points: 396 # Comments: 312",
    "published": "2026-10-27T16:40:15+00:00",
    "topics": [],
    "first_seen": "2026-10-27T20:41:33+00:00"
@@ -833,7 +871,7 @@
    "link": "https://futurism.com/artificial-intelligence/amazon-ai-division-failure-nova",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://futurism.com/artificial-intelligence/amazon-ai-division-failure-nova Comments URL: https://news.ycombinator.com/item?id=50261589 Points: 373 # Comments: 284",
+   "summary": "Article URL: https://futurism.com/artificial-intelligence/amazon-ai-division-failure-nova Comments URL: https://news.ycombinator.com/item?id=50261589 Points: 377 # Comments: 286",
    "published": "2026-10-27T16:25:30+00:00",
    "topics": [],
    "first_seen": "2026-10-27T20:41:33+00:00"
@@ -895,7 +933,7 @@
    "link": "https://stanforddaily.com/2026/10/27/professors-books-pirated-to-train-claude/",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://stanforddaily.com/2026/10/27/professors-books-pirated-to-train-claude/ Comments URL: https://news.ycombinator.com/item?id=50260814 Points: 575 # Comments: 292",
+   "summary": "Article URL: https://stanforddaily.com/2026/10/27/professors-books-pirated-to-train-claude/ Comments URL: https://news.ycombinator.com/item?id=50260814 Points: 586 # Comments: 294",
    "published": "2026-10-27T15:28:26+00:00",
    "topics": [
     "Models"
@@ -1025,7 +1063,7 @@
    "link": "https://spectrum.ieee.org/wikipedia-wikiproject-ai-writing-cleanup",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://spectrum.ieee.org/wikipedia-wikiproject-ai-writing-cleanup Comments URL: https://news.ycombinator.com/item?id=50257326 Points: 499 # Comments: 237",
+   "summary": "Article URL: https://spectrum.ieee.org/wikipedia-wikiproject-ai-writing-cleanup Comments URL: https://news.ycombinator.com/item?id=50257326 Points: 509 # Comments: 237",
    "published": "2026-10-27T11:08:15+00:00",
    "topics": [],
    "first_seen": "2026-10-27T20:41:33+00:00"
@@ -1036,7 +1074,7 @@
    "link": "https://oioannou.com/blog/ai-promised-less-work/",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://oioannou.com/blog/ai-promised-less-work/ Comments URL: https://news.ycombinator.com/item?id=50257325 Points: 669 # Comments: 655",
+   "summary": "Article URL: https://oioannou.com/blog/ai-promised-less-work/ Comments URL: https://news.ycombinator.com/item?id=50257325 Points: 674 # Comments: 657",
    "published": "2026-10-27T11:08:14+00:00",
    "topics": [],
    "first_seen": "2026-10-27T20:41:33+00:00"
@@ -1076,7 +1114,7 @@
    "link": "https://j11g.com/the-mythical-man-month-in-the-age-of-ai",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://j11g.com/the-mythical-man-month-in-the-age-of-ai Comments URL: https://news.ycombinator.com/item?id=50255298 Points: 477 # Comments: 353",
+   "summary": "Article URL: https://j11g.com/the-mythical-man-month-in-the-age-of-ai Comments URL: https://news.ycombinator.com/item?id=50255298 Points: 482 # Comments: 354",
    "published": "2026-10-27T06:25:37+00:00",
    "topics": [],
    "first_seen": "2026-10-27T20:41:33+00:00"
@@ -1347,7 +1385,7 @@
    "link": "https://cohere.com/blog/concerning-behaviour-popular-open-weight-ai-model",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://cohere.com/blog/concerning-behaviour-popular-open-weight-ai-model Comments URL: https://news.ycombinator.com/item?id=50246658 Points: 329 # Comments: 130",
+   "summary": "Article URL: https://cohere.com/blog/concerning-behaviour-popular-open-weight-ai-model Comments URL: https://news.ycombinator.com/item?id=50246658 Points: 330 # Comments: 130",
    "published": "2026-10-26T16:35:44+00:00",
    "topics": [
     "Models"
@@ -1587,7 +1625,7 @@
    "link": "https://www.dailycal.org/news/campus/academics/ai-use-leads-uc-berkeley-math-professor-to-see-no-point-in-grading-homework/article_bdf1eae2-c08b-491f-b9f1-81a7cea177de.html",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://www.dailycal.org/news/campus/academics/ai-use-leads-uc-berkeley-math-professor-to-see-no-point-in-grading-homework/article_bdf1eae2-c08b-491f-b9f1-81a7cea177de.html Comments URL: https://news.ycombinator.com/item?id=50233304 Points: 239 # Comments: 337",
+   "summary": "Article URL: https://www.dailycal.org/news/campus/academics/ai-use-leads-uc-berkeley-math-professor-to-see-no-point-in-grading-homework/article_bdf1eae2-c08b-491f-b9f1-81a7cea177de.html Comments URL: https://news.ycombinator.com/item?id=50233304 Points: 239 # Comments: 340",
    "published": "2026-10-25T16:28:26+00:00",
    "topics": [],
    "first_seen": "2026-10-25T20:50:34+00:00"
@@ -8839,33 +8877,6 @@
    "summary": "",
    "published": "2026-09-29T13:07:00+00:00",
    "topics": [
-    "Tools"
-   ],
-   "first_seen": "2026-10-11T09:46:44+00:00"
-  },
-  {
-   "id": "19db7cc5ca5cc5ea",
-   "title": "DevDay 2026 Recap",
-   "link": "https://openai.com/index/devday-2026-recap",
-   "source": "OpenAI",
-   "kind": "lab",
-   "summary": "Explore more than 20 announcements from OpenAI DevDay 2026, including GPT-6 Astra, ChatGPT, Codex, APIs, security, and new tools for builders.",
-   "published": "2026-09-29T10:00:00+00:00",
-   "topics": [
-    "Models"
-   ],
-   "first_seen": "2026-10-11T09:46:44+00:00"
-  },
-  {
-   "id": "dd66acaed2a04b44",
-   "title": "Introducing GPT-6.1 Sol",
-   "link": "https://openai.com/index/introducing-gpt-6-1-sol",
-   "source": "OpenAI",
-   "kind": "lab",
-   "summary": "Meet GPT-6.1 Sol: near-Astra intelligence for coding, computer use, and professional work at one-fifth of Astra’s standard API input and output token prices.",
-   "published": "2026-09-29T10:00:00+00:00",
-   "topics": [
-    "Models",
     "Tools"
    ],
    "first_seen": "2026-10-11T09:46:44+00:00"
