@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-30T19:21:53+00:00",
+ "updated": "2026-10-30T23:45:50+00:00",
  "sources": [
   {
    "name": "OpenAI",
@@ -13,9 +13,9 @@
    "name": "Google DeepMind",
    "url": "https://deepmind.google/blog/rss.xml",
    "kind": "lab",
-   "ok": true,
-   "count": 40,
-   "error": null
+   "ok": false,
+   "count": 0,
+   "error": "ParseError: not well-formed (invalid token): line 1, column 0"
   },
   {
    "name": "Google AI",
@@ -92,6 +92,167 @@
  ],
  "items": [
   {
+   "id": "43523836c60442d9",
+   "title": "Ollie, a privacy-focused AI assistant, is shutting down",
+   "link": "https://techcrunch.com/2026/10/30/ollie-a-privacy-focused-ai-assistant-is-shutting-down/",
+   "source": "TechCrunch",
+   "kind": "press",
+   "summary": "As an increasing number of AI assistants flood the market, the founder of Ollie, an assistant that respected its users' privacy, says it will be shutting down in a week.",
+   "published": "2026-10-30T22:56:13+00:00",
+   "topics": [],
+   "first_seen": "2026-10-30T23:45:50+00:00"
+  },
+  {
+   "id": "25a528e218b1080c",
+   "title": "The biggest names in AI are backing a new way to opt out of scraping",
+   "link": "https://www.theverge.com/tech/1023763/openai-google-microsoft-ai-scraping-standard-opt-out",
+   "source": "The Verge",
+   "kind": "press",
+   "summary": "OpenAI, Google, Microsoft, and Anthropic say they will adopt a new standard that publishers can use to opt out of being scraped by AI, as reported earlier by Search Engine Roundtable. With this control, publishers can apply their AI training preferences across multiple AI…",
+   "published": "2026-10-30T22:04:23+00:00",
+   "topics": [],
+   "first_seen": "2026-10-30T23:45:50+00:00"
+  },
+  {
+   "id": "1649c5dd07045357",
+   "title": "dbreunig/nesformer",
+   "link": "https://simonwillison.net/2026/Oct/30/nesformer/",
+   "source": "Simon Willison",
+   "kind": "community",
+   "summary": "dbreunig/nesformer Inspired by qwenputer by Divyansh Agrawal, Drew Breunig baked a working emulator for a Nintendo Entertainment System 6502 CPU into the weights of Qwen3.5-4B. You can now play NES ROMs such as Super Mario Bros (very slowly) running inside Qwen! In a comment on…",
+   "published": "2026-10-30T21:59:22+00:00",
+   "topics": [
+    "Models"
+   ],
+   "first_seen": "2026-10-30T23:45:50+00:00"
+  },
+  {
+   "id": "6198118eee1371c7",
+   "title": "Intel’s stock crashes, knocking $12B from government’s stake",
+   "link": "https://techcrunch.com/2026/10/30/intels-stock-crashes-knocking-12b-from-governments-stake/",
+   "source": "TechCrunch",
+   "kind": "press",
+   "summary": "Intel is being hurt by PC sales as the AI industry gobbles memory and other components causing PC prices to rise.",
+   "published": "2026-10-30T21:54:34+00:00",
+   "topics": [
+    "Policy"
+   ],
+   "first_seen": "2026-10-30T23:45:50+00:00"
+  },
+  {
+   "id": "60ba719a05749cde",
+   "title": "Anthropic expected to receive high ‘junk’ rating from credit agencies following IPO, FT report says",
+   "link": "https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says/",
+   "source": "TechCrunch",
+   "kind": "press",
+   "summary": "Blackstone's forecast is just a prediction, but naturally, a high junk rating would make it more difficult and costlier for Anthropic to raise the money to keep funding its massive spending that has undergirded its business.",
+   "published": "2026-10-30T21:52:03+00:00",
+   "topics": [
+    "Business"
+   ],
+   "first_seen": "2026-10-30T23:45:50+00:00"
+  },
+  {
+   "id": "df26d5473c418f43",
+   "title": "Supersonic airliner in doubt as company shifts to powering AI data centers",
+   "link": "https://arstechnica.com/gadgets/2026/10/united-airlines-ceo-doubts-supersonic-airliner-from-boom-will-be-ready-by-2029/",
+   "source": "Ars Technica",
+   "kind": "press",
+   "summary": "Boom’s airliner may be delayed, and its data center power business lost a customer.",
+   "published": "2026-10-30T21:41:54+00:00",
+   "topics": [
+    "Hardware"
+   ],
+   "first_seen": "2026-10-30T23:45:50+00:00"
+  },
+  {
+   "id": "5ec9437afb139212",
+   "title": "Silicon Valley wants you to invest in miracles",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/1023070/anthropic-ipo-risk-factors-filing-miracles",
+   "source": "The Verge",
+   "kind": "press",
+   "summary": "Investing in any stock is kind of like gambling in the sense that you're betting your money on a company's future performance. But how do you bet on a technology that could, in the worst-case scenario, \"pose catastrophic or existential risks to humanity,\" or best case, \"bring…",
+   "published": "2026-10-30T21:33:57+00:00",
+   "topics": [
+    "Business"
+   ],
+   "first_seen": "2026-10-30T19:21:53+00:00"
+  },
+  {
+   "id": "0806533d8a710536",
+   "title": "Last-minute Halloween costumes for tech nerds",
+   "link": "https://techcrunch.com/2026/10/30/last-minute-halloween-costumes-for-tech-nerds/",
+   "source": "TechCrunch",
+   "kind": "press",
+   "summary": "No Halloween costume? Just be a deceptively cute AI agent icon, a PHP vulnerability, or sleepy time Bryan Johnson.",
+   "published": "2026-10-30T21:26:59+00:00",
+   "topics": [
+    "Tools"
+   ],
+   "first_seen": "2026-10-30T23:45:50+00:00"
+  },
+  {
+   "id": "f1f6194d20367130",
+   "title": "Cracks are emerging in the AI spending boom",
+   "link": "https://techcrunch.com/2026/10/30/cracks-are-emerging-in-the-ai-spending-boom/",
+   "source": "TechCrunch",
+   "kind": "press",
+   "summary": "Big Tech is pouring billions into AI infrastructure, but mounting debt, negative cash flow, and growing investor skepticism are raising questions about the sustainability of the AI spending boom.",
+   "published": "2026-10-30T21:17:40+00:00",
+   "topics": [
+    "Business"
+   ],
+   "first_seen": "2026-10-30T23:45:50+00:00"
+  },
+  {
+   "id": "ce0cce9f3bc5563c",
+   "title": "Anthropic VS code extension on Cursor backdoored for nearly 12 hours",
+   "link": "https://arstechnica.com/security/2026/10/anthropic-vs-code-extension-on-cursor-backdoored-for-nearly-12-hours/",
+   "source": "Ars Technica",
+   "kind": "press",
+   "summary": "It's still unknown how attackers got access to Anthropic's verified Cursor account.",
+   "published": "2026-10-30T21:09:54+00:00",
+   "topics": [],
+   "first_seen": "2026-10-30T23:45:50+00:00"
+  },
+  {
+   "id": "e6a83342c0c51d1e",
+   "title": "Sam Altman says it’s better for RAM to be in a data center than on your desk",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/1023820/sam-altman-ram-shortage-cloud-servers",
+   "source": "The Verge",
+   "kind": "press",
+   "summary": "Asked about supply chain shortages, like the ongoing RAM shortage, OpenAI CEO Sam Altman said in an interview that it's \"terrible\" to have RAM in personal PCs instead of data centers. During his appearance on the Cheeky Pint podcast, where he also commented on AI's impact on…",
+   "published": "2026-10-30T20:48:43+00:00",
+   "topics": [
+    "Hardware"
+   ],
+   "first_seen": "2026-10-30T23:45:50+00:00"
+  },
+  {
+   "id": "65d255a74525f3ca",
+   "title": "Dartmouth's provost warned us about AI cheating—but his own AI use cost him his job",
+   "link": "https://arstechnica.com/tech-policy/2026/10/dartmouths-provost-warned-us-about-ai-cheating-but-his-own-ai-use-cost-him-his-job/",
+   "source": "Ars Technica",
+   "kind": "press",
+   "summary": "People who love AI don't always love telling others they used it.",
+   "published": "2026-10-30T20:40:13+00:00",
+   "topics": [],
+   "first_seen": "2026-10-30T23:45:50+00:00"
+  },
+  {
+   "id": "538ea1326a6a8ff9",
+   "title": "Basically no one is using AI agents for their DoorDash orders",
+   "link": "https://arstechnica.com/ai/2026/10/doordash-says-outside-ai-agents-have-only-led-to-hundreds-of-orders-so-far/",
+   "source": "Ars Technica",
+   "kind": "press",
+   "summary": "But it's still early days for the relatively new e-commerce use case.",
+   "published": "2026-10-30T19:30:52+00:00",
+   "topics": [
+    "Tools"
+   ],
+   "first_seen": "2026-10-30T23:45:50+00:00"
+  },
+  {
    "id": "c4dbacf8aa2b8b7f",
    "title": "Google’s satellite AI server transmits its first response to Earth",
    "link": "https://www.theverge.com/tech/1023528/google-project-suncatcher-ai-satellite-transmission",
@@ -157,7 +318,7 @@
    "link": "https://www.404media.co/protons-ceo-cancels-ai-re-interviews/",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://www.404media.co/protons-ceo-cancels-ai-re-interviews/ Comments URL: https://news.ycombinator.com/item?id=50307183 Points: 183 # Comments: 148",
+   "summary": "Article URL: https://www.404media.co/protons-ceo-cancels-ai-re-interviews/ Comments URL: https://news.ycombinator.com/item?id=50307183 Points: 252 # Comments: 209",
    "published": "2026-10-30T17:24:45+00:00",
    "topics": [],
    "first_seen": "2026-10-30T19:21:53+00:00"
@@ -193,7 +354,7 @@
    "link": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://www.bbc.co.uk/news/articles/cvwy72e0n72yo Comments URL: https://news.ycombinator.com/item?id=50306008 Points: 195 # Comments: 199",
+   "summary": "Article URL: https://www.bbc.co.uk/news/articles/cvwy72e0n72yo Comments URL: https://news.ycombinator.com/item?id=50306008 Points: 229 # Comments: 256",
    "published": "2026-10-30T16:13:02+00:00",
    "topics": [],
    "first_seen": "2026-10-30T19:21:53+00:00"
@@ -231,7 +392,7 @@
    "link": "https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling Comments URL: https://news.ycombinator.com/item?id=50305693 Points: 327 # Comments: 242",
+   "summary": "Article URL: https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling Comments URL: https://news.ycombinator.com/item?id=50305693 Points: 472 # Comments: 353",
    "published": "2026-10-30T15:52:18+00:00",
    "topics": [],
    "first_seen": "2026-10-30T19:21:53+00:00"
@@ -296,19 +457,6 @@
    "first_seen": "2026-10-30T19:21:53+00:00"
   },
   {
-   "id": "5ec9437afb139212",
-   "title": "Silicon Valley wants you to invest in miracles",
-   "link": "https://www.theverge.com/ai-artificial-intelligence/1023070/anthropic-ipo-risk-factors-filing-miracles",
-   "source": "The Verge",
-   "kind": "press",
-   "summary": "Investing in any stock is kind of like gambling in the sense that you're betting your money on a company's future performance. But how do you bet on a technology that could, in the worst-case scenario, \"pose catastrophic or existential risks to humanity,\" or best case, \"bring…",
-   "published": "2026-10-30T13:11:05+00:00",
-   "topics": [
-    "Business"
-   ],
-   "first_seen": "2026-10-30T19:21:53+00:00"
-  },
-  {
    "id": "5135d63cacdd4300",
    "title": "5 days left: Your last chance to connect, scale, and save at TechCrunch Founder Summit 2026",
    "link": "https://techcrunch.com/2026/10/30/5-days-left-your-last-chance-to-connect-scale-and-save-at-techcrunch-founder-summit-2026/",
@@ -339,7 +487,7 @@
    "link": "https://cyberplace.social/@GossiTheDog/117528831681803563",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://cyberplace.social/@GossiTheDog/117528831681803563 Comments URL: https://news.ycombinator.com/item?id=50302334 Points: 646 # Comments: 17",
+   "summary": "Article URL: https://cyberplace.social/@GossiTheDog/117528831681803563 Comments URL: https://news.ycombinator.com/item?id=50302334 Points: 652 # Comments: 17",
    "published": "2026-10-30T11:05:53+00:00",
    "topics": [
     "Models"
@@ -352,7 +500,7 @@
    "link": "https://doublepulsar.com/anthropic-hacked-to-deliver-remote-access-trojan-to-claude-developer-laptops-worldwide-1148a92baae2",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://doublepulsar.com/anthropic-hacked-to-deliver-remote-access-trojan-to-claude-developer-laptops-worldwide-1148a92baae2 Comments URL: https://news.ycombinator.com/item?id=50301983 Points: 396 # Comments: 1",
+   "summary": "Article URL: https://doublepulsar.com/anthropic-hacked-to-deliver-remote-access-trojan-to-claude-developer-laptops-worldwide-1148a92baae2 Comments URL: https://news.ycombinator.com/item?id=50301983 Points: 397 # Comments: 1",
    "published": "2026-10-30T10:22:51+00:00",
    "topics": [
     "Models",
@@ -401,7 +549,7 @@
    "link": "https://phorion.io/blog/offical-claude-code-vsx-compromise/",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "https://cursor.com/blog/claude-code-extension-security-notic... Comments URL: https://news.ycombinator.com/item?id=50300683 Points: 530 # Comments: 394",
+   "summary": "https://cursor.com/blog/claude-code-extension-security-notic... Comments URL: https://news.ycombinator.com/item?id=50300683 Points: 724 # Comments: 451",
    "published": "2026-10-30T07:09:12+00:00",
    "topics": [
     "Models"
@@ -418,6 +566,17 @@
    "published": "2026-10-30T01:20:48+00:00",
    "topics": [],
    "first_seen": "2026-10-30T05:48:19+00:00"
+  },
+  {
+   "id": "d2282bcce1625c64",
+   "title": "Fair use benefits everyone",
+   "link": "https://openai.com/index/fair-use-benefits-everyone",
+   "source": "OpenAI",
+   "kind": "lab",
+   "summary": "OpenAI shares excerpts from court briefs by creators, academics, accessibility advocates, and legal experts, among others, on how fair use supports AI training and innovation.",
+   "published": "2026-10-30T00:00:00+00:00",
+   "topics": [],
+   "first_seen": "2026-10-30T23:45:50+00:00"
   },
   {
    "id": "05367ef1f34c39f8",
@@ -462,7 +621,7 @@
    "link": "https://convo.casa/@b/117525936178835007",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://convo.casa/@b/117525936178835007 Comments URL: https://news.ycombinator.com/item?id=50296602 Points: 113 # Comments: 112",
+   "summary": "Article URL: https://convo.casa/@b/117525936178835007 Comments URL: https://news.ycombinator.com/item?id=50296602 Points: 115 # Comments: 113",
    "published": "2026-10-29T21:49:28+00:00",
    "topics": [],
    "first_seen": "2026-10-30T12:54:52+00:00"
@@ -473,7 +632,7 @@
    "link": "https://labs.ycombinator.com/projects/games/index.html",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://labs.ycombinator.com/projects/games/index.html Comments URL: https://news.ycombinator.com/item?id=50296486 Points: 383 # Comments: 161",
+   "summary": "Article URL: https://labs.ycombinator.com/projects/games/index.html Comments URL: https://news.ycombinator.com/item?id=50296486 Points: 393 # Comments: 163",
    "published": "2026-10-29T21:40:28+00:00",
    "topics": [
     "Tools"
@@ -571,7 +730,7 @@
    "link": "https://fig.blue/posts/duet-is-the-future/",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://fig.blue/posts/duet-is-the-future/ Comments URL: https://news.ycombinator.com/item?id=50292727 Points: 122 # Comments: 138",
+   "summary": "Article URL: https://fig.blue/posts/duet-is-the-future/ Comments URL: https://news.ycombinator.com/item?id=50292727 Points: 124 # Comments: 139",
    "published": "2026-10-29T17:24:25+00:00",
    "topics": [
     "Models"
@@ -687,7 +846,7 @@
    "link": "https://trakkr.ai/trakkr-research/zombie-stats",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://trakkr.ai/trakkr-research/zombie-stats Comments URL: https://news.ycombinator.com/item?id=50290283 Points: 175 # Comments: 71",
+   "summary": "Article URL: https://trakkr.ai/trakkr-research/zombie-stats Comments URL: https://news.ycombinator.com/item?id=50290283 Points: 177 # Comments: 72",
    "published": "2026-10-29T15:06:17+00:00",
    "topics": [
     "Research"
@@ -700,7 +859,7 @@
    "link": "https://martinfowler.com/bliki/LLM-Voice.html",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://martinfowler.com/bliki/LLM-Voice.html Comments URL: https://news.ycombinator.com/item?id=50290177 Points: 580 # Comments: 313",
+   "summary": "Article URL: https://martinfowler.com/bliki/LLM-Voice.html Comments URL: https://news.ycombinator.com/item?id=50290177 Points: 588 # Comments: 321",
    "published": "2026-10-29T14:57:55+00:00",
    "topics": [
     "Models"
@@ -727,7 +886,7 @@
    "link": "https://www.404media.co/manifestos-fear-and-loser-thinking-inside-protons-ai-reckoning/",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://www.404media.co/manifestos-fear-and-loser-thinking-inside-protons-ai-reckoning/ Comments URL: https://news.ycombinator.com/item?id=50289692 Points: 211 # Comments: 74",
+   "summary": "Article URL: https://www.404media.co/manifestos-fear-and-loser-thinking-inside-protons-ai-reckoning/ Comments URL: https://news.ycombinator.com/item?id=50289692 Points: 222 # Comments: 79",
    "published": "2026-10-29T14:29:06+00:00",
    "topics": [],
    "first_seen": "2026-10-29T23:56:36+00:00"
@@ -852,7 +1011,7 @@
    "link": "https://gist.github.com/flamerix-ai/c3905705cc4205e5de3011fa2e74efce",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://gist.github.com/flamerix-ai/c3905705cc4205e5de3011fa2e74efce Comments URL: https://news.ycombinator.com/item?id=50284255 Points: 574 # Comments: 234",
+   "summary": "Article URL: https://gist.github.com/flamerix-ai/c3905705cc4205e5de3011fa2e74efce Comments URL: https://news.ycombinator.com/item?id=50284255 Points: 579 # Comments: 235",
    "published": "2026-10-29T03:33:42+00:00",
    "topics": [
     "Models",
@@ -1014,7 +1173,7 @@
    "link": "https://arstechnica.com/ai/2026/10/google-ai-gets-cagey-when-asked-who-won-the-2020-elections/",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://arstechnica.com/ai/2026/10/google-ai-gets-cagey-when-asked-who-won-the-2020-elections/ Comments URL: https://news.ycombinator.com/item?id=50280178 Points: 169 # Comments: 76",
+   "summary": "Article URL: https://arstechnica.com/ai/2026/10/google-ai-gets-cagey-when-asked-who-won-the-2020-elections/ Comments URL: https://news.ycombinator.com/item?id=50280178 Points: 170 # Comments: 76",
    "published": "2026-10-28T20:10:16+00:00",
    "topics": [],
    "first_seen": "2026-10-28T22:34:39+00:00"
@@ -1204,7 +1363,7 @@
    "link": "https://surgehq.ai/blog/dayjob-tax",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://surgehq.ai/blog/dayjob-tax Comments URL: https://news.ycombinator.com/item?id=50275626 Points: 260 # Comments: 174",
+   "summary": "Article URL: https://surgehq.ai/blog/dayjob-tax Comments URL: https://news.ycombinator.com/item?id=50275626 Points: 261 # Comments: 174",
    "published": "2026-10-28T15:46:30+00:00",
    "topics": [
     "Tools"
@@ -1284,7 +1443,7 @@
    "link": "https://religionnews.com/2026/10/26/in-a-first-a-humanist-granted-a-religious-exemption-from-using-ai/",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://religionnews.com/2026/10/26/in-a-first-a-humanist-granted-a-religious-exemption-from-using-ai/ Comments URL: https://news.ycombinator.com/item?id=50273396 Points: 490 # Comments: 543",
+   "summary": "Article URL: https://religionnews.com/2026/10/26/in-a-first-a-humanist-granted-a-religious-exemption-from-using-ai/ Comments URL: https://news.ycombinator.com/item?id=50273396 Points: 491 # Comments: 544",
    "published": "2026-10-28T13:41:30+00:00",
    "topics": [],
    "first_seen": "2026-10-28T22:34:39+00:00"
@@ -9574,19 +9733,6 @@
    "published": "2026-10-01T00:00:00+00:00",
    "topics": [],
    "first_seen": "2026-10-11T09:46:44+00:00"
-  },
-  {
-   "id": "15e70ee5e4a75a6c",
-   "title": "Gemini 4 Argon: our next era of frontier intelligence",
-   "link": "https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/",
-   "source": "Google DeepMind",
-   "kind": "lab",
-   "summary": "",
-   "published": "2026-09-30T20:01:45+00:00",
-   "topics": [
-    "Models"
-   ],
-   "first_seen": "2026-10-11T16:19:26+00:00"
   }
  ]
 }
