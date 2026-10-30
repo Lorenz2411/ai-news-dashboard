@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-30T12:54:52+00:00",
+ "updated": "2026-10-30T19:21:53+00:00",
  "sources": [
   {
    "name": "OpenAI",
@@ -13,9 +13,9 @@
    "name": "Google DeepMind",
    "url": "https://deepmind.google/blog/rss.xml",
    "kind": "lab",
-   "ok": false,
-   "count": 0,
-   "error": "ParseError: not well-formed (invalid token): line 1, column 0"
+   "ok": true,
+   "count": 40,
+   "error": null
   },
   {
    "name": "Google AI",
@@ -92,17 +92,284 @@
  ],
  "items": [
   {
+   "id": "c4dbacf8aa2b8b7f",
+   "title": "Google’s satellite AI server transmits its first response to Earth",
+   "link": "https://www.theverge.com/tech/1023528/google-project-suncatcher-ai-satellite-transmission",
+   "source": "The Verge",
+   "kind": "press",
+   "summary": "Google's AI chip-equipped satellite has generated its first response from space. In a blog post on Friday, Google says it successfully booted up the satellite's Tensor Processing Units (TPUs), allowing the on-board Gemma 4 model to follow through on a prompt to create a haiku…",
+   "published": "2026-10-30T18:21:38+00:00",
+   "topics": [
+    "Models",
+    "Hardware"
+   ],
+   "first_seen": "2026-10-30T19:21:53+00:00"
+  },
+  {
+   "id": "b2263e9f84127c76",
+   "title": "nemotron-halloween",
+   "link": "https://huggingface.co/blog/nvidia/nemotron-halloween",
+   "source": "Hugging Face",
+   "kind": "lab",
+   "summary": "",
+   "published": "2026-10-30T17:57:24+00:00",
+   "topics": [],
+   "first_seen": "2026-10-30T19:21:53+00:00"
+  },
+  {
+   "id": "d52c9778a55e47ad",
+   "title": "Zest’s new AI agent finds restaurants and books reservations over text",
+   "link": "https://techcrunch.com/2026/10/30/zests-new-ai-agent-finds-restaurants-and-books-reservations-over-text/",
+   "source": "TechCrunch",
+   "kind": "press",
+   "summary": "Can't agree on where to eat? Zest's AI concierge can combine everyone's tastes, put restaurant options to a vote, and make the reservation.",
+   "published": "2026-10-30T17:47:12+00:00",
+   "topics": [
+    "Tools"
+   ],
+   "first_seen": "2026-10-30T19:21:53+00:00"
+  },
+  {
+   "id": "b10570d1171fb89b",
+   "title": "Fujifilm to boost tape production 5x as AI fuels archiving demand",
+   "link": "https://arstechnica.com/gadgets/2026/10/fujifilm-to-boost-tape-production-5x-as-ai-fuels-archiving-demand/",
+   "source": "Ars Technica",
+   "kind": "press",
+   "summary": "Low costs and offline security mean magnetic tape still has a job.",
+   "published": "2026-10-30T17:38:19+00:00",
+   "topics": [],
+   "first_seen": "2026-10-30T19:21:53+00:00"
+  },
+  {
+   "id": "0de3f9697e499aed",
+   "title": "Starbucks wants to use AI to show you a ‘personalized digital menu’ at the drive-thru",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/1023440/starbucks-ai-personalized-menu-drive-thru",
+   "source": "The Verge",
+   "kind": "press",
+   "summary": "Starbucks could eventually show you a personalized digital menu when you pull up to the drive-thru. During an earnings call on Thursday, Starbucks CEO Brian Niccol said the company is going to explore \"experiences that recognize participating customers as they arrive, present…",
+   "published": "2026-10-30T17:38:04+00:00",
+   "topics": [],
+   "first_seen": "2026-10-30T19:21:53+00:00"
+  },
+  {
+   "id": "88726a3bff9a54c5",
+   "title": "Proton's CEO Cancels AI 'Re-Interviews'",
+   "link": "https://www.404media.co/protons-ceo-cancels-ai-re-interviews/",
+   "source": "Hacker News",
+   "kind": "community",
+   "summary": "Article URL: https://www.404media.co/protons-ceo-cancels-ai-re-interviews/ Comments URL: https://news.ycombinator.com/item?id=50307183 Points: 183 # Comments: 148",
+   "published": "2026-10-30T17:24:45+00:00",
+   "topics": [],
+   "first_seen": "2026-10-30T19:21:53+00:00"
+  },
+  {
+   "id": "135f70cd39eb4ce6",
+   "title": "Google’s first data center satellite is online and writing poetry",
+   "link": "https://techcrunch.com/2026/10/30/googles-first-data-center-satellite-is-online-and-writing-poetry/",
+   "source": "TechCrunch",
+   "kind": "press",
+   "summary": "The first TPU in space is running a Google DeepMind Gemma 4 model and writing cheesy poetry.",
+   "published": "2026-10-30T17:00:00+00:00",
+   "topics": [
+    "Models",
+    "Hardware"
+   ],
+   "first_seen": "2026-10-30T19:21:53+00:00"
+  },
+  {
+   "id": "1a9f926a45b8d184",
+   "title": "Thousands of “ghost students” use AI to steal millions in student loans, DOJ says",
+   "link": "https://arstechnica.com/tech-policy/2026/10/doj-exposes-ghost-students-using-ai-to-complete-courses-steal-student-loans/",
+   "source": "Ars Technica",
+   "kind": "press",
+   "summary": "Applying for FAFSA may get messy as DOJ “ghost student” crackdown ramps up.",
+   "published": "2026-10-30T16:53:49+00:00",
+   "topics": [],
+   "first_seen": "2026-10-30T19:21:53+00:00"
+  },
+  {
+   "id": "1634c7b4a767843a",
+   "title": "US tech stocks see sharp falls over AI cost fears",
+   "link": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo",
+   "source": "Hacker News",
+   "kind": "community",
+   "summary": "Article URL: https://www.bbc.co.uk/news/articles/cvwy72e0n72yo Comments URL: https://news.ycombinator.com/item?id=50306008 Points: 195 # Comments: 199",
+   "published": "2026-10-30T16:13:02+00:00",
+   "topics": [],
+   "first_seen": "2026-10-30T19:21:53+00:00"
+  },
+  {
+   "id": "a973ac401cee8ade",
+   "title": "Wikipedia’s operator says a bad AI copyright ruling could threaten the open web",
+   "link": "https://www.theverge.com/policy/1022880/wikipedia-openai-new-york-times-copyright",
+   "source": "The Verge",
+   "kind": "press",
+   "summary": "The Wikimedia Foundation is staking out a middle ground in a group of landmark AI copyright cases, pushing courts to legally protect large language models (LLMs) training on copyrighted work - but not chatbots regurgitating that work to users. An overly black-and-white ruling…",
+   "published": "2026-10-30T16:08:56+00:00",
+   "topics": [
+    "Models",
+    "Policy"
+   ],
+   "first_seen": "2026-10-30T12:54:52+00:00"
+  },
+  {
+   "id": "8cb2db80dc5c1d4f",
+   "title": "Theranos whistleblower Tyler Shultz warns that the AI boom is ‘a great opportunity to go deceive people’",
+   "link": "https://techcrunch.com/2026/10/30/theranos-whistleblower-tyler-shultz-warns-that-the-ai-boom-is-a-great-opportunity-to-go-deceive-people/",
+   "source": "TechCrunch",
+   "kind": "press",
+   "summary": "The cautionary Theranos tale takes on a new significance in the AI era, when companies that have never turned a profit are raising capital at trillion-dollar valuations.",
+   "published": "2026-10-30T16:03:45+00:00",
+   "topics": [
+    "Business"
+   ],
+   "first_seen": "2026-10-30T19:21:53+00:00"
+  },
+  {
+   "id": "9e37c40a85b31b2e",
+   "title": "AI isn't replacing SREs, it's deskilling them",
+   "link": "https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling",
+   "source": "Hacker News",
+   "kind": "community",
+   "summary": "Article URL: https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling Comments URL: https://news.ycombinator.com/item?id=50305693 Points: 327 # Comments: 242",
+   "published": "2026-10-30T15:52:18+00:00",
+   "topics": [],
+   "first_seen": "2026-10-30T19:21:53+00:00"
+  },
+  {
+   "id": "974d9b85c8fb969a",
+   "title": "Pope Leo calls for the disarmament of AI: ‘Machines are tools, not persons’",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/1023188/pope-leo-disarm-ai",
+   "source": "The Verge",
+   "kind": "press",
+   "summary": "Pope Leo XIV says AI systems should be \"disarmed,\" adding that humans \"have the responsibility to guide, change and, when necessary, reject its applications.\" In Friday's Papal Address, Pope Leo encourages United Nations member states to \"take concrete steps toward banning…",
+   "published": "2026-10-30T15:14:37+00:00",
+   "topics": [],
+   "first_seen": "2026-10-30T19:21:53+00:00"
+  },
+  {
+   "id": "dbfbce585037fb7a",
+   "title": "Maine’s data center revolt will decide who controls the Senate",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/1021080/maine-senate-race-susan-collins-ai-data-centers",
+   "source": "The Verge",
+   "kind": "press",
+   "summary": "Maine Sen. Susan Collins, a Republican, was midway through defending her record during the final debate of the midterms when an audience member cut her short. \"I'm terrified,\" a man shouted. \"AI data centers are destroying our climate. They are poisoning our water.\" Collins…",
+   "published": "2026-10-30T14:40:29+00:00",
+   "topics": [
+    "Hardware"
+   ],
+   "first_seen": "2026-10-30T12:54:52+00:00"
+  },
+  {
+   "id": "40aed769d1c2e6f7",
+   "title": "Skip the small talk: Make game-changing connections at TechCrunch Founder Summit with Braindate",
+   "link": "https://techcrunch.com/2026/10/30/skip-the-small-talk-make-game-changing-connections-at-techcrunch-founder-summit-with-braindate/",
+   "source": "TechCrunch",
+   "kind": "press",
+   "summary": "At TechCrunch Founder Summit 2026, happening November 4 at SoWa Power Station in Boston, networking powered by Braindate is designed to make those conversations easier to find, whether they are in 1:1 or small-group on-site meetings. Register before the event starts to save up…",
+   "published": "2026-10-30T14:00:00+00:00",
+   "topics": [],
+   "first_seen": "2026-10-30T19:21:53+00:00"
+  },
+  {
+   "id": "f986a412ee0ee44d",
+   "title": "DoorDash said it’s only received ‘several hundred’ orders from AI agents",
+   "link": "https://techcrunch.com/2026/10/30/doordash-said-its-only-received-several-hundred-orders-from-ai-agents/",
+   "source": "TechCrunch",
+   "kind": "press",
+   "summary": "DoorDash said that it is open to working with third-party agent makers.",
+   "published": "2026-10-30T13:54:25+00:00",
+   "topics": [
+    "Tools"
+   ],
+   "first_seen": "2026-10-30T19:21:53+00:00"
+  },
+  {
+   "id": "5cfbd02556ec4a84",
+   "title": "Sam Altman sympathizes with mathematicians, but says OpenAI’s math onslaught won’t stop",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/1023054/altman-cheeky-pint-ai-math-interview",
+   "source": "The Verge",
+   "kind": "press",
+   "summary": "After months of bombarding mathematicians with a relentless stream of AI-generated results, OpenAI CEO Sam Altman says he sympathizes with researchers struggling to make sense of it all. But he has no intention of stopping - and hints there could be much more to come from the…",
+   "published": "2026-10-30T13:30:14+00:00",
+   "topics": [],
+   "first_seen": "2026-10-30T19:21:53+00:00"
+  },
+  {
+   "id": "5ec9437afb139212",
+   "title": "Silicon Valley wants you to invest in miracles",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/1023070/anthropic-ipo-risk-factors-filing-miracles",
+   "source": "The Verge",
+   "kind": "press",
+   "summary": "Investing in any stock is kind of like gambling in the sense that you're betting your money on a company's future performance. But how do you bet on a technology that could, in the worst-case scenario, \"pose catastrophic or existential risks to humanity,\" or best case, \"bring…",
+   "published": "2026-10-30T13:11:05+00:00",
+   "topics": [
+    "Business"
+   ],
+   "first_seen": "2026-10-30T19:21:53+00:00"
+  },
+  {
+   "id": "5135d63cacdd4300",
+   "title": "5 days left: Your last chance to connect, scale, and save at TechCrunch Founder Summit 2026",
+   "link": "https://techcrunch.com/2026/10/30/5-days-left-your-last-chance-to-connect-scale-and-save-at-techcrunch-founder-summit-2026/",
+   "source": "TechCrunch",
+   "kind": "press",
+   "summary": "5 days to save up to $100, plus a second pass for free to TechCrunch Founder Summit 2026 in Boston on November 4. Register now.",
+   "published": "2026-10-30T13:00:00+00:00",
+   "topics": [],
+   "first_seen": "2026-10-30T19:21:53+00:00"
+  },
+  {
+   "id": "cea73ec16e829377",
+   "title": "Can AI data centers be mass-produced like cars? This startup aims to find out",
+   "link": "https://techcrunch.com/2026/10/30/can-ai-data-centers-be-mass-produced-like-cars-and-online-in-48-hours-this-startup-aims-to-find-out/",
+   "source": "TechCrunch",
+   "kind": "press",
+   "summary": "Runware is building a factory to turn out prefabricated AI data centers on an assembly line. The real test will be whether it can deliver at that scale.",
+   "published": "2026-10-30T13:00:00+00:00",
+   "topics": [
+    "Business",
+    "Hardware"
+   ],
+   "first_seen": "2026-10-30T19:21:53+00:00"
+  },
+  {
    "id": "7e2aaf184ac3d7d5",
    "title": "Backdoors in official Claude Code extensions",
    "link": "https://cyberplace.social/@GossiTheDog/117528831681803563",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://cyberplace.social/@GossiTheDog/117528831681803563 Comments URL: https://news.ycombinator.com/item?id=50302334 Points: 322 # Comments: 82",
+   "summary": "Article URL: https://cyberplace.social/@GossiTheDog/117528831681803563 Comments URL: https://news.ycombinator.com/item?id=50302334 Points: 646 # Comments: 17",
    "published": "2026-10-30T11:05:53+00:00",
    "topics": [
     "Models"
    ],
    "first_seen": "2026-10-30T12:54:52+00:00"
+  },
+  {
+   "id": "a510883f6a1bc895",
+   "title": "Claude Code VS Code extension with backdoor released on Cursor marketplace",
+   "link": "https://doublepulsar.com/anthropic-hacked-to-deliver-remote-access-trojan-to-claude-developer-laptops-worldwide-1148a92baae2",
+   "source": "Hacker News",
+   "kind": "community",
+   "summary": "Article URL: https://doublepulsar.com/anthropic-hacked-to-deliver-remote-access-trojan-to-claude-developer-laptops-worldwide-1148a92baae2 Comments URL: https://news.ycombinator.com/item?id=50301983 Points: 396 # Comments: 1",
+   "published": "2026-10-30T10:22:51+00:00",
+   "topics": [
+    "Models",
+    "Tools"
+   ],
+   "first_seen": "2026-10-30T19:21:53+00:00"
+  },
+  {
+   "id": "25cc4c9bb2e3e7e5",
+   "title": "Making it easier for websites to express AI training preferences",
+   "link": "https://openai.com/index/helping-websites-express-ai-training-preferences",
+   "source": "OpenAI",
+   "kind": "lab",
+   "summary": "OpenAI will honor a shared robots.txt signal to help website operators communicate their AI training preferences to participating providers.",
+   "published": "2026-10-30T09:30:00+00:00",
+   "topics": [],
+   "first_seen": "2026-10-30T19:21:53+00:00"
   },
   {
    "id": "b91e16468749724e",
@@ -114,6 +381,32 @@
    "published": "2026-10-30T09:17:43+00:00",
    "topics": [],
    "first_seen": "2026-10-30T12:54:52+00:00"
+  },
+  {
+   "id": "c7606af40dbb903f",
+   "title": "Community safety report and new protections for teens",
+   "link": "https://openai.com/index/community-safety-report-and-new-protections-for-teens",
+   "source": "OpenAI",
+   "kind": "lab",
+   "summary": "OpenAI is strengthening violence prevention in ChatGPT with expanded safeguards, earlier interventions, and a new commitment to public safety reporting.",
+   "published": "2026-10-30T09:00:00+00:00",
+   "topics": [
+    "Policy"
+   ],
+   "first_seen": "2026-10-30T19:21:53+00:00"
+  },
+  {
+   "id": "1925bee6805a909d",
+   "title": "Backdoor in Claude Code for VS Code extension on the Cursor Marketplace",
+   "link": "https://phorion.io/blog/offical-claude-code-vsx-compromise/",
+   "source": "Hacker News",
+   "kind": "community",
+   "summary": "https://cursor.com/blog/claude-code-extension-security-notic... Comments URL: https://news.ycombinator.com/item?id=50300683 Points: 530 # Comments: 394",
+   "published": "2026-10-30T07:09:12+00:00",
+   "topics": [
+    "Models"
+   ],
+   "first_seen": "2026-10-30T19:21:53+00:00"
   },
   {
    "id": "3e1cebb1f9f3c615",
@@ -164,39 +457,12 @@
    "first_seen": "2026-10-29T23:56:36+00:00"
   },
   {
-   "id": "a973ac401cee8ade",
-   "title": "Wikipedia’s operator says a bad AI copyright ruling could threaten the open web",
-   "link": "https://www.theverge.com/policy/1022880/wikipedia-openai-new-york-times-copyright",
-   "source": "The Verge",
-   "kind": "press",
-   "summary": "The Wikimedia Foundation is staking out a middle ground in a group of landmark AI copyright cases, pushing courts to legally protect large language models (LLMs) training on copyrighted work - but not chatbots regurgitating that work to users. An overly black-and-white ruling…",
-   "published": "2026-10-29T22:43:40+00:00",
-   "topics": [
-    "Models",
-    "Policy"
-   ],
-   "first_seen": "2026-10-30T12:54:52+00:00"
-  },
-  {
-   "id": "dbfbce585037fb7a",
-   "title": "Maine’s data center revolt will decide who controls the Senate",
-   "link": "https://www.theverge.com/ai-artificial-intelligence/1021080/maine-senate-race-susan-collins-ai-data-centers",
-   "source": "The Verge",
-   "kind": "press",
-   "summary": "Maine Sen. Susan Collins, a Republican, was midway through defending her record during the final debate of the midterms when an audience member cut her short. \"I'm terrified,\" a man shouted. \"AI data centers are destroying our climate. They are poisoning our water.\" Collins…",
-   "published": "2026-10-29T22:30:39+00:00",
-   "topics": [
-    "Hardware"
-   ],
-   "first_seen": "2026-10-30T12:54:52+00:00"
-  },
-  {
    "id": "923d025e66a508f8",
    "title": "Proton goes all in on using AI",
    "link": "https://convo.casa/@b/117525936178835007",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://convo.casa/@b/117525936178835007 Comments URL: https://news.ycombinator.com/item?id=50296602 Points: 102 # Comments: 101",
+   "summary": "Article URL: https://convo.casa/@b/117525936178835007 Comments URL: https://news.ycombinator.com/item?id=50296602 Points: 113 # Comments: 112",
    "published": "2026-10-29T21:49:28+00:00",
    "topics": [],
    "first_seen": "2026-10-30T12:54:52+00:00"
@@ -207,7 +473,7 @@
    "link": "https://labs.ycombinator.com/projects/games/index.html",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://labs.ycombinator.com/projects/games/index.html Comments URL: https://news.ycombinator.com/item?id=50296486 Points: 323 # Comments: 124",
+   "summary": "Article URL: https://labs.ycombinator.com/projects/games/index.html Comments URL: https://news.ycombinator.com/item?id=50296486 Points: 383 # Comments: 161",
    "published": "2026-10-29T21:40:28+00:00",
    "topics": [
     "Tools"
@@ -305,7 +571,7 @@
    "link": "https://fig.blue/posts/duet-is-the-future/",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://fig.blue/posts/duet-is-the-future/ Comments URL: https://news.ycombinator.com/item?id=50292727 Points: 120 # Comments: 128",
+   "summary": "Article URL: https://fig.blue/posts/duet-is-the-future/ Comments URL: https://news.ycombinator.com/item?id=50292727 Points: 122 # Comments: 138",
    "published": "2026-10-29T17:24:25+00:00",
    "topics": [
     "Models"
@@ -421,7 +687,7 @@
    "link": "https://trakkr.ai/trakkr-research/zombie-stats",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://trakkr.ai/trakkr-research/zombie-stats Comments URL: https://news.ycombinator.com/item?id=50290283 Points: 169 # Comments: 67",
+   "summary": "Article URL: https://trakkr.ai/trakkr-research/zombie-stats Comments URL: https://news.ycombinator.com/item?id=50290283 Points: 175 # Comments: 71",
    "published": "2026-10-29T15:06:17+00:00",
    "topics": [
     "Research"
@@ -434,7 +700,7 @@
    "link": "https://martinfowler.com/bliki/LLM-Voice.html",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://martinfowler.com/bliki/LLM-Voice.html Comments URL: https://news.ycombinator.com/item?id=50290177 Points: 511 # Comments: 269",
+   "summary": "Article URL: https://martinfowler.com/bliki/LLM-Voice.html Comments URL: https://news.ycombinator.com/item?id=50290177 Points: 580 # Comments: 313",
    "published": "2026-10-29T14:57:55+00:00",
    "topics": [
     "Models"
@@ -461,7 +727,7 @@
    "link": "https://www.404media.co/manifestos-fear-and-loser-thinking-inside-protons-ai-reckoning/",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://www.404media.co/manifestos-fear-and-loser-thinking-inside-protons-ai-reckoning/ Comments URL: https://news.ycombinator.com/item?id=50289692 Points: 174 # Comments: 63",
+   "summary": "Article URL: https://www.404media.co/manifestos-fear-and-loser-thinking-inside-protons-ai-reckoning/ Comments URL: https://news.ycombinator.com/item?id=50289692 Points: 211 # Comments: 74",
    "published": "2026-10-29T14:29:06+00:00",
    "topics": [],
    "first_seen": "2026-10-29T23:56:36+00:00"
@@ -586,7 +852,7 @@
    "link": "https://gist.github.com/flamerix-ai/c3905705cc4205e5de3011fa2e74efce",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://gist.github.com/flamerix-ai/c3905705cc4205e5de3011fa2e74efce Comments URL: https://news.ycombinator.com/item?id=50284255 Points: 569 # Comments: 232",
+   "summary": "Article URL: https://gist.github.com/flamerix-ai/c3905705cc4205e5de3011fa2e74efce Comments URL: https://news.ycombinator.com/item?id=50284255 Points: 574 # Comments: 234",
    "published": "2026-10-29T03:33:42+00:00",
    "topics": [
     "Models",
@@ -630,6 +896,17 @@
     "Models"
    ],
    "first_seen": "2026-10-29T19:38:07+00:00"
+  },
+  {
+   "id": "6750c2461412185f",
+   "title": "Credit Saison achieves 954% ROI in a ChatGPT Enterprise pilot",
+   "link": "https://openai.com/index/credit-saison",
+   "source": "OpenAI",
+   "kind": "lab",
+   "summary": "Credit Saison’s ChatGPT Enterprise pilot delivered 954% ROI. See how leaders and employees helped turn the results into companywide adoption.",
+   "published": "2026-10-29T00:00:00+00:00",
+   "topics": [],
+   "first_seen": "2026-10-30T19:21:53+00:00"
   },
   {
    "id": "b0fbfced4c005ad4",
@@ -927,7 +1204,7 @@
    "link": "https://surgehq.ai/blog/dayjob-tax",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://surgehq.ai/blog/dayjob-tax Comments URL: https://news.ycombinator.com/item?id=50275626 Points: 258 # Comments: 173",
+   "summary": "Article URL: https://surgehq.ai/blog/dayjob-tax Comments URL: https://news.ycombinator.com/item?id=50275626 Points: 260 # Comments: 174",
    "published": "2026-10-28T15:46:30+00:00",
    "topics": [
     "Tools"
@@ -1007,7 +1284,7 @@
    "link": "https://religionnews.com/2026/10/26/in-a-first-a-humanist-granted-a-religious-exemption-from-using-ai/",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://religionnews.com/2026/10/26/in-a-first-a-humanist-granted-a-religious-exemption-from-using-ai/ Comments URL: https://news.ycombinator.com/item?id=50273396 Points: 489 # Comments: 537",
+   "summary": "Article URL: https://religionnews.com/2026/10/26/in-a-first-a-humanist-granted-a-religious-exemption-from-using-ai/ Comments URL: https://news.ycombinator.com/item?id=50273396 Points: 490 # Comments: 543",
    "published": "2026-10-28T13:41:30+00:00",
    "topics": [],
    "first_seen": "2026-10-28T22:34:39+00:00"
@@ -1234,7 +1511,7 @@
    "link": "https://www.brangus.io/survival-llm",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://www.brangus.io/survival-llm Comments URL: https://news.ycombinator.com/item?id=50264853 Points: 538 # Comments: 203",
+   "summary": "Article URL: https://www.brangus.io/survival-llm Comments URL: https://news.ycombinator.com/item?id=50264853 Points: 540 # Comments: 203",
    "published": "2026-10-27T19:55:06+00:00",
    "topics": [
     "Models"
@@ -1336,7 +1613,7 @@
    "link": "https://gizmodo.com/police-are-using-ai-to-pull-over-drivers-for-suspicious-behavior-2000831220",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://gizmodo.com/police-are-using-ai-to-pull-over-drivers-for-suspicious-behavior-2000831220 Comments URL: https://news.ycombinator.com/item?id=50261819 Points: 398 # Comments: 312",
+   "summary": "Article URL: https://gizmodo.com/police-are-using-ai-to-pull-over-drivers-for-suspicious-behavior-2000831220 Comments URL: https://news.ycombinator.com/item?id=50261819 Points: 398 # Comments: 313",
    "published": "2026-10-27T16:40:15+00:00",
    "topics": [],
    "first_seen": "2026-10-27T20:41:33+00:00"
@@ -9309,17 +9586,6 @@
    "topics": [
     "Models"
    ],
-   "first_seen": "2026-10-11T16:19:26+00:00"
-  },
-  {
-   "id": "0a622a33b8e3e3e9",
-   "title": "Introducing SynthID Bio",
-   "link": "https://deepmind.google/blog/introducing-synthid-bio/",
-   "source": "Google DeepMind",
-   "kind": "lab",
-   "summary": "Proof of concept for watermarking AI-generated proteins while preserving biological function.",
-   "published": "2026-09-30T15:03:07+00:00",
-   "topics": [],
    "first_seen": "2026-10-11T16:19:26+00:00"
   }
  ]
