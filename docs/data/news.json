@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-31T12:28:18+00:00",
+ "updated": "2026-10-31T18:33:42+00:00",
  "sources": [
   {
    "name": "OpenAI",
@@ -91,6 +91,30 @@
   }
  ],
  "items": [
+  {
+   "id": "344dcf79744aa216",
+   "title": "OpenAI reportedly lowers funding target for new round",
+   "link": "https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/",
+   "source": "TechCrunch",
+   "kind": "press",
+   "summary": "OpenAI’s latest funding round doesn't seem to be living up to expectations.",
+   "published": "2026-10-31T16:12:55+00:00",
+   "topics": [
+    "Business"
+   ],
+   "first_seen": "2026-10-31T18:33:42+00:00"
+  },
+  {
+   "id": "ed0268fa6e325c7b",
+   "title": "I built an AI Tamagotchi before Meta could",
+   "link": "https://www.theverge.com/gadgets/1013375/muse-charm-gadgets-preview-waveshare-esp32-claude-vibe-code",
+   "source": "The Verge",
+   "kind": "press",
+   "summary": "Mark Zuckerberg's Meta made AI look so stinking cute by giving it a squishy little face - and this holiday season, he wants to sell you a Muse Charm so you can carry your jolly AI helper around like a Tamagotchi. But I won't be buying one, because we have Muse Charm at home. It…",
+   "published": "2026-10-31T16:09:02+00:00",
+   "topics": [],
+   "first_seen": "2026-10-31T18:33:42+00:00"
+  },
   {
    "id": "6336aff37e57b820",
    "title": "Nvidia weighs playing the cosigner for Nscale’s AI data center in West Virginia",
@@ -345,7 +369,7 @@
    "link": "https://www.404media.co/protons-ceo-cancels-ai-re-interviews/",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://www.404media.co/protons-ceo-cancels-ai-re-interviews/ Comments URL: https://news.ycombinator.com/item?id=50307183 Points: 279 # Comments: 232",
+   "summary": "Article URL: https://www.404media.co/protons-ceo-cancels-ai-re-interviews/ Comments URL: https://news.ycombinator.com/item?id=50307183 Points: 288 # Comments: 242",
    "published": "2026-10-30T17:24:45+00:00",
    "topics": [],
    "first_seen": "2026-10-30T19:21:53+00:00"
@@ -381,7 +405,7 @@
    "link": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://www.bbc.co.uk/news/articles/cvwy72e0n72yo Comments URL: https://news.ycombinator.com/item?id=50306008 Points: 258 # Comments: 284",
+   "summary": "Article URL: https://www.bbc.co.uk/news/articles/cvwy72e0n72yo Comments URL: https://news.ycombinator.com/item?id=50306008 Points: 262 # Comments: 293",
    "published": "2026-10-30T16:13:02+00:00",
    "topics": [],
    "first_seen": "2026-10-30T19:21:53+00:00"
@@ -419,7 +443,7 @@
    "link": "https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling Comments URL: https://news.ycombinator.com/item?id=50305693 Points: 608 # Comments: 455",
+   "summary": "Article URL: https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling Comments URL: https://news.ycombinator.com/item?id=50305693 Points: 634 # Comments: 467",
    "published": "2026-10-30T15:52:18+00:00",
    "topics": [],
    "first_seen": "2026-10-30T19:21:53+00:00"
@@ -454,7 +478,7 @@
    "link": "https://fortune.com/2026/10/30/cisco-president-jeetu-patel-gen-z-27-year-old-unlimited-ai-tokens-rewrite-legacy-code-entry-level-jobs/",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://fortune.com/2026/10/30/cisco-president-jeetu-patel-gen-z-27-year-old-unlimited-ai-tokens-rewrite-legacy-code-entry-level-jobs/ Comments URL: https://news.ycombinator.com/item?id=50304122 Points: 212 # Comments: 256",
+   "summary": "Article URL: https://fortune.com/2026/10/30/cisco-president-jeetu-patel-gen-z-27-year-old-unlimited-ai-tokens-rewrite-legacy-code-entry-level-jobs/ Comments URL: https://news.ycombinator.com/item?id=50304122 Points: 291 # Comments: 345",
    "published": "2026-10-30T14:08:20+00:00",
    "topics": [],
    "first_seen": "2026-10-31T05:39:37+00:00"
@@ -587,7 +611,7 @@
    "link": "https://phorion.io/blog/offical-claude-code-vsx-compromise/",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "https://cursor.com/blog/claude-code-extension-security-notic... Comments URL: https://news.ycombinator.com/item?id=50300683 Points: 915 # Comments: 535",
+   "summary": "https://cursor.com/blog/claude-code-extension-security-notic... Comments URL: https://news.ycombinator.com/item?id=50300683 Points: 958 # Comments: 544",
    "published": "2026-10-30T07:09:12+00:00",
    "topics": [
     "Models"
@@ -659,7 +683,7 @@
    "link": "https://twitter.com/sgondala2/status/2115832070274723875",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://twitter.com/sgondala2/status/2115832070274723875 Comments URL: https://news.ycombinator.com/item?id=50296730 Points: 164 # Comments: 185",
+   "summary": "Article URL: https://twitter.com/sgondala2/status/2115832070274723875 Comments URL: https://news.ycombinator.com/item?id=50296730 Points: 175 # Comments: 192",
    "published": "2026-10-29T21:58:34+00:00",
    "topics": [],
    "first_seen": "2026-10-31T05:39:37+00:00"
@@ -670,7 +694,7 @@
    "link": "https://convo.casa/@b/117525936178835007",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://convo.casa/@b/117525936178835007 Comments URL: https://news.ycombinator.com/item?id=50296602 Points: 118 # Comments: 114",
+   "summary": "Article URL: https://convo.casa/@b/117525936178835007 Comments URL: https://news.ycombinator.com/item?id=50296602 Points: 120 # Comments: 116",
    "published": "2026-10-29T21:49:28+00:00",
    "topics": [],
    "first_seen": "2026-10-30T12:54:52+00:00"
@@ -681,7 +705,7 @@
    "link": "https://labs.ycombinator.com/projects/games/index.html",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://labs.ycombinator.com/projects/games/index.html Comments URL: https://news.ycombinator.com/item?id=50296486 Points: 403 # Comments: 166",
+   "summary": "Article URL: https://labs.ycombinator.com/projects/games/index.html Comments URL: https://news.ycombinator.com/item?id=50296486 Points: 410 # Comments: 167",
    "published": "2026-10-29T21:40:28+00:00",
    "topics": [
     "Tools"
@@ -779,7 +803,7 @@
    "link": "https://fig.blue/posts/duet-is-the-future/",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://fig.blue/posts/duet-is-the-future/ Comments URL: https://news.ycombinator.com/item?id=50292727 Points: 124 # Comments: 139",
+   "summary": "Article URL: https://fig.blue/posts/duet-is-the-future/ Comments URL: https://news.ycombinator.com/item?id=50292727 Points: 125 # Comments: 139",
    "published": "2026-10-29T17:24:25+00:00",
    "topics": [
     "Models"
@@ -890,12 +914,23 @@
    "first_seen": "2026-10-29T19:38:07+00:00"
   },
   {
+   "id": "54a7e21cbe6d5ade",
+   "title": "AI, Lean, and the Future of Formal Verification, with Lean Creator Leo de Moura",
+   "link": "https://thedataexchange.media/leo-de-moura-lean-aws/",
+   "source": "Hacker News",
+   "kind": "community",
+   "summary": "Article URL: https://thedataexchange.media/leo-de-moura-lean-aws/ Comments URL: https://news.ycombinator.com/item?id=50290652 Points: 153 # Comments: 35",
+   "published": "2026-10-29T15:29:48+00:00",
+   "topics": [],
+   "first_seen": "2026-10-31T18:33:42+00:00"
+  },
+  {
    "id": "bd43dca7b97353c9",
    "title": "Zombie stats: Where the numbers AI quotes come from",
    "link": "https://trakkr.ai/trakkr-research/zombie-stats",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://trakkr.ai/trakkr-research/zombie-stats Comments URL: https://news.ycombinator.com/item?id=50290283 Points: 179 # Comments: 72",
+   "summary": "Article URL: https://trakkr.ai/trakkr-research/zombie-stats Comments URL: https://news.ycombinator.com/item?id=50290283 Points: 180 # Comments: 72",
    "published": "2026-10-29T15:06:17+00:00",
    "topics": [
     "Research"
@@ -908,7 +943,7 @@
    "link": "https://martinfowler.com/bliki/LLM-Voice.html",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://martinfowler.com/bliki/LLM-Voice.html Comments URL: https://news.ycombinator.com/item?id=50290177 Points: 598 # Comments: 329",
+   "summary": "Article URL: https://martinfowler.com/bliki/LLM-Voice.html Comments URL: https://news.ycombinator.com/item?id=50290177 Points: 604 # Comments: 333",
    "published": "2026-10-29T14:57:55+00:00",
    "topics": [
     "Models"
@@ -935,7 +970,7 @@
    "link": "https://www.404media.co/manifestos-fear-and-loser-thinking-inside-protons-ai-reckoning/",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://www.404media.co/manifestos-fear-and-loser-thinking-inside-protons-ai-reckoning/ Comments URL: https://news.ycombinator.com/item?id=50289692 Points: 229 # Comments: 81",
+   "summary": "Article URL: https://www.404media.co/manifestos-fear-and-loser-thinking-inside-protons-ai-reckoning/ Comments URL: https://news.ycombinator.com/item?id=50289692 Points: 230 # Comments: 85",
    "published": "2026-10-29T14:29:06+00:00",
    "topics": [],
    "first_seen": "2026-10-29T23:56:36+00:00"
@@ -1060,7 +1095,7 @@
    "link": "https://gist.github.com/flamerix-ai/c3905705cc4205e5de3011fa2e74efce",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://gist.github.com/flamerix-ai/c3905705cc4205e5de3011fa2e74efce Comments URL: https://news.ycombinator.com/item?id=50284255 Points: 583 # Comments: 235",
+   "summary": "Article URL: https://gist.github.com/flamerix-ai/c3905705cc4205e5de3011fa2e74efce Comments URL: https://news.ycombinator.com/item?id=50284255 Points: 584 # Comments: 235",
    "published": "2026-10-29T03:33:42+00:00",
    "topics": [
     "Models",
@@ -1492,7 +1527,7 @@
    "link": "https://religionnews.com/2026/10/26/in-a-first-a-humanist-granted-a-religious-exemption-from-using-ai/",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://religionnews.com/2026/10/26/in-a-first-a-humanist-granted-a-religious-exemption-from-using-ai/ Comments URL: https://news.ycombinator.com/item?id=50273396 Points: 491 # Comments: 546",
+   "summary": "Article URL: https://religionnews.com/2026/10/26/in-a-first-a-humanist-granted-a-religious-exemption-from-using-ai/ Comments URL: https://news.ycombinator.com/item?id=50273396 Points: 491 # Comments: 547",
    "published": "2026-10-28T13:41:30+00:00",
    "topics": [],
    "first_seen": "2026-10-28T22:34:39+00:00"
@@ -9707,55 +9742,6 @@
    "published": "2026-10-01T20:11:55+00:00",
    "topics": [
     "Policy"
-   ],
-   "first_seen": "2026-10-11T09:46:44+00:00"
-  },
-  {
-   "id": "88caa1a107f0635d",
-   "title": "pwasm 0.2a0",
-   "link": "https://simonwillison.net/2026/Oct/1/pwasm/",
-   "source": "Simon Willison",
-   "kind": "community",
-   "summary": "Release: pwasm 0.2a0 pwasm is one of my folly projects - an entirely vibe-coded pure Python WebAssembly engine that I built in January during my first bout of AI mania . I hadn't touched it since January, so I decided to let Claude Opus 5.5 loose on it and see if it could make…",
-   "published": "2026-10-01T17:10:31+00:00",
-   "topics": [
-    "Models",
-    "Tools"
-   ],
-   "first_seen": "2026-10-11T09:46:44+00:00"
-  },
-  {
-   "id": "7e67b43cf9d0e609",
-   "title": "The eternal complement",
-   "link": "https://openai.com/index/the-eternal-complement",
-   "source": "OpenAI",
-   "kind": "lab",
-   "summary": "Advanced AI may matter most for the routine work behind breakthrough ideas. Explore why execution could shape the next economy and the pace of progress.",
-   "published": "2026-10-01T17:00:00+00:00",
-   "topics": [],
-   "first_seen": "2026-10-11T09:46:44+00:00"
-  },
-  {
-   "id": "decb5d86e7448725",
-   "title": "With most information hidden, the game Stratego had stumped AI—until now",
-   "link": "https://arstechnica.com/science/2026/10/ai-finally-beat-the-best-stratego-player-in-history-and-did-it-on-a-budget/",
-   "source": "Ars Technica",
-   "kind": "press",
-   "summary": "Adding in a second neural network that guesses the identity of hidden pieces was key.",
-   "published": "2026-10-01T16:28:04+00:00",
-   "topics": [],
-   "first_seen": "2026-10-11T09:46:44+00:00"
-  },
-  {
-   "id": "a80484c2d5849bdb",
-   "title": "How Albertsons Companies is reimagining retail from the inside out",
-   "link": "https://openai.com/index/albertsons-reimagining-retail",
-   "source": "OpenAI",
-   "kind": "lab",
-   "summary": "Albertsons Cos. is using ChatGPT Enterprise and the OpenAI API to help teams work faster and make grocery shopping easier for millions of customers.",
-   "published": "2026-10-01T16:00:00+00:00",
-   "topics": [
-    "Tools"
    ],
    "first_seen": "2026-10-11T09:46:44+00:00"
   }
