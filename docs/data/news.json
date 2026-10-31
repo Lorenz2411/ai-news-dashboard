@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-30T23:45:50+00:00",
+ "updated": "2026-10-31T05:39:37+00:00",
  "sources": [
   {
    "name": "OpenAI",
@@ -13,9 +13,9 @@
    "name": "Google DeepMind",
    "url": "https://deepmind.google/blog/rss.xml",
    "kind": "lab",
-   "ok": false,
-   "count": 0,
-   "error": "ParseError: not well-formed (invalid token): line 1, column 0"
+   "ok": true,
+   "count": 40,
+   "error": null
   },
   {
    "name": "Google AI",
@@ -92,6 +92,20 @@
  ],
  "items": [
   {
+   "id": "6336aff37e57b820",
+   "title": "Nvidia weighs playing the cosigner for Nscale’s AI data center in West Virginia",
+   "link": "https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/",
+   "source": "TechCrunch",
+   "kind": "press",
+   "summary": "When investors get nervous about AI spending, it helps to have the chipmaker that sells the chips offer to cosign the loan.",
+   "published": "2026-10-31T01:20:05+00:00",
+   "topics": [
+    "Business",
+    "Hardware"
+   ],
+   "first_seen": "2026-10-31T05:39:37+00:00"
+  },
+  {
    "id": "43523836c60442d9",
    "title": "Ollie, a privacy-focused AI assistant, is shutting down",
    "link": "https://techcrunch.com/2026/10/30/ollie-a-privacy-focused-ai-assistant-is-shutting-down/",
@@ -101,6 +115,19 @@
    "published": "2026-10-30T22:56:13+00:00",
    "topics": [],
    "first_seen": "2026-10-30T23:45:50+00:00"
+  },
+  {
+   "id": "011fdc062b2b84be",
+   "title": "Apple Intelligence is finally coming to China with iOS 27.3",
+   "link": "https://www.theverge.com/tech/1023974/apple-intelligence-china-ios-27-3",
+   "source": "The Verge",
+   "kind": "press",
+   "summary": "Apple will launch Apple Intelligence in China with iOS 27.3, the company announced on its Chinese newsroom website, as reported by MacRumors. The Apple Intelligence features will be available first in an iOS 27.3 beta that's set to launch on November 4th, with a full iOS 27.3…",
+   "published": "2026-10-30T22:32:53+00:00",
+   "topics": [
+    "Tools"
+   ],
+   "first_seen": "2026-10-31T05:39:37+00:00"
   },
   {
    "id": "25a528e218b1080c",
@@ -318,7 +345,7 @@
    "link": "https://www.404media.co/protons-ceo-cancels-ai-re-interviews/",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://www.404media.co/protons-ceo-cancels-ai-re-interviews/ Comments URL: https://news.ycombinator.com/item?id=50307183 Points: 252 # Comments: 209",
+   "summary": "Article URL: https://www.404media.co/protons-ceo-cancels-ai-re-interviews/ Comments URL: https://news.ycombinator.com/item?id=50307183 Points: 267 # Comments: 221",
    "published": "2026-10-30T17:24:45+00:00",
    "topics": [],
    "first_seen": "2026-10-30T19:21:53+00:00"
@@ -354,7 +381,7 @@
    "link": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://www.bbc.co.uk/news/articles/cvwy72e0n72yo Comments URL: https://news.ycombinator.com/item?id=50306008 Points: 229 # Comments: 256",
+   "summary": "Article URL: https://www.bbc.co.uk/news/articles/cvwy72e0n72yo Comments URL: https://news.ycombinator.com/item?id=50306008 Points: 247 # Comments: 280",
    "published": "2026-10-30T16:13:02+00:00",
    "topics": [],
    "first_seen": "2026-10-30T19:21:53+00:00"
@@ -392,7 +419,7 @@
    "link": "https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling Comments URL: https://news.ycombinator.com/item?id=50305693 Points: 472 # Comments: 353",
+   "summary": "Article URL: https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling Comments URL: https://news.ycombinator.com/item?id=50305693 Points: 546 # Comments: 407",
    "published": "2026-10-30T15:52:18+00:00",
    "topics": [],
    "first_seen": "2026-10-30T19:21:53+00:00"
@@ -420,6 +447,17 @@
     "Hardware"
    ],
    "first_seen": "2026-10-30T12:54:52+00:00"
+  },
+  {
+   "id": "5d1e722469ff2de9",
+   "title": "Cisco gives engineer unlimited AI tokens to rewrite legacy code",
+   "link": "https://fortune.com/2026/10/30/cisco-president-jeetu-patel-gen-z-27-year-old-unlimited-ai-tokens-rewrite-legacy-code-entry-level-jobs/",
+   "source": "Hacker News",
+   "kind": "community",
+   "summary": "Article URL: https://fortune.com/2026/10/30/cisco-president-jeetu-patel-gen-z-27-year-old-unlimited-ai-tokens-rewrite-legacy-code-entry-level-jobs/ Comments URL: https://news.ycombinator.com/item?id=50304122 Points: 141 # Comments: 178",
+   "published": "2026-10-30T14:08:20+00:00",
+   "topics": [],
+   "first_seen": "2026-10-31T05:39:37+00:00"
   },
   {
    "id": "40aed769d1c2e6f7",
@@ -487,7 +525,7 @@
    "link": "https://cyberplace.social/@GossiTheDog/117528831681803563",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://cyberplace.social/@GossiTheDog/117528831681803563 Comments URL: https://news.ycombinator.com/item?id=50302334 Points: 652 # Comments: 17",
+   "summary": "Article URL: https://cyberplace.social/@GossiTheDog/117528831681803563 Comments URL: https://news.ycombinator.com/item?id=50302334 Points: 655 # Comments: 17",
    "published": "2026-10-30T11:05:53+00:00",
    "topics": [
     "Models"
@@ -500,7 +538,7 @@
    "link": "https://doublepulsar.com/anthropic-hacked-to-deliver-remote-access-trojan-to-claude-developer-laptops-worldwide-1148a92baae2",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://doublepulsar.com/anthropic-hacked-to-deliver-remote-access-trojan-to-claude-developer-laptops-worldwide-1148a92baae2 Comments URL: https://news.ycombinator.com/item?id=50301983 Points: 397 # Comments: 1",
+   "summary": "Article URL: https://doublepulsar.com/anthropic-hacked-to-deliver-remote-access-trojan-to-claude-developer-laptops-worldwide-1148a92baae2 Comments URL: https://news.ycombinator.com/item?id=50301983 Points: 399 # Comments: 1",
    "published": "2026-10-30T10:22:51+00:00",
    "topics": [
     "Models",
@@ -549,7 +587,7 @@
    "link": "https://phorion.io/blog/offical-claude-code-vsx-compromise/",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "https://cursor.com/blog/claude-code-extension-security-notic... Comments URL: https://news.ycombinator.com/item?id=50300683 Points: 724 # Comments: 451",
+   "summary": "https://cursor.com/blog/claude-code-extension-security-notic... Comments URL: https://news.ycombinator.com/item?id=50300683 Points: 855 # Comments: 512",
    "published": "2026-10-30T07:09:12+00:00",
    "topics": [
     "Models"
@@ -616,12 +654,23 @@
    "first_seen": "2026-10-29T23:56:36+00:00"
   },
   {
+   "id": "2f083e35c49b477d",
+   "title": "Building an AI-native engineering org",
+   "link": "https://twitter.com/sgondala2/status/2115832070274723875",
+   "source": "Hacker News",
+   "kind": "community",
+   "summary": "Article URL: https://twitter.com/sgondala2/status/2115832070274723875 Comments URL: https://news.ycombinator.com/item?id=50296730 Points: 129 # Comments: 168",
+   "published": "2026-10-29T21:58:34+00:00",
+   "topics": [],
+   "first_seen": "2026-10-31T05:39:37+00:00"
+  },
+  {
    "id": "923d025e66a508f8",
    "title": "Proton goes all in on using AI",
    "link": "https://convo.casa/@b/117525936178835007",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://convo.casa/@b/117525936178835007 Comments URL: https://news.ycombinator.com/item?id=50296602 Points: 115 # Comments: 113",
+   "summary": "Article URL: https://convo.casa/@b/117525936178835007 Comments URL: https://news.ycombinator.com/item?id=50296602 Points: 115 # Comments: 114",
    "published": "2026-10-29T21:49:28+00:00",
    "topics": [],
    "first_seen": "2026-10-30T12:54:52+00:00"
@@ -632,7 +681,7 @@
    "link": "https://labs.ycombinator.com/projects/games/index.html",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://labs.ycombinator.com/projects/games/index.html Comments URL: https://news.ycombinator.com/item?id=50296486 Points: 393 # Comments: 163",
+   "summary": "Article URL: https://labs.ycombinator.com/projects/games/index.html Comments URL: https://news.ycombinator.com/item?id=50296486 Points: 400 # Comments: 165",
    "published": "2026-10-29T21:40:28+00:00",
    "topics": [
     "Tools"
@@ -859,7 +908,7 @@
    "link": "https://martinfowler.com/bliki/LLM-Voice.html",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://martinfowler.com/bliki/LLM-Voice.html Comments URL: https://news.ycombinator.com/item?id=50290177 Points: 588 # Comments: 321",
+   "summary": "Article URL: https://martinfowler.com/bliki/LLM-Voice.html Comments URL: https://news.ycombinator.com/item?id=50290177 Points: 593 # Comments: 328",
    "published": "2026-10-29T14:57:55+00:00",
    "topics": [
     "Models"
@@ -886,7 +935,7 @@
    "link": "https://www.404media.co/manifestos-fear-and-loser-thinking-inside-protons-ai-reckoning/",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://www.404media.co/manifestos-fear-and-loser-thinking-inside-protons-ai-reckoning/ Comments URL: https://news.ycombinator.com/item?id=50289692 Points: 222 # Comments: 79",
+   "summary": "Article URL: https://www.404media.co/manifestos-fear-and-loser-thinking-inside-protons-ai-reckoning/ Comments URL: https://news.ycombinator.com/item?id=50289692 Points: 223 # Comments: 80",
    "published": "2026-10-29T14:29:06+00:00",
    "topics": [],
    "first_seen": "2026-10-29T23:56:36+00:00"
@@ -1011,7 +1060,7 @@
    "link": "https://gist.github.com/flamerix-ai/c3905705cc4205e5de3011fa2e74efce",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://gist.github.com/flamerix-ai/c3905705cc4205e5de3011fa2e74efce Comments URL: https://news.ycombinator.com/item?id=50284255 Points: 579 # Comments: 235",
+   "summary": "Article URL: https://gist.github.com/flamerix-ai/c3905705cc4205e5de3011fa2e74efce Comments URL: https://news.ycombinator.com/item?id=50284255 Points: 582 # Comments: 235",
    "published": "2026-10-29T03:33:42+00:00",
    "topics": [
     "Models",
@@ -1363,7 +1412,7 @@
    "link": "https://surgehq.ai/blog/dayjob-tax",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://surgehq.ai/blog/dayjob-tax Comments URL: https://news.ycombinator.com/item?id=50275626 Points: 261 # Comments: 174",
+   "summary": "Article URL: https://surgehq.ai/blog/dayjob-tax Comments URL: https://news.ycombinator.com/item?id=50275626 Points: 263 # Comments: 174",
    "published": "2026-10-28T15:46:30+00:00",
    "topics": [
     "Tools"
@@ -1656,7 +1705,7 @@
    "link": "https://www.anthropic.com/research/early-progress-drug-development",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://www.anthropic.com/research/early-progress-drug-development Comments URL: https://news.ycombinator.com/item?id=50265609 Points: 328 # Comments: 347",
+   "summary": "Article URL: https://www.anthropic.com/research/early-progress-drug-development Comments URL: https://news.ycombinator.com/item?id=50265609 Points: 328 # Comments: 349",
    "published": "2026-10-27T20:50:42+00:00",
    "topics": [
     "Models",
@@ -9721,17 +9770,6 @@
    "topics": [
     "Tools"
    ],
-   "first_seen": "2026-10-11T09:46:44+00:00"
-  },
-  {
-   "id": "3bba527585738108",
-   "title": "The Den frees up 10-15 hours a week to grow with ChatGPT Work",
-   "link": "https://openai.com/index/the-den-family-social",
-   "source": "OpenAI",
-   "kind": "lab",
-   "summary": "As it opens a new location, the social club prepares grant applications in 2 hours instead of 3 days and liquor-license materials in 3 hours instead of 4 days.",
-   "published": "2026-10-01T00:00:00+00:00",
-   "topics": [],
    "first_seen": "2026-10-11T09:46:44+00:00"
   }
  ]
