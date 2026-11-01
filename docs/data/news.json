@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-01T06:03:15+00:00",
+ "updated": "2026-11-01T13:23:33+00:00",
  "sources": [
   {
    "name": "OpenAI",
@@ -13,9 +13,9 @@
    "name": "Google DeepMind",
    "url": "https://deepmind.google/blog/rss.xml",
    "kind": "lab",
-   "ok": true,
-   "count": 40,
-   "error": null
+   "ok": false,
+   "count": 0,
+   "error": "ParseError: not well-formed (invalid token): line 1, column 0"
   },
   {
    "name": "Google AI",
@@ -92,6 +92,17 @@
  ],
  "items": [
   {
+   "id": "fe548f5497379fbf",
+   "title": "The AI cost of JavaScript frameworks",
+   "link": "https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/",
+   "source": "Hacker News",
+   "kind": "community",
+   "summary": "Article URL: https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/ Comments URL: https://news.ycombinator.com/item?id=50323088 Points: 130 # Comments: 82",
+   "published": "2026-11-01T06:06:19+00:00",
+   "topics": [],
+   "first_seen": "2026-11-01T13:23:33+00:00"
+  },
+  {
    "id": "0def4a2fca6b3a20",
    "title": "How We Took Over ChatGPT Accounts",
    "link": "https://simonwillison.net/2026/Oct/31/how-we-took-over-chatgpt-accounts/",
@@ -161,7 +172,7 @@
    "link": "https://mashable.com/tech/anthropic-takes-steps-to-block-video-game-cloning-and-reverse-engineering",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://mashable.com/tech/anthropic-takes-steps-to-block-video-game-cloning-and-reverse-engineering Comments URL: https://news.ycombinator.com/item?id=50320255 Points: 126 # Comments: 77",
+   "summary": "Article URL: https://mashable.com/tech/anthropic-takes-steps-to-block-video-game-cloning-and-reverse-engineering Comments URL: https://news.ycombinator.com/item?id=50320255 Points: 157 # Comments: 100",
    "published": "2026-10-31T21:07:58+00:00",
    "topics": [
     "Models"
@@ -174,7 +185,7 @@
    "link": "https://ryanmadden.net/gpt-56-beats-factorio/",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://ryanmadden.net/gpt-56-beats-factorio/ Comments URL: https://news.ycombinator.com/item?id=50318871 Points: 164 # Comments: 178",
+   "summary": "Article URL: https://ryanmadden.net/gpt-56-beats-factorio/ Comments URL: https://news.ycombinator.com/item?id=50318871 Points: 173 # Comments: 184",
    "published": "2026-10-31T18:50:34+00:00",
    "topics": [
     "Models"
@@ -459,7 +470,7 @@
    "link": "https://www.404media.co/protons-ceo-cancels-ai-re-interviews/",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://www.404media.co/protons-ceo-cancels-ai-re-interviews/ Comments URL: https://news.ycombinator.com/item?id=50307183 Points: 291 # Comments: 249",
+   "summary": "Article URL: https://www.404media.co/protons-ceo-cancels-ai-re-interviews/ Comments URL: https://news.ycombinator.com/item?id=50307183 Points: 291 # Comments: 252",
    "published": "2026-10-30T17:24:45+00:00",
    "topics": [],
    "first_seen": "2026-10-30T19:21:53+00:00"
@@ -495,7 +506,7 @@
    "link": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://www.bbc.co.uk/news/articles/cvwy72e0n72yo Comments URL: https://news.ycombinator.com/item?id=50306008 Points: 267 # Comments: 295",
+   "summary": "Article URL: https://www.bbc.co.uk/news/articles/cvwy72e0n72yo Comments URL: https://news.ycombinator.com/item?id=50306008 Points: 267 # Comments: 296",
    "published": "2026-10-30T16:13:02+00:00",
    "topics": [],
    "first_seen": "2026-10-30T19:21:53+00:00"
@@ -533,7 +544,7 @@
    "link": "https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling Comments URL: https://news.ycombinator.com/item?id=50305693 Points: 650 # Comments: 475",
+   "summary": "Article URL: https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling Comments URL: https://news.ycombinator.com/item?id=50305693 Points: 655 # Comments: 476",
    "published": "2026-10-30T15:52:18+00:00",
    "topics": [],
    "first_seen": "2026-10-30T19:21:53+00:00"
@@ -568,7 +579,7 @@
    "link": "https://fortune.com/2026/10/30/cisco-president-jeetu-patel-gen-z-27-year-old-unlimited-ai-tokens-rewrite-legacy-code-entry-level-jobs/",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://fortune.com/2026/10/30/cisco-president-jeetu-patel-gen-z-27-year-old-unlimited-ai-tokens-rewrite-legacy-code-entry-level-jobs/ Comments URL: https://news.ycombinator.com/item?id=50304122 Points: 303 # Comments: 378",
+   "summary": "Article URL: https://fortune.com/2026/10/30/cisco-president-jeetu-patel-gen-z-27-year-old-unlimited-ai-tokens-rewrite-legacy-code-entry-level-jobs/ Comments URL: https://news.ycombinator.com/item?id=50304122 Points: 308 # Comments: 382",
    "published": "2026-10-30T14:08:20+00:00",
    "topics": [],
    "first_seen": "2026-10-31T05:39:37+00:00"
@@ -639,7 +650,7 @@
    "link": "https://cyberplace.social/@GossiTheDog/117528831681803563",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://cyberplace.social/@GossiTheDog/117528831681803563 Comments URL: https://news.ycombinator.com/item?id=50302334 Points: 656 # Comments: 17",
+   "summary": "Article URL: https://cyberplace.social/@GossiTheDog/117528831681803563 Comments URL: https://news.ycombinator.com/item?id=50302334 Points: 659 # Comments: 17",
    "published": "2026-10-30T11:05:53+00:00",
    "topics": [
     "Models"
@@ -701,7 +712,7 @@
    "link": "https://phorion.io/blog/offical-claude-code-vsx-compromise/",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "https://cursor.com/blog/claude-code-extension-security-notic... Comments URL: https://news.ycombinator.com/item?id=50300683 Points: 972 # Comments: 547",
+   "summary": "https://cursor.com/blog/claude-code-extension-security-notic... Comments URL: https://news.ycombinator.com/item?id=50300683 Points: 979 # Comments: 548",
    "published": "2026-10-30T07:09:12+00:00",
    "topics": [
     "Models"
@@ -773,7 +784,7 @@
    "link": "https://twitter.com/sgondala2/status/2115832070274723875",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://twitter.com/sgondala2/status/2115832070274723875 Comments URL: https://news.ycombinator.com/item?id=50296730 Points: 185 # Comments: 196",
+   "summary": "Article URL: https://twitter.com/sgondala2/status/2115832070274723875 Comments URL: https://news.ycombinator.com/item?id=50296730 Points: 187 # Comments: 196",
    "published": "2026-10-29T21:58:34+00:00",
    "topics": [],
    "first_seen": "2026-10-31T05:39:37+00:00"
@@ -893,7 +904,7 @@
    "link": "https://fig.blue/posts/duet-is-the-future/",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://fig.blue/posts/duet-is-the-future/ Comments URL: https://news.ycombinator.com/item?id=50292727 Points: 125 # Comments: 140",
+   "summary": "Article URL: https://fig.blue/posts/duet-is-the-future/ Comments URL: https://news.ycombinator.com/item?id=50292727 Points: 125 # Comments: 141",
    "published": "2026-10-29T17:24:25+00:00",
    "topics": [
     "Models"
@@ -1009,7 +1020,7 @@
    "link": "https://thedataexchange.media/leo-de-moura-lean-aws/",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://thedataexchange.media/leo-de-moura-lean-aws/ Comments URL: https://news.ycombinator.com/item?id=50290652 Points: 196 # Comments: 47",
+   "summary": "Article URL: https://thedataexchange.media/leo-de-moura-lean-aws/ Comments URL: https://news.ycombinator.com/item?id=50290652 Points: 208 # Comments: 50",
    "published": "2026-10-29T15:29:48+00:00",
    "topics": [],
    "first_seen": "2026-10-31T18:33:42+00:00"
@@ -1060,7 +1071,7 @@
    "link": "https://www.404media.co/manifestos-fear-and-loser-thinking-inside-protons-ai-reckoning/",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://www.404media.co/manifestos-fear-and-loser-thinking-inside-protons-ai-reckoning/ Comments URL: https://news.ycombinator.com/item?id=50289692 Points: 232 # Comments: 89",
+   "summary": "Article URL: https://www.404media.co/manifestos-fear-and-loser-thinking-inside-protons-ai-reckoning/ Comments URL: https://news.ycombinator.com/item?id=50289692 Points: 236 # Comments: 89",
    "published": "2026-10-29T14:29:06+00:00",
    "topics": [],
    "first_seen": "2026-10-29T23:56:36+00:00"
@@ -1342,17 +1353,6 @@
    "first_seen": "2026-10-28T22:34:39+00:00"
   },
   {
-   "id": "0676def7896cb16a",
-   "title": "Google AI gets cagey when asked who won the 2020 elections",
-   "link": "https://arstechnica.com/ai/2026/10/google-ai-gets-cagey-when-asked-who-won-the-2020-elections/",
-   "source": "Hacker News",
-   "kind": "community",
-   "summary": "Article URL: https://arstechnica.com/ai/2026/10/google-ai-gets-cagey-when-asked-who-won-the-2020-elections/ Comments URL: https://news.ycombinator.com/item?id=50280178 Points: 171 # Comments: 76",
-   "published": "2026-10-28T20:10:16+00:00",
-   "topics": [],
-   "first_seen": "2026-10-28T22:34:39+00:00"
-  },
-  {
    "id": "fc7d1d71bde9a18e",
    "title": "Google launches Gemini 4 Carbon with a ‘significant leap’ in cybersecurity",
    "link": "https://www.theverge.com/tech/1021339/google-gemini-4-carbon-cybersecurity-frontier",
@@ -1445,6 +1445,17 @@
    "topics": [
     "Tools"
    ],
+   "first_seen": "2026-10-28T22:34:39+00:00"
+  },
+  {
+   "id": "0676def7896cb16a",
+   "title": "Google AI gets cagey when asked who won the 2020 elections",
+   "link": "https://arstechnica.com/ai/2026/10/google-ai-gets-cagey-when-asked-who-won-the-2020-elections/",
+   "source": "Ars Technica",
+   "kind": "press",
+   "summary": "But the AI responses get more forthright when asked outside the US.",
+   "published": "2026-10-28T17:46:32+00:00",
+   "topics": [],
    "first_seen": "2026-10-28T22:34:39+00:00"
   },
   {
@@ -9780,19 +9791,6 @@
    "topics": [
     "Tools",
     "Hardware"
-   ],
-   "first_seen": "2026-10-11T09:46:44+00:00"
-  },
-  {
-   "id": "1c435808300fbe63",
-   "title": "Don’t be fooled—LLMs don’t reason",
-   "link": "https://www.technologyreview.com/2026/10/02/1145639/dont-be-fooled-llms-dont-reason/",
-   "source": "MIT Technology Review",
-   "kind": "press",
-   "summary": "On an afternoon in Seoul in March 2016, I watched a program I helped build put a stone on the fifth line of a Go board in what looked like a gift to its human opponent. Move 37 in game two of the five-game match looked so absurd that some commentators thought it was a…",
-   "published": "2026-10-02T08:00:00+00:00",
-   "topics": [
-    "Models"
    ],
    "first_seen": "2026-10-11T09:46:44+00:00"
   }
