@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-01T13:23:33+00:00",
+ "updated": "2026-11-01T18:56:15+00:00",
  "sources": [
   {
    "name": "OpenAI",
@@ -13,9 +13,9 @@
    "name": "Google DeepMind",
    "url": "https://deepmind.google/blog/rss.xml",
    "kind": "lab",
-   "ok": false,
-   "count": 0,
-   "error": "ParseError: not well-formed (invalid token): line 1, column 0"
+   "ok": true,
+   "count": 40,
+   "error": null
   },
   {
    "name": "Google AI",
@@ -92,12 +92,38 @@
  ],
  "items": [
   {
+   "id": "835fd1406315e6b3",
+   "title": "Quoting Kyle Kingsbury",
+   "link": "https://simonwillison.net/2026/Nov/1/kyle-kingsbury/",
+   "source": "Simon Willison",
+   "kind": "community",
+   "summary": "More broadly, the use of LLMs erodes trust in documentation, in software, and in the organizations which produce them. Perhaps engineers will begin to treat any new software project with suspicion—the signals we used to rely on as markers of a mature system are now easier to…",
+   "published": "2026-11-01T16:49:04+00:00",
+   "topics": [
+    "Models"
+   ],
+   "first_seen": "2026-11-01T18:56:15+00:00"
+  },
+  {
+   "id": "8f7e0709d34eb152",
+   "title": "AI agent swarms in Minecraft fail to build civilization, drown in bureaucracy",
+   "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-agent-swarms-unleashed-in-minecraft-to-build-a-thriving-civilization-50-agent-teams-fail-after-falling-into-paralyzing-bureaucracy",
+   "source": "Hacker News",
+   "kind": "community",
+   "summary": "Article URL: https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-agent-swarms-unleashed-in-minecraft-to-build-a-thriving-civilization-50-agent-teams-fail-after-falling-into-paralyzing-bureaucracy Comments URL: https://news.ycombinator.com/item?id=50325662…",
+   "published": "2026-11-01T13:47:24+00:00",
+   "topics": [
+    "Tools"
+   ],
+   "first_seen": "2026-11-01T18:56:15+00:00"
+  },
+  {
    "id": "fe548f5497379fbf",
    "title": "The AI cost of JavaScript frameworks",
    "link": "https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/ Comments URL: https://news.ycombinator.com/item?id=50323088 Points: 130 # Comments: 82",
+   "summary": "Article URL: https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/ Comments URL: https://news.ycombinator.com/item?id=50323088 Points: 227 # Comments: 157",
    "published": "2026-11-01T06:06:19+00:00",
    "topics": [],
    "first_seen": "2026-11-01T13:23:33+00:00"
@@ -172,7 +198,7 @@
    "link": "https://mashable.com/tech/anthropic-takes-steps-to-block-video-game-cloning-and-reverse-engineering",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://mashable.com/tech/anthropic-takes-steps-to-block-video-game-cloning-and-reverse-engineering Comments URL: https://news.ycombinator.com/item?id=50320255 Points: 157 # Comments: 100",
+   "summary": "Article URL: https://mashable.com/tech/anthropic-takes-steps-to-block-video-game-cloning-and-reverse-engineering Comments URL: https://news.ycombinator.com/item?id=50320255 Points: 173 # Comments: 106",
    "published": "2026-10-31T21:07:58+00:00",
    "topics": [
     "Models"
@@ -185,7 +211,7 @@
    "link": "https://ryanmadden.net/gpt-56-beats-factorio/",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://ryanmadden.net/gpt-56-beats-factorio/ Comments URL: https://news.ycombinator.com/item?id=50318871 Points: 173 # Comments: 184",
+   "summary": "Article URL: https://ryanmadden.net/gpt-56-beats-factorio/ Comments URL: https://news.ycombinator.com/item?id=50318871 Points: 176 # Comments: 187",
    "published": "2026-10-31T18:50:34+00:00",
    "topics": [
     "Models"
@@ -470,7 +496,7 @@
    "link": "https://www.404media.co/protons-ceo-cancels-ai-re-interviews/",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://www.404media.co/protons-ceo-cancels-ai-re-interviews/ Comments URL: https://news.ycombinator.com/item?id=50307183 Points: 291 # Comments: 252",
+   "summary": "Article URL: https://www.404media.co/protons-ceo-cancels-ai-re-interviews/ Comments URL: https://news.ycombinator.com/item?id=50307183 Points: 294 # Comments: 254",
    "published": "2026-10-30T17:24:45+00:00",
    "topics": [],
    "first_seen": "2026-10-30T19:21:53+00:00"
@@ -506,7 +532,7 @@
    "link": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://www.bbc.co.uk/news/articles/cvwy72e0n72yo Comments URL: https://news.ycombinator.com/item?id=50306008 Points: 267 # Comments: 296",
+   "summary": "Article URL: https://www.bbc.co.uk/news/articles/cvwy72e0n72yo Comments URL: https://news.ycombinator.com/item?id=50306008 Points: 269 # Comments: 299",
    "published": "2026-10-30T16:13:02+00:00",
    "topics": [],
    "first_seen": "2026-10-30T19:21:53+00:00"
@@ -544,7 +570,7 @@
    "link": "https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling Comments URL: https://news.ycombinator.com/item?id=50305693 Points: 655 # Comments: 476",
+   "summary": "Article URL: https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling Comments URL: https://news.ycombinator.com/item?id=50305693 Points: 662 # Comments: 481",
    "published": "2026-10-30T15:52:18+00:00",
    "topics": [],
    "first_seen": "2026-10-30T19:21:53+00:00"
@@ -579,7 +605,7 @@
    "link": "https://fortune.com/2026/10/30/cisco-president-jeetu-patel-gen-z-27-year-old-unlimited-ai-tokens-rewrite-legacy-code-entry-level-jobs/",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://fortune.com/2026/10/30/cisco-president-jeetu-patel-gen-z-27-year-old-unlimited-ai-tokens-rewrite-legacy-code-entry-level-jobs/ Comments URL: https://news.ycombinator.com/item?id=50304122 Points: 308 # Comments: 382",
+   "summary": "Article URL: https://fortune.com/2026/10/30/cisco-president-jeetu-patel-gen-z-27-year-old-unlimited-ai-tokens-rewrite-legacy-code-entry-level-jobs/ Comments URL: https://news.ycombinator.com/item?id=50304122 Points: 311 # Comments: 382",
    "published": "2026-10-30T14:08:20+00:00",
    "topics": [],
    "first_seen": "2026-10-31T05:39:37+00:00"
@@ -650,7 +676,7 @@
    "link": "https://cyberplace.social/@GossiTheDog/117528831681803563",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://cyberplace.social/@GossiTheDog/117528831681803563 Comments URL: https://news.ycombinator.com/item?id=50302334 Points: 659 # Comments: 17",
+   "summary": "Article URL: https://cyberplace.social/@GossiTheDog/117528831681803563 Comments URL: https://news.ycombinator.com/item?id=50302334 Points: 660 # Comments: 17",
    "published": "2026-10-30T11:05:53+00:00",
    "topics": [
     "Models"
@@ -712,7 +738,7 @@
    "link": "https://phorion.io/blog/offical-claude-code-vsx-compromise/",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "https://cursor.com/blog/claude-code-extension-security-notic... Comments URL: https://news.ycombinator.com/item?id=50300683 Points: 979 # Comments: 548",
+   "summary": "https://cursor.com/blog/claude-code-extension-security-notic... Comments URL: https://news.ycombinator.com/item?id=50300683 Points: 986 # Comments: 549",
    "published": "2026-10-30T07:09:12+00:00",
    "topics": [
     "Models"
@@ -784,7 +810,7 @@
    "link": "https://twitter.com/sgondala2/status/2115832070274723875",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://twitter.com/sgondala2/status/2115832070274723875 Comments URL: https://news.ycombinator.com/item?id=50296730 Points: 187 # Comments: 196",
+   "summary": "Article URL: https://twitter.com/sgondala2/status/2115832070274723875 Comments URL: https://news.ycombinator.com/item?id=50296730 Points: 188 # Comments: 198",
    "published": "2026-10-29T21:58:34+00:00",
    "topics": [],
    "first_seen": "2026-10-31T05:39:37+00:00"
@@ -795,7 +821,7 @@
    "link": "https://convo.casa/@b/117525936178835007",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://convo.casa/@b/117525936178835007 Comments URL: https://news.ycombinator.com/item?id=50296602 Points: 120 # Comments: 117",
+   "summary": "Article URL: https://convo.casa/@b/117525936178835007 Comments URL: https://news.ycombinator.com/item?id=50296602 Points: 121 # Comments: 117",
    "published": "2026-10-29T21:49:28+00:00",
    "topics": [],
    "first_seen": "2026-10-30T12:54:52+00:00"
@@ -806,7 +832,7 @@
    "link": "https://labs.ycombinator.com/projects/games/index.html",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://labs.ycombinator.com/projects/games/index.html Comments URL: https://news.ycombinator.com/item?id=50296486 Points: 412 # Comments: 169",
+   "summary": "Article URL: https://labs.ycombinator.com/projects/games/index.html Comments URL: https://news.ycombinator.com/item?id=50296486 Points: 416 # Comments: 170",
    "published": "2026-10-29T21:40:28+00:00",
    "topics": [
     "Tools"
@@ -1020,10 +1046,21 @@
    "link": "https://thedataexchange.media/leo-de-moura-lean-aws/",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://thedataexchange.media/leo-de-moura-lean-aws/ Comments URL: https://news.ycombinator.com/item?id=50290652 Points: 208 # Comments: 50",
+   "summary": "Article URL: https://thedataexchange.media/leo-de-moura-lean-aws/ Comments URL: https://news.ycombinator.com/item?id=50290652 Points: 208 # Comments: 53",
    "published": "2026-10-29T15:29:48+00:00",
    "topics": [],
    "first_seen": "2026-10-31T18:33:42+00:00"
+  },
+  {
+   "id": "790b37efd76c04c3",
+   "title": "No AI, 52 min. Build all Linux Files utils in C by Hand [video]",
+   "link": "https://www.youtube.com/watch?v=gQRmSlcTq9c",
+   "source": "Hacker News",
+   "kind": "community",
+   "summary": "Article URL: https://www.youtube.com/watch?v=gQRmSlcTq9c Comments URL: https://news.ycombinator.com/item?id=50290480 Points: 120 # Comments: 98",
+   "published": "2026-10-29T15:20:04+00:00",
+   "topics": [],
+   "first_seen": "2026-11-01T18:56:15+00:00"
   },
   {
    "id": "bd43dca7b97353c9",
@@ -9724,72 +9761,6 @@
    "summary": "Amazon praised for ending NDAs but slammed for downplaying data center pollution.",
    "published": "2026-10-02T20:30:27+00:00",
    "topics": [
-    "Hardware"
-   ],
-   "first_seen": "2026-10-11T09:46:44+00:00"
-  },
-  {
-   "id": "d3db30efe56f6be9",
-   "title": "US arrests tech CEO accused of smuggling $300M in Nvidia chips into China",
-   "link": "https://arstechnica.com/tech-policy/2026/10/us-arrests-tech-ceo-accused-of-smuggling-300m-in-nvidia-chips-into-china/",
-   "source": "Ars Technica",
-   "kind": "press",
-   "summary": "Nvidia’s chip-smuggling problem won’t go away as arrests continue.",
-   "published": "2026-10-02T18:39:36+00:00",
-   "topics": [
-    "Hardware"
-   ],
-   "first_seen": "2026-10-11T09:46:44+00:00"
-  },
-  {
-   "id": "8e206c4d9ed6ea5b",
-   "title": "A model guide for the GPT-6 family",
-   "link": "https://openai.com/index/practical-guide-building-gpt-6",
-   "source": "OpenAI",
-   "kind": "lab",
-   "summary": "Learn how startups can choose GPT-6 models, tune reasoning effort, improve prompts and skills, coordinate tools, and prepare workflows for production.",
-   "published": "2026-10-02T16:15:00+00:00",
-   "topics": [
-    "Models",
-    "Business"
-   ],
-   "first_seen": "2026-10-11T09:46:44+00:00"
-  },
-  {
-   "id": "063821072894f928",
-   "title": "Redefining enterprise intelligence with autonomous AI",
-   "link": "https://www.technologyreview.com/2026/10/02/1143774/redefining-enterprise-intelligence-with-autonomous-ai/",
-   "source": "MIT Technology Review",
-   "kind": "press",
-   "summary": "Enterprise AI is no longer a future ambition. It is in full operational flight. Model capabilities are advancing faster than most organizations can absorb, while the cost of performance continues to fall. Globally, AI investment is set to reach $2.5 trillion in 2026, up 44% from…",
-   "published": "2026-10-02T15:49:04+00:00",
-   "topics": [
-    "Models",
-    "Business"
-   ],
-   "first_seen": "2026-10-11T09:46:44+00:00"
-  },
-  {
-   "id": "1122627a66dfc215",
-   "title": "The latest AI news we announced in September 2026",
-   "link": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-september-2026/",
-   "source": "Google AI",
-   "kind": "lab",
-   "summary": "",
-   "published": "2026-10-02T15:00:00+00:00",
-   "topics": [],
-   "first_seen": "2026-10-11T09:46:44+00:00"
-  },
-  {
-   "id": "d3446779ff0f63d4",
-   "title": "The 7-year-old Nvidia Shield TV is now $100 more expensive due to AI",
-   "link": "https://arstechnica.com/gadgets/2026/10/the-7-year-old-nvidia-shield-tv-is-now-100-more-expensive-thanks-to-ai/",
-   "source": "Ars Technica",
-   "kind": "press",
-   "summary": "Initially launched in 2019, the Nvidia Shield TV Pro now retails for $299.99.",
-   "published": "2026-10-02T14:52:16+00:00",
-   "topics": [
-    "Tools",
     "Hardware"
    ],
    "first_seen": "2026-10-11T09:46:44+00:00"
