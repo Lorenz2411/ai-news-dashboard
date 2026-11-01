@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-01T18:56:15+00:00",
+ "updated": "2026-11-01T23:35:32+00:00",
  "sources": [
   {
    "name": "OpenAI",
@@ -92,6 +92,52 @@
  ],
  "items": [
   {
+   "id": "ffb30fef9594cc91",
+   "title": "If in doubt, delete the uv.lock file",
+   "link": "https://simonwillison.net/2026/Nov/1/delete-uv-lock-first/",
+   "source": "Simon Willison",
+   "kind": "community",
+   "summary": "I've been getting the occasional confusing Python dependency error since switching over to Python 3.15 and the rule I'm having to remember is: If in doubt, delete the uv.lock file Most of my projects are libraries which don't include a uv.lock file, since it's rude for a library…",
+   "published": "2026-11-01T23:24:22+00:00",
+   "topics": [],
+   "first_seen": "2026-11-01T23:35:32+00:00"
+  },
+  {
+   "id": "33c086ca1438f528",
+   "title": "OpenAI might rebrand its data centers as ‘AI compute campuses’",
+   "link": "https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/",
+   "source": "TechCrunch",
+   "kind": "press",
+   "summary": "Data centers are deeply unpopular. But what if we called them something else?",
+   "published": "2026-11-01T21:55:23+00:00",
+   "topics": [
+    "Hardware"
+   ],
+   "first_seen": "2026-11-01T23:35:32+00:00"
+  },
+  {
+   "id": "0ae10264665c4816",
+   "title": "AI can make tech CEOs’ lives easier. What about everyone else?",
+   "link": "https://techcrunch.com/2026/11/01/ai-can-make-tech-ceos-lives-easier-what-about-everyone-else/",
+   "source": "TechCrunch",
+   "kind": "press",
+   "summary": "On Equity, we discuss why tech CEO statements can seem so tone deaf.",
+   "published": "2026-11-01T20:57:58+00:00",
+   "topics": [],
+   "first_seen": "2026-11-01T23:35:32+00:00"
+  },
+  {
+   "id": "2fe1a46c58aa5273",
+   "title": "It wasn't AI that flipped Proton's charge",
+   "link": "https://blog.raed.dev/posts/proton-loser-thinking/",
+   "source": "Hacker News",
+   "kind": "community",
+   "summary": "Article URL: https://blog.raed.dev/posts/proton-loser-thinking/ Comments URL: https://news.ycombinator.com/item?id=50328488 Points: 134 # Comments: 79",
+   "published": "2026-11-01T18:53:55+00:00",
+   "topics": [],
+   "first_seen": "2026-11-01T23:35:32+00:00"
+  },
+  {
    "id": "835fd1406315e6b3",
    "title": "Quoting Kyle Kingsbury",
    "link": "https://simonwillison.net/2026/Nov/1/kyle-kingsbury/",
@@ -123,7 +169,7 @@
    "link": "https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/ Comments URL: https://news.ycombinator.com/item?id=50323088 Points: 227 # Comments: 157",
+   "summary": "Article URL: https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/ Comments URL: https://news.ycombinator.com/item?id=50323088 Points: 274 # Comments: 215",
    "published": "2026-11-01T06:06:19+00:00",
    "topics": [],
    "first_seen": "2026-11-01T13:23:33+00:00"
@@ -198,7 +244,7 @@
    "link": "https://mashable.com/tech/anthropic-takes-steps-to-block-video-game-cloning-and-reverse-engineering",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://mashable.com/tech/anthropic-takes-steps-to-block-video-game-cloning-and-reverse-engineering Comments URL: https://news.ycombinator.com/item?id=50320255 Points: 173 # Comments: 106",
+   "summary": "Article URL: https://mashable.com/tech/anthropic-takes-steps-to-block-video-game-cloning-and-reverse-engineering Comments URL: https://news.ycombinator.com/item?id=50320255 Points: 180 # Comments: 112",
    "published": "2026-10-31T21:07:58+00:00",
    "topics": [
     "Models"
@@ -496,7 +542,7 @@
    "link": "https://www.404media.co/protons-ceo-cancels-ai-re-interviews/",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://www.404media.co/protons-ceo-cancels-ai-re-interviews/ Comments URL: https://news.ycombinator.com/item?id=50307183 Points: 294 # Comments: 254",
+   "summary": "Article URL: https://www.404media.co/protons-ceo-cancels-ai-re-interviews/ Comments URL: https://news.ycombinator.com/item?id=50307183 Points: 296 # Comments: 254",
    "published": "2026-10-30T17:24:45+00:00",
    "topics": [],
    "first_seen": "2026-10-30T19:21:53+00:00"
@@ -532,7 +578,7 @@
    "link": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://www.bbc.co.uk/news/articles/cvwy72e0n72yo Comments URL: https://news.ycombinator.com/item?id=50306008 Points: 269 # Comments: 299",
+   "summary": "Article URL: https://www.bbc.co.uk/news/articles/cvwy72e0n72yo Comments URL: https://news.ycombinator.com/item?id=50306008 Points: 269 # Comments: 300",
    "published": "2026-10-30T16:13:02+00:00",
    "topics": [],
    "first_seen": "2026-10-30T19:21:53+00:00"
@@ -570,7 +616,7 @@
    "link": "https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling Comments URL: https://news.ycombinator.com/item?id=50305693 Points: 662 # Comments: 481",
+   "summary": "Article URL: https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling Comments URL: https://news.ycombinator.com/item?id=50305693 Points: 664 # Comments: 482",
    "published": "2026-10-30T15:52:18+00:00",
    "topics": [],
    "first_seen": "2026-10-30T19:21:53+00:00"
@@ -676,7 +722,7 @@
    "link": "https://cyberplace.social/@GossiTheDog/117528831681803563",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://cyberplace.social/@GossiTheDog/117528831681803563 Comments URL: https://news.ycombinator.com/item?id=50302334 Points: 660 # Comments: 17",
+   "summary": "Article URL: https://cyberplace.social/@GossiTheDog/117528831681803563 Comments URL: https://news.ycombinator.com/item?id=50302334 Points: 661 # Comments: 17",
    "published": "2026-10-30T11:05:53+00:00",
    "topics": [
     "Models"
@@ -738,7 +784,7 @@
    "link": "https://phorion.io/blog/offical-claude-code-vsx-compromise/",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "https://cursor.com/blog/claude-code-extension-security-notic... Comments URL: https://news.ycombinator.com/item?id=50300683 Points: 986 # Comments: 549",
+   "summary": "https://cursor.com/blog/claude-code-extension-security-notic... Comments URL: https://news.ycombinator.com/item?id=50300683 Points: 990 # Comments: 553",
    "published": "2026-10-30T07:09:12+00:00",
    "topics": [
     "Models"
@@ -810,7 +856,7 @@
    "link": "https://twitter.com/sgondala2/status/2115832070274723875",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://twitter.com/sgondala2/status/2115832070274723875 Comments URL: https://news.ycombinator.com/item?id=50296730 Points: 188 # Comments: 198",
+   "summary": "Article URL: https://twitter.com/sgondala2/status/2115832070274723875 Comments URL: https://news.ycombinator.com/item?id=50296730 Points: 188 # Comments: 199",
    "published": "2026-10-29T21:58:34+00:00",
    "topics": [],
    "first_seen": "2026-10-31T05:39:37+00:00"
@@ -832,7 +878,7 @@
    "link": "https://labs.ycombinator.com/projects/games/index.html",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://labs.ycombinator.com/projects/games/index.html Comments URL: https://news.ycombinator.com/item?id=50296486 Points: 416 # Comments: 170",
+   "summary": "Article URL: https://labs.ycombinator.com/projects/games/index.html Comments URL: https://news.ycombinator.com/item?id=50296486 Points: 417 # Comments: 170",
    "published": "2026-10-29T21:40:28+00:00",
    "topics": [
     "Tools"
@@ -930,7 +976,7 @@
    "link": "https://fig.blue/posts/duet-is-the-future/",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://fig.blue/posts/duet-is-the-future/ Comments URL: https://news.ycombinator.com/item?id=50292727 Points: 125 # Comments: 141",
+   "summary": "Article URL: https://fig.blue/posts/duet-is-the-future/ Comments URL: https://news.ycombinator.com/item?id=50292727 Points: 126 # Comments: 141",
    "published": "2026-10-29T17:24:25+00:00",
    "topics": [
     "Models"
@@ -1046,7 +1092,7 @@
    "link": "https://thedataexchange.media/leo-de-moura-lean-aws/",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://thedataexchange.media/leo-de-moura-lean-aws/ Comments URL: https://news.ycombinator.com/item?id=50290652 Points: 208 # Comments: 53",
+   "summary": "Article URL: https://thedataexchange.media/leo-de-moura-lean-aws/ Comments URL: https://news.ycombinator.com/item?id=50290652 Points: 209 # Comments: 53",
    "published": "2026-10-29T15:29:48+00:00",
    "topics": [],
    "first_seen": "2026-10-31T18:33:42+00:00"
@@ -1057,7 +1103,7 @@
    "link": "https://www.youtube.com/watch?v=gQRmSlcTq9c",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://www.youtube.com/watch?v=gQRmSlcTq9c Comments URL: https://news.ycombinator.com/item?id=50290480 Points: 120 # Comments: 98",
+   "summary": "Article URL: https://www.youtube.com/watch?v=gQRmSlcTq9c Comments URL: https://news.ycombinator.com/item?id=50290480 Points: 128 # Comments: 107",
    "published": "2026-10-29T15:20:04+00:00",
    "topics": [],
    "first_seen": "2026-11-01T18:56:15+00:00"
@@ -9725,43 +9771,6 @@
    "published": "2026-10-03T22:00:31+00:00",
    "topics": [
     "Models"
-   ],
-   "first_seen": "2026-10-11T09:46:44+00:00"
-  },
-  {
-   "id": "6ee8ae0821d338b7",
-   "title": "Apple changes full-disk access permissions to curb abuse from AI agents",
-   "link": "https://arstechnica.com/security/2026/10/apple-changes-full-disk-access-permissions-to-curb-abuse-from-ai-agents/",
-   "source": "Ars Technica",
-   "kind": "press",
-   "summary": "Meta says FDA isn't sufficient to Muse reading messages. Apple begs to differ.",
-   "published": "2026-10-02T23:03:16+00:00",
-   "topics": [
-    "Tools"
-   ],
-   "first_seen": "2026-10-11T09:46:44+00:00"
-  },
-  {
-   "id": "da9bc33d3feb59e4",
-   "title": "Rex's Dino Store",
-   "link": "https://simonwillison.net/2026/Oct/2/rex-s-dino-store/",
-   "source": "Simon Willison",
-   "kind": "community",
-   "summary": "Museum: Rex's Dino Store Located just before the turnstiles in the Grand Army Plaza subway station at the north end of Brooklyn's Prospect Park is this former newsstand which is now operated by a dinosaur. The density of dinosaur puns is exceptional . Tags: art , new-york",
-   "published": "2026-10-02T22:57:38+00:00",
-   "topics": [],
-   "first_seen": "2026-10-11T09:46:44+00:00"
-  },
-  {
-   "id": "f10ac2fa6ec29335",
-   "title": "Amazon’s $1B plan to combat data center backlash draws more backlash",
-   "link": "https://arstechnica.com/tech-policy/2026/10/amazons-1b-plan-to-combat-data-center-backlash-draws-more-backlash/",
-   "source": "Ars Technica",
-   "kind": "press",
-   "summary": "Amazon praised for ending NDAs but slammed for downplaying data center pollution.",
-   "published": "2026-10-02T20:30:27+00:00",
-   "topics": [
-    "Hardware"
    ],
    "first_seen": "2026-10-11T09:46:44+00:00"
   }
