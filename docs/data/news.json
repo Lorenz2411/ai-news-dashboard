@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-02T15:50:34+00:00",
+ "updated": "2026-11-02T23:29:28+00:00",
  "sources": [
   {
    "name": "OpenAI",
@@ -85,12 +85,174 @@
    "name": "Hacker News",
    "url": "https://hnrss.org/newest?q=AI+OR+LLM+OR+GPT+OR+Claude&points=100",
    "kind": "community",
-   "ok": true,
-   "count": 20,
-   "error": null
+   "ok": false,
+   "count": 0,
+   "error": "HTTPError: HTTP Error 502: Bad Gateway"
   }
  ],
  "items": [
+  {
+   "id": "dc6c7ef2ed74ce88",
+   "title": "The New York Times sues Brave web browser for AI scraping and bypassing paywalls",
+   "link": "https://www.theverge.com/tech/1024588/brave-lawsuit-ai-scraping-new-york-times",
+   "source": "The Verge",
+   "kind": "press",
+   "summary": "The New York Times and a group of other publications have filed lawsuits against the company that makes the Brave web browser over alleged unlawful scraping to train AI and also letting users bypass their paywalls, as reported by Reuters. According to a complaint filed by the…",
+   "published": "2026-11-02T23:20:01+00:00",
+   "topics": [
+    "Policy"
+   ],
+   "first_seen": "2026-11-02T23:29:28+00:00"
+  },
+  {
+   "id": "19ce29ebfa962815",
+   "title": "Trajectory raises $45M to make AI model training accessible to nontechnical experts",
+   "link": "https://techcrunch.com/2026/11/02/trajectory-raises-45m-to-make-ai-model-training-accessible-to-nontechnical-experts/",
+   "source": "TechCrunch",
+   "kind": "press",
+   "summary": "The one-year-old startup is now valued at $300 million.",
+   "published": "2026-11-02T23:13:53+00:00",
+   "topics": [
+    "Models",
+    "Business"
+   ],
+   "first_seen": "2026-11-02T23:29:28+00:00"
+  },
+  {
+   "id": "e3f3f6c0c50f4c4d",
+   "title": "Anthropic clamps down on Claude’s AI video game clones",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/1024632/anthropic-claude-ai-video-game-clones",
+   "source": "The Verge",
+   "kind": "press",
+   "summary": "Anthropic has updated Claude Code's system prompt to prevent the AI tool from being used to re-create existing video games, as reported by Tom's Hardware. Retro gaming is currently being overrun with AI-made decompilations, recompilations, and ports, but while Anthropic will…",
+   "published": "2026-11-02T22:57:16+00:00",
+   "topics": [
+    "Models"
+   ],
+   "first_seen": "2026-11-02T23:29:28+00:00"
+  },
+  {
+   "id": "55dd7e97ced5d872",
+   "title": "Anthropic warns that it’s very close to RSI capability, aka self-building AI",
+   "link": "https://techcrunch.com/2026/11/02/anthropic-warns-that-its-very-close-to-rsi-capability-aka-self-building-ai/",
+   "source": "TechCrunch",
+   "kind": "press",
+   "summary": "RSI is the point at which AI grows so good at training itself that it spawns a dramatic acceleration of AI capabilities. To the AI doomers, RSI represents the cataclysm from which there is no return.",
+   "published": "2026-11-02T22:14:50+00:00",
+   "topics": [],
+   "first_seen": "2026-11-02T23:29:28+00:00"
+  },
+  {
+   "id": "f0d11490230013aa",
+   "title": "Web host Squarespace lays off 19% of its employees",
+   "link": "https://techcrunch.com/2026/11/02/web-host-squarespace-lays-off-19-of-its-employees/",
+   "source": "TechCrunch",
+   "kind": "press",
+   "summary": "The website builder said that the job losses are part of a broader restructuring of its organization.",
+   "published": "2026-11-02T19:25:59+00:00",
+   "topics": [],
+   "first_seen": "2026-11-02T23:29:28+00:00"
+  },
+  {
+   "id": "8402594bed2479dc",
+   "title": "New York Times and other outlets sue web browser Brave over alleged content scraping",
+   "link": "https://techcrunch.com/2026/11/02/new-york-times-and-other-outlets-sue-web-browser-brave-over-alleged-content-scraping/",
+   "source": "TechCrunch",
+   "kind": "press",
+   "summary": "The New York Times is suing privacy-focused web browser company Brave for allegedly scraping the outlet’s copyrighted content and unlawfully distributing it to its own customers, like Anthropic and Perplexity.",
+   "published": "2026-11-02T19:19:17+00:00",
+   "topics": [
+    "Policy"
+   ],
+   "first_seen": "2026-11-02T23:29:28+00:00"
+  },
+  {
+   "id": "95189256059f9398",
+   "title": "Coming in 2027: Apple’s $1,000 home robot for FaceTime and switching on lights",
+   "link": "https://arstechnica.com/apple/2026/11/apples-roaming-home-robot-may-do-facetime-switch-lights-on-and-yell-at-your-cat/",
+   "source": "Ars Technica",
+   "kind": "press",
+   "summary": "Apple robot backed by CEO John Ternus may have hefty price tag and limited uses.",
+   "published": "2026-11-02T18:32:21+00:00",
+   "topics": [],
+   "first_seen": "2026-11-02T23:29:28+00:00"
+  },
+  {
+   "id": "778dbacaaeb9af89",
+   "title": "Claude’s new rules against game cloning won’t stop the AI copying boom",
+   "link": "https://arstechnica.com/ai/2026/11/claudes-new-rules-against-game-cloning-wont-stop-the-ai-copying-boom/",
+   "source": "Ars Technica",
+   "kind": "press",
+   "summary": "The tsunami of imitators is way bigger than any one model maker can stem.",
+   "published": "2026-11-02T18:05:31+00:00",
+   "topics": [
+    "Models"
+   ],
+   "first_seen": "2026-11-02T23:29:28+00:00"
+  },
+  {
+   "id": "16194c055af9d0c4",
+   "title": "OpenAI pitches data center power plants as a way to protect nearby areas",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/1024604/openai-data-center-grid-protection-program",
+   "source": "The Verge",
+   "kind": "press",
+   "summary": "In an announcement on Monday, OpenAI says it will pilot its \"Grid Protectors Program\" at an upcoming data center in Effingham County, Georgia, where the company promises to free up to 1,000 megawatts of power during extreme weather or emergencies, enough to power air…",
+   "published": "2026-11-02T18:01:30+00:00",
+   "topics": [
+    "Hardware"
+   ],
+   "first_seen": "2026-11-02T23:29:28+00:00"
+  },
+  {
+   "id": "b810030289ed799f",
+   "title": "The latest AI news we announced in October 2026",
+   "link": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-october-2026/",
+   "source": "Google AI",
+   "kind": "lab",
+   "summary": "",
+   "published": "2026-11-02T17:45:00+00:00",
+   "topics": [],
+   "first_seen": "2026-11-02T23:29:28+00:00"
+  },
+  {
+   "id": "0ad9e89a8ab0a418",
+   "title": "Raising the quality of insights in agentic analytics",
+   "link": "https://www.technologyreview.com/2026/11/02/1147660/raising-the-quality-of-insights-in-agentic-analytics/",
+   "source": "MIT Technology Review",
+   "kind": "press",
+   "summary": "In just a few years, generative AI has changed the face of enterprise analytics, notably by making analytics accessible to users across the organization. Agentic AI promises to do even more, by automating entire workflows and taking actions based on agent insights. But there is…",
+   "published": "2026-11-02T17:00:00+00:00",
+   "topics": [
+    "Tools"
+   ],
+   "first_seen": "2026-11-02T23:29:28+00:00"
+  },
+  {
+   "id": "6e11dddc7a7cc4c3",
+   "title": "42AI comes out of stealth with $62.5M and a world model that can ‘predict human behavior’",
+   "link": "https://techcrunch.com/2026/11/02/42ai-comes-out-of-stealth-with-62-5m-and-a-world-model-that-can-predict-human-behavior/",
+   "source": "TechCrunch",
+   "kind": "press",
+   "summary": "Here's a question straight out of sci-fi: What if AI could predict what you were going to do before you decided to, even in a completely new situation?",
+   "published": "2026-11-02T16:30:00+00:00",
+   "topics": [
+    "Models"
+   ],
+   "first_seen": "2026-11-02T23:29:28+00:00"
+  },
+  {
+   "id": "3059ef1574cb12ba",
+   "title": "Elon Musk throttles Grok Bot limits due to ‘unsustainably high’ costs",
+   "link": "https://techcrunch.com/2026/11/02/elon-musk-throttles-grok-bot-limits-due-to-unsustainably-high-costs/",
+   "source": "TechCrunch",
+   "kind": "press",
+   "summary": "Musk recently referred to Grok Bot as having \"the fastest growth of a product that I've ever seen in my life.\"",
+   "published": "2026-11-02T16:23:21+00:00",
+   "topics": [
+    "Models"
+   ],
+   "first_seen": "2026-11-02T23:29:28+00:00"
+  },
   {
    "id": "19244c7aa2063fd3",
    "title": "Introducing the Grid Protectors Program",
@@ -129,7 +291,7 @@
   },
   {
    "id": "869219a7f13345d5",
-   "title": "OpenAI is finally merging ChatGPT’s chat and Work tabs",
+   "title": "OpenAI is finally merging ChatGPT’s Chat and Work tabs",
    "link": "https://techcrunch.com/2026/11/02/openai-is-finally-merging-chatgpts-chat-and-work-tabs/",
    "source": "TechCrunch",
    "kind": "press",
@@ -174,6 +336,20 @@
    "first_seen": "2026-11-02T15:50:34+00:00"
   },
   {
+   "id": "ed4b58253682640f",
+   "title": "LifeVal",
+   "link": "https://openai.com/index/lifeval",
+   "source": "OpenAI",
+   "kind": "lab",
+   "summary": "Introducing LifeVal, a benchmark measuring how well AI helps people complete everyday tasks, from finding childcare to managing finances and government paperwork.",
+   "published": "2026-11-02T09:00:00+00:00",
+   "topics": [
+    "Research",
+    "Policy"
+   ],
+   "first_seen": "2026-11-02T23:29:28+00:00"
+  },
+  {
    "id": "4e84ca416d4f3caa",
    "title": "China's First Frontier AI Export Controls: Mofcom Announcement No. 48",
    "link": "https://labs.cloudsecurityalliance.org/research/csa-research-note-china-ai-export-controls-announcement-48-2/",
@@ -185,6 +361,17 @@
     "Research"
    ],
    "first_seen": "2026-11-02T15:50:34+00:00"
+  },
+  {
+   "id": "598c6194c0d34c23",
+   "title": "Qodo builds context into AI code review with Codex",
+   "link": "https://openai.com/index/qodo-codex-plugin",
+   "source": "OpenAI",
+   "kind": "lab",
+   "summary": "Qodo brings company knowledge and coding standards into Codex, helping developers catch P0 issues across repositories before opening a pull request.",
+   "published": "2026-11-02T00:00:00+00:00",
+   "topics": [],
+   "first_seen": "2026-11-02T23:29:28+00:00"
   },
   {
    "id": "ffb30fef9594cc91",
@@ -279,6 +466,19 @@
    "published": "2026-11-01T06:06:19+00:00",
    "topics": [],
    "first_seen": "2026-11-01T13:23:33+00:00"
+  },
+  {
+   "id": "a8e3b1a57cd292df",
+   "title": "Data centers are now a midterm issue, even in Brooklyn",
+   "link": "https://techcrunch.com/2026/10/31/data-centers-are-now-a-midterm-issue-even-in-brooklyn/",
+   "source": "TechCrunch",
+   "kind": "press",
+   "summary": "At a Brooklyn midterm party five days before Election Day, every conversation, from a council member’s fireside chat to a debate about the Democratic Party, kept circling back to AI and data centers.",
+   "published": "2026-11-01T02:22:10+00:00",
+   "topics": [
+    "Hardware"
+   ],
+   "first_seen": "2026-11-02T23:29:28+00:00"
   },
   {
    "id": "0def4a2fca6b3a20",
@@ -9839,32 +10039,6 @@
    "summary": "Here's a product feature which the world is going to need a whole lot more of over the coming months and years: default hard budget caps . I'm talking about the feature of pay-by-usage services and APIs that lets you say \"after $X/month, cut this thing off and return errors\"…",
    "published": "2026-10-03T23:34:02+00:00",
    "topics": [],
-   "first_seen": "2026-10-11T09:46:44+00:00"
-  },
-  {
-   "id": "89764eae00994ca8",
-   "title": "The Agent Said It Was Done. The Database Disagreed.",
-   "link": "https://huggingface.co/blog/microsoft/thinkingbox",
-   "source": "Hugging Face",
-   "kind": "lab",
-   "summary": "",
-   "published": "2026-10-03T22:56:48+00:00",
-   "topics": [
-    "Tools"
-   ],
-   "first_seen": "2026-10-11T09:46:44+00:00"
-  },
-  {
-   "id": "4956a5acae88d47d",
-   "title": "September sponsors-only newsletter",
-   "link": "https://simonwillison.net/2026/Oct/3/newsletter/",
-   "source": "Simon Willison",
-   "kind": "community",
-   "summary": "I just sent the September edition of my sponsors-only monthly newsletter . If you are a sponsor (or start a sponsorship now) you can access it here . This month: More Fable class models A pricing war 3D graphics, Blender, and pixel art LLMs come for mathematics So many more…",
-   "published": "2026-10-03T22:00:31+00:00",
-   "topics": [
-    "Models"
-   ],
    "first_seen": "2026-10-11T09:46:44+00:00"
   }
  ]
