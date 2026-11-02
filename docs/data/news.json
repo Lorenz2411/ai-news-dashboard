@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-02T06:00:24+00:00",
+ "updated": "2026-11-02T15:50:34+00:00",
  "sources": [
   {
    "name": "OpenAI",
@@ -13,9 +13,9 @@
    "name": "Google DeepMind",
    "url": "https://deepmind.google/blog/rss.xml",
    "kind": "lab",
-   "ok": true,
-   "count": 40,
-   "error": null
+   "ok": false,
+   "count": 0,
+   "error": "ParseError: not well-formed (invalid token): line 1, column 0"
   },
   {
    "name": "Google AI",
@@ -85,12 +85,107 @@
    "name": "Hacker News",
    "url": "https://hnrss.org/newest?q=AI+OR+LLM+OR+GPT+OR+Claude&points=100",
    "kind": "community",
-   "ok": false,
-   "count": 0,
-   "error": "RemoteDisconnected: Remote end closed connection without response"
+   "ok": true,
+   "count": 20,
+   "error": null
   }
  ],
  "items": [
+  {
+   "id": "19244c7aa2063fd3",
+   "title": "Introducing the Grid Protectors Program",
+   "link": "https://openai.com/index/grid-protectors-program",
+   "source": "OpenAI",
+   "kind": "lab",
+   "summary": "OpenAI’s Grid Protectors Program will work with utilities to help future compute campuses support grid reliability and protect consumer electricity costs.",
+   "published": "2026-11-02T15:00:00+00:00",
+   "topics": [],
+   "first_seen": "2026-11-02T15:50:34+00:00"
+  },
+  {
+   "id": "a43a012fc6e71ef2",
+   "title": "Omen AI adds liquid know-how in $16 million Aquatic Labs acquisition",
+   "link": "https://techcrunch.com/2026/11/02/omen-ai-adds-liquid-know-how-in-16-million-aquatic-labs-acquisition/",
+   "source": "TechCrunch",
+   "kind": "press",
+   "summary": "Two startups tackling the data center water problem are joining forces in a $16 million deal.",
+   "published": "2026-11-02T15:00:00+00:00",
+   "topics": [
+    "Business",
+    "Hardware"
+   ],
+   "first_seen": "2026-11-02T15:50:34+00:00"
+  },
+  {
+   "id": "f7151c69ed83cd04",
+   "title": "2 days till TechCrunch Founder Summit: Boston founders don’t need a Silicon Valley address to build something big",
+   "link": "https://techcrunch.com/2026/11/02/2-days-till-techcrunch-founder-summit-boston-founders-dont-need-a-silicon-valley-address-to-build-something-big/",
+   "source": "TechCrunch",
+   "kind": "press",
+   "summary": "TechCrunch Founder Summit happens on November 4 in Boston for a founder-focused agenda and impactful connections. Save up to $100 or get discounts with group passes.",
+   "published": "2026-11-02T14:00:00+00:00",
+   "topics": [],
+   "first_seen": "2026-11-02T15:50:34+00:00"
+  },
+  {
+   "id": "869219a7f13345d5",
+   "title": "OpenAI is finally merging ChatGPT’s chat and Work tabs",
+   "link": "https://techcrunch.com/2026/11/02/openai-is-finally-merging-chatgpts-chat-and-work-tabs/",
+   "source": "TechCrunch",
+   "kind": "press",
+   "summary": "OpenAI said that ChatGPT and Codex will draw usage from the same allocation pool after this change.",
+   "published": "2026-11-02T13:57:53+00:00",
+   "topics": [],
+   "first_seen": "2026-11-02T15:50:34+00:00"
+  },
+  {
+   "id": "6bf0704cb5e2b6fd",
+   "title": "The U.S. Census Bureau and “Super Intelligence”",
+   "link": "https://simonwillison.net/2026/Nov/2/census-bureau-super-intelligence/",
+   "source": "Simon Willison",
+   "kind": "community",
+   "summary": "I was reminded today of AI Adoption Rate Trending Down for Large Companies , a chart produced by Apollo Global Management in September 2025, which appeared to show a slowdown in U.S. corporate AI adoption based on numbers collected by the U.S. Census Bureau. At the time I used…",
+   "published": "2026-11-02T13:31:26+00:00",
+   "topics": [],
+   "first_seen": "2026-11-02T15:50:34+00:00"
+  },
+  {
+   "id": "728c21b3deeb61e6",
+   "title": "Stop counting tokens, start counting what ships",
+   "link": "https://www.technologyreview.com/2026/11/02/1147702/stop-counting-tokens-start-counting-what-ships/",
+   "source": "MIT Technology Review",
+   "kind": "press",
+   "summary": "When a developer gives an AI agent a coding task, the agent does more than answer once. It plans, generates code, runs tests, and repeats the process to correct errors. A single task can use 10 to 50 times more tokens than a basic chat prompt. The more useful the agent becomes…",
+   "published": "2026-11-02T13:10:32+00:00",
+   "topics": [
+    "Tools"
+   ],
+   "first_seen": "2026-11-02T15:50:34+00:00"
+  },
+  {
+   "id": "e49f46b109f68045",
+   "title": "The agentic web is here",
+   "link": "https://www.technologyreview.com/2026/11/02/1147846/the-agentic-web-is-here/",
+   "source": "MIT Technology Review",
+   "kind": "press",
+   "summary": "In 2001, a decade after he invented the World Wide Web, Tim Berners-Lee articulated a new vision. Together with two colleagues, he published an article in the magazine Scientific American in which he outlined what he called the “Semantic Web”: an internet designed to be…",
+   "published": "2026-11-02T09:35:19+00:00",
+   "topics": [],
+   "first_seen": "2026-11-02T15:50:34+00:00"
+  },
+  {
+   "id": "4e84ca416d4f3caa",
+   "title": "China's First Frontier AI Export Controls: Mofcom Announcement No. 48",
+   "link": "https://labs.cloudsecurityalliance.org/research/csa-research-note-china-ai-export-controls-announcement-48-2/",
+   "source": "Hacker News",
+   "kind": "community",
+   "summary": "Article URL: https://labs.cloudsecurityalliance.org/research/csa-research-note-china-ai-export-controls-announcement-48-2/ Comments URL: https://news.ycombinator.com/item?id=50334038 Points: 125 # Comments: 70",
+   "published": "2026-11-02T07:27:28+00:00",
+   "topics": [
+    "Research"
+   ],
+   "first_seen": "2026-11-02T15:50:34+00:00"
+  },
   {
    "id": "ffb30fef9594cc91",
    "title": "If in doubt, delete the uv.lock file",
@@ -101,6 +196,17 @@
    "published": "2026-11-01T23:24:22+00:00",
    "topics": [],
    "first_seen": "2026-11-01T23:35:32+00:00"
+  },
+  {
+   "id": "71334093a413753d",
+   "title": "AI delivers 'zero financial payoff' to most companies, Apollo economist says",
+   "link": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
+   "source": "Hacker News",
+   "kind": "community",
+   "summary": "Article URL: https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/ Comments URL: https://news.ycombinator.com/item?id=50330456 Points: 236 # Comments: 239",
+   "published": "2026-11-01T22:10:45+00:00",
+   "topics": [],
+   "first_seen": "2026-10-25T20:50:34+00:00"
   },
   {
    "id": "33c086ca1438f528",
@@ -132,7 +238,7 @@
    "link": "https://blog.raed.dev/posts/proton-loser-thinking/",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://blog.raed.dev/posts/proton-loser-thinking/ Comments URL: https://news.ycombinator.com/item?id=50328488 Points: 134 # Comments: 79",
+   "summary": "Article URL: https://blog.raed.dev/posts/proton-loser-thinking/ Comments URL: https://news.ycombinator.com/item?id=50328488 Points: 162 # Comments: 97",
    "published": "2026-11-01T18:53:55+00:00",
    "topics": [],
    "first_seen": "2026-11-01T23:35:32+00:00"
@@ -169,7 +275,7 @@
    "link": "https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/ Comments URL: https://news.ycombinator.com/item?id=50323088 Points: 274 # Comments: 215",
+   "summary": "Article URL: https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/ Comments URL: https://news.ycombinator.com/item?id=50323088 Points: 434 # Comments: 325",
    "published": "2026-11-01T06:06:19+00:00",
    "topics": [],
    "first_seen": "2026-11-01T13:23:33+00:00"
@@ -244,7 +350,7 @@
    "link": "https://mashable.com/tech/anthropic-takes-steps-to-block-video-game-cloning-and-reverse-engineering",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://mashable.com/tech/anthropic-takes-steps-to-block-video-game-cloning-and-reverse-engineering Comments URL: https://news.ycombinator.com/item?id=50320255 Points: 180 # Comments: 112",
+   "summary": "Article URL: https://mashable.com/tech/anthropic-takes-steps-to-block-video-game-cloning-and-reverse-engineering Comments URL: https://news.ycombinator.com/item?id=50320255 Points: 193 # Comments: 115",
    "published": "2026-10-31T21:07:58+00:00",
    "topics": [
     "Models"
@@ -257,7 +363,7 @@
    "link": "https://ryanmadden.net/gpt-56-beats-factorio/",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://ryanmadden.net/gpt-56-beats-factorio/ Comments URL: https://news.ycombinator.com/item?id=50318871 Points: 176 # Comments: 187",
+   "summary": "Article URL: https://ryanmadden.net/gpt-56-beats-factorio/ Comments URL: https://news.ycombinator.com/item?id=50318871 Points: 176 # Comments: 188",
    "published": "2026-10-31T18:50:34+00:00",
    "topics": [
     "Models"
@@ -542,7 +648,7 @@
    "link": "https://www.404media.co/protons-ceo-cancels-ai-re-interviews/",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://www.404media.co/protons-ceo-cancels-ai-re-interviews/ Comments URL: https://news.ycombinator.com/item?id=50307183 Points: 296 # Comments: 254",
+   "summary": "Article URL: https://www.404media.co/protons-ceo-cancels-ai-re-interviews/ Comments URL: https://news.ycombinator.com/item?id=50307183 Points: 297 # Comments: 255",
    "published": "2026-10-30T17:24:45+00:00",
    "topics": [],
    "first_seen": "2026-10-30T19:21:53+00:00"
@@ -578,7 +684,7 @@
    "link": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://www.bbc.co.uk/news/articles/cvwy72e0n72yo Comments URL: https://news.ycombinator.com/item?id=50306008 Points: 269 # Comments: 300",
+   "summary": "Article URL: https://www.bbc.co.uk/news/articles/cvwy72e0n72yo Comments URL: https://news.ycombinator.com/item?id=50306008 Points: 269 # Comments: 302",
    "published": "2026-10-30T16:13:02+00:00",
    "topics": [],
    "first_seen": "2026-10-30T19:21:53+00:00"
@@ -616,7 +722,7 @@
    "link": "https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling Comments URL: https://news.ycombinator.com/item?id=50305693 Points: 664 # Comments: 482",
+   "summary": "Article URL: https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling Comments URL: https://news.ycombinator.com/item?id=50305693 Points: 676 # Comments: 492",
    "published": "2026-10-30T15:52:18+00:00",
    "topics": [],
    "first_seen": "2026-10-30T19:21:53+00:00"
@@ -651,7 +757,7 @@
    "link": "https://fortune.com/2026/10/30/cisco-president-jeetu-patel-gen-z-27-year-old-unlimited-ai-tokens-rewrite-legacy-code-entry-level-jobs/",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://fortune.com/2026/10/30/cisco-president-jeetu-patel-gen-z-27-year-old-unlimited-ai-tokens-rewrite-legacy-code-entry-level-jobs/ Comments URL: https://news.ycombinator.com/item?id=50304122 Points: 311 # Comments: 382",
+   "summary": "Article URL: https://fortune.com/2026/10/30/cisco-president-jeetu-patel-gen-z-27-year-old-unlimited-ai-tokens-rewrite-legacy-code-entry-level-jobs/ Comments URL: https://news.ycombinator.com/item?id=50304122 Points: 314 # Comments: 388",
    "published": "2026-10-30T14:08:20+00:00",
    "topics": [],
    "first_seen": "2026-10-31T05:39:37+00:00"
@@ -784,7 +890,7 @@
    "link": "https://phorion.io/blog/offical-claude-code-vsx-compromise/",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "https://cursor.com/blog/claude-code-extension-security-notic... Comments URL: https://news.ycombinator.com/item?id=50300683 Points: 990 # Comments: 553",
+   "summary": "https://cursor.com/blog/claude-code-extension-security-notic... Comments URL: https://news.ycombinator.com/item?id=50300683 Points: 1005 # Comments: 553",
    "published": "2026-10-30T07:09:12+00:00",
    "topics": [
     "Models"
@@ -856,7 +962,7 @@
    "link": "https://twitter.com/sgondala2/status/2115832070274723875",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://twitter.com/sgondala2/status/2115832070274723875 Comments URL: https://news.ycombinator.com/item?id=50296730 Points: 188 # Comments: 199",
+   "summary": "Article URL: https://twitter.com/sgondala2/status/2115832070274723875 Comments URL: https://news.ycombinator.com/item?id=50296730 Points: 192 # Comments: 201",
    "published": "2026-10-29T21:58:34+00:00",
    "topics": [],
    "first_seen": "2026-10-31T05:39:37+00:00"
@@ -878,7 +984,7 @@
    "link": "https://labs.ycombinator.com/projects/games/index.html",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://labs.ycombinator.com/projects/games/index.html Comments URL: https://news.ycombinator.com/item?id=50296486 Points: 417 # Comments: 170",
+   "summary": "Article URL: https://labs.ycombinator.com/projects/games/index.html Comments URL: https://news.ycombinator.com/item?id=50296486 Points: 419 # Comments: 170",
    "published": "2026-10-29T21:40:28+00:00",
    "topics": [
     "Tools"
@@ -1092,7 +1198,7 @@
    "link": "https://thedataexchange.media/leo-de-moura-lean-aws/",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://thedataexchange.media/leo-de-moura-lean-aws/ Comments URL: https://news.ycombinator.com/item?id=50290652 Points: 209 # Comments: 53",
+   "summary": "Article URL: https://thedataexchange.media/leo-de-moura-lean-aws/ Comments URL: https://news.ycombinator.com/item?id=50290652 Points: 216 # Comments: 59",
    "published": "2026-10-29T15:29:48+00:00",
    "topics": [],
    "first_seen": "2026-10-31T18:33:42+00:00"
@@ -2798,19 +2904,6 @@
     "Models"
    ],
    "first_seen": "2026-10-26T07:47:43+00:00"
-  },
-  {
-   "id": "71334093a413753d",
-   "title": "AI delivers ‘zero financial payoff’ to most companies, Apollo economist says",
-   "link": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
-   "source": "TechCrunch",
-   "kind": "press",
-   "summary": "\"Despite massive investments and widespread hype around artificial intelligence, the technology has delivered zero financial payoff to corporate America outside of tech.\"",
-   "published": "2026-10-25T16:57:32+00:00",
-   "topics": [
-    "Business"
-   ],
-   "first_seen": "2026-10-25T20:50:34+00:00"
   },
   {
    "id": "2af7003f0e2faf2b",
