@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-01T23:35:32+00:00",
+ "updated": "2026-11-02T06:00:24+00:00",
  "sources": [
   {
    "name": "OpenAI",
@@ -85,9 +85,9 @@
    "name": "Hacker News",
    "url": "https://hnrss.org/newest?q=AI+OR+LLM+OR+GPT+OR+Claude&points=100",
    "kind": "community",
-   "ok": true,
-   "count": 20,
-   "error": null
+   "ok": false,
+   "count": 0,
+   "error": "RemoteDisconnected: Remote end closed connection without response"
   }
  ],
  "items": [
