@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-02T23:29:28+00:00",
+ "updated": "2026-11-03T06:46:28+00:00",
  "sources": [
   {
    "name": "OpenAI",
@@ -85,12 +85,101 @@
    "name": "Hacker News",
    "url": "https://hnrss.org/newest?q=AI+OR+LLM+OR+GPT+OR+Claude&points=100",
    "kind": "community",
-   "ok": false,
-   "count": 0,
-   "error": "HTTPError: HTTP Error 502: Bad Gateway"
+   "ok": true,
+   "count": 20,
+   "error": null
   }
  ],
  "items": [
+  {
+   "id": "22c23cfe758c1cb6",
+   "title": "I discovered a sound that leaks your exact location (and it's everywhere) - YouTube",
+   "link": "https://simonwillison.net/2026/Nov/3/a-sound-that-leaks-your-exact-location/",
+   "source": "Simon Willison",
+   "kind": "community",
+   "summary": "I discovered a sound that leaks your exact location (and it's everywhere) - YouTube Genius piece of OSINT by Colsto, who demonstrates how you can take almost imperceptible background noise of planes from a video soundtrack, figure out their Doppler curves, then cross reference…",
+   "published": "2026-11-03T05:32:25+00:00",
+   "topics": [],
+   "first_seen": "2026-11-03T06:46:28+00:00"
+  },
+  {
+   "id": "c006e897d48e9930",
+   "title": "October sponsors-only newsletter",
+   "link": "https://simonwillison.net/2026/Nov/3/october-newsletter/",
+   "source": "Simon Willison",
+   "kind": "community",
+   "summary": "I sent out the October edition of my sponsors-only monthly newsletter . If you are a sponsor (or start a sponsorship now) you can access it here . This month: The October inflection point for vibe game development The vulnerability apocalypse gets hot LLM releases API credits…",
+   "published": "2026-11-03T05:28:59+00:00",
+   "topics": [
+    "Models",
+    "Tools"
+   ],
+   "first_seen": "2026-11-03T06:46:28+00:00"
+  },
+  {
+   "id": "bdefad5dcd98a392",
+   "title": "Here’s who is falling in line for Trump’s “Super Intelligence” loyalty test",
+   "link": "https://www.technologyreview.com/2026/11/02/1147932/heres-who-is-falling-in-line-for-trumps-super-intelligence-loyalty-test/",
+   "source": "MIT Technology Review",
+   "kind": "press",
+   "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. At the end of September, President Trump signed an executive order that contained just one directive, ordering government agencies to rebrand…",
+   "published": "2026-11-03T04:18:47+00:00",
+   "topics": [
+    "Policy"
+   ],
+   "first_seen": "2026-11-03T06:46:28+00:00"
+  },
+  {
+   "id": "4c7d73c3037dd08e",
+   "title": "Google takes Dreambeans to India in bid to bring AI-generated personal stories to the masses",
+   "link": "https://techcrunch.com/2026/11/02/google-takes-dreambeans-to-india-in-bid-to-bring-ai-generated-personal-stories-to-the-masses/",
+   "source": "TechCrunch",
+   "kind": "press",
+   "summary": "Google's Dreambeans, its latest AI experiment, now supports 13 Indian languages.",
+   "published": "2026-11-03T03:30:00+00:00",
+   "topics": [],
+   "first_seen": "2026-11-03T06:46:28+00:00"
+  },
+  {
+   "id": "9c67c7267a5625d5",
+   "title": "Apple may try to increase revenue by doing…something with third-party AI apps",
+   "link": "https://techcrunch.com/2026/11/02/apple-may-try-to-increase-revenue-by-doing-something-with-third-party-ai-apps/",
+   "source": "TechCrunch",
+   "kind": "press",
+   "summary": "Apple hinted at ways that it could spur revenue through third-party \"opportunities\" during its Monday night earnings call.",
+   "published": "2026-11-03T01:49:52+00:00",
+   "topics": [
+    "Business"
+   ],
+   "first_seen": "2026-11-03T06:46:28+00:00"
+  },
+  {
+   "id": "bd936fe1d4a26927",
+   "title": "Y Combinator’s Garry Tan uses AI agents so much, he spends up to $200K a year on tokens",
+   "link": "https://techcrunch.com/2026/11/02/y-combinators-garry-tan-uses-ai-agents-so-much-he-spends-up-to-200k-a-year-on-tokens/",
+   "source": "TechCrunch",
+   "kind": "press",
+   "summary": "Y Combinator Garry Tan has jokingly admitted that he's suffered from \"cyber psychosis” and barely sleeps sometimes because he’s so excited to be working with his AI agents. On a new episode of Walter Isaacson’s podcast, The Builders, Tan put a price tag on his passion.",
+   "published": "2026-11-03T00:35:52+00:00",
+   "topics": [
+    "Tools"
+   ],
+   "first_seen": "2026-11-03T06:46:28+00:00"
+  },
+  {
+   "id": "10dab842bc689c46",
+   "title": "llm 0.37",
+   "link": "https://simonwillison.net/2026/Nov/2/llm/",
+   "source": "Simon Willison",
+   "kind": "community",
+   "summary": "Release: llm 0.37 There's a lot of stuff in this new release of my LLM CLI tool and Python library, representing around two months of accumulated features and fixes. I added gpt-6.1-sol and gpt-6.1-terra , plus a new llm openai endpoint add command to make it easier to configure…",
+   "published": "2026-11-02T23:49:30+00:00",
+   "topics": [
+    "Models",
+    "Tools"
+   ],
+   "first_seen": "2026-11-03T06:46:28+00:00"
+  },
   {
    "id": "dc6c7ef2ed74ce88",
    "title": "The New York Times sues Brave web browser for AI scraping and bypassing paywalls",
@@ -143,6 +232,17 @@
    "first_seen": "2026-11-02T23:29:28+00:00"
   },
   {
+   "id": "885b04d7832e283d",
+   "title": "Oracle files to sell $20B in new stock, bonds to finance AI buildout",
+   "link": "https://www.cnbc.com/2026/11/02/oracle-files-to-sell-20-billion-in-new-stock-bonds-to-finance-ai-buildout.html",
+   "source": "Hacker News",
+   "kind": "community",
+   "summary": "Article URL: https://www.cnbc.com/2026/11/02/oracle-files-to-sell-20-billion-in-new-stock-bonds-to-finance-ai-buildout.html Comments URL: https://news.ycombinator.com/item?id=50342284 Points: 183 # Comments: 160",
+   "published": "2026-11-02T19:27:37+00:00",
+   "topics": [],
+   "first_seen": "2026-11-03T06:46:28+00:00"
+  },
+  {
    "id": "f0d11490230013aa",
    "title": "Web host Squarespace lays off 19% of its employees",
    "link": "https://techcrunch.com/2026/11/02/web-host-squarespace-lays-off-19-of-its-employees/",
@@ -165,6 +265,17 @@
     "Policy"
    ],
    "first_seen": "2026-11-02T23:29:28+00:00"
+  },
+  {
+   "id": "66c70c1adf2ee3b4",
+   "title": "Egoless Mathematics in the AI Era",
+   "link": "https://terrytao.wordpress.com/2026/11/02/egoless-mathematics-in-the-ai-era/",
+   "source": "Hacker News",
+   "kind": "community",
+   "summary": "Article URL: https://terrytao.wordpress.com/2026/11/02/egoless-mathematics-in-the-ai-era/ Comments URL: https://news.ycombinator.com/item?id=50341736 Points: 144 # Comments: 98",
+   "published": "2026-11-02T18:54:44+00:00",
+   "topics": [],
+   "first_seen": "2026-11-03T06:46:28+00:00"
   },
   {
    "id": "95189256059f9398",
@@ -204,6 +315,28 @@
    "first_seen": "2026-11-02T23:29:28+00:00"
   },
   {
+   "id": "6fd6ad7938fa5bc5",
+   "title": "Rewarding defenders with bigger bug bounties",
+   "link": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
+   "source": "OpenAI",
+   "kind": "lab",
+   "summary": "OpenAI is raising Security Bug Bounty rewards and introducing report quality, loyalty, and priority campaign bonuses for independent security researchers.",
+   "published": "2026-11-02T18:00:00+00:00",
+   "topics": [],
+   "first_seen": "2026-11-03T06:46:28+00:00"
+  },
+  {
+   "id": "262cfa35f4308cc0",
+   "title": "Preparing our next security sprint to harden OpenAI",
+   "link": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
+   "source": "OpenAI",
+   "kind": "lab",
+   "summary": "OpenAI is preparing its next internal security sprint with Cathedral Systems to test and strengthen its defenses using AI.",
+   "published": "2026-11-02T18:00:00+00:00",
+   "topics": [],
+   "first_seen": "2026-11-03T06:46:28+00:00"
+  },
+  {
    "id": "b810030289ed799f",
    "title": "The latest AI news we announced in October 2026",
    "link": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-october-2026/",
@@ -226,6 +359,19 @@
     "Tools"
    ],
    "first_seen": "2026-11-02T23:29:28+00:00"
+  },
+  {
+   "id": "b997047b855185ef",
+   "title": "Anthropic's internal AI use, at retail prices, now exceeds its employee pay",
+   "link": "https://www.businessinsider.com/anthropic-claude-internal-ai-use-exceeds-employee-pay-tokens-2026-11",
+   "source": "Hacker News",
+   "kind": "community",
+   "summary": "Article URL: https://www.businessinsider.com/anthropic-claude-internal-ai-use-exceeds-employee-pay-tokens-2026-11 Comments URL: https://news.ycombinator.com/item?id=50339494 Points: 311 # Comments: 246",
+   "published": "2026-11-02T16:40:29+00:00",
+   "topics": [
+    "Models"
+   ],
+   "first_seen": "2026-11-03T06:46:28+00:00"
   },
   {
    "id": "6e11dddc7a7cc4c3",
@@ -254,6 +400,17 @@
    "first_seen": "2026-11-02T23:29:28+00:00"
   },
   {
+   "id": "de4cf53f9db96311",
+   "title": "Scaling Git at OpenAI",
+   "link": "https://openai.com/index/scaling-git-at-openai",
+   "source": "OpenAI",
+   "kind": "lab",
+   "summary": "How OpenAI built Pando, a Git-compatible backend designed for the scale of development that Codex makes possible.",
+   "published": "2026-11-02T15:30:00+00:00",
+   "topics": [],
+   "first_seen": "2026-11-03T06:46:28+00:00"
+  },
+  {
    "id": "19244c7aa2063fd3",
    "title": "Introducing the Grid Protectors Program",
    "link": "https://openai.com/index/grid-protectors-program",
@@ -277,6 +434,17 @@
     "Hardware"
    ],
    "first_seen": "2026-11-02T15:50:34+00:00"
+  },
+  {
+   "id": "6d29f3b89c67497a",
+   "title": "Jobless tech workers are being left out of San Francisco's AI boom",
+   "link": "https://www.bloomberg.com/news/features/2026-09-17/san-francisco-s-ai-wealth-boom-skirts-engineers-as-openai-anthropic-ipos-near",
+   "source": "Hacker News",
+   "kind": "community",
+   "summary": "Article URL: https://www.bloomberg.com/news/features/2026-09-17/san-francisco-s-ai-wealth-boom-skirts-engineers-as-openai-anthropic-ipos-near Comments URL: https://news.ycombinator.com/item?id=50337454 Points: 172 # Comments: 243",
+   "published": "2026-11-02T14:40:05+00:00",
+   "topics": [],
+   "first_seen": "2026-11-03T06:46:28+00:00"
   },
   {
    "id": "f7151c69ed83cd04",
@@ -325,6 +493,19 @@
    "first_seen": "2026-11-02T15:50:34+00:00"
   },
   {
+   "id": "d7eb8c9ceea3d079",
+   "title": "Last night an AI agent performed brain surgery on a mouse",
+   "link": "https://twitter.com/OcanaSantero/status/2115442964574908902",
+   "source": "Hacker News",
+   "kind": "community",
+   "summary": "Article URL: https://twitter.com/OcanaSantero/status/2115442964574908902 Comments URL: https://news.ycombinator.com/item?id=50336138 Points: 128 # Comments: 101",
+   "published": "2026-11-02T12:50:59+00:00",
+   "topics": [
+    "Tools"
+   ],
+   "first_seen": "2026-11-03T06:46:28+00:00"
+  },
+  {
    "id": "e49f46b109f68045",
    "title": "The agentic web is here",
    "link": "https://www.technologyreview.com/2026/11/02/1147846/the-agentic-web-is-here/",
@@ -355,12 +536,23 @@
    "link": "https://labs.cloudsecurityalliance.org/research/csa-research-note-china-ai-export-controls-announcement-48-2/",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://labs.cloudsecurityalliance.org/research/csa-research-note-china-ai-export-controls-announcement-48-2/ Comments URL: https://news.ycombinator.com/item?id=50334038 Points: 125 # Comments: 70",
+   "summary": "Article URL: https://labs.cloudsecurityalliance.org/research/csa-research-note-china-ai-export-controls-announcement-48-2/ Comments URL: https://news.ycombinator.com/item?id=50334038 Points: 154 # Comments: 86",
    "published": "2026-11-02T07:27:28+00:00",
    "topics": [
     "Research"
    ],
    "first_seen": "2026-11-02T15:50:34+00:00"
+  },
+  {
+   "id": "bf4bb9141e9a1f98",
+   "title": "AI fan wikis riddled with errors are muddying the waters of games culture",
+   "link": "https://www.eurogamer.net/ai-fan-wikis-errors-complicating-games-culture",
+   "source": "Hacker News",
+   "kind": "community",
+   "summary": "Article URL: https://www.eurogamer.net/ai-fan-wikis-errors-complicating-games-culture Comments URL: https://news.ycombinator.com/item?id=50332086 Points: 100 # Comments: 112",
+   "published": "2026-11-02T01:47:07+00:00",
+   "topics": [],
+   "first_seen": "2026-11-03T06:46:28+00:00"
   },
   {
    "id": "598c6194c0d34c23",
@@ -372,6 +564,17 @@
    "published": "2026-11-02T00:00:00+00:00",
    "topics": [],
    "first_seen": "2026-11-02T23:29:28+00:00"
+  },
+  {
+   "id": "ff138f709a7e7c37",
+   "title": "OpenAI appoints Dan Driscoll as Senior Counselor for National Security Modernization",
+   "link": "https://openai.com/index/dan-driscoll-joins-openai",
+   "source": "OpenAI",
+   "kind": "lab",
+   "summary": "OpenAI appoints Dan Driscoll to advise on responsible AI for national security modernization, cyber resilience, and collaboration with U.S. allies.",
+   "published": "2026-11-02T00:00:00+00:00",
+   "topics": [],
+   "first_seen": "2026-11-03T06:46:28+00:00"
   },
   {
    "id": "ffb30fef9594cc91",
@@ -390,7 +593,7 @@
    "link": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/ Comments URL: https://news.ycombinator.com/item?id=50330456 Points: 236 # Comments: 239",
+   "summary": "Article URL: https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/ Comments URL: https://news.ycombinator.com/item?id=50330456 Points: 242 # Comments: 252",
    "published": "2026-11-01T22:10:45+00:00",
    "topics": [],
    "first_seen": "2026-10-25T20:50:34+00:00"
@@ -425,7 +628,7 @@
    "link": "https://blog.raed.dev/posts/proton-loser-thinking/",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://blog.raed.dev/posts/proton-loser-thinking/ Comments URL: https://news.ycombinator.com/item?id=50328488 Points: 162 # Comments: 97",
+   "summary": "Article URL: https://blog.raed.dev/posts/proton-loser-thinking/ Comments URL: https://news.ycombinator.com/item?id=50328488 Points: 167 # Comments: 99",
    "published": "2026-11-01T18:53:55+00:00",
    "topics": [],
    "first_seen": "2026-11-01T23:35:32+00:00"
@@ -462,7 +665,7 @@
    "link": "https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/ Comments URL: https://news.ycombinator.com/item?id=50323088 Points: 434 # Comments: 325",
+   "summary": "Article URL: https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/ Comments URL: https://news.ycombinator.com/item?id=50323088 Points: 468 # Comments: 387",
    "published": "2026-11-01T06:06:19+00:00",
    "topics": [],
    "first_seen": "2026-11-01T13:23:33+00:00"
@@ -550,7 +753,7 @@
    "link": "https://mashable.com/tech/anthropic-takes-steps-to-block-video-game-cloning-and-reverse-engineering",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://mashable.com/tech/anthropic-takes-steps-to-block-video-game-cloning-and-reverse-engineering Comments URL: https://news.ycombinator.com/item?id=50320255 Points: 193 # Comments: 115",
+   "summary": "Article URL: https://mashable.com/tech/anthropic-takes-steps-to-block-video-game-cloning-and-reverse-engineering Comments URL: https://news.ycombinator.com/item?id=50320255 Points: 196 # Comments: 123",
    "published": "2026-10-31T21:07:58+00:00",
    "topics": [
     "Models"
@@ -563,7 +766,7 @@
    "link": "https://ryanmadden.net/gpt-56-beats-factorio/",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://ryanmadden.net/gpt-56-beats-factorio/ Comments URL: https://news.ycombinator.com/item?id=50318871 Points: 176 # Comments: 188",
+   "summary": "Article URL: https://ryanmadden.net/gpt-56-beats-factorio/ Comments URL: https://news.ycombinator.com/item?id=50318871 Points: 177 # Comments: 190",
    "published": "2026-10-31T18:50:34+00:00",
    "topics": [
     "Models"
@@ -848,7 +1051,7 @@
    "link": "https://www.404media.co/protons-ceo-cancels-ai-re-interviews/",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://www.404media.co/protons-ceo-cancels-ai-re-interviews/ Comments URL: https://news.ycombinator.com/item?id=50307183 Points: 297 # Comments: 255",
+   "summary": "Article URL: https://www.404media.co/protons-ceo-cancels-ai-re-interviews/ Comments URL: https://news.ycombinator.com/item?id=50307183 Points: 301 # Comments: 258",
    "published": "2026-10-30T17:24:45+00:00",
    "topics": [],
    "first_seen": "2026-10-30T19:21:53+00:00"
@@ -884,7 +1087,7 @@
    "link": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://www.bbc.co.uk/news/articles/cvwy72e0n72yo Comments URL: https://news.ycombinator.com/item?id=50306008 Points: 269 # Comments: 302",
+   "summary": "Article URL: https://www.bbc.co.uk/news/articles/cvwy72e0n72yo Comments URL: https://news.ycombinator.com/item?id=50306008 Points: 269 # Comments: 303",
    "published": "2026-10-30T16:13:02+00:00",
    "topics": [],
    "first_seen": "2026-10-30T19:21:53+00:00"
@@ -922,7 +1125,7 @@
    "link": "https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling Comments URL: https://news.ycombinator.com/item?id=50305693 Points: 676 # Comments: 492",
+   "summary": "Article URL: https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling Comments URL: https://news.ycombinator.com/item?id=50305693 Points: 677 # Comments: 499",
    "published": "2026-10-30T15:52:18+00:00",
    "topics": [],
    "first_seen": "2026-10-30T19:21:53+00:00"
@@ -957,7 +1160,7 @@
    "link": "https://fortune.com/2026/10/30/cisco-president-jeetu-patel-gen-z-27-year-old-unlimited-ai-tokens-rewrite-legacy-code-entry-level-jobs/",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://fortune.com/2026/10/30/cisco-president-jeetu-patel-gen-z-27-year-old-unlimited-ai-tokens-rewrite-legacy-code-entry-level-jobs/ Comments URL: https://news.ycombinator.com/item?id=50304122 Points: 314 # Comments: 388",
+   "summary": "Article URL: https://fortune.com/2026/10/30/cisco-president-jeetu-patel-gen-z-27-year-old-unlimited-ai-tokens-rewrite-legacy-code-entry-level-jobs/ Comments URL: https://news.ycombinator.com/item?id=50304122 Points: 315 # Comments: 389",
    "published": "2026-10-30T14:08:20+00:00",
    "topics": [],
    "first_seen": "2026-10-31T05:39:37+00:00"
@@ -1028,7 +1231,7 @@
    "link": "https://cyberplace.social/@GossiTheDog/117528831681803563",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://cyberplace.social/@GossiTheDog/117528831681803563 Comments URL: https://news.ycombinator.com/item?id=50302334 Points: 661 # Comments: 17",
+   "summary": "Article URL: https://cyberplace.social/@GossiTheDog/117528831681803563 Comments URL: https://news.ycombinator.com/item?id=50302334 Points: 662 # Comments: 17",
    "published": "2026-10-30T11:05:53+00:00",
    "topics": [
     "Models"
@@ -10028,17 +10231,6 @@
     "Models",
     "Research"
    ],
-   "first_seen": "2026-10-11T09:46:44+00:00"
-  },
-  {
-   "id": "5a3f1f4a82c5b0a8",
-   "title": "We're going to need default hard budget caps on pretty much everything",
-   "link": "https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/",
-   "source": "Simon Willison",
-   "kind": "community",
-   "summary": "Here's a product feature which the world is going to need a whole lot more of over the coming months and years: default hard budget caps . I'm talking about the feature of pay-by-usage services and APIs that lets you say \"after $X/month, cut this thing off and return errors\"…",
-   "published": "2026-10-03T23:34:02+00:00",
-   "topics": [],
    "first_seen": "2026-10-11T09:46:44+00:00"
   }
  ]
