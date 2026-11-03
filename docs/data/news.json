@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-03T16:14:26+00:00",
+ "updated": "2026-11-03T21:48:33+00:00",
  "sources": [
   {
    "name": "OpenAI",
@@ -92,15 +92,259 @@
  ],
  "items": [
   {
+   "id": "d37889a9ebdda005",
+   "title": "Ted Schlein’s Ballistic Ventures seeks $490M for new funds amid AI-driven cybersecurity boom",
+   "link": "https://techcrunch.com/2026/11/03/ted-schleins-ballistic-ventures-seeks-490m-for-new-funds-amid-ai-driven-cybersecurity-boom/",
+   "source": "TechCrunch",
+   "kind": "press",
+   "summary": "Cybersecurity focused Ballistic Ventures is seeking to raise $360 million for a new flagship fund and another $130 million for a separate investment vehicle.",
+   "published": "2026-11-03T21:43:08+00:00",
+   "topics": [
+    "Business"
+   ],
+   "first_seen": "2026-11-03T21:48:33+00:00"
+  },
+  {
+   "id": "39cfcbde58ede335",
+   "title": "Those Jeff Bezos hair transplant photos are very fake",
+   "link": "https://www.theverge.com/tech/1025745/fake-jeff-bezos-hair-replacement-photos-debunk",
+   "source": "The Verge",
+   "kind": "press",
+   "summary": "Amazon founder Jeff Bezos and actor Jason Statham have a distinctive feature in common: They're both famously bald, and that definitely hasn't changed in the last few days. However, there are some images of the two men circulating around X, Threads, and Bluesky in which they…",
+   "published": "2026-11-03T21:09:00+00:00",
+   "topics": [],
+   "first_seen": "2026-11-03T21:48:33+00:00"
+  },
+  {
+   "id": "dd34e5bf1c5e6fe6",
+   "title": "Hiding inside Palantir’s skyrocketing quarter is a foreboding signal",
+   "link": "https://techcrunch.com/2026/11/03/hiding-inside-palantirs-skyrocketing-quarter-is-a-foreboding-signal/",
+   "source": "TechCrunch",
+   "kind": "press",
+   "summary": "Palantir delivered such a huge third-quarter earnings report on Monday that its press release even bragged that the numbers were “crushing consensus expectations.” Yet, retail investors were lukewarm on the company on Tuesday, with the stock trading slightly down. That’s because…",
+   "published": "2026-11-03T21:05:55+00:00",
+   "topics": [
+    "Business",
+    "Tools"
+   ],
+   "first_seen": "2026-11-03T21:48:33+00:00"
+  },
+  {
+   "id": "0eaf3e3a754437a6",
+   "title": "Google is entirely disabling Search in schools that don’t want AI",
+   "link": "https://www.theverge.com/tech/1025411/google-turn-off-search-ai-features",
+   "source": "The Verge",
+   "kind": "press",
+   "summary": "Google is completely turning off Search in schools that reject its AI features, the company told The New York Times. The decision was also shared in a broader education-related update from Google on Tuesday, saying that access to Gemini, Gemini Notebook, Gemini in Classroom, and…",
+   "published": "2026-11-03T20:54:30+00:00",
+   "topics": [
+    "Models"
+   ],
+   "first_seen": "2026-11-03T21:48:33+00:00"
+  },
+  {
+   "id": "2f70d6c369eb8871",
+   "title": "Ukraine’s drone strikes spur hasty Russian plans for underground data centers",
+   "link": "https://arstechnica.com/ai/2026/11/russia-looks-to-hide-data-centers-underground-as-ukrainian-drones-strike-back/",
+   "source": "Ars Technica",
+   "kind": "press",
+   "summary": "Russia tries to fix exposed digital infrastructure as data center war backfires.",
+   "published": "2026-11-03T20:39:55+00:00",
+   "topics": [
+    "Hardware"
+   ],
+   "first_seen": "2026-11-03T21:48:33+00:00"
+  },
+  {
    "id": "85827c831b0bc197",
    "title": "Midterm elections 2026: all the news",
    "link": "https://www.theverge.com/policy/1020640/midterm-elections-2026-all-the-news",
    "source": "The Verge",
    "kind": "press",
    "summary": "The 2026 midterm elections will determine the scope of President Donald Trump’s power in his final two years in office, and signal what voters care about going into the 2028 presidential election. While this year’s races are expected to be most broadly defined by affordability…",
-   "published": "2026-11-03T16:11:42+00:00",
+   "published": "2026-11-03T20:36:28+00:00",
    "topics": [],
    "first_seen": "2026-11-03T16:14:26+00:00"
+  },
+  {
+   "id": "49792679d79fe36c",
+   "title": "Apple starts giving Siri AI access to third-party apps",
+   "link": "https://www.theverge.com/tech/1025694/apple-siri-ai-third-party-apps",
+   "source": "The Verge",
+   "kind": "press",
+   "summary": "Apple will now let Siri AI perform actions across third-party apps. As part of the iOS 27.3 update rolling out on Tuesday, Apple announced developers can now integrate Siri AI's new features in \"all apps,\" allowing the voice assistant to draw on a user's personal context…",
+   "published": "2026-11-03T20:19:55+00:00",
+   "topics": [],
+   "first_seen": "2026-11-03T21:48:33+00:00"
+  },
+  {
+   "id": "c69664e34de229c6",
+   "title": "AI inference startup Fal doubles its valuation to $16B as demand surges",
+   "link": "https://techcrunch.com/2026/11/03/ai-inference-startup-fal-doubles-its-valuation-to-16b-as-demand-surges/",
+   "source": "TechCrunch",
+   "kind": "press",
+   "summary": "The five-year-old startup raised a $1.3 billion round led by Bessemer.",
+   "published": "2026-11-03T19:34:43+00:00",
+   "topics": [
+    "Business"
+   ],
+   "first_seen": "2026-11-03T21:48:33+00:00"
+  },
+  {
+   "id": "62af551153394ae1",
+   "title": "Apple’s latest watchOS beta includes its new always-on Audio Intelligence features",
+   "link": "https://www.theverge.com/tech/1025002/apple-watch-audio-intelligence-watchos-beta",
+   "source": "The Verge",
+   "kind": "press",
+   "summary": "Starting today, Siri can tune into the Apple Watch's mic with Audio Intelligence features that are available in the new watchOS 27.3 developer beta rolling out now. The two new additions are Siri Recap, which uses \"ambient listening\" to generate summaries of your conversation…",
+   "published": "2026-11-03T18:52:30+00:00",
+   "topics": [],
+   "first_seen": "2026-11-03T21:48:33+00:00"
+  },
+  {
+   "id": "2023d4b1aafdb54a",
+   "title": "Netflix’s new AI Discover tab helps you find something to watch based on your mood",
+   "link": "https://techcrunch.com/2026/11/03/netflixs-new-ai-discover-tab-helps-you-find-something-to-watch-based-on-your-mood/",
+   "source": "TechCrunch",
+   "kind": "press",
+   "summary": "The first experimental feature under the tab will allow users to get recommendations based on what they're currently in the mood for.",
+   "published": "2026-11-03T18:42:16+00:00",
+   "topics": [],
+   "first_seen": "2026-11-03T21:48:33+00:00"
+  },
+  {
+   "id": "662bf89dbff24ba9",
+   "title": "OpenAI says ChatGPT is catching up to Google in search",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/1025482/openai-says-chatgpt-is-catching-up-to-google-in-search",
+   "source": "The Verge",
+   "kind": "press",
+   "summary": "In many circles, \"Ask Chat\" has replaced \"Google it,\" and that's reflected in a new announcement from OpenAI: the volume of search queries run through ChatGPT now equals 20 percent of the volume run through Google. Adam Fry, OpenAI's consumer product lead for ChatGPT, made the…",
+   "published": "2026-11-03T18:38:47+00:00",
+   "topics": [],
+   "first_seen": "2026-11-03T21:48:33+00:00"
+  },
+  {
+   "id": "db1d0915e4421fd1",
+   "title": "Indie games are missing launch dates because Steam is backed up",
+   "link": "https://www.theverge.com/games/1025596/valve-steam-indie-games-missing-launch-dates",
+   "source": "The Verge",
+   "kind": "press",
+   "summary": "Many indie game developers have recently posted on social media about unexpectedly long approval wait times for their game submissions on Steam, with some of the approvals causing developers to miss their planned launch dates. For example, Studio Daimon, the team behind an…",
+   "published": "2026-11-03T18:17:21+00:00",
+   "topics": [
+    "Tools"
+   ],
+   "first_seen": "2026-11-03T21:48:33+00:00"
+  },
+  {
+   "id": "b121628aeba070c8",
+   "title": "Google will let schools skip AI tools, but they have to give up search, too",
+   "link": "https://arstechnica.com/ai/2026/11/google-will-let-schools-skip-ai-tools-but-they-have-to-give-up-search-too/",
+   "source": "Ars Technica",
+   "kind": "press",
+   "summary": "Google will offer schools AI tools that purportedly don't give away the answers.",
+   "published": "2026-11-03T17:54:43+00:00",
+   "topics": [],
+   "first_seen": "2026-11-03T21:48:33+00:00"
+  },
+  {
+   "id": "c65f77dcf81d86c7",
+   "title": "Netflix will show you themed recommendations through a new ‘AI Discover’ tab",
+   "link": "https://www.theverge.com/streaming/1025029/netflix-ai-discover-recommendations",
+   "source": "The Verge",
+   "kind": "press",
+   "summary": "Netflix's TV app is getting a new \"AI Discover\" tab where the company will show experimental, AI-powered features to help you find new shows and movies to watch. The first of these experiments surfaces content based around themes, like \"Something Light,\" \"Family Movie Night,\" or…",
+   "published": "2026-11-03T17:28:14+00:00",
+   "topics": [
+    "Tools"
+   ],
+   "first_seen": "2026-11-03T21:48:33+00:00"
+  },
+  {
+   "id": "da9a5824109ffaf4",
+   "title": "Postman silently auto-installs AI plugins and attempts to share all API data",
+   "link": "https://github.com/postmanlabs/postman-app-support/issues/14370",
+   "source": "Hacker News",
+   "kind": "community",
+   "summary": "Article URL: https://github.com/postmanlabs/postman-app-support/issues/14370 Comments URL: https://news.ycombinator.com/item?id=50354960 Points: 808 # Comments: 266",
+   "published": "2026-11-03T17:22:37+00:00",
+   "topics": [
+    "Tools"
+   ],
+   "first_seen": "2026-11-03T21:48:33+00:00"
+  },
+  {
+   "id": "a55665cf48953af7",
+   "title": "StateBench: Testing how language models track state changes over long documents",
+   "link": "https://huggingface.co/blog/allenai/statebench",
+   "source": "Hugging Face",
+   "kind": "lab",
+   "summary": "",
+   "published": "2026-11-03T17:15:21+00:00",
+   "topics": [
+    "Models"
+   ],
+   "first_seen": "2026-11-03T21:48:33+00:00"
+  },
+  {
+   "id": "2437af63b2f85a1f",
+   "title": "Anthropic is still grappling with the economics of compute",
+   "link": "https://techcrunch.com/2026/11/03/anthropic-is-still-grappling-with-the-economics-of-compute/",
+   "source": "TechCrunch",
+   "kind": "press",
+   "summary": "At a moment when Anthropic's compute margins should be getting better, they’re getting worse.",
+   "published": "2026-11-03T17:07:01+00:00",
+   "topics": [],
+   "first_seen": "2026-11-03T21:48:33+00:00"
+  },
+  {
+   "id": "7b04a568c5adccd6",
+   "title": "Agentic cheminformatics with Google Antigravity",
+   "link": "https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity/",
+   "source": "Google DeepMind",
+   "kind": "lab",
+   "summary": "Learn how Google Antigravity and our Cheminformatics Skills accelerate drug discovery workflows, search compounds, and propose novel rigidified macrocycles.",
+   "published": "2026-11-03T17:01:49+00:00",
+   "topics": [],
+   "first_seen": "2026-11-03T21:48:33+00:00"
+  },
+  {
+   "id": "bc4177032a04e266",
+   "title": "Palette: teaching a small model to build decks in your design language",
+   "link": "https://huggingface.co/blog/ibm-research/palette-deck-building",
+   "source": "Hugging Face",
+   "kind": "lab",
+   "summary": "",
+   "published": "2026-11-03T16:35:36+00:00",
+   "topics": [
+    "Models"
+   ],
+   "first_seen": "2026-11-03T21:48:33+00:00"
+  },
+  {
+   "id": "410d5c941f71a7aa",
+   "title": "Google will let schools disable its AI tools, but not without sacrificing Search",
+   "link": "https://techcrunch.com/2026/11/03/google-will-let-schools-disable-its-ai-tools-but-not-without-sacrificing-search/",
+   "source": "TechCrunch",
+   "kind": "press",
+   "summary": "Schools choosing to restrict AI altogether will no longer be able to access Google Search, as AI features are now integrated into the search engine.",
+   "published": "2026-11-03T16:30:34+00:00",
+   "topics": [],
+   "first_seen": "2026-11-03T21:48:33+00:00"
+  },
+  {
+   "id": "6857dc224a419fe9",
+   "title": "Qwen 3.8 27B on my laptop can interpret model weights, too",
+   "link": "https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights/",
+   "source": "Simon Willison",
+   "kind": "community",
+   "summary": "Yesterday's hot paper was Sparks of Weight-Space Programming: LLMs can natively read & write neural network weights by Rikiya Takehi, Jayden Teoh, Alex Zhang, and Omar Khattab. The paper (OK, the authors classify is as a \"blog post\", but it's paper-shaped) found that frontier…",
+   "published": "2026-11-03T16:29:48+00:00",
+   "topics": [
+    "Models",
+    "Research"
+   ],
+   "first_seen": "2026-11-03T21:48:33+00:00"
   },
   {
    "id": "32791f69eb2c329e",
@@ -156,6 +400,28 @@
    "first_seen": "2026-11-03T16:14:26+00:00"
   },
   {
+   "id": "97b6ac5fec2140cd",
+   "title": "AI is destroying my CS degree",
+   "link": "https://lordtoots.bearblog.dev/ai-is-destroying-my-cs-degree/",
+   "source": "Hacker News",
+   "kind": "community",
+   "summary": "Article URL: https://lordtoots.bearblog.dev/ai-is-destroying-my-cs-degree/ Comments URL: https://news.ycombinator.com/item?id=50353300 Points: 113 # Comments: 103",
+   "published": "2026-11-03T15:35:06+00:00",
+   "topics": [],
+   "first_seen": "2026-11-03T21:48:33+00:00"
+  },
+  {
+   "id": "eadaa378c2b5a8ea",
+   "title": "Google will turn off search for schools that reject AI",
+   "link": "https://www.nytimes.com/2026/11/03/us/google-search-schools-restrict-ai.html",
+   "source": "Hacker News",
+   "kind": "community",
+   "summary": "https://archive.ph/RuwsB https://blog.google/products-and-platforms/products/educatio... Comments URL: https://news.ycombinator.com/item?id=50353192 Points: 451 # Comments: 340",
+   "published": "2026-11-03T15:25:47+00:00",
+   "topics": [],
+   "first_seen": "2026-11-03T21:48:33+00:00"
+  },
+  {
    "id": "954137d8d070f957",
    "title": "The TechCrunch Founder Summit agenda is only half the reason to be in Boston on Nov. 4",
    "link": "https://techcrunch.com/2026/11/03/the-techcrunch-founder-summit-agenda-is-only-half-the-reason-to-be-in-boston-on-nov-4/",
@@ -172,7 +438,7 @@
    "link": "https://shkspr.mobi/blog/2026/11/just-a-little-ai-resistance-as-a-treat/",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://shkspr.mobi/blog/2026/11/just-a-little-ai-resistance-as-a-treat/ Comments URL: https://news.ycombinator.com/item?id=50352257 Points: 142 # Comments: 82",
+   "summary": "Article URL: https://shkspr.mobi/blog/2026/11/just-a-little-ai-resistance-as-a-treat/ Comments URL: https://news.ycombinator.com/item?id=50352257 Points: 167 # Comments: 108",
    "published": "2026-11-03T14:14:12+00:00",
    "topics": [],
    "first_seen": "2026-11-03T16:14:26+00:00"
@@ -187,6 +453,17 @@
    "published": "2026-11-03T14:00:00+00:00",
    "topics": [],
    "first_seen": "2026-11-03T16:14:26+00:00"
+  },
+  {
+   "id": "26c6032e1d267765",
+   "title": "Accelerating engineering for the physical world",
+   "link": "https://openai.com/index/accelerating-engineering-for-the-physical-world",
+   "source": "OpenAI",
+   "kind": "lab",
+   "summary": "Discover how ChatGPT and Codex are helping engineers accelerate CAD, PCB design, simulation, and other workflows across the physical world.",
+   "published": "2026-11-03T12:00:00+00:00",
+   "topics": [],
+   "first_seen": "2026-11-03T21:48:33+00:00"
   },
   {
    "id": "c7a94f8b7c585c91",
@@ -213,6 +490,19 @@
    "published": "2026-11-03T08:00:00+00:00",
    "topics": [],
    "first_seen": "2026-11-03T16:14:26+00:00"
+  },
+  {
+   "id": "a2357e701f020223",
+   "title": "How Cisco defends at machine speed with OpenAI",
+   "link": "https://openai.com/index/cisco-cyber",
+   "source": "OpenAI",
+   "kind": "lab",
+   "summary": "Cisco combines network intelligence with OpenAI models to strengthen enterprise security. Learn how it is building more adaptive defenses.",
+   "published": "2026-11-03T08:00:00+00:00",
+   "topics": [
+    "Models"
+   ],
+   "first_seen": "2026-11-03T21:48:33+00:00"
   },
   {
    "id": "0e5b1d74afc987fe",
@@ -314,6 +604,28 @@
    "first_seen": "2026-11-03T16:14:26+00:00"
   },
   {
+   "id": "3d509e27bae229a3",
+   "title": "OpenAI appoints Jill Hazelbaker as Chief Corporate Affairs Officer",
+   "link": "https://openai.com/index/jill-hazelbaker-chief-corporate-affairs-officer",
+   "source": "OpenAI",
+   "kind": "lab",
+   "summary": "Jill Hazelbaker will join OpenAI as Chief Corporate Affairs Officer, leading the company’s global communications and corporate positioning.",
+   "published": "2026-11-03T00:00:00+00:00",
+   "topics": [],
+   "first_seen": "2026-11-03T21:48:33+00:00"
+  },
+  {
+   "id": "20954e3ac0ff87f7",
+   "title": "CWE-bench v2: More coverage, quality, and transparency",
+   "link": "https://huggingface.co/blog/cwe-bench",
+   "source": "Hugging Face",
+   "kind": "lab",
+   "summary": "",
+   "published": "2026-11-03T00:00:00+00:00",
+   "topics": [],
+   "first_seen": "2026-11-03T21:48:33+00:00"
+  },
+  {
    "id": "10dab842bc689c46",
    "title": "llm 0.37",
    "link": "https://simonwillison.net/2026/Nov/2/llm/",
@@ -384,7 +696,7 @@
    "link": "https://www.cnbc.com/2026/11/02/oracle-files-to-sell-20-billion-in-new-stock-bonds-to-finance-ai-buildout.html",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://www.cnbc.com/2026/11/02/oracle-files-to-sell-20-billion-in-new-stock-bonds-to-finance-ai-buildout.html Comments URL: https://news.ycombinator.com/item?id=50342284 Points: 195 # Comments: 172",
+   "summary": "Article URL: https://www.cnbc.com/2026/11/02/oracle-files-to-sell-20-billion-in-new-stock-bonds-to-finance-ai-buildout.html Comments URL: https://news.ycombinator.com/item?id=50342284 Points: 197 # Comments: 173",
    "published": "2026-11-02T19:27:37+00:00",
    "topics": [],
    "first_seen": "2026-11-03T06:46:28+00:00"
@@ -419,7 +731,7 @@
    "link": "https://terrytao.wordpress.com/2026/11/02/egoless-mathematics-in-the-ai-era/",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://terrytao.wordpress.com/2026/11/02/egoless-mathematics-in-the-ai-era/ Comments URL: https://news.ycombinator.com/item?id=50341736 Points: 179 # Comments: 144",
+   "summary": "Article URL: https://terrytao.wordpress.com/2026/11/02/egoless-mathematics-in-the-ai-era/ Comments URL: https://news.ycombinator.com/item?id=50341736 Points: 180 # Comments: 151",
    "published": "2026-11-02T18:54:44+00:00",
    "topics": [],
    "first_seen": "2026-11-03T06:46:28+00:00"
@@ -513,7 +825,7 @@
    "link": "https://www.businessinsider.com/anthropic-claude-internal-ai-use-exceeds-employee-pay-tokens-2026-11",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://www.businessinsider.com/anthropic-claude-internal-ai-use-exceeds-employee-pay-tokens-2026-11 Comments URL: https://news.ycombinator.com/item?id=50339494 Points: 341 # Comments: 265",
+   "summary": "Article URL: https://www.businessinsider.com/anthropic-claude-internal-ai-use-exceeds-employee-pay-tokens-2026-11 Comments URL: https://news.ycombinator.com/item?id=50339494 Points: 346 # Comments: 267",
    "published": "2026-11-02T16:40:29+00:00",
    "topics": [
     "Models"
@@ -539,7 +851,7 @@
    "link": "https://stephenjgallagher.substack.com/p/ai-can-draw-blueprints-now",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://stephenjgallagher.substack.com/p/ai-can-draw-blueprints-now Comments URL: https://news.ycombinator.com/item?id=50339224 Points: 105 # Comments: 36",
+   "summary": "Article URL: https://stephenjgallagher.substack.com/p/ai-can-draw-blueprints-now Comments URL: https://news.ycombinator.com/item?id=50339224 Points: 105 # Comments: 37",
    "published": "2026-11-02T16:25:33+00:00",
    "topics": [
     "Models"
@@ -601,7 +913,7 @@
    "link": "https://www.bloomberg.com/news/features/2026-09-17/san-francisco-s-ai-wealth-boom-skirts-engineers-as-openai-anthropic-ipos-near",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://www.bloomberg.com/news/features/2026-09-17/san-francisco-s-ai-wealth-boom-skirts-engineers-as-openai-anthropic-ipos-near Comments URL: https://news.ycombinator.com/item?id=50337454 Points: 185 # Comments: 254",
+   "summary": "Article URL: https://www.bloomberg.com/news/features/2026-09-17/san-francisco-s-ai-wealth-boom-skirts-engineers-as-openai-anthropic-ipos-near Comments URL: https://news.ycombinator.com/item?id=50337454 Points: 186 # Comments: 257",
    "published": "2026-11-02T14:40:05+00:00",
    "topics": [],
    "first_seen": "2026-11-03T06:46:28+00:00"
@@ -612,7 +924,7 @@
    "link": "https://arstechnica.com/gadgets/2026/10/fujifilm-to-boost-tape-production-5x-as-ai-fuels-archiving-demand/",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://arstechnica.com/gadgets/2026/10/fujifilm-to-boost-tape-production-5x-as-ai-fuels-archiving-demand/ Comments URL: https://news.ycombinator.com/item?id=50336918 Points: 105 # Comments: 39",
+   "summary": "Article URL: https://arstechnica.com/gadgets/2026/10/fujifilm-to-boost-tape-production-5x-as-ai-fuels-archiving-demand/ Comments URL: https://news.ycombinator.com/item?id=50336918 Points: 324 # Comments: 131",
    "published": "2026-11-02T14:02:42+00:00",
    "topics": [],
    "first_seen": "2026-10-30T19:21:53+00:00"
@@ -669,7 +981,7 @@
    "link": "https://twitter.com/OcanaSantero/status/2115442964574908902",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://twitter.com/OcanaSantero/status/2115442964574908902 Comments URL: https://news.ycombinator.com/item?id=50336138 Points: 139 # Comments: 115",
+   "summary": "Article URL: https://twitter.com/OcanaSantero/status/2115442964574908902 Comments URL: https://news.ycombinator.com/item?id=50336138 Points: 141 # Comments: 116",
    "published": "2026-11-02T12:50:59+00:00",
    "topics": [
     "Tools"
@@ -707,7 +1019,7 @@
    "link": "https://labs.cloudsecurityalliance.org/research/csa-research-note-china-ai-export-controls-announcement-48-2/",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://labs.cloudsecurityalliance.org/research/csa-research-note-china-ai-export-controls-announcement-48-2/ Comments URL: https://news.ycombinator.com/item?id=50334038 Points: 157 # Comments: 89",
+   "summary": "Article URL: https://labs.cloudsecurityalliance.org/research/csa-research-note-china-ai-export-controls-announcement-48-2/ Comments URL: https://news.ycombinator.com/item?id=50334038 Points: 158 # Comments: 89",
    "published": "2026-11-02T07:27:28+00:00",
    "topics": [
     "Research"
@@ -720,7 +1032,7 @@
    "link": "https://www.eurogamer.net/ai-fan-wikis-errors-complicating-games-culture",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://www.eurogamer.net/ai-fan-wikis-errors-complicating-games-culture Comments URL: https://news.ycombinator.com/item?id=50332086 Points: 100 # Comments: 113",
+   "summary": "Article URL: https://www.eurogamer.net/ai-fan-wikis-errors-complicating-games-culture Comments URL: https://news.ycombinator.com/item?id=50332086 Points: 101 # Comments: 115",
    "published": "2026-11-02T01:47:07+00:00",
    "topics": [],
    "first_seen": "2026-11-03T06:46:28+00:00"
@@ -764,7 +1076,7 @@
    "link": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/ Comments URL: https://news.ycombinator.com/item?id=50330456 Points: 244 # Comments: 254",
+   "summary": "Article URL: https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/ Comments URL: https://news.ycombinator.com/item?id=50330456 Points: 245 # Comments: 255",
    "published": "2026-11-01T22:10:45+00:00",
    "topics": [],
    "first_seen": "2026-10-25T20:50:34+00:00"
@@ -799,7 +1111,7 @@
    "link": "https://blog.raed.dev/posts/proton-loser-thinking/",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://blog.raed.dev/posts/proton-loser-thinking/ Comments URL: https://news.ycombinator.com/item?id=50328488 Points: 169 # Comments: 99",
+   "summary": "Article URL: https://blog.raed.dev/posts/proton-loser-thinking/ Comments URL: https://news.ycombinator.com/item?id=50328488 Points: 169 # Comments: 101",
    "published": "2026-11-01T18:53:55+00:00",
    "topics": [],
    "first_seen": "2026-11-01T23:35:32+00:00"
@@ -836,7 +1148,7 @@
    "link": "https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/ Comments URL: https://news.ycombinator.com/item?id=50323088 Points: 474 # Comments: 389",
+   "summary": "Article URL: https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/ Comments URL: https://news.ycombinator.com/item?id=50323088 Points: 474 # Comments: 391",
    "published": "2026-11-01T06:06:19+00:00",
    "topics": [],
    "first_seen": "2026-11-01T13:23:33+00:00"
@@ -937,7 +1249,7 @@
    "link": "https://ryanmadden.net/gpt-56-beats-factorio/",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://ryanmadden.net/gpt-56-beats-factorio/ Comments URL: https://news.ycombinator.com/item?id=50318871 Points: 177 # Comments: 190",
+   "summary": "Article URL: https://ryanmadden.net/gpt-56-beats-factorio/ Comments URL: https://news.ycombinator.com/item?id=50318871 Points: 178 # Comments: 190",
    "published": "2026-10-31T18:50:34+00:00",
    "topics": [
     "Models"
@@ -1211,7 +1523,7 @@
    "link": "https://www.404media.co/protons-ceo-cancels-ai-re-interviews/",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://www.404media.co/protons-ceo-cancels-ai-re-interviews/ Comments URL: https://news.ycombinator.com/item?id=50307183 Points: 301 # Comments: 259",
+   "summary": "Article URL: https://www.404media.co/protons-ceo-cancels-ai-re-interviews/ Comments URL: https://news.ycombinator.com/item?id=50307183 Points: 302 # Comments: 259",
    "published": "2026-10-30T17:24:45+00:00",
    "topics": [],
    "first_seen": "2026-10-30T19:21:53+00:00"
@@ -2131,6 +2443,19 @@
     "Tools"
    ],
    "first_seen": "2026-10-28T22:34:39+00:00"
+  },
+  {
+   "id": "bbd4d7a8dcb56d48",
+   "title": "Evernote turns AI-driven discovery into paid subscriptions",
+   "link": "https://openai.com/ads/customers/evernote",
+   "source": "OpenAI",
+   "kind": "lab",
+   "summary": "Evernote used ChatGPT Ads to introduce its note-taking app to people working with AI. The team tracked how often free trials led to paid subscriptions.",
+   "published": "2026-10-28T19:40:49+00:00",
+   "topics": [
+    "Tools"
+   ],
+   "first_seen": "2026-11-03T21:48:33+00:00"
   },
   {
    "id": "2ede9b7f343197b4",
@@ -3160,6 +3485,19 @@
    "first_seen": "2026-10-27T01:28:46+00:00"
   },
   {
+   "id": "1758535ac6be3e6b",
+   "title": "Introducing GPT-6.1 Terra",
+   "link": "https://openai.com/index/introducing-gpt-6-1-terra",
+   "source": "OpenAI",
+   "kind": "lab",
+   "summary": "Delivering fast and capable computer use at scale",
+   "published": "2026-10-26T18:00:00+00:00",
+   "topics": [
+    "Models"
+   ],
+   "first_seen": "2026-10-26T21:01:01+00:00"
+  },
+  {
    "id": "c6549f35a055aa19",
    "title": "Will the real Anthropic please stand up",
    "link": "https://www.technologyreview.com/2026/10/26/1147672/will-the-real-anthropic-please-stand-up/",
@@ -3438,19 +3776,6 @@
    "published": "2026-10-26T07:00:00+00:00",
    "topics": [
     "Business"
-   ],
-   "first_seen": "2026-10-26T21:01:01+00:00"
-  },
-  {
-   "id": "1758535ac6be3e6b",
-   "title": "Introducing GPT-6.1 Terra",
-   "link": "https://openai.com/index/introducing-gpt-6-1-terra",
-   "source": "OpenAI",
-   "kind": "lab",
-   "summary": "Bringing fast and capable computer use to everyone",
-   "published": "2026-10-26T00:00:00+00:00",
-   "topics": [
-    "Models"
    ],
    "first_seen": "2026-10-26T21:01:01+00:00"
   },
