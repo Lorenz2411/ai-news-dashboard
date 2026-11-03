@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-03T06:46:28+00:00",
+ "updated": "2026-11-03T16:14:26+00:00",
  "sources": [
   {
    "name": "OpenAI",
@@ -13,9 +13,9 @@
    "name": "Google DeepMind",
    "url": "https://deepmind.google/blog/rss.xml",
    "kind": "lab",
-   "ok": false,
-   "count": 0,
-   "error": "ParseError: not well-formed (invalid token): line 1, column 0"
+   "ok": true,
+   "count": 40,
+   "error": null
   },
   {
    "name": "Google AI",
@@ -92,6 +92,140 @@
  ],
  "items": [
   {
+   "id": "85827c831b0bc197",
+   "title": "Midterm elections 2026: all the news",
+   "link": "https://www.theverge.com/policy/1020640/midterm-elections-2026-all-the-news",
+   "source": "The Verge",
+   "kind": "press",
+   "summary": "The 2026 midterm elections will determine the scope of President Donald Trump’s power in his final two years in office, and signal what voters care about going into the 2028 presidential election. While this year’s races are expected to be most broadly defined by affordability…",
+   "published": "2026-11-03T16:11:42+00:00",
+   "topics": [],
+   "first_seen": "2026-11-03T16:14:26+00:00"
+  },
+  {
+   "id": "32791f69eb2c329e",
+   "title": "OpenAI is quietly renaming data centers ‘compute campuses’",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/1025242/openai-quietly-renames-data-centers-as-compute-campuses",
+   "source": "The Verge",
+   "kind": "press",
+   "summary": "People hate data centers. They're loud, resource-hungry eyesores that are so profoundly unpopular they have managed to achieve the near-impossible in today's polarized political landscape: genuine bipartisan opposition. But what about \"compute campuses\"? Those sound lovely…",
+   "published": "2026-11-03T16:08:35+00:00",
+   "topics": [
+    "Hardware"
+   ],
+   "first_seen": "2026-11-03T16:14:26+00:00"
+  },
+  {
+   "id": "003d54f4d366367a",
+   "title": "Same Model, Different Harness: CUGA, Hermes, and Deep Agents — When to Pick CUGA?",
+   "link": "https://huggingface.co/blog/ibm-research/cuga-harness",
+   "source": "Hugging Face",
+   "kind": "lab",
+   "summary": "",
+   "published": "2026-11-03T15:57:39+00:00",
+   "topics": [
+    "Models",
+    "Tools"
+   ],
+   "first_seen": "2026-11-03T16:14:26+00:00"
+  },
+  {
+   "id": "dde5f3bd6293e988",
+   "title": "Apple is all in on AI — its own and everyone else’s",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/1025245/apple-earnings-q4-ai",
+   "source": "The Verge",
+   "kind": "press",
+   "summary": "Apple's latest earnings show how it's continuing to capitalize on the AI boom without busting its budget on the infrastructure spending consuming its competitors. Overall, Apple posted its best-ever fiscal year for revenue and earnings per share. iPhone and Mac sales continued…",
+   "published": "2026-11-03T15:52:53+00:00",
+   "topics": [
+    "Business"
+   ],
+   "first_seen": "2026-11-03T16:14:26+00:00"
+  },
+  {
+   "id": "f9c0c715eee2231e",
+   "title": "Apple restricts dating apps and AI companions to users 18 and up",
+   "link": "https://techcrunch.com/2026/11/03/apple-restricts-dating-apps-and-ai-companions-to-users-18-and-up/",
+   "source": "TechCrunch",
+   "kind": "press",
+   "summary": "Apple's new App Store rules will require 18+ ratings for dating apps and AI companions that offer sexual or romantic content.",
+   "published": "2026-11-03T15:38:27+00:00",
+   "topics": [
+    "Tools"
+   ],
+   "first_seen": "2026-11-03T16:14:26+00:00"
+  },
+  {
+   "id": "954137d8d070f957",
+   "title": "The TechCrunch Founder Summit agenda is only half the reason to be in Boston on Nov. 4",
+   "link": "https://techcrunch.com/2026/11/03/the-techcrunch-founder-summit-agenda-is-only-half-the-reason-to-be-in-boston-on-nov-4/",
+   "source": "TechCrunch",
+   "kind": "press",
+   "summary": "On Nov. 4, TechCrunch Founder Summit 2026 brings founders and VCs to Boston's SoWa Power Station for practical insights and connections. Register before prices increase at the door.",
+   "published": "2026-11-03T14:30:00+00:00",
+   "topics": [],
+   "first_seen": "2026-11-03T16:14:26+00:00"
+  },
+  {
+   "id": "6de44976057c62c3",
+   "title": "Just a little AI resistance, as a treat",
+   "link": "https://shkspr.mobi/blog/2026/11/just-a-little-ai-resistance-as-a-treat/",
+   "source": "Hacker News",
+   "kind": "community",
+   "summary": "Article URL: https://shkspr.mobi/blog/2026/11/just-a-little-ai-resistance-as-a-treat/ Comments URL: https://news.ycombinator.com/item?id=50352257 Points: 142 # Comments: 82",
+   "published": "2026-11-03T14:14:12+00:00",
+   "topics": [],
+   "first_seen": "2026-11-03T16:14:26+00:00"
+  },
+  {
+   "id": "2b376a551173279b",
+   "title": "Tomorrow: TechCrunch Founder Summit takes over Boston and when pass rates increase",
+   "link": "https://techcrunch.com/2026/11/03/tomorrow-techcrunch-founder-summit-takes-over-boston-and-when-pass-rates-increase/",
+   "source": "TechCrunch",
+   "kind": "press",
+   "summary": "Secure your TechCrunch Founder Summit pass savings before prices increase tomorrow at 9 a.m. ET. Save up to $100 on your pass, and get a second for free.",
+   "published": "2026-11-03T14:00:00+00:00",
+   "topics": [],
+   "first_seen": "2026-11-03T16:14:26+00:00"
+  },
+  {
+   "id": "c7a94f8b7c585c91",
+   "title": "How “reverse game theory” could keep AI agents in check",
+   "link": "https://www.technologyreview.com/2026/11/03/1147934/reverse-game-theory-mechanism-design-ai-alignment/",
+   "source": "MIT Technology Review",
+   "kind": "press",
+   "summary": "A new approach known as “reverse game theory” aims to control powerful AI models by designing systems that incentivize them to stick to the rules. As AI models become more capable, safety researchers are scrambling to ensure they are “aligned” with human desires—to make sure, in…",
+   "published": "2026-11-03T10:43:41+00:00",
+   "topics": [
+    "Models",
+    "Policy",
+    "Tools"
+   ],
+   "first_seen": "2026-11-03T16:14:26+00:00"
+  },
+  {
+   "id": "08b710f1e7801fa8",
+   "title": "Heimstaden is changing residential real estate management with AI",
+   "link": "https://openai.com/index/heimstaden",
+   "source": "OpenAI",
+   "kind": "lab",
+   "summary": "Discover how Heimstaden uses OpenAI’s ChatGPT Enterprise and Codex to transform property management, cut costs, and empower employees across Europe.",
+   "published": "2026-11-03T08:00:00+00:00",
+   "topics": [],
+   "first_seen": "2026-11-03T16:14:26+00:00"
+  },
+  {
+   "id": "0e5b1d74afc987fe",
+   "title": "Apple Watch’s AI features for rewinding and recapping conversations begin beta testing",
+   "link": "https://techcrunch.com/2026/11/02/apple-watchs-ai-features-for-rewinding-and-recapping-conversations-begin-beta-testing/",
+   "source": "TechCrunch",
+   "kind": "press",
+   "summary": "Now in beta: Apple's new Audio Intelligence features can help you remember what someone said or take notes on conversations.",
+   "published": "2026-11-03T07:20:00+00:00",
+   "topics": [],
+   "first_seen": "2026-11-03T16:14:26+00:00"
+  },
+  {
    "id": "22c23cfe758c1cb6",
    "title": "I discovered a sound that leaks your exact location (and it's everywhere) - YouTube",
    "link": "https://simonwillison.net/2026/Nov/3/a-sound-that-leaks-your-exact-location/",
@@ -167,6 +301,19 @@
    "first_seen": "2026-11-03T06:46:28+00:00"
   },
   {
+   "id": "fec0e46ceba430b8",
+   "title": "Transformers Model Integration Contracts",
+   "link": "https://huggingface.co/blog/transformers-mic",
+   "source": "Hugging Face",
+   "kind": "lab",
+   "summary": "",
+   "published": "2026-11-03T00:00:00+00:00",
+   "topics": [
+    "Models"
+   ],
+   "first_seen": "2026-11-03T16:14:26+00:00"
+  },
+  {
    "id": "10dab842bc689c46",
    "title": "llm 0.37",
    "link": "https://simonwillison.net/2026/Nov/2/llm/",
@@ -237,7 +384,7 @@
    "link": "https://www.cnbc.com/2026/11/02/oracle-files-to-sell-20-billion-in-new-stock-bonds-to-finance-ai-buildout.html",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://www.cnbc.com/2026/11/02/oracle-files-to-sell-20-billion-in-new-stock-bonds-to-finance-ai-buildout.html Comments URL: https://news.ycombinator.com/item?id=50342284 Points: 183 # Comments: 160",
+   "summary": "Article URL: https://www.cnbc.com/2026/11/02/oracle-files-to-sell-20-billion-in-new-stock-bonds-to-finance-ai-buildout.html Comments URL: https://news.ycombinator.com/item?id=50342284 Points: 195 # Comments: 172",
    "published": "2026-11-02T19:27:37+00:00",
    "topics": [],
    "first_seen": "2026-11-03T06:46:28+00:00"
@@ -272,7 +419,7 @@
    "link": "https://terrytao.wordpress.com/2026/11/02/egoless-mathematics-in-the-ai-era/",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://terrytao.wordpress.com/2026/11/02/egoless-mathematics-in-the-ai-era/ Comments URL: https://news.ycombinator.com/item?id=50341736 Points: 144 # Comments: 98",
+   "summary": "Article URL: https://terrytao.wordpress.com/2026/11/02/egoless-mathematics-in-the-ai-era/ Comments URL: https://news.ycombinator.com/item?id=50341736 Points: 179 # Comments: 144",
    "published": "2026-11-02T18:54:44+00:00",
    "topics": [],
    "first_seen": "2026-11-03T06:46:28+00:00"
@@ -366,7 +513,7 @@
    "link": "https://www.businessinsider.com/anthropic-claude-internal-ai-use-exceeds-employee-pay-tokens-2026-11",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://www.businessinsider.com/anthropic-claude-internal-ai-use-exceeds-employee-pay-tokens-2026-11 Comments URL: https://news.ycombinator.com/item?id=50339494 Points: 311 # Comments: 246",
+   "summary": "Article URL: https://www.businessinsider.com/anthropic-claude-internal-ai-use-exceeds-employee-pay-tokens-2026-11 Comments URL: https://news.ycombinator.com/item?id=50339494 Points: 341 # Comments: 265",
    "published": "2026-11-02T16:40:29+00:00",
    "topics": [
     "Models"
@@ -385,6 +532,19 @@
     "Models"
    ],
    "first_seen": "2026-11-02T23:29:28+00:00"
+  },
+  {
+   "id": "fd613bbbc38c4a34",
+   "title": "Claude Opus 5.5 Can Draw Permit-Level Architectural Drawings",
+   "link": "https://stephenjgallagher.substack.com/p/ai-can-draw-blueprints-now",
+   "source": "Hacker News",
+   "kind": "community",
+   "summary": "Article URL: https://stephenjgallagher.substack.com/p/ai-can-draw-blueprints-now Comments URL: https://news.ycombinator.com/item?id=50339224 Points: 105 # Comments: 36",
+   "published": "2026-11-02T16:25:33+00:00",
+   "topics": [
+    "Models"
+   ],
+   "first_seen": "2026-11-03T16:14:26+00:00"
   },
   {
    "id": "3059ef1574cb12ba",
@@ -441,10 +601,21 @@
    "link": "https://www.bloomberg.com/news/features/2026-09-17/san-francisco-s-ai-wealth-boom-skirts-engineers-as-openai-anthropic-ipos-near",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://www.bloomberg.com/news/features/2026-09-17/san-francisco-s-ai-wealth-boom-skirts-engineers-as-openai-anthropic-ipos-near Comments URL: https://news.ycombinator.com/item?id=50337454 Points: 172 # Comments: 243",
+   "summary": "Article URL: https://www.bloomberg.com/news/features/2026-09-17/san-francisco-s-ai-wealth-boom-skirts-engineers-as-openai-anthropic-ipos-near Comments URL: https://news.ycombinator.com/item?id=50337454 Points: 185 # Comments: 254",
    "published": "2026-11-02T14:40:05+00:00",
    "topics": [],
    "first_seen": "2026-11-03T06:46:28+00:00"
+  },
+  {
+   "id": "b10570d1171fb89b",
+   "title": "Fujifilm to boost tape production 5x as AI fuels archiving demand",
+   "link": "https://arstechnica.com/gadgets/2026/10/fujifilm-to-boost-tape-production-5x-as-ai-fuels-archiving-demand/",
+   "source": "Hacker News",
+   "kind": "community",
+   "summary": "Article URL: https://arstechnica.com/gadgets/2026/10/fujifilm-to-boost-tape-production-5x-as-ai-fuels-archiving-demand/ Comments URL: https://news.ycombinator.com/item?id=50336918 Points: 105 # Comments: 39",
+   "published": "2026-11-02T14:02:42+00:00",
+   "topics": [],
+   "first_seen": "2026-10-30T19:21:53+00:00"
   },
   {
    "id": "f7151c69ed83cd04",
@@ -498,7 +669,7 @@
    "link": "https://twitter.com/OcanaSantero/status/2115442964574908902",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://twitter.com/OcanaSantero/status/2115442964574908902 Comments URL: https://news.ycombinator.com/item?id=50336138 Points: 128 # Comments: 101",
+   "summary": "Article URL: https://twitter.com/OcanaSantero/status/2115442964574908902 Comments URL: https://news.ycombinator.com/item?id=50336138 Points: 139 # Comments: 115",
    "published": "2026-11-02T12:50:59+00:00",
    "topics": [
     "Tools"
@@ -536,7 +707,7 @@
    "link": "https://labs.cloudsecurityalliance.org/research/csa-research-note-china-ai-export-controls-announcement-48-2/",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://labs.cloudsecurityalliance.org/research/csa-research-note-china-ai-export-controls-announcement-48-2/ Comments URL: https://news.ycombinator.com/item?id=50334038 Points: 154 # Comments: 86",
+   "summary": "Article URL: https://labs.cloudsecurityalliance.org/research/csa-research-note-china-ai-export-controls-announcement-48-2/ Comments URL: https://news.ycombinator.com/item?id=50334038 Points: 157 # Comments: 89",
    "published": "2026-11-02T07:27:28+00:00",
    "topics": [
     "Research"
@@ -549,7 +720,7 @@
    "link": "https://www.eurogamer.net/ai-fan-wikis-errors-complicating-games-culture",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://www.eurogamer.net/ai-fan-wikis-errors-complicating-games-culture Comments URL: https://news.ycombinator.com/item?id=50332086 Points: 100 # Comments: 112",
+   "summary": "Article URL: https://www.eurogamer.net/ai-fan-wikis-errors-complicating-games-culture Comments URL: https://news.ycombinator.com/item?id=50332086 Points: 100 # Comments: 113",
    "published": "2026-11-02T01:47:07+00:00",
    "topics": [],
    "first_seen": "2026-11-03T06:46:28+00:00"
@@ -593,7 +764,7 @@
    "link": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/ Comments URL: https://news.ycombinator.com/item?id=50330456 Points: 242 # Comments: 252",
+   "summary": "Article URL: https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/ Comments URL: https://news.ycombinator.com/item?id=50330456 Points: 244 # Comments: 254",
    "published": "2026-11-01T22:10:45+00:00",
    "topics": [],
    "first_seen": "2026-10-25T20:50:34+00:00"
@@ -628,7 +799,7 @@
    "link": "https://blog.raed.dev/posts/proton-loser-thinking/",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://blog.raed.dev/posts/proton-loser-thinking/ Comments URL: https://news.ycombinator.com/item?id=50328488 Points: 167 # Comments: 99",
+   "summary": "Article URL: https://blog.raed.dev/posts/proton-loser-thinking/ Comments URL: https://news.ycombinator.com/item?id=50328488 Points: 169 # Comments: 99",
    "published": "2026-11-01T18:53:55+00:00",
    "topics": [],
    "first_seen": "2026-11-01T23:35:32+00:00"
@@ -665,7 +836,7 @@
    "link": "https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/ Comments URL: https://news.ycombinator.com/item?id=50323088 Points: 468 # Comments: 387",
+   "summary": "Article URL: https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/ Comments URL: https://news.ycombinator.com/item?id=50323088 Points: 474 # Comments: 389",
    "published": "2026-11-01T06:06:19+00:00",
    "topics": [],
    "first_seen": "2026-11-01T13:23:33+00:00"
@@ -1024,17 +1195,6 @@
    "first_seen": "2026-10-30T19:21:53+00:00"
   },
   {
-   "id": "b10570d1171fb89b",
-   "title": "Fujifilm to boost tape production 5x as AI fuels archiving demand",
-   "link": "https://arstechnica.com/gadgets/2026/10/fujifilm-to-boost-tape-production-5x-as-ai-fuels-archiving-demand/",
-   "source": "Ars Technica",
-   "kind": "press",
-   "summary": "Low costs and offline security mean magnetic tape still has a job.",
-   "published": "2026-10-30T17:38:19+00:00",
-   "topics": [],
-   "first_seen": "2026-10-30T19:21:53+00:00"
-  },
-  {
    "id": "0de3f9697e499aed",
    "title": "Starbucks wants to use AI to show you a ‘personalized digital menu’ at the drive-thru",
    "link": "https://www.theverge.com/ai-artificial-intelligence/1023440/starbucks-ai-personalized-menu-drive-thru",
@@ -1051,7 +1211,7 @@
    "link": "https://www.404media.co/protons-ceo-cancels-ai-re-interviews/",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://www.404media.co/protons-ceo-cancels-ai-re-interviews/ Comments URL: https://news.ycombinator.com/item?id=50307183 Points: 301 # Comments: 258",
+   "summary": "Article URL: https://www.404media.co/protons-ceo-cancels-ai-re-interviews/ Comments URL: https://news.ycombinator.com/item?id=50307183 Points: 301 # Comments: 259",
    "published": "2026-10-30T17:24:45+00:00",
    "topics": [],
    "first_seen": "2026-10-30T19:21:53+00:00"
@@ -1087,7 +1247,7 @@
    "link": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://www.bbc.co.uk/news/articles/cvwy72e0n72yo Comments URL: https://news.ycombinator.com/item?id=50306008 Points: 269 # Comments: 303",
+   "summary": "Article URL: https://www.bbc.co.uk/news/articles/cvwy72e0n72yo Comments URL: https://news.ycombinator.com/item?id=50306008 Points: 270 # Comments: 303",
    "published": "2026-10-30T16:13:02+00:00",
    "topics": [],
    "first_seen": "2026-10-30T19:21:53+00:00"
@@ -1125,7 +1285,7 @@
    "link": "https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling Comments URL: https://news.ycombinator.com/item?id=50305693 Points: 677 # Comments: 499",
+   "summary": "Article URL: https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling Comments URL: https://news.ycombinator.com/item?id=50305693 Points: 680 # Comments: 501",
    "published": "2026-10-30T15:52:18+00:00",
    "topics": [],
    "first_seen": "2026-10-30T19:21:53+00:00"
@@ -1155,12 +1315,25 @@
    "first_seen": "2026-10-30T12:54:52+00:00"
   },
   {
+   "id": "094c331a98fae894",
+   "title": "Speeding up planning decisions with AI",
+   "link": "https://deepmind.google/blog/speeding-up-planning-decisions-with-ai/",
+   "source": "Google DeepMind",
+   "kind": "lab",
+   "summary": "Google DeepMind and UK government work together to reduce planning assessment times",
+   "published": "2026-10-30T14:18:30+00:00",
+   "topics": [
+    "Policy"
+   ],
+   "first_seen": "2026-11-03T16:14:26+00:00"
+  },
+  {
    "id": "5d1e722469ff2de9",
    "title": "Cisco gives engineer unlimited AI tokens to rewrite legacy code",
    "link": "https://fortune.com/2026/10/30/cisco-president-jeetu-patel-gen-z-27-year-old-unlimited-ai-tokens-rewrite-legacy-code-entry-level-jobs/",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://fortune.com/2026/10/30/cisco-president-jeetu-patel-gen-z-27-year-old-unlimited-ai-tokens-rewrite-legacy-code-entry-level-jobs/ Comments URL: https://news.ycombinator.com/item?id=50304122 Points: 315 # Comments: 389",
+   "summary": "Article URL: https://fortune.com/2026/10/30/cisco-president-jeetu-patel-gen-z-27-year-old-unlimited-ai-tokens-rewrite-legacy-code-entry-level-jobs/ Comments URL: https://news.ycombinator.com/item?id=50304122 Points: 316 # Comments: 391",
    "published": "2026-10-30T14:08:20+00:00",
    "topics": [],
    "first_seen": "2026-10-31T05:39:37+00:00"
