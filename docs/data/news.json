@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-04T02:19:54+00:00",
+ "updated": "2026-11-04T12:07:49+00:00",
  "sources": [
   {
    "name": "OpenAI",
@@ -125,6 +125,19 @@
    "first_seen": "2026-11-03T16:14:26+00:00"
   },
   {
+   "id": "f11d9a22fb662eb7",
+   "title": "Google hasn’t figured out how to make AI pay like its search engine",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/1024862/google-search-ai-overviews-alphabet-earnings-q3",
+   "source": "The Verge",
+   "kind": "press",
+   "summary": "Search queries are growing at their fastest rate in five years, Google parent Alphabet said in its earnings report last week. However, Google's Search revenue growth slowed to 12 percent year over year in the third quarter, down from roughly 17 percent in the previous quarter…",
+   "published": "2026-11-03T22:41:23+00:00",
+   "topics": [
+    "Business"
+   ],
+   "first_seen": "2026-11-04T12:07:49+00:00"
+  },
+  {
    "id": "f901cc10a3c48e36",
    "title": "Anthropic is working on a system to prove AI models’ identity",
    "link": "https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity/",
@@ -182,7 +195,7 @@
    "link": "https://arxiv.org/abs/2605.29713",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://arxiv.org/abs/2605.29713 Comments URL: https://news.ycombinator.com/item?id=50358582 Points: 240 # Comments: 38",
+   "summary": "Article URL: https://arxiv.org/abs/2605.29713 Comments URL: https://news.ycombinator.com/item?id=50358582 Points: 351 # Comments: 55",
    "published": "2026-11-03T21:40:53+00:00",
    "topics": [
     "Research"
@@ -195,7 +208,7 @@
    "link": "https://asia.nikkei.com/business/technology/artificial-intelligence/us-tech-giants-hidden-ai-debt-swells-90-to-3.2tn-in-6-months",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://asia.nikkei.com/business/technology/artificial-intelligence/us-tech-giants-hidden-ai-debt-swells-90-to-3.2tn-in-6-months Comments URL: https://news.ycombinator.com/item?id=50358422 Points: 254 # Comments: 114",
+   "summary": "Article URL: https://asia.nikkei.com/business/technology/artificial-intelligence/us-tech-giants-hidden-ai-debt-swells-90-to-3.2tn-in-6-months Comments URL: https://news.ycombinator.com/item?id=50358422 Points: 364 # Comments: 150",
    "published": "2026-11-03T21:26:44+00:00",
    "topics": [],
    "first_seen": "2026-11-04T02:19:54+00:00"
@@ -309,6 +322,17 @@
    "first_seen": "2026-11-03T21:48:33+00:00"
   },
   {
+   "id": "c9173a71ad3b59e9",
+   "title": "How I use AI (Oct 2026)",
+   "link": "https://ben.stolovitz.com/posts/how-use-ai-oct-2026/",
+   "source": "Hacker News",
+   "kind": "community",
+   "summary": "Article URL: https://ben.stolovitz.com/posts/how-use-ai-oct-2026/ Comments URL: https://news.ycombinator.com/item?id=50355767 Points: 186 # Comments: 219",
+   "published": "2026-11-03T18:11:11+00:00",
+   "topics": [],
+   "first_seen": "2026-11-04T12:07:49+00:00"
+  },
+  {
    "id": "b121628aeba070c8",
    "title": "Google will let schools skip AI tools, but they have to give up search, too",
    "link": "https://arstechnica.com/ai/2026/11/google-will-let-schools-skip-ai-tools-but-they-have-to-give-up-search-too/",
@@ -338,7 +362,7 @@
    "link": "https://github.com/postmanlabs/postman-app-support/issues/14370",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://github.com/postmanlabs/postman-app-support/issues/14370 Comments URL: https://news.ycombinator.com/item?id=50354960 Points: 1039 # Comments: 346",
+   "summary": "Article URL: https://github.com/postmanlabs/postman-app-support/issues/14370 Comments URL: https://news.ycombinator.com/item?id=50354960 Points: 1332 # Comments: 448",
    "published": "2026-11-03T17:22:37+00:00",
    "topics": [
     "Tools"
@@ -477,7 +501,7 @@
    "link": "https://lordtoots.bearblog.dev/ai-is-destroying-my-cs-degree/",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://lordtoots.bearblog.dev/ai-is-destroying-my-cs-degree/ Comments URL: https://news.ycombinator.com/item?id=50353300 Points: 119 # Comments: 110",
+   "summary": "Article URL: https://lordtoots.bearblog.dev/ai-is-destroying-my-cs-degree/ Comments URL: https://news.ycombinator.com/item?id=50353300 Points: 124 # Comments: 116",
    "published": "2026-11-03T15:35:06+00:00",
    "topics": [],
    "first_seen": "2026-11-03T21:48:33+00:00"
@@ -488,7 +512,7 @@
    "link": "https://www.nytimes.com/2026/11/03/us/google-search-schools-restrict-ai.html",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "https://archive.ph/RuwsB https://blog.google/products-and-platforms/products/educatio... Comments URL: https://news.ycombinator.com/item?id=50353192 Points: 561 # Comments: 410",
+   "summary": "https://archive.ph/RuwsB https://blog.google/products-and-platforms/products/educatio... Comments URL: https://news.ycombinator.com/item?id=50353192 Points: 630 # Comments: 434",
    "published": "2026-11-03T15:25:47+00:00",
    "topics": [],
    "first_seen": "2026-11-03T21:48:33+00:00"
@@ -510,7 +534,7 @@
    "link": "https://shkspr.mobi/blog/2026/11/just-a-little-ai-resistance-as-a-treat/",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://shkspr.mobi/blog/2026/11/just-a-little-ai-resistance-as-a-treat/ Comments URL: https://news.ycombinator.com/item?id=50352257 Points: 171 # Comments: 105",
+   "summary": "Article URL: https://shkspr.mobi/blog/2026/11/just-a-little-ai-resistance-as-a-treat/ Comments URL: https://news.ycombinator.com/item?id=50352257 Points: 174 # Comments: 108",
    "published": "2026-11-03T14:14:12+00:00",
    "topics": [],
    "first_seen": "2026-11-03T16:14:26+00:00"
@@ -803,7 +827,7 @@
    "link": "https://terrytao.wordpress.com/2026/11/02/egoless-mathematics-in-the-ai-era/",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://terrytao.wordpress.com/2026/11/02/egoless-mathematics-in-the-ai-era/ Comments URL: https://news.ycombinator.com/item?id=50341736 Points: 182 # Comments: 152",
+   "summary": "Article URL: https://terrytao.wordpress.com/2026/11/02/egoless-mathematics-in-the-ai-era/ Comments URL: https://news.ycombinator.com/item?id=50341736 Points: 182 # Comments: 154",
    "published": "2026-11-02T18:54:44+00:00",
    "topics": [],
    "first_seen": "2026-11-03T06:46:28+00:00"
@@ -897,7 +921,7 @@
    "link": "https://www.businessinsider.com/anthropic-claude-internal-ai-use-exceeds-employee-pay-tokens-2026-11",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://www.businessinsider.com/anthropic-claude-internal-ai-use-exceeds-employee-pay-tokens-2026-11 Comments URL: https://news.ycombinator.com/item?id=50339494 Points: 349 # Comments: 268",
+   "summary": "Article URL: https://www.businessinsider.com/anthropic-claude-internal-ai-use-exceeds-employee-pay-tokens-2026-11 Comments URL: https://news.ycombinator.com/item?id=50339494 Points: 352 # Comments: 269",
    "published": "2026-11-02T16:40:29+00:00",
    "topics": [
     "Models"
@@ -985,7 +1009,7 @@
    "link": "https://www.bloomberg.com/news/features/2026-09-17/san-francisco-s-ai-wealth-boom-skirts-engineers-as-openai-anthropic-ipos-near",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://www.bloomberg.com/news/features/2026-09-17/san-francisco-s-ai-wealth-boom-skirts-engineers-as-openai-anthropic-ipos-near Comments URL: https://news.ycombinator.com/item?id=50337454 Points: 188 # Comments: 253",
+   "summary": "Article URL: https://www.bloomberg.com/news/features/2026-09-17/san-francisco-s-ai-wealth-boom-skirts-engineers-as-openai-anthropic-ipos-near Comments URL: https://news.ycombinator.com/item?id=50337454 Points: 188 # Comments: 256",
    "published": "2026-11-02T14:40:05+00:00",
    "topics": [],
    "first_seen": "2026-11-03T06:46:28+00:00"
@@ -996,7 +1020,7 @@
    "link": "https://arstechnica.com/gadgets/2026/10/fujifilm-to-boost-tape-production-5x-as-ai-fuels-archiving-demand/",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://arstechnica.com/gadgets/2026/10/fujifilm-to-boost-tape-production-5x-as-ai-fuels-archiving-demand/ Comments URL: https://news.ycombinator.com/item?id=50336918 Points: 383 # Comments: 169",
+   "summary": "Article URL: https://arstechnica.com/gadgets/2026/10/fujifilm-to-boost-tape-production-5x-as-ai-fuels-archiving-demand/ Comments URL: https://news.ycombinator.com/item?id=50336918 Points: 488 # Comments: 206",
    "published": "2026-11-02T14:02:42+00:00",
    "topics": [],
    "first_seen": "2026-10-30T19:21:53+00:00"
@@ -1091,7 +1115,7 @@
    "link": "https://labs.cloudsecurityalliance.org/research/csa-research-note-china-ai-export-controls-announcement-48-2/",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://labs.cloudsecurityalliance.org/research/csa-research-note-china-ai-export-controls-announcement-48-2/ Comments URL: https://news.ycombinator.com/item?id=50334038 Points: 158 # Comments: 89",
+   "summary": "Article URL: https://labs.cloudsecurityalliance.org/research/csa-research-note-china-ai-export-controls-announcement-48-2/ Comments URL: https://news.ycombinator.com/item?id=50334038 Points: 158 # Comments: 90",
    "published": "2026-11-02T07:27:28+00:00",
    "topics": [
     "Research"
@@ -1148,7 +1172,7 @@
    "link": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/ Comments URL: https://news.ycombinator.com/item?id=50330456 Points: 245 # Comments: 255",
+   "summary": "Article URL: https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/ Comments URL: https://news.ycombinator.com/item?id=50330456 Points: 246 # Comments: 255",
    "published": "2026-11-01T22:10:45+00:00",
    "topics": [],
    "first_seen": "2026-10-25T20:50:34+00:00"
@@ -1183,7 +1207,7 @@
    "link": "https://blog.raed.dev/posts/proton-loser-thinking/",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://blog.raed.dev/posts/proton-loser-thinking/ Comments URL: https://news.ycombinator.com/item?id=50328488 Points: 169 # Comments: 101",
+   "summary": "Article URL: https://blog.raed.dev/posts/proton-loser-thinking/ Comments URL: https://news.ycombinator.com/item?id=50328488 Points: 170 # Comments: 101",
    "published": "2026-11-01T18:53:55+00:00",
    "topics": [],
    "first_seen": "2026-11-01T23:35:32+00:00"
@@ -1220,7 +1244,7 @@
    "link": "https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/ Comments URL: https://news.ycombinator.com/item?id=50323088 Points: 474 # Comments: 393",
+   "summary": "Article URL: https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/ Comments URL: https://news.ycombinator.com/item?id=50323088 Points: 474 # Comments: 394",
    "published": "2026-11-01T06:06:19+00:00",
    "topics": [],
    "first_seen": "2026-11-01T13:23:33+00:00"
@@ -10746,46 +10770,6 @@
    "published": "2026-10-05T13:29:32+00:00",
    "topics": [
     "Models"
-   ],
-   "first_seen": "2026-10-11T09:46:44+00:00"
-  },
-  {
-   "id": "3cbec84de8bf6155",
-   "title": "Building advertising for the way people use AI",
-   "link": "https://openai.com/index/new-chatgpt-ads-format-and-measurement",
-   "source": "OpenAI",
-   "kind": "lab",
-   "summary": "OpenAI introduces a new visual ad format in ChatGPT and expands measurement tools, attribution partnerships, and brand suitability for advertisers.",
-   "published": "2026-10-05T10:00:00+00:00",
-   "topics": [
-    "Business"
-   ],
-   "first_seen": "2026-10-11T09:46:44+00:00"
-  },
-  {
-   "id": "7a474ffcdd2c84e4",
-   "title": "People really hate AI, so why can’t they get enough?",
-   "link": "https://www.technologyreview.com/2026/10/05/1145682/people-really-hate-ai-so-why-cant-they-get-enough/",
-   "source": "MIT Technology Review",
-   "kind": "press",
-   "summary": "Over the summer I talked to the CEO of Springboards, a startup building an LLM that’s designed to come up with a wider variety of responses than its mainstream rivals do. At the start of the call, he said something that’s been stuck in my head since: “We often say that we’re a…",
-   "published": "2026-10-05T08:00:00+00:00",
-   "topics": [
-    "Models",
-    "Business"
-   ],
-   "first_seen": "2026-10-11T09:46:44+00:00"
-  },
-  {
-   "id": "9ccd829ecd1f715b",
-   "title": "EmTech Future 2026: When AI Meets Everything",
-   "link": "https://www.technologyreview.com/2026/10/05/1145413/emtech-future-2026-when-ai-meets-everything/",
-   "source": "MIT Technology Review",
-   "kind": "press",
-   "summary": "Yossi Matias, Vice President & Head of Google Research, explores how AI is beginning to reshape biology, infrastructure, manufacturing, and science, and why its greatest impact may come when it intersects with other fields. Step inside the newsroom with our MIT Technology Review…",
-   "published": "2026-10-05T04:00:00+00:00",
-   "topics": [
-    "Research"
    ],
    "first_seen": "2026-10-11T09:46:44+00:00"
   }
