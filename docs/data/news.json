@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-03T21:48:33+00:00",
+ "updated": "2026-11-04T02:19:54+00:00",
  "sources": [
   {
    "name": "OpenAI",
@@ -92,17 +92,113 @@
  ],
  "items": [
   {
+   "id": "5d47252e76d42d67",
+   "title": "The biggest modding site in PC gaming is taking a stance on AI",
+   "link": "https://www.theverge.com/games/1026085/nexus-mods-ai-disclosures",
+   "source": "The Verge",
+   "kind": "press",
+   "summary": "The PC gaming mods repository Nexus Mods is making disclosures about AI mandatory for uploads of new mods, meaning that mod authors will have to declare \"whether AI has been used in their work,\" the site announced today as part of a big post about AI-generated content on the…",
+   "published": "2026-11-04T00:42:54+00:00",
+   "topics": [],
+   "first_seen": "2026-11-04T02:19:54+00:00"
+  },
+  {
+   "id": "64fbdbf83ed120a5",
+   "title": "Please stop asking me when the AI bubble will pop",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/1025826/ai-bubble-pimco-apollo-bonds",
+   "source": "The Verge",
+   "kind": "press",
+   "summary": "People, including on this staff, keep asking me with varying degrees of excitement or trepidation when the AI bubble will burst. I'll tell you what I tell them: If I knew that, I would make a life-changing bet on the market, levered up as far as I could, and then, after I made…",
+   "published": "2026-11-03T23:37:45+00:00",
+   "topics": [],
+   "first_seen": "2026-11-04T02:19:54+00:00"
+  },
+  {
+   "id": "85827c831b0bc197",
+   "title": "Midterm elections 2026: all the news",
+   "link": "https://www.theverge.com/policy/1020640/midterm-elections-2026-all-the-news",
+   "source": "The Verge",
+   "kind": "press",
+   "summary": "The 2026 midterm elections will determine the scope of President Donald Trump’s power in his final two years in office, and signal what voters care about going into the 2028 presidential election. While this year’s races are expected to be most broadly defined by affordability…",
+   "published": "2026-11-03T23:06:21+00:00",
+   "topics": [],
+   "first_seen": "2026-11-03T16:14:26+00:00"
+  },
+  {
+   "id": "f901cc10a3c48e36",
+   "title": "Anthropic is working on a system to prove AI models’ identity",
+   "link": "https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity/",
+   "source": "TechCrunch",
+   "kind": "press",
+   "summary": "Called FlashProve, the system would let anyone check that an AI response really came from the model it claims to be from.",
+   "published": "2026-11-03T22:41:03+00:00",
+   "topics": [
+    "Models"
+   ],
+   "first_seen": "2026-11-04T02:19:54+00:00"
+  },
+  {
+   "id": "59cb8a96ca92b79e",
+   "title": "Data centers are turning to old jet engines as the wait for power grows",
+   "link": "https://techcrunch.com/2026/11/03/data-centers-are-turning-to-old-jet-engines-as-the-wait-for-power-grows/",
+   "source": "TechCrunch",
+   "kind": "press",
+   "summary": "The years-long wait for access to the grid and new turbines is causing data center builders to turn to an unusual, less-efficient and less environmentally friendly solution: once-discarded jet engines.",
+   "published": "2026-11-03T22:19:53+00:00",
+   "topics": [
+    "Hardware"
+   ],
+   "first_seen": "2026-11-04T02:19:54+00:00"
+  },
+  {
+   "id": "db1d0915e4421fd1",
+   "title": "Indie games are missing launch dates because Steam is backed up",
+   "link": "https://www.theverge.com/games/1025596/valve-steam-indie-games-missing-launch-dates",
+   "source": "The Verge",
+   "kind": "press",
+   "summary": "Many indie game developers have recently posted on social media about unexpectedly long approval wait times for their game submissions on Steam, with some of the approvals causing developers to miss their planned launch dates. For example, Studio Daimon, the team behind an…",
+   "published": "2026-11-03T21:56:58+00:00",
+   "topics": [
+    "Tools"
+   ],
+   "first_seen": "2026-11-03T21:48:33+00:00"
+  },
+  {
    "id": "d37889a9ebdda005",
    "title": "Ted Schlein’s Ballistic Ventures seeks $490M for new funds amid AI-driven cybersecurity boom",
    "link": "https://techcrunch.com/2026/11/03/ted-schleins-ballistic-ventures-seeks-490m-for-new-funds-amid-ai-driven-cybersecurity-boom/",
    "source": "TechCrunch",
    "kind": "press",
-   "summary": "Cybersecurity focused Ballistic Ventures is seeking to raise $360 million for a new flagship fund and another $130 million for a separate investment vehicle.",
+   "summary": "Cybersecurity-focused Ballistic Ventures is seeking to raise $360 million for a new flagship fund and another $130 million for a separate investment vehicle.",
    "published": "2026-11-03T21:43:08+00:00",
    "topics": [
     "Business"
    ],
    "first_seen": "2026-11-03T21:48:33+00:00"
+  },
+  {
+   "id": "edbf4ed1a954103d",
+   "title": "The Little Book of Generative AI Foundations: An Intuitive Mathematical Primer",
+   "link": "https://arxiv.org/abs/2605.29713",
+   "source": "Hacker News",
+   "kind": "community",
+   "summary": "Article URL: https://arxiv.org/abs/2605.29713 Comments URL: https://news.ycombinator.com/item?id=50358582 Points: 240 # Comments: 38",
+   "published": "2026-11-03T21:40:53+00:00",
+   "topics": [
+    "Research"
+   ],
+   "first_seen": "2026-11-04T02:19:54+00:00"
+  },
+  {
+   "id": "f3900be82c6f7ae6",
+   "title": "US tech giants' hidden AI debt swells 90% to $3.2T in 6 months",
+   "link": "https://asia.nikkei.com/business/technology/artificial-intelligence/us-tech-giants-hidden-ai-debt-swells-90-to-3.2tn-in-6-months",
+   "source": "Hacker News",
+   "kind": "community",
+   "summary": "Article URL: https://asia.nikkei.com/business/technology/artificial-intelligence/us-tech-giants-hidden-ai-debt-swells-90-to-3.2tn-in-6-months Comments URL: https://news.ycombinator.com/item?id=50358422 Points: 254 # Comments: 114",
+   "published": "2026-11-03T21:26:44+00:00",
+   "topics": [],
+   "first_seen": "2026-11-04T02:19:54+00:00"
   },
   {
    "id": "39cfcbde58ede335",
@@ -121,11 +217,11 @@
    "link": "https://techcrunch.com/2026/11/03/hiding-inside-palantirs-skyrocketing-quarter-is-a-foreboding-signal/",
    "source": "TechCrunch",
    "kind": "press",
-   "summary": "Palantir delivered such a huge third-quarter earnings report on Monday that its press release even bragged that the numbers were “crushing consensus expectations.” Yet, retail investors were lukewarm on the company on Tuesday, with the stock trading slightly down. That’s because…",
+   "summary": "Palantir's U.S. commercial revenue surpassed U.S. government revenue for the first time ever.",
    "published": "2026-11-03T21:05:55+00:00",
    "topics": [
-    "Business",
-    "Tools"
+    "Policy",
+    "Business"
    ],
    "first_seen": "2026-11-03T21:48:33+00:00"
   },
@@ -154,17 +250,6 @@
     "Hardware"
    ],
    "first_seen": "2026-11-03T21:48:33+00:00"
-  },
-  {
-   "id": "85827c831b0bc197",
-   "title": "Midterm elections 2026: all the news",
-   "link": "https://www.theverge.com/policy/1020640/midterm-elections-2026-all-the-news",
-   "source": "The Verge",
-   "kind": "press",
-   "summary": "The 2026 midterm elections will determine the scope of President Donald Trump’s power in his final two years in office, and signal what voters care about going into the 2028 presidential election. While this year’s races are expected to be most broadly defined by affordability…",
-   "published": "2026-11-03T20:36:28+00:00",
-   "topics": [],
-   "first_seen": "2026-11-03T16:14:26+00:00"
   },
   {
    "id": "49792679d79fe36c",
@@ -224,19 +309,6 @@
    "first_seen": "2026-11-03T21:48:33+00:00"
   },
   {
-   "id": "db1d0915e4421fd1",
-   "title": "Indie games are missing launch dates because Steam is backed up",
-   "link": "https://www.theverge.com/games/1025596/valve-steam-indie-games-missing-launch-dates",
-   "source": "The Verge",
-   "kind": "press",
-   "summary": "Many indie game developers have recently posted on social media about unexpectedly long approval wait times for their game submissions on Steam, with some of the approvals causing developers to miss their planned launch dates. For example, Studio Daimon, the team behind an…",
-   "published": "2026-11-03T18:17:21+00:00",
-   "topics": [
-    "Tools"
-   ],
-   "first_seen": "2026-11-03T21:48:33+00:00"
-  },
-  {
    "id": "b121628aeba070c8",
    "title": "Google will let schools skip AI tools, but they have to give up search, too",
    "link": "https://arstechnica.com/ai/2026/11/google-will-let-schools-skip-ai-tools-but-they-have-to-give-up-search-too/",
@@ -266,7 +338,7 @@
    "link": "https://github.com/postmanlabs/postman-app-support/issues/14370",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://github.com/postmanlabs/postman-app-support/issues/14370 Comments URL: https://news.ycombinator.com/item?id=50354960 Points: 808 # Comments: 266",
+   "summary": "Article URL: https://github.com/postmanlabs/postman-app-support/issues/14370 Comments URL: https://news.ycombinator.com/item?id=50354960 Points: 1039 # Comments: 346",
    "published": "2026-11-03T17:22:37+00:00",
    "topics": [
     "Tools"
@@ -405,7 +477,7 @@
    "link": "https://lordtoots.bearblog.dev/ai-is-destroying-my-cs-degree/",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://lordtoots.bearblog.dev/ai-is-destroying-my-cs-degree/ Comments URL: https://news.ycombinator.com/item?id=50353300 Points: 113 # Comments: 103",
+   "summary": "Article URL: https://lordtoots.bearblog.dev/ai-is-destroying-my-cs-degree/ Comments URL: https://news.ycombinator.com/item?id=50353300 Points: 119 # Comments: 110",
    "published": "2026-11-03T15:35:06+00:00",
    "topics": [],
    "first_seen": "2026-11-03T21:48:33+00:00"
@@ -416,18 +488,18 @@
    "link": "https://www.nytimes.com/2026/11/03/us/google-search-schools-restrict-ai.html",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "https://archive.ph/RuwsB https://blog.google/products-and-platforms/products/educatio... Comments URL: https://news.ycombinator.com/item?id=50353192 Points: 451 # Comments: 340",
+   "summary": "https://archive.ph/RuwsB https://blog.google/products-and-platforms/products/educatio... Comments URL: https://news.ycombinator.com/item?id=50353192 Points: 561 # Comments: 410",
    "published": "2026-11-03T15:25:47+00:00",
    "topics": [],
    "first_seen": "2026-11-03T21:48:33+00:00"
   },
   {
    "id": "954137d8d070f957",
-   "title": "The TechCrunch Founder Summit agenda is only half the reason to be in Boston on Nov. 4",
+   "title": "The TechCrunch Founder Summit agenda is only half the reason to be in Boston on November 4",
    "link": "https://techcrunch.com/2026/11/03/the-techcrunch-founder-summit-agenda-is-only-half-the-reason-to-be-in-boston-on-nov-4/",
    "source": "TechCrunch",
    "kind": "press",
-   "summary": "On Nov. 4, TechCrunch Founder Summit 2026 brings founders and VCs to Boston's SoWa Power Station for practical insights and connections. Register before prices increase at the door.",
+   "summary": "On November 4, TechCrunch Founder Summit 2026 brings founders and VCs to Boston's SoWa Power Station for practical insights and connections. Register before prices increase at the door.",
    "published": "2026-11-03T14:30:00+00:00",
    "topics": [],
    "first_seen": "2026-11-03T16:14:26+00:00"
@@ -438,7 +510,7 @@
    "link": "https://shkspr.mobi/blog/2026/11/just-a-little-ai-resistance-as-a-treat/",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://shkspr.mobi/blog/2026/11/just-a-little-ai-resistance-as-a-treat/ Comments URL: https://news.ycombinator.com/item?id=50352257 Points: 167 # Comments: 108",
+   "summary": "Article URL: https://shkspr.mobi/blog/2026/11/just-a-little-ai-resistance-as-a-treat/ Comments URL: https://news.ycombinator.com/item?id=50352257 Points: 171 # Comments: 105",
    "published": "2026-11-03T14:14:12+00:00",
    "topics": [],
    "first_seen": "2026-11-03T16:14:26+00:00"
@@ -731,7 +803,7 @@
    "link": "https://terrytao.wordpress.com/2026/11/02/egoless-mathematics-in-the-ai-era/",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://terrytao.wordpress.com/2026/11/02/egoless-mathematics-in-the-ai-era/ Comments URL: https://news.ycombinator.com/item?id=50341736 Points: 180 # Comments: 151",
+   "summary": "Article URL: https://terrytao.wordpress.com/2026/11/02/egoless-mathematics-in-the-ai-era/ Comments URL: https://news.ycombinator.com/item?id=50341736 Points: 182 # Comments: 152",
    "published": "2026-11-02T18:54:44+00:00",
    "topics": [],
    "first_seen": "2026-11-03T06:46:28+00:00"
@@ -825,7 +897,7 @@
    "link": "https://www.businessinsider.com/anthropic-claude-internal-ai-use-exceeds-employee-pay-tokens-2026-11",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://www.businessinsider.com/anthropic-claude-internal-ai-use-exceeds-employee-pay-tokens-2026-11 Comments URL: https://news.ycombinator.com/item?id=50339494 Points: 346 # Comments: 267",
+   "summary": "Article URL: https://www.businessinsider.com/anthropic-claude-internal-ai-use-exceeds-employee-pay-tokens-2026-11 Comments URL: https://news.ycombinator.com/item?id=50339494 Points: 349 # Comments: 268",
    "published": "2026-11-02T16:40:29+00:00",
    "topics": [
     "Models"
@@ -913,7 +985,7 @@
    "link": "https://www.bloomberg.com/news/features/2026-09-17/san-francisco-s-ai-wealth-boom-skirts-engineers-as-openai-anthropic-ipos-near",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://www.bloomberg.com/news/features/2026-09-17/san-francisco-s-ai-wealth-boom-skirts-engineers-as-openai-anthropic-ipos-near Comments URL: https://news.ycombinator.com/item?id=50337454 Points: 186 # Comments: 257",
+   "summary": "Article URL: https://www.bloomberg.com/news/features/2026-09-17/san-francisco-s-ai-wealth-boom-skirts-engineers-as-openai-anthropic-ipos-near Comments URL: https://news.ycombinator.com/item?id=50337454 Points: 188 # Comments: 253",
    "published": "2026-11-02T14:40:05+00:00",
    "topics": [],
    "first_seen": "2026-11-03T06:46:28+00:00"
@@ -924,7 +996,7 @@
    "link": "https://arstechnica.com/gadgets/2026/10/fujifilm-to-boost-tape-production-5x-as-ai-fuels-archiving-demand/",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://arstechnica.com/gadgets/2026/10/fujifilm-to-boost-tape-production-5x-as-ai-fuels-archiving-demand/ Comments URL: https://news.ycombinator.com/item?id=50336918 Points: 324 # Comments: 131",
+   "summary": "Article URL: https://arstechnica.com/gadgets/2026/10/fujifilm-to-boost-tape-production-5x-as-ai-fuels-archiving-demand/ Comments URL: https://news.ycombinator.com/item?id=50336918 Points: 383 # Comments: 169",
    "published": "2026-11-02T14:02:42+00:00",
    "topics": [],
    "first_seen": "2026-10-30T19:21:53+00:00"
@@ -981,7 +1053,7 @@
    "link": "https://twitter.com/OcanaSantero/status/2115442964574908902",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://twitter.com/OcanaSantero/status/2115442964574908902 Comments URL: https://news.ycombinator.com/item?id=50336138 Points: 141 # Comments: 116",
+   "summary": "Article URL: https://twitter.com/OcanaSantero/status/2115442964574908902 Comments URL: https://news.ycombinator.com/item?id=50336138 Points: 142 # Comments: 116",
    "published": "2026-11-02T12:50:59+00:00",
    "topics": [
     "Tools"
@@ -1148,7 +1220,7 @@
    "link": "https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/ Comments URL: https://news.ycombinator.com/item?id=50323088 Points: 474 # Comments: 391",
+   "summary": "Article URL: https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/ Comments URL: https://news.ycombinator.com/item?id=50323088 Points: 474 # Comments: 393",
    "published": "2026-11-01T06:06:19+00:00",
    "topics": [],
    "first_seen": "2026-11-01T13:23:33+00:00"
@@ -10713,20 +10785,6 @@
    "summary": "Yossi Matias, Vice President & Head of Google Research, explores how AI is beginning to reshape biology, infrastructure, manufacturing, and science, and why its greatest impact may come when it intersects with other fields. Step inside the newsroom with our MIT Technology Review…",
    "published": "2026-10-05T04:00:00+00:00",
    "topics": [
-    "Research"
-   ],
-   "first_seen": "2026-10-11T09:46:44+00:00"
-  },
-  {
-   "id": "88d553ae09bb6778",
-   "title": "Qwen3.8 27B addition in words",
-   "link": "https://simonwillison.net/2026/Oct/4/qwen38-addition-in-words/",
-   "source": "Simon Willison",
-   "kind": "community",
-   "summary": "Research: Qwen3.8 27B addition in words Colin Frasier posted on Bluesky about an experiment he ran over two years ago using GPT-4o to see how well it could \"compute the sum but return the answer in words\" across increasingly large numbers. Here's the chart he shared of those…",
-   "published": "2026-10-04T23:34:00+00:00",
-   "topics": [
-    "Models",
     "Research"
    ],
    "first_seen": "2026-10-11T09:46:44+00:00"
