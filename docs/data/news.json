@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-04T12:07:49+00:00",
+ "updated": "2026-11-04T19:45:13+00:00",
  "sources": [
   {
    "name": "OpenAI",
@@ -92,6 +92,269 @@
  ],
  "items": [
   {
+   "id": "604513e69c2ae428",
+   "title": "Open source AI is booming. Hugging Face explains who profits.",
+   "link": "https://techcrunch.com/video/open-source-ai-is-booming-hugging-face-explains-who-profits/",
+   "source": "TechCrunch",
+   "kind": "press",
+   "summary": "Open source models are becoming more mainstream as enterprises, governments and startups alike rely on the promise of lower costs, more control, and more flexibility. But as increasingly capable models become more freely available, how do companies capture value? And with…",
+   "published": "2026-11-04T19:30:04+00:00",
+   "topics": [
+    "Models",
+    "Policy",
+    "Business",
+    "Tools"
+   ],
+   "first_seen": "2026-11-04T19:45:13+00:00"
+  },
+  {
+   "id": "add91e24e3212a5f",
+   "title": "DuckDuckGo pitches itself to schools amid backlash over Google’s AI policy",
+   "link": "https://techcrunch.com/2026/11/04/duckduckgo-pitches-itself-to-schools-amid-backlash-over-googles-ai-policy/",
+   "source": "TechCrunch",
+   "kind": "press",
+   "summary": "DuckDuckGo is courting schools frustrated by Google's AI restrictions, pointing educators to its search engine and options to disable AI features.",
+   "published": "2026-11-04T19:29:52+00:00",
+   "topics": [
+    "Policy"
+   ],
+   "first_seen": "2026-11-04T19:45:13+00:00"
+  },
+  {
+   "id": "026e4ebd4085d32e",
+   "title": "ChatGPT will now make you animated GIFs",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/1026474/openai-chatgpt-animated-gifs-images-2-6",
+   "source": "The Verge",
+   "kind": "press",
+   "summary": "ChatGPT can now create GIFs using a prompt or a photo uploaded to the AI chatbot. The update, which is rolling out alongside OpenAI's new Images 2.6 model, allows you to adjust the GIF's animation speed, edit individual frames, and share it with others. Before this change…",
+   "published": "2026-11-04T19:02:40+00:00",
+   "topics": [
+    "Models"
+   ],
+   "first_seen": "2026-11-04T19:45:13+00:00"
+  },
+  {
+   "id": "d0178f35064d57a6",
+   "title": "Nothing teases a screen-free AI device ahead of launch next month",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/1026586/nothing-screen-free-ai-device-carl-pei",
+   "source": "The Verge",
+   "kind": "press",
+   "summary": "Nothing CEO Carl Pei said in a post on X that the company's launching its first AI device in December. That's just a little over a year after Pei announced plans for \"AI-native\" devices and an AI operating system. He didn't give away much about what exactly the new device is…",
+   "published": "2026-11-04T18:51:06+00:00",
+   "topics": [
+    "Tools"
+   ],
+   "first_seen": "2026-11-04T19:45:13+00:00"
+  },
+  {
+   "id": "2550523e2a0eb13f",
+   "title": "Texas was the new epicenter of the AI data center buildout. That might be kaput.",
+   "link": "https://www.technologyreview.com/2026/11/04/1148043/texas-was-the-new-epicenter-of-the-ai-data-center-buildout-that-might-be-kaput/",
+   "source": "MIT Technology Review",
+   "kind": "press",
+   "summary": "Texas is the fastest-growing data center market in the US and ground zero for Big Tech’s largest AI buildouts. But the blue wave that swept the Lone Star State may jeopardize that position. Democrat James Talarico won the US Senate seat against Ken Paxton. Gina Hinojosa won the…",
+   "published": "2026-11-04T18:50:55+00:00",
+   "topics": [
+    "Hardware"
+   ],
+   "first_seen": "2026-11-04T19:45:13+00:00"
+  },
+  {
+   "id": "089b0efaf055aae1",
+   "title": "Building on open source AI? Hugging Face’s policy chief on the costs, risks, and trade-offs",
+   "link": "https://techcrunch.com/podcast/building-on-open-source-ai-hugging-faces-policy-chief-on-the-costs-risks-and-trade-offs/",
+   "source": "TechCrunch",
+   "kind": "press",
+   "summary": "Open source models are becoming more mainstream as enterprises, governments and startups alike rely on the promise of lower costs, more control, and more flexibility. But as increasingly capable models become more freely available, how do companies capture value? And with…",
+   "published": "2026-11-04T18:44:57+00:00",
+   "topics": [
+    "Models",
+    "Policy",
+    "Business",
+    "Tools"
+   ],
+   "first_seen": "2026-11-04T19:45:13+00:00"
+  },
+  {
+   "id": "5afc49da7bd40515",
+   "title": "Dharma Field Extractor: Any Document In, Structured Fields in JSON Out",
+   "link": "https://huggingface.co/blog/Dharma-AI/dharma-field-extractor",
+   "source": "Hugging Face",
+   "kind": "lab",
+   "summary": "",
+   "published": "2026-11-04T17:50:10+00:00",
+   "topics": [],
+   "first_seen": "2026-11-04T19:45:13+00:00"
+  },
+  {
+   "id": "3fdace98b464eb08",
+   "title": "My therapist thinks I should chuck the Amazon Bee Frontier out a window",
+   "link": "https://www.theverge.com/column/1026464/optimizer-amazon-bee-frontier-ambient-listening-wearables",
+   "source": "The Verge",
+   "kind": "press",
+   "summary": "This is Optimizer, a weekly newsletter sent from Verge senior reviewer Victoria Song that dissects and discusses the latest gizmos and potions that swear they're going to change your life. Opt in for Optimizer here. \"How does that make you feel?\" I get asked this a lot in…",
+   "published": "2026-11-04T17:41:01+00:00",
+   "topics": [],
+   "first_seen": "2026-11-04T19:45:13+00:00"
+  },
+  {
+   "id": "1eb19ba95d162c18",
+   "title": "Sam Altman addresses RAM comments: People should ‘put as much as they want in their computers’",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/1026292/sam-altman-ram-shortage-pcs-comments",
+   "source": "The Verge",
+   "kind": "press",
+   "summary": "OpenAI CEO Sam Altman spent election night defending his position on PC RAM purchases. He changed his name on X to \"Ram Altman\" in response to another user's comment, saying, \"i actually do want the world to have tons of memory and people to put as much as they want in their…",
+   "published": "2026-11-04T17:19:15+00:00",
+   "topics": [],
+   "first_seen": "2026-11-04T19:45:13+00:00"
+  },
+  {
+   "id": "58f69099baa4e2bf",
+   "title": "I tried Apple’s Siri Recaps. They’re surprisingly useful — and a little unsettling",
+   "link": "https://techcrunch.com/2026/11/04/i-tried-apples-siri-recaps-theyre-surprisingly-useful-and-a-little-unsettling/",
+   "source": "TechCrunch",
+   "kind": "press",
+   "summary": "Apple's AI-powered Siri Recaps won me over in just one day, despite my privacy reservations. But there's still room for improvement.",
+   "published": "2026-11-04T16:51:35+00:00",
+   "topics": [],
+   "first_seen": "2026-11-04T19:45:13+00:00"
+  },
+  {
+   "id": "eeaf8afe464ebd80",
+   "title": "Google faces backlash for plan that would turn off Search for schools that restrict AI",
+   "link": "https://techcrunch.com/2026/11/04/google-faces-backlash-for-plan-that-would-turn-off-search-for-schools-that-restrict-ai/",
+   "source": "TechCrunch",
+   "kind": "press",
+   "summary": "Politicians on the left, like NYC mayor Zohran Mamdani and former FTC chair Lina Khan, accused Google of acting as an unregulated monopoly.",
+   "published": "2026-11-04T16:17:22+00:00",
+   "topics": [],
+   "first_seen": "2026-11-04T19:45:13+00:00"
+  },
+  {
+   "id": "0c9cbd4df150e7b2",
+   "title": "Data centers lost the midterms",
+   "link": "https://www.theverge.com/policy/1026365/data-centers-midterms-results",
+   "source": "The Verge",
+   "kind": "press",
+   "summary": "Data center developers are poised to face a more restrictive building environment after voters across the country voted in candidates who favor moratoriums and ballot measures that put more obstacles on their expansion, delivering a stinging blow to a central pillar of the AI…",
+   "published": "2026-11-04T16:05:39+00:00",
+   "topics": [
+    "Hardware"
+   ],
+   "first_seen": "2026-11-04T19:45:13+00:00"
+  },
+  {
+   "id": "e818c1486ecfa20d",
+   "title": "Uber only fulfilled 4 rides from AI agents last quarter",
+   "link": "https://www.theverge.com/transportation/1026306/uber-ai-agents-q3-earnings-disintermediation",
+   "source": "The Verge",
+   "kind": "press",
+   "summary": "AI agents won't be stealing Uber's lunch any time soon. Only four rides were arranged by third-party AI agents during the third quarter of 2026, Uber executives disclosed during an earnings call this morning. The volume of Uber Eats orders fulfilled by AI agents was a little…",
+   "published": "2026-11-04T16:05:06+00:00",
+   "topics": [
+    "Tools"
+   ],
+   "first_seen": "2026-11-04T19:45:13+00:00"
+  },
+  {
+   "id": "f121b002be2ba369",
+   "title": "datasette-llm 0.1a10",
+   "link": "https://simonwillison.net/2026/Nov/4/datasette-llm/",
+   "source": "Simon Willison",
+   "kind": "community",
+   "summary": "Release: datasette-llm 0.1a10 Fixes a bug that affected my agent.datasette.io demo site, where the set of available LLM models was not correctly restricted to just those in the configuration. Tags: datasette , llm",
+   "published": "2026-11-04T15:26:02+00:00",
+   "topics": [
+    "Models",
+    "Research",
+    "Tools"
+   ],
+   "first_seen": "2026-11-04T19:45:13+00:00"
+  },
+  {
+   "id": "3a06f84c0f51a102",
+   "title": "OpenAI to acquire Pierre Computer Company, Inc.",
+   "link": "https://openai.com/index/openai-to-acquire-pierre",
+   "source": "OpenAI",
+   "kind": "lab",
+   "summary": "OpenAI will acquire Pierre Computer Company, expanding Codex’s tools for building, understanding, and reviewing code.",
+   "published": "2026-11-04T14:30:00+00:00",
+   "topics": [
+    "Business"
+   ],
+   "first_seen": "2026-11-04T19:45:13+00:00"
+  },
+  {
+   "id": "39cfcbde58ede335",
+   "title": "Those Jeff Bezos hair transplant photos are very fake",
+   "link": "https://www.theverge.com/tech/1025745/fake-jeff-bezos-hair-replacement-photos-debunk",
+   "source": "The Verge",
+   "kind": "press",
+   "summary": "Amazon founder Jeff Bezos and actor Jason Statham have a distinctive feature in common: They're both famously bald, and that definitely hasn't changed in the last few days. However, there are some images of the two men circulating around X, Threads, and Bluesky in which they…",
+   "published": "2026-11-04T14:05:44+00:00",
+   "topics": [],
+   "first_seen": "2026-11-03T21:48:33+00:00"
+  },
+  {
+   "id": "f5f168ec4f0cd17b",
+   "title": "Securing the agentic enterprise with data lineage",
+   "link": "https://www.technologyreview.com/2026/11/04/1147596/securing-the-agentic-enterprise-with-data-lineage/",
+   "source": "MIT Technology Review",
+   "kind": "press",
+   "summary": "A sales representative asks an AI agent for customer pricing, and the agent pulls data from multiple sources: restricted pricing systems, internal communications, and archived quotes. The output looks accurate to the agent, so a second agent uses the data to draft the proposal…",
+   "published": "2026-11-04T13:00:00+00:00",
+   "topics": [
+    "Tools"
+   ],
+   "first_seen": "2026-11-04T19:45:13+00:00"
+  },
+  {
+   "id": "9629b9d628e69209",
+   "title": "TechCrunch Founder Summit 2026: Doors open at 9 a.m. ET in Boston",
+   "link": "https://techcrunch.com/2026/11/04/techcrunch-founder-summit-2026-todays-the-day/",
+   "source": "TechCrunch",
+   "kind": "press",
+   "summary": "Today is the day to join TechCrunch Founder Summit 2026 in Boston's SoWa Power Station. Register now to join this founder-focused conference today.",
+   "published": "2026-11-04T13:00:00+00:00",
+   "topics": [],
+   "first_seen": "2026-11-04T19:45:13+00:00"
+  },
+  {
+   "id": "68c44263a0af5594",
+   "title": "AI is forcing us to pay off 40 years of technical debt",
+   "link": "https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability",
+   "source": "Hacker News",
+   "kind": "community",
+   "summary": "Article URL: https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability Comments URL: https://news.ycombinator.com/item?id=50364336 Points: 837 # Comments: 505",
+   "published": "2026-11-04T11:52:17+00:00",
+   "topics": [],
+   "first_seen": "2026-11-04T19:45:13+00:00"
+  },
+  {
+   "id": "d9931a8b95debc08",
+   "title": "Geoffrey Hinton: it might turn out we were better off without AI",
+   "link": "https://www.theguardian.com/uk-news/2026/nov/03/ai-godfather-geoffrey-hinton-better-off-without-ai",
+   "source": "Hacker News",
+   "kind": "community",
+   "summary": "Article URL: https://www.theguardian.com/uk-news/2026/nov/03/ai-godfather-geoffrey-hinton-better-off-without-ai Comments URL: https://news.ycombinator.com/item?id=50363554 Points: 282 # Comments: 272",
+   "published": "2026-11-04T10:23:34+00:00",
+   "topics": [],
+   "first_seen": "2026-11-04T19:45:13+00:00"
+  },
+  {
+   "id": "75679f5aa60bfcf8",
+   "title": "Daybreak Red is now available in AWS GovCloud (US-East)",
+   "link": "https://openai.com/index/daybreak-red-aws-govcloud",
+   "source": "OpenAI",
+   "kind": "lab",
+   "summary": "Daybreak Red brings GPT-5.6 Cyber to approved customers in AWS GovCloud (US-East) through Amazon Bedrock for authorized cybersecurity work.",
+   "published": "2026-11-04T07:00:00+00:00",
+   "topics": [
+    "Models"
+   ],
+   "first_seen": "2026-11-04T19:45:13+00:00"
+  },
+  {
    "id": "5d47252e76d42d67",
    "title": "The biggest modding site in PC gaming is taking a stance on AI",
    "link": "https://www.theverge.com/games/1026085/nexus-mods-ai-disclosures",
@@ -103,6 +366,21 @@
    "first_seen": "2026-11-04T02:19:54+00:00"
   },
   {
+   "id": "c3dba756698ba6ec",
+   "title": "datasette-apps 0.3a0",
+   "link": "https://simonwillison.net/2026/Nov/4/datasette-apps/",
+   "source": "Simon Willison",
+   "kind": "community",
+   "summary": "Release: datasette-apps 0.3a0 Datasette Apps adds support for hosting and editing custom HTML applications inside of Datasette. These can be created by hand, but it's easier to create them using LLMs via Datasette Agent . This release improves that integration: Apps can now be…",
+   "published": "2026-11-04T00:29:36+00:00",
+   "topics": [
+    "Models",
+    "Research",
+    "Tools"
+   ],
+   "first_seen": "2026-11-04T19:45:13+00:00"
+  },
+  {
    "id": "64fbdbf83ed120a5",
    "title": "Please stop asking me when the AI bubble will pop",
    "link": "https://www.theverge.com/ai-artificial-intelligence/1025826/ai-bubble-pimco-apollo-bonds",
@@ -112,6 +390,20 @@
    "published": "2026-11-03T23:37:45+00:00",
    "topics": [],
    "first_seen": "2026-11-04T02:19:54+00:00"
+  },
+  {
+   "id": "196e073af215c4a0",
+   "title": "datasette-agent 0.5a0",
+   "link": "https://simonwillison.net/2026/Nov/3/datasette-agent/",
+   "source": "Simon Willison",
+   "kind": "community",
+   "summary": "Release: datasette-agent 0.5a0 This is a significant release of Datasette Agent . The most notable new feature is called the panel - it lets the agent chat open and then sit next to pages from Datasette, for example a table or query page. When combined with datasette-apps this…",
+   "published": "2026-11-03T23:13:45+00:00",
+   "topics": [
+    "Research",
+    "Tools"
+   ],
+   "first_seen": "2026-11-04T19:45:13+00:00"
   },
   {
    "id": "85827c831b0bc197",
@@ -190,12 +482,26 @@
    "first_seen": "2026-11-03T21:48:33+00:00"
   },
   {
+   "id": "07065efd722751e2",
+   "title": "llm 0.37.1",
+   "link": "https://simonwillison.net/2026/Nov/3/llm/",
+   "source": "Simon Willison",
+   "kind": "community",
+   "summary": "Release: llm 0.37.1 A bugfix release for LLM , with contributions from Steven Huang , Tao An , Arjan Mossel , and XQ . Tags: llm",
+   "published": "2026-11-03T21:41:42+00:00",
+   "topics": [
+    "Models",
+    "Tools"
+   ],
+   "first_seen": "2026-11-04T19:45:13+00:00"
+  },
+  {
    "id": "edbf4ed1a954103d",
    "title": "The Little Book of Generative AI Foundations: An Intuitive Mathematical Primer",
    "link": "https://arxiv.org/abs/2605.29713",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://arxiv.org/abs/2605.29713 Comments URL: https://news.ycombinator.com/item?id=50358582 Points: 351 # Comments: 55",
+   "summary": "Article URL: https://arxiv.org/abs/2605.29713 Comments URL: https://news.ycombinator.com/item?id=50358582 Points: 376 # Comments: 59",
    "published": "2026-11-03T21:40:53+00:00",
    "topics": [
     "Research"
@@ -208,21 +514,23 @@
    "link": "https://asia.nikkei.com/business/technology/artificial-intelligence/us-tech-giants-hidden-ai-debt-swells-90-to-3.2tn-in-6-months",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://asia.nikkei.com/business/technology/artificial-intelligence/us-tech-giants-hidden-ai-debt-swells-90-to-3.2tn-in-6-months Comments URL: https://news.ycombinator.com/item?id=50358422 Points: 364 # Comments: 150",
+   "summary": "Article URL: https://asia.nikkei.com/business/technology/artificial-intelligence/us-tech-giants-hidden-ai-debt-swells-90-to-3.2tn-in-6-months Comments URL: https://news.ycombinator.com/item?id=50358422 Points: 402 # Comments: 164",
    "published": "2026-11-03T21:26:44+00:00",
    "topics": [],
    "first_seen": "2026-11-04T02:19:54+00:00"
   },
   {
-   "id": "39cfcbde58ede335",
-   "title": "Those Jeff Bezos hair transplant photos are very fake",
-   "link": "https://www.theverge.com/tech/1025745/fake-jeff-bezos-hair-replacement-photos-debunk",
-   "source": "The Verge",
-   "kind": "press",
-   "summary": "Amazon founder Jeff Bezos and actor Jason Statham have a distinctive feature in common: They're both famously bald, and that definitely hasn't changed in the last few days. However, there are some images of the two men circulating around X, Threads, and Bluesky in which they…",
-   "published": "2026-11-03T21:09:00+00:00",
-   "topics": [],
-   "first_seen": "2026-11-03T21:48:33+00:00"
+   "id": "27a269c7489319f1",
+   "title": "Show HN: Uncracked City, detective game where you question LLM suspects that lie",
+   "link": "https://uncracked.city",
+   "source": "Hacker News",
+   "kind": "community",
+   "summary": "To give you some context on the project. I'm a solo founder and I use AI heavily in my work. The idea came from wanting players to discover cities. Each city has its own history, so every case is set in a real city with real public places. The crime and the people are on other…",
+   "published": "2026-11-03T21:20:03+00:00",
+   "topics": [
+    "Models"
+   ],
+   "first_seen": "2026-11-04T19:45:13+00:00"
   },
   {
    "id": "dd34e5bf1c5e6fe6",
@@ -327,7 +635,7 @@
    "link": "https://ben.stolovitz.com/posts/how-use-ai-oct-2026/",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://ben.stolovitz.com/posts/how-use-ai-oct-2026/ Comments URL: https://news.ycombinator.com/item?id=50355767 Points: 186 # Comments: 219",
+   "summary": "Article URL: https://ben.stolovitz.com/posts/how-use-ai-oct-2026/ Comments URL: https://news.ycombinator.com/item?id=50355767 Points: 245 # Comments: 283",
    "published": "2026-11-03T18:11:11+00:00",
    "topics": [],
    "first_seen": "2026-11-04T12:07:49+00:00"
@@ -362,7 +670,7 @@
    "link": "https://github.com/postmanlabs/postman-app-support/issues/14370",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://github.com/postmanlabs/postman-app-support/issues/14370 Comments URL: https://news.ycombinator.com/item?id=50354960 Points: 1332 # Comments: 448",
+   "summary": "Article URL: https://github.com/postmanlabs/postman-app-support/issues/14370 Comments URL: https://news.ycombinator.com/item?id=50354960 Points: 1460 # Comments: 477",
    "published": "2026-11-03T17:22:37+00:00",
    "topics": [
     "Tools"
@@ -501,7 +809,7 @@
    "link": "https://lordtoots.bearblog.dev/ai-is-destroying-my-cs-degree/",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://lordtoots.bearblog.dev/ai-is-destroying-my-cs-degree/ Comments URL: https://news.ycombinator.com/item?id=50353300 Points: 124 # Comments: 116",
+   "summary": "Article URL: https://lordtoots.bearblog.dev/ai-is-destroying-my-cs-degree/ Comments URL: https://news.ycombinator.com/item?id=50353300 Points: 125 # Comments: 117",
    "published": "2026-11-03T15:35:06+00:00",
    "topics": [],
    "first_seen": "2026-11-03T21:48:33+00:00"
@@ -512,7 +820,7 @@
    "link": "https://www.nytimes.com/2026/11/03/us/google-search-schools-restrict-ai.html",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "https://archive.ph/RuwsB https://blog.google/products-and-platforms/products/educatio... Comments URL: https://news.ycombinator.com/item?id=50353192 Points: 630 # Comments: 434",
+   "summary": "https://archive.ph/RuwsB https://blog.google/products-and-platforms/products/educatio... Comments URL: https://news.ycombinator.com/item?id=50353192 Points: 653 # Comments: 458",
    "published": "2026-11-03T15:25:47+00:00",
    "topics": [],
    "first_seen": "2026-11-03T21:48:33+00:00"
@@ -534,7 +842,7 @@
    "link": "https://shkspr.mobi/blog/2026/11/just-a-little-ai-resistance-as-a-treat/",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://shkspr.mobi/blog/2026/11/just-a-little-ai-resistance-as-a-treat/ Comments URL: https://news.ycombinator.com/item?id=50352257 Points: 174 # Comments: 108",
+   "summary": "Article URL: https://shkspr.mobi/blog/2026/11/just-a-little-ai-resistance-as-a-treat/ Comments URL: https://news.ycombinator.com/item?id=50352257 Points: 176 # Comments: 108",
    "published": "2026-11-03T14:14:12+00:00",
    "topics": [],
    "first_seen": "2026-11-03T16:14:26+00:00"
@@ -792,7 +1100,7 @@
    "link": "https://www.cnbc.com/2026/11/02/oracle-files-to-sell-20-billion-in-new-stock-bonds-to-finance-ai-buildout.html",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://www.cnbc.com/2026/11/02/oracle-files-to-sell-20-billion-in-new-stock-bonds-to-finance-ai-buildout.html Comments URL: https://news.ycombinator.com/item?id=50342284 Points: 197 # Comments: 173",
+   "summary": "Article URL: https://www.cnbc.com/2026/11/02/oracle-files-to-sell-20-billion-in-new-stock-bonds-to-finance-ai-buildout.html Comments URL: https://news.ycombinator.com/item?id=50342284 Points: 199 # Comments: 174",
    "published": "2026-11-02T19:27:37+00:00",
    "topics": [],
    "first_seen": "2026-11-03T06:46:28+00:00"
@@ -827,7 +1135,7 @@
    "link": "https://terrytao.wordpress.com/2026/11/02/egoless-mathematics-in-the-ai-era/",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://terrytao.wordpress.com/2026/11/02/egoless-mathematics-in-the-ai-era/ Comments URL: https://news.ycombinator.com/item?id=50341736 Points: 182 # Comments: 154",
+   "summary": "Article URL: https://terrytao.wordpress.com/2026/11/02/egoless-mathematics-in-the-ai-era/ Comments URL: https://news.ycombinator.com/item?id=50341736 Points: 185 # Comments: 158",
    "published": "2026-11-02T18:54:44+00:00",
    "topics": [],
    "first_seen": "2026-11-03T06:46:28+00:00"
@@ -921,7 +1229,7 @@
    "link": "https://www.businessinsider.com/anthropic-claude-internal-ai-use-exceeds-employee-pay-tokens-2026-11",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://www.businessinsider.com/anthropic-claude-internal-ai-use-exceeds-employee-pay-tokens-2026-11 Comments URL: https://news.ycombinator.com/item?id=50339494 Points: 352 # Comments: 269",
+   "summary": "Article URL: https://www.businessinsider.com/anthropic-claude-internal-ai-use-exceeds-employee-pay-tokens-2026-11 Comments URL: https://news.ycombinator.com/item?id=50339494 Points: 352 # Comments: 270",
    "published": "2026-11-02T16:40:29+00:00",
    "topics": [
     "Models"
@@ -1009,7 +1317,7 @@
    "link": "https://www.bloomberg.com/news/features/2026-09-17/san-francisco-s-ai-wealth-boom-skirts-engineers-as-openai-anthropic-ipos-near",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://www.bloomberg.com/news/features/2026-09-17/san-francisco-s-ai-wealth-boom-skirts-engineers-as-openai-anthropic-ipos-near Comments URL: https://news.ycombinator.com/item?id=50337454 Points: 188 # Comments: 256",
+   "summary": "Article URL: https://www.bloomberg.com/news/features/2026-09-17/san-francisco-s-ai-wealth-boom-skirts-engineers-as-openai-anthropic-ipos-near Comments URL: https://news.ycombinator.com/item?id=50337454 Points: 188 # Comments: 257",
    "published": "2026-11-02T14:40:05+00:00",
    "topics": [],
    "first_seen": "2026-11-03T06:46:28+00:00"
@@ -1020,7 +1328,7 @@
    "link": "https://arstechnica.com/gadgets/2026/10/fujifilm-to-boost-tape-production-5x-as-ai-fuels-archiving-demand/",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://arstechnica.com/gadgets/2026/10/fujifilm-to-boost-tape-production-5x-as-ai-fuels-archiving-demand/ Comments URL: https://news.ycombinator.com/item?id=50336918 Points: 488 # Comments: 206",
+   "summary": "Article URL: https://arstechnica.com/gadgets/2026/10/fujifilm-to-boost-tape-production-5x-as-ai-fuels-archiving-demand/ Comments URL: https://news.ycombinator.com/item?id=50336918 Points: 523 # Comments: 225",
    "published": "2026-11-02T14:02:42+00:00",
    "topics": [],
    "first_seen": "2026-10-30T19:21:53+00:00"
@@ -1077,7 +1385,7 @@
    "link": "https://twitter.com/OcanaSantero/status/2115442964574908902",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://twitter.com/OcanaSantero/status/2115442964574908902 Comments URL: https://news.ycombinator.com/item?id=50336138 Points: 142 # Comments: 116",
+   "summary": "Article URL: https://twitter.com/OcanaSantero/status/2115442964574908902 Comments URL: https://news.ycombinator.com/item?id=50336138 Points: 143 # Comments: 117",
    "published": "2026-11-02T12:50:59+00:00",
    "topics": [
     "Tools"
@@ -1115,7 +1423,7 @@
    "link": "https://labs.cloudsecurityalliance.org/research/csa-research-note-china-ai-export-controls-announcement-48-2/",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://labs.cloudsecurityalliance.org/research/csa-research-note-china-ai-export-controls-announcement-48-2/ Comments URL: https://news.ycombinator.com/item?id=50334038 Points: 158 # Comments: 90",
+   "summary": "Article URL: https://labs.cloudsecurityalliance.org/research/csa-research-note-china-ai-export-controls-announcement-48-2/ Comments URL: https://news.ycombinator.com/item?id=50334038 Points: 159 # Comments: 90",
    "published": "2026-11-02T07:27:28+00:00",
    "topics": [
     "Research"
@@ -10707,69 +11015,6 @@
    "published": "2026-10-05T22:26:35+00:00",
    "topics": [
     "Tools"
-   ],
-   "first_seen": "2026-10-11T09:46:44+00:00"
-  },
-  {
-   "id": "04277ae7314bbae1",
-   "title": "Command-line tool quickly removes Apple Intelligence from macOS 27",
-   "link": "https://arstechnica.com/apple/2026/10/command-line-tool-quickly-removes-apple-intelligence-from-macos-27/",
-   "source": "Ars Technica",
-   "kind": "press",
-   "summary": "The tool can free up over 12GB of storage.",
-   "published": "2026-10-05T19:14:44+00:00",
-   "topics": [],
-   "first_seen": "2026-10-11T09:46:44+00:00"
-  },
-  {
-   "id": "1ba99535ff8c264e",
-   "title": "Connecting AI agents to enterprise knowledge",
-   "link": "https://www.technologyreview.com/2026/10/05/1145580/connecting-ai-agents-to-enterprise-knowledge/",
-   "source": "MIT Technology Review",
-   "kind": "press",
-   "summary": "For all the data that AI systems continually amass and analyze, enterprise AI agents often suffer from a curious shortcoming: a lack of knowledge. More than data, knowledge is the understanding of what the data means in the context of individual organizations. AI agents need…",
-   "published": "2026-10-05T15:47:52+00:00",
-   "topics": [
-    "Tools"
-   ],
-   "first_seen": "2026-10-11T09:46:44+00:00"
-  },
-  {
-   "id": "78ad53815846c15c",
-   "title": "Our approach to EU text provenance rules",
-   "link": "https://openai.com/index/eu-text-provenance",
-   "source": "OpenAI",
-   "kind": "lab",
-   "summary": "How OpenAI is approaching text watermarking under EU rules. Learn where watermarks apply, how detection works, and why access starts with researchers.",
-   "published": "2026-10-05T15:00:00+00:00",
-   "topics": [
-    "Policy"
-   ],
-   "first_seen": "2026-10-11T09:46:44+00:00"
-  },
-  {
-   "id": "fdcf6b49e5f5916c",
-   "title": "AI glasses face their first major government crackdown",
-   "link": "https://arstechnica.com/ai/2026/10/ai-glasses-face-their-first-major-government-crackdown/",
-   "source": "Ars Technica",
-   "kind": "press",
-   "summary": "Norway wants time to write permanent rules for glasses that can record bystanders.",
-   "published": "2026-10-05T13:39:30+00:00",
-   "topics": [
-    "Policy"
-   ],
-   "first_seen": "2026-10-11T09:46:44+00:00"
-  },
-  {
-   "id": "a166b7265245de8a",
-   "title": "Bringing predictive analytics to the agentic AI era",
-   "link": "https://www.technologyreview.com/2026/10/05/1143813/bringing-predictive-analytics-to-the-agentic-ai-era/",
-   "source": "MIT Technology Review",
-   "kind": "press",
-   "summary": "In 2026, the question for enterprise AI is no longer whether predictive models can outperform statistical forecasts—that argument is settled. The big question now is how to enable predictive systems to act on their own conclusions without drifting from business intent. The…",
-   "published": "2026-10-05T13:29:32+00:00",
-   "topics": [
-    "Models"
    ],
    "first_seen": "2026-10-11T09:46:44+00:00"
   }
