@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-04T19:45:13+00:00",
+ "updated": "2026-11-05T00:53:08+00:00",
  "sources": [
   {
    "name": "OpenAI",
@@ -92,6 +92,143 @@
  ],
  "items": [
   {
+   "id": "33a7076609087ff9",
+   "title": "AI PACs spent millions trying to shape Congress — here’s how they fared",
+   "link": "https://techcrunch.com/2026/11/04/ai-pacs-spent-millions-trying-to-shape-congress-heres-how-they-fared/",
+   "source": "TechCrunch",
+   "kind": "press",
+   "summary": "AI industry PACs spent millions influencing the 2026 midterms, with mixed results. Political groups are already looking toward the next election cycle.",
+   "published": "2026-11-04T22:45:09+00:00",
+   "topics": [
+    "Policy"
+   ],
+   "first_seen": "2026-11-05T00:53:08+00:00"
+  },
+  {
+   "id": "48d8c1552d58becd",
+   "title": "Qualcomm is betting big on data centers as smartphone sales sink",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/1026867/qualcomm-earnings-data-centers",
+   "source": "The Verge",
+   "kind": "press",
+   "summary": "With smartphone sales tanking by around 20 percent compared to 2025, Qualcomm is looking to data centers to help boost its bottom line. During its Q4 2026 earnings call, the company laid out its plans to make a splash in the AI data center business, through partnerships with…",
+   "published": "2026-11-04T22:42:15+00:00",
+   "topics": [
+    "Business",
+    "Hardware"
+   ],
+   "first_seen": "2026-11-05T00:53:08+00:00"
+  },
+  {
+   "id": "90248c1ffce43a9b",
+   "title": "Nothing CEO says company’s mysterious AI-first device is dropping next month",
+   "link": "https://techcrunch.com/2026/11/04/nothing-ceo-says-companys-mysterious-ai-first-device-is-dropping-next-month/",
+   "source": "TechCrunch",
+   "kind": "press",
+   "summary": "While it's not yet clear what kind of product the smartphone startup is cooking up, Nothing's CEO said the product is designed to leverage AI for productivity gains.",
+   "published": "2026-11-04T22:13:16+00:00",
+   "topics": [
+    "Business"
+   ],
+   "first_seen": "2026-11-05T00:53:08+00:00"
+  },
+  {
+   "id": "f3f4f568585b6de9",
+   "title": "Almost no one uses AI agents to book their Uber, company says",
+   "link": "https://techcrunch.com/2026/11/04/almost-no-one-uses-ai-agents-to-book-their-uber-company-says/",
+   "source": "TechCrunch",
+   "kind": "press",
+   "summary": "During its busiest week last quarter, Uber said only four people booked a ride using an AI agent.",
+   "published": "2026-11-04T21:56:01+00:00",
+   "topics": [
+    "Tools"
+   ],
+   "first_seen": "2026-11-05T00:53:08+00:00"
+  },
+  {
+   "id": "4c9b76bc0bf942e0",
+   "title": "17 better ways Elon Musk could have wasted $446 million",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/1026878/not-even-good-at-being-rich",
+   "source": "The Verge",
+   "kind": "press",
+   "summary": "One of the basic problems of spending too much time on social media is that you are cooking your brain by reading posts from a pack of attention-seeking lunatics. If your social media of choice is the site formerly known as Twitter, and it is your main source of contact with the…",
+   "published": "2026-11-04T21:44:00+00:00",
+   "topics": [],
+   "first_seen": "2026-11-05T00:53:08+00:00"
+  },
+  {
+   "id": "6050c43be029e750",
+   "title": "OpenAI is already trying to shape the 2028 election",
+   "link": "https://techcrunch.com/2026/11/04/openai-is-already-trying-to-shape-the-2028-election/",
+   "source": "TechCrunch",
+   "kind": "press",
+   "summary": "OpenAI’s Chris Lehane wants AI to define the 2028 election, proposing a new social contract that could benefit Americans while also advancing the AI giant’s own business interests.",
+   "published": "2026-11-04T21:25:44+00:00",
+   "topics": [],
+   "first_seen": "2026-11-05T00:53:08+00:00"
+  },
+  {
+   "id": "70e60e39b2082f35",
+   "title": "Meta acquires AI coding startup Conductor",
+   "link": "https://techcrunch.com/2026/11/04/meta-acquires-ai-coding-startup-conductor/",
+   "source": "TechCrunch",
+   "kind": "press",
+   "summary": "The startup allows software engineers to deploy teams of agents to work on various aspects of a project simultaneously.",
+   "published": "2026-11-04T21:10:56+00:00",
+   "topics": [
+    "Business",
+    "Tools"
+   ],
+   "first_seen": "2026-11-05T00:53:08+00:00"
+  },
+  {
+   "id": "1926f981629d5e9d",
+   "title": "Everything is an AI scam now",
+   "link": "https://www.davidralphlewis.co.uk/posts/everything-is-an-ai-scam-now/",
+   "source": "Hacker News",
+   "kind": "community",
+   "summary": "Article URL: https://www.davidralphlewis.co.uk/posts/everything-is-an-ai-scam-now/ Comments URL: https://news.ycombinator.com/item?id=50371508 Points: 122 # Comments: 41",
+   "published": "2026-11-04T21:05:19+00:00",
+   "topics": [],
+   "first_seen": "2026-11-05T00:53:08+00:00"
+  },
+  {
+   "id": "e5cb2e6663b2cf73",
+   "title": "Big Tech claims voters’ AI backlash is “anti-Trump” not “anti-tech”",
+   "link": "https://arstechnica.com/tech-policy/2026/11/big-tech-claims-voters-ai-backlash-is-anti-trump-not-anti-tech/",
+   "source": "Ars Technica",
+   "kind": "press",
+   "summary": "Tech industry in denial as US overwhelmingly votes to restrict AI, data centers.",
+   "published": "2026-11-04T20:55:50+00:00",
+   "topics": [
+    "Hardware"
+   ],
+   "first_seen": "2026-11-05T00:53:08+00:00"
+  },
+  {
+   "id": "3fdace98b464eb08",
+   "title": "My therapist thinks I should chuck the Amazon Bee Frontier out a window",
+   "link": "https://www.theverge.com/column/1026464/optimizer-amazon-bee-frontier-ambient-listening-wearables",
+   "source": "The Verge",
+   "kind": "press",
+   "summary": "This is Optimizer, a weekly newsletter sent from Verge senior reviewer Victoria Song that dissects and discusses the latest gizmos and potions that swear they're going to change your life. Opt in for Optimizer here. \"How does that make you feel?\" I get asked this a lot in…",
+   "published": "2026-11-04T20:43:15+00:00",
+   "topics": [],
+   "first_seen": "2026-11-04T19:45:13+00:00"
+  },
+  {
+   "id": "b6ceabf91c49350f",
+   "title": "Gemini for Home now plugs into AT&T’s smart security system",
+   "link": "https://www.theverge.com/tech/1026787/att-gemini-for-home-connected-life-security-system",
+   "source": "The Verge",
+   "kind": "press",
+   "summary": "AT&T's smart home security system now integrates with Gemini for Home. The company says its Connected Life system is the \"first\" home security product to integrate with Google Home Premium, enabling a bunch of Gemini-powered features that can summarize home events, search your…",
+   "published": "2026-11-04T20:23:24+00:00",
+   "topics": [
+    "Models"
+   ],
+   "first_seen": "2026-11-05T00:53:08+00:00"
+  },
+  {
    "id": "604513e69c2ae428",
    "title": "Open source AI is booming. Hugging Face explains who profits.",
    "link": "https://techcrunch.com/video/open-source-ai-is-booming-hugging-face-explains-who-profits/",
@@ -183,17 +320,6 @@
    "kind": "lab",
    "summary": "",
    "published": "2026-11-04T17:50:10+00:00",
-   "topics": [],
-   "first_seen": "2026-11-04T19:45:13+00:00"
-  },
-  {
-   "id": "3fdace98b464eb08",
-   "title": "My therapist thinks I should chuck the Amazon Bee Frontier out a window",
-   "link": "https://www.theverge.com/column/1026464/optimizer-amazon-bee-frontier-ambient-listening-wearables",
-   "source": "The Verge",
-   "kind": "press",
-   "summary": "This is Optimizer, a weekly newsletter sent from Verge senior reviewer Victoria Song that dissects and discusses the latest gizmos and potions that swear they're going to change your life. Opt in for Optimizer here. \"How does that make you feel?\" I get asked this a lot in…",
-   "published": "2026-11-04T17:41:01+00:00",
    "topics": [],
    "first_seen": "2026-11-04T19:45:13+00:00"
   },
@@ -325,7 +451,7 @@
    "link": "https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability Comments URL: https://news.ycombinator.com/item?id=50364336 Points: 837 # Comments: 505",
+   "summary": "Article URL: https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability Comments URL: https://news.ycombinator.com/item?id=50364336 Points: 1041 # Comments: 624",
    "published": "2026-11-04T11:52:17+00:00",
    "topics": [],
    "first_seen": "2026-11-04T19:45:13+00:00"
@@ -336,10 +462,21 @@
    "link": "https://www.theguardian.com/uk-news/2026/nov/03/ai-godfather-geoffrey-hinton-better-off-without-ai",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://www.theguardian.com/uk-news/2026/nov/03/ai-godfather-geoffrey-hinton-better-off-without-ai Comments URL: https://news.ycombinator.com/item?id=50363554 Points: 282 # Comments: 272",
+   "summary": "Article URL: https://www.theguardian.com/uk-news/2026/nov/03/ai-godfather-geoffrey-hinton-better-off-without-ai Comments URL: https://news.ycombinator.com/item?id=50363554 Points: 295 # Comments: 293",
    "published": "2026-11-04T10:23:34+00:00",
    "topics": [],
    "first_seen": "2026-11-04T19:45:13+00:00"
+  },
+  {
+   "id": "a4f4c423c5426033",
+   "title": "A thousand fewer paths to root",
+   "link": "https://openai.com/index/a-thousand-fewer-paths-to-root",
+   "source": "OpenAI",
+   "kind": "lab",
+   "summary": "OpenAI built an autonomous pipeline that found, validated, and generated patches for 948 local privilege-escalation vulnerabilities in the Linux kernel.",
+   "published": "2026-11-04T08:00:00+00:00",
+   "topics": [],
+   "first_seen": "2026-11-05T00:53:08+00:00"
   },
   {
    "id": "75679f5aa60bfcf8",
@@ -379,6 +516,32 @@
     "Tools"
    ],
    "first_seen": "2026-11-04T19:45:13+00:00"
+  },
+  {
+   "id": "0a437d67f2effbc5",
+   "title": "Introducing Images 2.6",
+   "link": "https://openai.com/index/introducing-images-2-6",
+   "source": "OpenAI",
+   "kind": "lab",
+   "summary": "Images 2.6 brings faster image generation, GIF creation, more precise editing, and new API controls across ChatGPT, Codex, and the API.",
+   "published": "2026-11-04T00:00:00+00:00",
+   "topics": [
+    "Tools"
+   ],
+   "first_seen": "2026-11-05T00:53:08+00:00"
+  },
+  {
+   "id": "bf25be8f87794d7d",
+   "title": "DevRev delivers autonomous self-service with GPT-6.1 Sol",
+   "link": "https://openai.com/index/devrev-enterprise-self-service",
+   "source": "OpenAI",
+   "kind": "lab",
+   "summary": "DevRev uses GPT-6.1 Sol to power Computer and Operator, balancing reasoning, speed, and cost for enterprise service.",
+   "published": "2026-11-04T00:00:00+00:00",
+   "topics": [
+    "Models"
+   ],
+   "first_seen": "2026-11-05T00:53:08+00:00"
   },
   {
    "id": "64fbdbf83ed120a5",
@@ -501,7 +664,7 @@
    "link": "https://arxiv.org/abs/2605.29713",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://arxiv.org/abs/2605.29713 Comments URL: https://news.ycombinator.com/item?id=50358582 Points: 376 # Comments: 59",
+   "summary": "Article URL: https://arxiv.org/abs/2605.29713 Comments URL: https://news.ycombinator.com/item?id=50358582 Points: 382 # Comments: 60",
    "published": "2026-11-03T21:40:53+00:00",
    "topics": [
     "Research"
@@ -514,7 +677,7 @@
    "link": "https://asia.nikkei.com/business/technology/artificial-intelligence/us-tech-giants-hidden-ai-debt-swells-90-to-3.2tn-in-6-months",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://asia.nikkei.com/business/technology/artificial-intelligence/us-tech-giants-hidden-ai-debt-swells-90-to-3.2tn-in-6-months Comments URL: https://news.ycombinator.com/item?id=50358422 Points: 402 # Comments: 164",
+   "summary": "Article URL: https://asia.nikkei.com/business/technology/artificial-intelligence/us-tech-giants-hidden-ai-debt-swells-90-to-3.2tn-in-6-months Comments URL: https://news.ycombinator.com/item?id=50358422 Points: 408 # Comments: 166",
    "published": "2026-11-03T21:26:44+00:00",
    "topics": [],
    "first_seen": "2026-11-04T02:19:54+00:00"
@@ -635,7 +798,7 @@
    "link": "https://ben.stolovitz.com/posts/how-use-ai-oct-2026/",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://ben.stolovitz.com/posts/how-use-ai-oct-2026/ Comments URL: https://news.ycombinator.com/item?id=50355767 Points: 245 # Comments: 283",
+   "summary": "Article URL: https://ben.stolovitz.com/posts/how-use-ai-oct-2026/ Comments URL: https://news.ycombinator.com/item?id=50355767 Points: 248 # Comments: 298",
    "published": "2026-11-03T18:11:11+00:00",
    "topics": [],
    "first_seen": "2026-11-04T12:07:49+00:00"
@@ -670,7 +833,7 @@
    "link": "https://github.com/postmanlabs/postman-app-support/issues/14370",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://github.com/postmanlabs/postman-app-support/issues/14370 Comments URL: https://news.ycombinator.com/item?id=50354960 Points: 1460 # Comments: 477",
+   "summary": "Article URL: https://github.com/postmanlabs/postman-app-support/issues/14370 Comments URL: https://news.ycombinator.com/item?id=50354960 Points: 1485 # Comments: 479",
    "published": "2026-11-03T17:22:37+00:00",
    "topics": [
     "Tools"
@@ -820,7 +983,7 @@
    "link": "https://www.nytimes.com/2026/11/03/us/google-search-schools-restrict-ai.html",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "https://archive.ph/RuwsB https://blog.google/products-and-platforms/products/educatio... Comments URL: https://news.ycombinator.com/item?id=50353192 Points: 653 # Comments: 458",
+   "summary": "https://archive.ph/RuwsB https://blog.google/products-and-platforms/products/educatio... Comments URL: https://news.ycombinator.com/item?id=50353192 Points: 661 # Comments: 460",
    "published": "2026-11-03T15:25:47+00:00",
    "topics": [],
    "first_seen": "2026-11-03T21:48:33+00:00"
@@ -842,7 +1005,7 @@
    "link": "https://shkspr.mobi/blog/2026/11/just-a-little-ai-resistance-as-a-treat/",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://shkspr.mobi/blog/2026/11/just-a-little-ai-resistance-as-a-treat/ Comments URL: https://news.ycombinator.com/item?id=50352257 Points: 176 # Comments: 108",
+   "summary": "Article URL: https://shkspr.mobi/blog/2026/11/just-a-little-ai-resistance-as-a-treat/ Comments URL: https://news.ycombinator.com/item?id=50352257 Points: 177 # Comments: 108",
    "published": "2026-11-03T14:14:12+00:00",
    "topics": [],
    "first_seen": "2026-11-03T16:14:26+00:00"
@@ -1100,7 +1263,7 @@
    "link": "https://www.cnbc.com/2026/11/02/oracle-files-to-sell-20-billion-in-new-stock-bonds-to-finance-ai-buildout.html",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://www.cnbc.com/2026/11/02/oracle-files-to-sell-20-billion-in-new-stock-bonds-to-finance-ai-buildout.html Comments URL: https://news.ycombinator.com/item?id=50342284 Points: 199 # Comments: 174",
+   "summary": "Article URL: https://www.cnbc.com/2026/11/02/oracle-files-to-sell-20-billion-in-new-stock-bonds-to-finance-ai-buildout.html Comments URL: https://news.ycombinator.com/item?id=50342284 Points: 199 # Comments: 175",
    "published": "2026-11-02T19:27:37+00:00",
    "topics": [],
    "first_seen": "2026-11-03T06:46:28+00:00"
@@ -1255,7 +1418,7 @@
    "link": "https://stephenjgallagher.substack.com/p/ai-can-draw-blueprints-now",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://stephenjgallagher.substack.com/p/ai-can-draw-blueprints-now Comments URL: https://news.ycombinator.com/item?id=50339224 Points: 105 # Comments: 37",
+   "summary": "Article URL: https://stephenjgallagher.substack.com/p/ai-can-draw-blueprints-now Comments URL: https://news.ycombinator.com/item?id=50339224 Points: 106 # Comments: 37",
    "published": "2026-11-02T16:25:33+00:00",
    "topics": [
     "Models"
@@ -1328,7 +1491,7 @@
    "link": "https://arstechnica.com/gadgets/2026/10/fujifilm-to-boost-tape-production-5x-as-ai-fuels-archiving-demand/",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://arstechnica.com/gadgets/2026/10/fujifilm-to-boost-tape-production-5x-as-ai-fuels-archiving-demand/ Comments URL: https://news.ycombinator.com/item?id=50336918 Points: 523 # Comments: 225",
+   "summary": "Article URL: https://arstechnica.com/gadgets/2026/10/fujifilm-to-boost-tape-production-5x-as-ai-fuels-archiving-demand/ Comments URL: https://news.ycombinator.com/item?id=50336918 Points: 527 # Comments: 226",
    "published": "2026-11-02T14:02:42+00:00",
    "topics": [],
    "first_seen": "2026-10-30T19:21:53+00:00"
@@ -1436,7 +1599,7 @@
    "link": "https://www.eurogamer.net/ai-fan-wikis-errors-complicating-games-culture",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://www.eurogamer.net/ai-fan-wikis-errors-complicating-games-culture Comments URL: https://news.ycombinator.com/item?id=50332086 Points: 101 # Comments: 115",
+   "summary": "Article URL: https://www.eurogamer.net/ai-fan-wikis-errors-complicating-games-culture Comments URL: https://news.ycombinator.com/item?id=50332086 Points: 101 # Comments: 117",
    "published": "2026-11-02T01:47:07+00:00",
    "topics": [],
    "first_seen": "2026-11-03T06:46:28+00:00"
@@ -10986,33 +11149,6 @@
    "kind": "lab",
    "summary": "Learn how OpenAI and Ironclad are training and evaluating AI agents on complex contracting workflows to advance computer use for professional work.",
    "published": "2026-10-06T10:00:00+00:00",
-   "topics": [
-    "Tools"
-   ],
-   "first_seen": "2026-10-11T09:46:44+00:00"
-  },
-  {
-   "id": "16140ec435b023df",
-   "title": "Quoting Felix Rieseberg",
-   "link": "https://simonwillison.net/2026/Oct/5/felix-rieseberg/",
-   "source": "Simon Willison",
-   "kind": "community",
-   "summary": "The \"old\" version of Cowork runs model inference in the cloud, executing tool calls in an Anthropic-provided VM we shipped to your computer. We added the VM for capability, safety, and security reasons - mapping in just the data you explicitly added to your session. People loved…",
-   "published": "2026-10-05T23:56:47+00:00",
-   "topics": [
-    "Models",
-    "Policy"
-   ],
-   "first_seen": "2026-10-11T09:46:44+00:00"
-  },
-  {
-   "id": "aaf1cc502a6b1603",
-   "title": "MCP for agent-to-agent comms may be the riskiest protocol you've never heard of",
-   "link": "https://arstechnica.com/security/2026/10/vulnerability-in-agents-from-google-and-others-exposes-structural-flaw-in-mcp/",
-   "source": "Ars Technica",
-   "kind": "press",
-   "summary": "Trust gaps in the new protocol spread malicious prompts from one agent to another.",
-   "published": "2026-10-05T22:26:35+00:00",
    "topics": [
     "Tools"
    ],
