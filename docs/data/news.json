@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-05T00:53:08+00:00",
+ "updated": "2026-11-05T09:29:05+00:00",
  "sources": [
   {
    "name": "OpenAI",
@@ -13,9 +13,9 @@
    "name": "Google DeepMind",
    "url": "https://deepmind.google/blog/rss.xml",
    "kind": "lab",
-   "ok": true,
-   "count": 40,
-   "error": null
+   "ok": false,
+   "count": 0,
+   "error": "ParseError: not well-formed (invalid token): line 1, column 0"
   },
   {
    "name": "Google AI",
@@ -91,6 +91,30 @@
   }
  ],
  "items": [
+  {
+   "id": "1c7da4acfcdd25cb",
+   "title": "Apple is reportedly cutting budgets for its internal AI usage",
+   "link": "https://techcrunch.com/2026/11/04/apple-is-reportedly-cutting-budgets-for-its-internal-ai-usage/",
+   "source": "TechCrunch",
+   "kind": "press",
+   "summary": "The company is said to be significantly dropping the amount it's spending on AI for its engineering teams.",
+   "published": "2026-11-05T01:26:22+00:00",
+   "topics": [],
+   "first_seen": "2026-11-05T09:29:05+00:00"
+  },
+  {
+   "id": "2c368bf7ce921244",
+   "title": "After the midterms, a bigger clash over data centers could be coming",
+   "link": "https://techcrunch.com/2026/11/04/after-the-midterms-a-bigger-clash-over-data-centers-could-be-coming/",
+   "source": "TechCrunch",
+   "kind": "press",
+   "summary": "Data center opposition crossed party lines in Tuesday’s midterms.",
+   "published": "2026-11-05T01:02:14+00:00",
+   "topics": [
+    "Hardware"
+   ],
+   "first_seen": "2026-11-05T09:29:05+00:00"
+  },
   {
    "id": "33a7076609087ff9",
    "title": "AI PACs spent millions trying to shape Congress — here’s how they fared",
@@ -186,7 +210,7 @@
    "link": "https://www.davidralphlewis.co.uk/posts/everything-is-an-ai-scam-now/",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://www.davidralphlewis.co.uk/posts/everything-is-an-ai-scam-now/ Comments URL: https://news.ycombinator.com/item?id=50371508 Points: 122 # Comments: 41",
+   "summary": "Article URL: https://www.davidralphlewis.co.uk/posts/everything-is-an-ai-scam-now/ Comments URL: https://news.ycombinator.com/item?id=50371508 Points: 139 # Comments: 53",
    "published": "2026-11-04T21:05:19+00:00",
    "topics": [],
    "first_seen": "2026-11-05T00:53:08+00:00"
@@ -227,6 +251,17 @@
     "Models"
    ],
    "first_seen": "2026-11-05T00:53:08+00:00"
+  },
+  {
+   "id": "9082a853a58f67df",
+   "title": "Qualcomm Cloud AI 100 Ultra – 150W AI Accelerator Card with 128GB at 548GB/s",
+   "link": "https://www.qualcomm.com/data-center/products/cloud-ai-100-ultra",
+   "source": "Hacker News",
+   "kind": "community",
+   "summary": "Article URL: https://www.qualcomm.com/data-center/products/cloud-ai-100-ultra Comments URL: https://news.ycombinator.com/item?id=50370654 Points: 145 # Comments: 57",
+   "published": "2026-11-04T19:55:14+00:00",
+   "topics": [],
+   "first_seen": "2026-11-05T09:29:05+00:00"
   },
   {
    "id": "604513e69c2ae428",
@@ -398,6 +433,17 @@
    "first_seen": "2026-11-04T19:45:13+00:00"
   },
   {
+   "id": "793baf0e54548bea",
+   "title": "Ask HN: What's your current AI agentic setup?",
+   "link": "https://news.ycombinator.com/item?id=50366117",
+   "source": "Hacker News",
+   "kind": "community",
+   "summary": "I'm curious how people on HN are using AI day to day, and came up with a list of questions I thought could be interesting to know. No need to answer every question of course, just wanted to get a gut feel how people are using AI. 1) What AI subscriptions are you personally…",
+   "published": "2026-11-04T14:37:22+00:00",
+   "topics": [],
+   "first_seen": "2026-11-05T09:29:05+00:00"
+  },
+  {
    "id": "3a06f84c0f51a102",
    "title": "OpenAI to acquire Pierre Computer Company, Inc.",
    "link": "https://openai.com/index/openai-to-acquire-pierre",
@@ -451,7 +497,7 @@
    "link": "https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability Comments URL: https://news.ycombinator.com/item?id=50364336 Points: 1041 # Comments: 624",
+   "summary": "Article URL: https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability Comments URL: https://news.ycombinator.com/item?id=50364336 Points: 1177 # Comments: 685",
    "published": "2026-11-04T11:52:17+00:00",
    "topics": [],
    "first_seen": "2026-11-04T19:45:13+00:00"
@@ -462,7 +508,7 @@
    "link": "https://www.theguardian.com/uk-news/2026/nov/03/ai-godfather-geoffrey-hinton-better-off-without-ai",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://www.theguardian.com/uk-news/2026/nov/03/ai-godfather-geoffrey-hinton-better-off-without-ai Comments URL: https://news.ycombinator.com/item?id=50363554 Points: 295 # Comments: 293",
+   "summary": "Article URL: https://www.theguardian.com/uk-news/2026/nov/03/ai-godfather-geoffrey-hinton-better-off-without-ai Comments URL: https://news.ycombinator.com/item?id=50363554 Points: 306 # Comments: 303",
    "published": "2026-11-04T10:23:34+00:00",
    "topics": [],
    "first_seen": "2026-11-04T19:45:13+00:00"
@@ -664,7 +710,7 @@
    "link": "https://arxiv.org/abs/2605.29713",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://arxiv.org/abs/2605.29713 Comments URL: https://news.ycombinator.com/item?id=50358582 Points: 382 # Comments: 60",
+   "summary": "Article URL: https://arxiv.org/abs/2605.29713 Comments URL: https://news.ycombinator.com/item?id=50358582 Points: 384 # Comments: 60",
    "published": "2026-11-03T21:40:53+00:00",
    "topics": [
     "Research"
@@ -677,7 +723,7 @@
    "link": "https://asia.nikkei.com/business/technology/artificial-intelligence/us-tech-giants-hidden-ai-debt-swells-90-to-3.2tn-in-6-months",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://asia.nikkei.com/business/technology/artificial-intelligence/us-tech-giants-hidden-ai-debt-swells-90-to-3.2tn-in-6-months Comments URL: https://news.ycombinator.com/item?id=50358422 Points: 408 # Comments: 166",
+   "summary": "Article URL: https://asia.nikkei.com/business/technology/artificial-intelligence/us-tech-giants-hidden-ai-debt-swells-90-to-3.2tn-in-6-months Comments URL: https://news.ycombinator.com/item?id=50358422 Points: 412 # Comments: 167",
    "published": "2026-11-03T21:26:44+00:00",
    "topics": [],
    "first_seen": "2026-11-04T02:19:54+00:00"
@@ -798,7 +844,7 @@
    "link": "https://ben.stolovitz.com/posts/how-use-ai-oct-2026/",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://ben.stolovitz.com/posts/how-use-ai-oct-2026/ Comments URL: https://news.ycombinator.com/item?id=50355767 Points: 248 # Comments: 298",
+   "summary": "Article URL: https://ben.stolovitz.com/posts/how-use-ai-oct-2026/ Comments URL: https://news.ycombinator.com/item?id=50355767 Points: 252 # Comments: 303",
    "published": "2026-11-03T18:11:11+00:00",
    "topics": [],
    "first_seen": "2026-11-04T12:07:49+00:00"
@@ -833,7 +879,7 @@
    "link": "https://github.com/postmanlabs/postman-app-support/issues/14370",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://github.com/postmanlabs/postman-app-support/issues/14370 Comments URL: https://news.ycombinator.com/item?id=50354960 Points: 1485 # Comments: 479",
+   "summary": "Article URL: https://github.com/postmanlabs/postman-app-support/issues/14370 Comments URL: https://news.ycombinator.com/item?id=50354960 Points: 1495 # Comments: 486",
    "published": "2026-11-03T17:22:37+00:00",
    "topics": [
     "Tools"
@@ -983,7 +1029,7 @@
    "link": "https://www.nytimes.com/2026/11/03/us/google-search-schools-restrict-ai.html",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "https://archive.ph/RuwsB https://blog.google/products-and-platforms/products/educatio... Comments URL: https://news.ycombinator.com/item?id=50353192 Points: 661 # Comments: 460",
+   "summary": "https://archive.ph/RuwsB https://blog.google/products-and-platforms/products/educatio... Comments URL: https://news.ycombinator.com/item?id=50353192 Points: 666 # Comments: 460",
    "published": "2026-11-03T15:25:47+00:00",
    "topics": [],
    "first_seen": "2026-11-03T21:48:33+00:00"
@@ -1298,7 +1344,7 @@
    "link": "https://terrytao.wordpress.com/2026/11/02/egoless-mathematics-in-the-ai-era/",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://terrytao.wordpress.com/2026/11/02/egoless-mathematics-in-the-ai-era/ Comments URL: https://news.ycombinator.com/item?id=50341736 Points: 185 # Comments: 158",
+   "summary": "Article URL: https://terrytao.wordpress.com/2026/11/02/egoless-mathematics-in-the-ai-era/ Comments URL: https://news.ycombinator.com/item?id=50341736 Points: 185 # Comments: 160",
    "published": "2026-11-02T18:54:44+00:00",
    "topics": [],
    "first_seen": "2026-11-03T06:46:28+00:00"
@@ -1439,6 +1485,19 @@
    "first_seen": "2026-11-02T23:29:28+00:00"
   },
   {
+   "id": "538ea1326a6a8ff9",
+   "title": "Basically no one is using AI agents for their DoorDash orders",
+   "link": "https://arstechnica.com/ai/2026/10/doordash-says-outside-ai-agents-have-only-led-to-hundreds-of-orders-so-far/",
+   "source": "Hacker News",
+   "kind": "community",
+   "summary": "Article URL: https://arstechnica.com/ai/2026/10/doordash-says-outside-ai-agents-have-only-led-to-hundreds-of-orders-so-far/ Comments URL: https://news.ycombinator.com/item?id=50338474 Points: 135 # Comments: 248",
+   "published": "2026-11-02T15:48:45+00:00",
+   "topics": [
+    "Tools"
+   ],
+   "first_seen": "2026-10-30T23:45:50+00:00"
+  },
+  {
    "id": "de4cf53f9db96311",
    "title": "Scaling Git at OpenAI",
    "link": "https://openai.com/index/scaling-git-at-openai",
@@ -1491,7 +1550,7 @@
    "link": "https://arstechnica.com/gadgets/2026/10/fujifilm-to-boost-tape-production-5x-as-ai-fuels-archiving-demand/",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://arstechnica.com/gadgets/2026/10/fujifilm-to-boost-tape-production-5x-as-ai-fuels-archiving-demand/ Comments URL: https://news.ycombinator.com/item?id=50336918 Points: 527 # Comments: 226",
+   "summary": "Article URL: https://arstechnica.com/gadgets/2026/10/fujifilm-to-boost-tape-production-5x-as-ai-fuels-archiving-demand/ Comments URL: https://news.ycombinator.com/item?id=50336918 Points: 530 # Comments: 228",
    "published": "2026-11-02T14:02:42+00:00",
    "topics": [],
    "first_seen": "2026-10-30T19:21:53+00:00"
@@ -2020,19 +2079,6 @@
    "summary": "People who love AI don't always love telling others they used it.",
    "published": "2026-10-30T20:40:13+00:00",
    "topics": [],
-   "first_seen": "2026-10-30T23:45:50+00:00"
-  },
-  {
-   "id": "538ea1326a6a8ff9",
-   "title": "Basically no one is using AI agents for their DoorDash orders",
-   "link": "https://arstechnica.com/ai/2026/10/doordash-says-outside-ai-agents-have-only-led-to-hundreds-of-orders-so-far/",
-   "source": "Ars Technica",
-   "kind": "press",
-   "summary": "But it's still early days for the relatively new e-commerce use case.",
-   "published": "2026-10-30T19:30:52+00:00",
-   "topics": [
-    "Tools"
-   ],
    "first_seen": "2026-10-30T23:45:50+00:00"
   },
   {
