@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-06T15:55:13+00:00",
+ "updated": "2026-11-06T21:29:09+00:00",
  "sources": [
   {
    "name": "OpenAI",
@@ -85,12 +85,158 @@
    "name": "Hacker News",
    "url": "https://hnrss.org/newest?q=AI+OR+LLM+OR+GPT+OR+Claude&points=100",
    "kind": "community",
-   "ok": true,
-   "count": 20,
-   "error": null
+   "ok": false,
+   "count": 0,
+   "error": "HTTPError: HTTP Error 502: Bad Gateway"
   }
  ],
  "items": [
+  {
+   "id": "c0641eb0de56205a",
+   "title": "All the latest updates on AI data centers",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/902546/data-centers-ai-energy-power-grids-controversy",
+   "source": "The Verge",
+   "kind": "press",
+   "summary": "Massive new data centers are the physical foundation for tech companies’ hopes and dreams for AI. But the rush to expand warehouses full of energy-hungry servers has also kicked up fights across the world over their impact on power grids, utility bills, nearby communities, and…",
+   "published": "2026-11-06T20:03:32+00:00",
+   "topics": [
+    "Hardware"
+   ],
+   "first_seen": "2026-11-06T21:29:09+00:00"
+  },
+  {
+   "id": "52e0623fab799a21",
+   "title": "Meta’s Muse AI can create custom ‘spaces’ for the version of the app you need right now",
+   "link": "https://www.theverge.com/tech/1028871/meta-muse-ai-spaces",
+   "source": "The Verge",
+   "kind": "press",
+   "summary": "Meta will now allow you to build customized, app-like experiences within Muse. The new feature, called \"spaces,\" allows its AI assistant to build things like a shopping hub, school dashboard, music tracker, trivia game, and more, which you can interact with directly in the Muse…",
+   "published": "2026-11-06T20:00:43+00:00",
+   "topics": [
+    "Tools"
+   ],
+   "first_seen": "2026-11-06T21:29:09+00:00"
+  },
+  {
+   "id": "91f8d419f4fcff35",
+   "title": "AI is the new dating dealbreaker",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/1028609/ai-dating-feelings-doomers-singularity",
+   "source": "The Verge",
+   "kind": "press",
+   "summary": "When Irene moved to San Francisco last year, she started using dating apps as a way to meet new people, get to know her new city, and connect with others who care about the things she does. After the 25-year-old analyst downloaded Hinge and started swiping, she noticed a trend…",
+   "published": "2026-11-06T19:58:08+00:00",
+   "topics": [],
+   "first_seen": "2026-11-06T21:29:09+00:00"
+  },
+  {
+   "id": "4758b3e084074531",
+   "title": "Hundreds of Artex AI hacking tools found publicly exposed to the web",
+   "link": "https://techcrunch.com/2026/11/06/hundreds-of-artex-ai-hacking-tools-found-publicly-exposed-to-the-web/",
+   "source": "TechCrunch",
+   "kind": "press",
+   "summary": "Security researchers found hundreds of servers hosting the penetration testing tool Artex exposed to the internet, allowing anyone access to the hacking tool.",
+   "published": "2026-11-06T18:44:38+00:00",
+   "topics": [],
+   "first_seen": "2026-11-06T21:29:09+00:00"
+  },
+  {
+   "id": "46e88a02e03424f2",
+   "title": "Meta introduces Spaces, a new way to collaborate with your Muse agent",
+   "link": "https://techcrunch.com/2026/11/06/meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent/",
+   "source": "TechCrunch",
+   "kind": "press",
+   "summary": "Meta's Muse agents continue to get new features and integrations. Spaces promises to be a new way to interact with the AI helpers.",
+   "published": "2026-11-06T18:44:20+00:00",
+   "topics": [
+    "Tools"
+   ],
+   "first_seen": "2026-11-06T21:29:09+00:00"
+  },
+  {
+   "id": "860444638104df4b",
+   "title": "How a Blue Wave midterm might reshape the AI industry",
+   "link": "https://techcrunch.com/podcast/how-a-blue-wave-midterm-might-reshape-the-ai-industry/",
+   "source": "TechCrunch",
+   "kind": "press",
+   "summary": "Democrats’ historic victories in this week’s U.S. midterm elections could also transform the tech industry. The public voted on 41 data center-related ballot measures on Tuesday — in all but one, the majority voted to impose more restrictions on data center development. And even…",
+   "published": "2026-11-06T18:00:00+00:00",
+   "topics": [
+    "Hardware"
+   ],
+   "first_seen": "2026-11-06T21:29:09+00:00"
+  },
+  {
+   "id": "95ff043a27dc1284",
+   "title": "“Does Meta think we can’t read?” Meta abandons sketchy commercial terms update.",
+   "link": "https://arstechnica.com/tech-policy/2026/11/does-meta-think-we-cant-read-meta-abandons-sketchy-commercial-terms-update/",
+   "source": "Ars Technica",
+   "kind": "press",
+   "summary": "Meta won't force Facebook page owners to allow AI training on linked content.",
+   "published": "2026-11-06T17:43:02+00:00",
+   "topics": [],
+   "first_seen": "2026-11-06T21:29:09+00:00"
+  },
+  {
+   "id": "ead671d25881cf90",
+   "title": "After the midterms, is the AI industry in for a rough two years?",
+   "link": "https://techcrunch.com/video/after-the-midterms-is-the-ai-industry-in-for-a-rough-two-years/",
+   "source": "TechCrunch",
+   "kind": "press",
+   "summary": "Democrats’ historic victories in this week’s U.S. midterm elections could also transform the tech industry. The public voted on 41 data center-related ballot measures on Tuesday — in all but one, the majority voted to impose more restrictions on data center development. And even…",
+   "published": "2026-11-06T17:23:52+00:00",
+   "topics": [
+    "Hardware"
+   ],
+   "first_seen": "2026-11-06T21:29:09+00:00"
+  },
+  {
+   "id": "04ff5155f60621be",
+   "title": "Quoting Nilay Patel",
+   "link": "https://simonwillison.net/2026/Nov/6/nilay-patel/",
+   "source": "Simon Willison",
+   "kind": "community",
+   "summary": "The products aren't good enough to sell people on the costs. You cannot tell people that you have to listen to the whine of a data center in their backyard for AI overviews and some of the most hilarious deep fake slop in history. It's not worth it. It just isn't worth it to…",
+   "published": "2026-11-06T17:13:12+00:00",
+   "topics": [
+    "Hardware"
+   ],
+   "first_seen": "2026-11-06T21:29:09+00:00"
+  },
+  {
+   "id": "22815b4f725ebdf4",
+   "title": "Big Tech lost big in the 2026 election",
+   "link": "https://www.theverge.com/podcast/1028731/2026-midterms-tech-ai-vergecast",
+   "source": "The Verge",
+   "kind": "press",
+   "summary": "On Tuesday, millions of American voters went to the polls and voted overwhelmingly for Democrats and against AI. The fight against Big Tech is about to come roaring back, and the fight over data centers is looking even harder for the folks trying to build them. On this episode…",
+   "published": "2026-11-06T17:09:01+00:00",
+   "topics": [
+    "Hardware"
+   ],
+   "first_seen": "2026-11-06T21:29:09+00:00"
+  },
+  {
+   "id": "c821c11af1c22210",
+   "title": "How Akai and Moog are embracing vibe-coded mods",
+   "link": "https://www.theverge.com/tech/1028720/vibe-coding-open-source-inmusic-akai",
+   "source": "The Verge",
+   "kind": "press",
+   "summary": "inMusic, the parent company of Akai, Moog, Native Instruments, and more, has decided to embrace the modding community. In an interview with The Verge, inMusic CEO Jack O'Donnell said, \"We're going to provide a toolbox to the community, we're going to provide the inner workings…",
+   "published": "2026-11-06T16:34:39+00:00",
+   "topics": [],
+   "first_seen": "2026-11-06T21:29:09+00:00"
+  },
+  {
+   "id": "01aef0d2f976d959",
+   "title": "Could potential AI clones of GTA VI force a quicker official port?",
+   "link": "https://arstechnica.com/gaming/2026/11/could-potential-ai-clones-of-gta-vi-force-a-quicker-official-port/",
+   "source": "Ars Technica",
+   "kind": "press",
+   "summary": "A former Rockstar tech director thinks the developer is facing new time pressures.",
+   "published": "2026-11-06T16:19:12+00:00",
+   "topics": [],
+   "first_seen": "2026-11-06T21:29:09+00:00"
+  },
   {
    "id": "d275be2a1267c8e7",
    "title": "Ramp data shows AI spending stalling just as Anthropic nears its IPO",
@@ -188,6 +334,17 @@
    "first_seen": "2026-11-06T15:55:13+00:00"
   },
   {
+   "id": "bc8f9eac19663ff6",
+   "title": "Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
+   "link": "https://openai.com/index/partnering-with-hacktron",
+   "source": "OpenAI",
+   "kind": "lab",
+   "summary": "OpenAI is partnering with Hacktron to find vulnerabilities, test connections with third-party services, and strengthen defenses with frontier AI.",
+   "published": "2026-11-06T08:00:00+00:00",
+   "topics": [],
+   "first_seen": "2026-11-06T21:29:09+00:00"
+  },
+  {
    "id": "9889510bec40cd60",
    "title": "Palo Alto Networks in talks to buy AI agent security startup Clutch for $500M",
    "link": "https://techcrunch.com/2026/11/05/palo-alto-networks-in-talks-to-buy-ai-agent-security-startup-clutch-for-500m/",
@@ -248,6 +405,20 @@
    "published": "2026-11-06T00:00:00+00:00",
    "topics": [],
    "first_seen": "2026-11-06T15:55:13+00:00"
+  },
+  {
+   "id": "cfd4354afa14004f",
+   "title": "Measuring how AI agents handle everyday wet-lab science",
+   "link": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science",
+   "source": "OpenAI",
+   "kind": "lab",
+   "summary": "OpenAI introduces BioBasicsBench, a 100-task benchmark measuring how well AI agents interpret raw experimental data and handle everyday wet-lab science.",
+   "published": "2026-11-06T00:00:00+00:00",
+   "topics": [
+    "Research",
+    "Tools"
+   ],
+   "first_seen": "2026-11-06T21:29:09+00:00"
   },
   {
    "id": "6f78e24cdb5b04f2",
@@ -11373,82 +11544,6 @@
    "published": "2026-10-07T21:56:42+00:00",
    "topics": [
     "Tools"
-   ],
-   "first_seen": "2026-10-11T09:46:44+00:00"
-  },
-  {
-   "id": "6dcb3088ac59686b",
-   "title": "Claude Haiku 5.5",
-   "link": "https://simonwillison.net/2026/Oct/7/claude-haiku-5-5/",
-   "source": "Simon Willison",
-   "kind": "community",
-   "summary": "As previously promised , here's Anthropic's new fast, low cost model: Introducing Claude Haiku 5.5 . The previous Haiku, 4.5, was very much showing its age. It came out almost a year ago , and was priced at $1/million input and $5/million output - relatively expensive even back…",
-   "published": "2026-10-07T20:56:21+00:00",
-   "topics": [
-    "Models"
-   ],
-   "first_seen": "2026-10-11T09:46:44+00:00"
-  },
-  {
-   "id": "c51d0157709e594e",
-   "title": "Meta and Microsoft take steps to reduce employee usage of Claude AI",
-   "link": "https://www.rswebsols.com/news/meta-and-microsoft-take-steps-to-reduce-employee-usage-of-claude-ai/",
-   "source": "Hacker News",
-   "kind": "community",
-   "summary": "Article URL: https://www.rswebsols.com/news/meta-and-microsoft-take-steps-to-reduce-employee-usage-of-claude-ai/ Comments URL: https://news.ycombinator.com/item?id=49997161 Points: 376 # Comments: 387",
-   "published": "2026-10-07T18:49:40+00:00",
-   "topics": [
-    "Models"
-   ],
-   "first_seen": "2026-10-11T09:46:44+00:00"
-  },
-  {
-   "id": "4bb428a07b2a9a89",
-   "title": "Claude Haiku 5.5",
-   "link": "https://www.anthropic.com/claude-haiku-5-5",
-   "source": "Hacker News",
-   "kind": "community",
-   "summary": "Article URL: https://www.anthropic.com/claude-haiku-5-5 Comments URL: https://news.ycombinator.com/item?id=49996437 Points: 1046 # Comments: 488",
-   "published": "2026-10-07T18:01:32+00:00",
-   "topics": [
-    "Models"
-   ],
-   "first_seen": "2026-10-11T09:46:44+00:00"
-  },
-  {
-   "id": "67feed715e097da3",
-   "title": "GPT‑6 and Intelligent UI for everyone",
-   "link": "https://openai.com/index/gpt-6-for-everyone/",
-   "source": "Hacker News",
-   "kind": "community",
-   "summary": "Article URL: https://openai.com/index/gpt-6-for-everyone/ Comments URL: https://news.ycombinator.com/item?id=49996425 Points: 757 # Comments: 459",
-   "published": "2026-10-07T18:00:58+00:00",
-   "topics": [
-    "Models"
-   ],
-   "first_seen": "2026-10-11T09:46:44+00:00"
-  },
-  {
-   "id": "2943f19100563cde",
-   "title": "Fraudster jailed for using 10K bots and AI songs to outstream Taylor Swift",
-   "link": "https://arstechnica.com/tech-policy/2026/10/outstreaming-taylor-swift-is-easy-with-10k-bots-and-ai-songs-fraudster-admits/",
-   "source": "Ars Technica",
-   "kind": "press",
-   "summary": "Man gets 18 months for AI scheme stealing $8M in music streaming royalties.",
-   "published": "2026-10-07T17:57:39+00:00",
-   "topics": [],
-   "first_seen": "2026-10-11T09:46:44+00:00"
-  },
-  {
-   "id": "0825a4897dea2e82",
-   "title": "Multimodal open d1 decision models for the edge",
-   "link": "https://huggingface.co/blog/LiquidAI/open-d1",
-   "source": "Hugging Face",
-   "kind": "lab",
-   "summary": "",
-   "published": "2026-10-07T16:54:33+00:00",
-   "topics": [
-    "Models"
    ],
    "first_seen": "2026-10-11T09:46:44+00:00"
   }
