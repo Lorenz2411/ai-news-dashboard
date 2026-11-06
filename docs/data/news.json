@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-05T23:37:58+00:00",
+ "updated": "2026-11-06T06:44:04+00:00",
  "sources": [
   {
    "name": "OpenAI",
@@ -13,9 +13,9 @@
    "name": "Google DeepMind",
    "url": "https://deepmind.google/blog/rss.xml",
    "kind": "lab",
-   "ok": true,
-   "count": 40,
-   "error": null
+   "ok": false,
+   "count": 0,
+   "error": "ParseError: not well-formed (invalid token): line 1, column 0"
   },
   {
    "name": "Google AI",
@@ -85,12 +85,52 @@
    "name": "Hacker News",
    "url": "https://hnrss.org/newest?q=AI+OR+LLM+OR+GPT+OR+Claude&points=100",
    "kind": "community",
-   "ok": true,
-   "count": 20,
-   "error": null
+   "ok": false,
+   "count": 0,
+   "error": "HTTPError: HTTP Error 502: Bad Gateway"
   }
  ],
  "items": [
+  {
+   "id": "9889510bec40cd60",
+   "title": "Palo Alto Networks in talks to buy AI agent security startup Clutch for $500M",
+   "link": "https://techcrunch.com/2026/11/05/palo-alto-networks-in-talks-to-buy-ai-agent-security-startup-clutch-for-500m/",
+   "source": "TechCrunch",
+   "kind": "press",
+   "summary": "Clutch, backed by Lightspeed and SignalFire, was last valued at $85 million, according to a source.",
+   "published": "2026-11-06T06:28:32+00:00",
+   "topics": [
+    "Business",
+    "Tools"
+   ],
+   "first_seen": "2026-11-06T06:44:04+00:00"
+  },
+  {
+   "id": "85f398082dadd860",
+   "title": "OpenAI is stepping back from NDAs for data center projects",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/1028454/openai-data-center-nda",
+   "source": "The Verge",
+   "kind": "press",
+   "summary": "Following this week's midterms where voters resoundingly voiced their opposition to data center expansion, OpenAI today announced new commitments to communities where it is working on data center projects, including that it won't use non-disclosure agreements (NDAs) with public…",
+   "published": "2026-11-06T00:37:56+00:00",
+   "topics": [
+    "Hardware"
+   ],
+   "first_seen": "2026-11-06T06:44:04+00:00"
+  },
+  {
+   "id": "cc48f8093c5bb103",
+   "title": "Airbnb is working on an AI travel agent",
+   "link": "https://www.theverge.com/tech/1028412/airbnb-ai-travel-agent-q3-2026-earnings",
+   "source": "The Verge",
+   "kind": "press",
+   "summary": "Airbnb plans to roll out an AI agent in the first half of 2027 that will help users plan and book travel, the company said in its Q3 2026 earnings shareholder letter released today. \"Today's AI agents are good at simple, routine tasks, like making a restaurant reservation or…",
+   "published": "2026-11-06T00:06:12+00:00",
+   "topics": [
+    "Tools"
+   ],
+   "first_seen": "2026-11-06T06:44:04+00:00"
+  },
   {
    "id": "c6134d61030c25d1",
    "title": "Muse has a voice mode now",
@@ -169,6 +209,17 @@
     "Policy"
    ],
    "first_seen": "2026-11-05T23:37:58+00:00"
+  },
+  {
+   "id": "c88b52d0b21039c7",
+   "title": "Cult.fit builds operational muscle with Codex",
+   "link": "https://openai.com/index/cultfit-builds-with-codex",
+   "source": "OpenAI",
+   "kind": "lab",
+   "summary": "Cult.fit is using Codex to help teams across functions build tools, move faster, and change how work gets done.",
+   "published": "2026-11-05T20:00:00+00:00",
+   "topics": [],
+   "first_seen": "2026-11-06T06:44:04+00:00"
   },
   {
    "id": "9d6202c03434e451",
@@ -338,6 +389,17 @@
     "Models"
    ],
    "first_seen": "2026-11-05T18:00:35+00:00"
+  },
+  {
+   "id": "b58fee4edbbb5f7a",
+   "title": "Australian universities are creating AI-native graduates",
+   "link": "https://openai.com/index/australian-universities-ai-native-graduates",
+   "source": "OpenAI",
+   "kind": "lab",
+   "summary": "Australian universities are expanding access to ChatGPT and bringing AI into teaching and learning to prepare students for an AI-enabled workforce.",
+   "published": "2026-11-05T17:00:00+00:00",
+   "topics": [],
+   "first_seen": "2026-11-06T06:44:04+00:00"
   },
   {
    "id": "c2788911aa715e52",
@@ -557,6 +619,17 @@
    "first_seen": "2026-11-05T09:29:05+00:00"
   },
   {
+   "id": "1f9981de57006417",
+   "title": "Flipsnack grows product signups with conversion optimization",
+   "link": "https://openai.com/ads/customers/flipsnack",
+   "source": "OpenAI",
+   "kind": "lab",
+   "summary": "Flipsnack focused its ChatGPT Ads campaigns on getting people to try its product, growing registrations while lowering the cost per signup.",
+   "published": "2026-11-05T00:45:15+00:00",
+   "topics": [],
+   "first_seen": "2026-11-06T06:44:04+00:00"
+  },
+  {
    "id": "89209ab642b10e25",
    "title": "A Closer Look at Phonon TTS. Launching High-Quality On-Device Speech That Tops the Benchmarks.",
    "link": "https://huggingface.co/blog/phonon-tts",
@@ -569,6 +642,20 @@
     "Tools"
    ],
    "first_seen": "2026-11-05T18:00:35+00:00"
+  },
+  {
+   "id": "c0d7b0808284d182",
+   "title": "Franklin Templeton uses OpenAI to support investment research",
+   "link": "https://openai.com/index/franklin-templeton",
+   "source": "OpenAI",
+   "kind": "lab",
+   "summary": "Starting with equity research, Franklin Templeton is developing AI workflows to help portfolio managers compare research views and examine investment risks.",
+   "published": "2026-11-05T00:00:00+00:00",
+   "topics": [
+    "Research",
+    "Business"
+   ],
+   "first_seen": "2026-11-06T06:44:04+00:00"
   },
   {
    "id": "33a7076609087ff9",
@@ -11334,72 +11421,6 @@
    "kind": "lab",
    "summary": "Radisson partnered with Accenture to build a ChatGPT plugin using OpenAI technology, helping travelers find, compare, and book hotels while planning their trips.",
    "published": "2026-10-07T07:00:00+00:00",
-   "topics": [
-    "Tools"
-   ],
-   "first_seen": "2026-10-11T09:46:44+00:00"
-  },
-  {
-   "id": "544da1e9a61fc2a9",
-   "title": "Quoting Jake Boggan",
-   "link": "https://simonwillison.net/2026/Oct/7/jake-boggan/",
-   "source": "Simon Willison",
-   "kind": "community",
-   "summary": "I was a graph theory junkie long ago and even moved to Budapest for awhile to study among the greats. While I was there I started working on Barnette's Conjecture which came to occupy my thoughts over the next 24 years of my life, on and off as I worked in many different fields…",
-   "published": "2026-10-07T04:47:55+00:00",
-   "topics": [
-    "Research"
-   ],
-   "first_seen": "2026-10-11T09:46:44+00:00"
-  },
-  {
-   "id": "40c4d27cba869495",
-   "title": "OpenAI “rogue” agent activities found on Wikimedia projects",
-   "link": "https://simonwillison.net/2026/Oct/7/openai-rogue-agents-wikimedia/",
-   "source": "Simon Willison",
-   "kind": "community",
-   "summary": "OpenAI “rogue” agent activities found on Wikimedia projects Given how tempting a target wikis are for rogue agent swarms, it's not a huge surprise that Wikipedia found evidence of that activity once they went looking: The Wikimedia Foundation conducted its own investigation to…",
-   "published": "2026-10-07T00:16:45+00:00",
-   "topics": [
-    "Business",
-    "Tools"
-   ],
-   "first_seen": "2026-10-11T09:46:44+00:00"
-  },
-  {
-   "id": "0ca1450969b5beb5",
-   "title": "GPT-6 and Intelligent UI for everyone",
-   "link": "https://openai.com/index/gpt-6-for-everyone",
-   "source": "OpenAI",
-   "kind": "lab",
-   "summary": "GPT‑6 is rolling out globally in ChatGPT with Intelligent UI, delivering faster responses with visuals and interactive experiences you can explore and use directly.",
-   "published": "2026-10-07T00:00:00+00:00",
-   "topics": [
-    "Models"
-   ],
-   "first_seen": "2026-10-11T09:46:44+00:00"
-  },
-  {
-   "id": "c41d88164f839288",
-   "title": "Quoting Victoria Kim",
-   "link": "https://simonwillison.net/2026/Oct/6/victoria-kim/",
-   "source": "Simon Willison",
-   "kind": "community",
-   "summary": "Since the Medicare breach, OpenAI has put in place additional monitoring to allow “immediate intervention” by staff to stop training if the company’s models access the internet in ways they’re not supposed to, Mr. Kwon [chief strategy officer at OpenAI] said. — Victoria Kim …",
-   "published": "2026-10-06T23:58:56+00:00",
-   "topics": [
-    "Models"
-   ],
-   "first_seen": "2026-10-11T09:46:44+00:00"
-  },
-  {
-   "id": "088d385baf40256e",
-   "title": "South Korea says AI agents appear to have been used to hack the country's banks",
-   "link": "https://www.reuters.com/world/south-koreas-lee-says-ai-appears-have-been-used-bank-hacks-2026-10-06/",
-   "source": "Hacker News",
-   "kind": "community",
-   "summary": "Article URL: https://www.reuters.com/world/south-koreas-lee-says-ai-appears-have-been-used-bank-hacks-2026-10-06/ Comments URL: https://news.ycombinator.com/item?id=49985861 Points: 100 # Comments: 32",
-   "published": "2026-10-06T23:50:33+00:00",
    "topics": [
     "Tools"
    ],
