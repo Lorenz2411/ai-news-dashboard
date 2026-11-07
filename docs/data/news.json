@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-06T21:29:09+00:00",
+ "updated": "2026-11-07T01:55:39+00:00",
  "sources": [
   {
    "name": "OpenAI",
@@ -13,9 +13,9 @@
    "name": "Google DeepMind",
    "url": "https://deepmind.google/blog/rss.xml",
    "kind": "lab",
-   "ok": true,
-   "count": 40,
-   "error": null
+   "ok": false,
+   "count": 0,
+   "error": "ParseError: not well-formed (invalid token): line 1, column 0"
   },
   {
    "name": "Google AI",
@@ -87,10 +87,73 @@
    "kind": "community",
    "ok": false,
    "count": 0,
-   "error": "HTTPError: HTTP Error 502: Bad Gateway"
+   "error": "TimeoutError: The read operation timed out"
   }
  ],
  "items": [
+  {
+   "id": "36231604b2886429",
+   "title": "Crusoe sells troubled Wyoming data center project to Google",
+   "link": "https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/",
+   "source": "TechCrunch",
+   "kind": "press",
+   "summary": "The deal highlights the challenges of developing massive AI data centers.",
+   "published": "2026-11-07T01:40:28+00:00",
+   "topics": [
+    "Hardware"
+   ],
+   "first_seen": "2026-11-07T01:55:39+00:00"
+  },
+  {
+   "id": "6813d62fd92533cd",
+   "title": "OpenAI valued at $1.25 trillion, as rival Anthropic nears its IPO",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/1029380/openai-1-25-trillion-investment-valuation",
+   "source": "The Verge",
+   "kind": "press",
+   "summary": "OpenAI is now valued at $1.25 trillion in a new round of funding that has raised another $11 billion, according to Bloomberg. That would make it one of the world's most valuable companies, not long after raising $122 billion from investors in March at a valuation of $852…",
+   "published": "2026-11-06T23:46:18+00:00",
+   "topics": [
+    "Business"
+   ],
+   "first_seen": "2026-11-07T01:55:39+00:00"
+  },
+  {
+   "id": "1bc7ba2a28c4372d",
+   "title": "China reportedly recruited AI exec to spy on Jensen Huang",
+   "link": "https://www.theverge.com/tech/1029338/nvidia-ceo-jensen-huang-china-spy",
+   "source": "The Verge",
+   "kind": "press",
+   "summary": "China's intelligence agency recruited Megaspeed executive Alice Huang to spy on Nvidia CEO Jensen Huang, according to The New York Times. The Ministry of State Security (MSS) enlisted her to glean information about American AI chips and \"potentially influence the company to push…",
+   "published": "2026-11-06T23:00:44+00:00",
+   "topics": [
+    "Hardware"
+   ],
+   "first_seen": "2026-11-07T01:55:39+00:00"
+  },
+  {
+   "id": "314bd089789a0995",
+   "title": "OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation",
+   "link": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/",
+   "source": "TechCrunch",
+   "kind": "press",
+   "summary": "OpenAI has reportedly raised an additional $11 billion as part of a funding round that hasn't closed yet but is expected to in the coming weeks.",
+   "published": "2026-11-06T22:53:46+00:00",
+   "topics": [
+    "Business"
+   ],
+   "first_seen": "2026-11-07T01:55:39+00:00"
+  },
+  {
+   "id": "91f8d419f4fcff35",
+   "title": "AI is the new dating dealbreaker",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/1028609/ai-dating-feelings-doomers-singularity",
+   "source": "The Verge",
+   "kind": "press",
+   "summary": "When Irene moved to San Francisco last year, she started using dating apps as a way to meet new people, get to know her new city, and connect with others who care about the things she does. After the 25-year-old analyst downloaded Hinge and started swiping, she noticed a trend…",
+   "published": "2026-11-06T21:51:59+00:00",
+   "topics": [],
+   "first_seen": "2026-11-06T21:29:09+00:00"
+  },
   {
    "id": "c0641eb0de56205a",
    "title": "All the latest updates on AI data centers",
@@ -115,17 +178,6 @@
    "topics": [
     "Tools"
    ],
-   "first_seen": "2026-11-06T21:29:09+00:00"
-  },
-  {
-   "id": "91f8d419f4fcff35",
-   "title": "AI is the new dating dealbreaker",
-   "link": "https://www.theverge.com/ai-artificial-intelligence/1028609/ai-dating-feelings-doomers-singularity",
-   "source": "The Verge",
-   "kind": "press",
-   "summary": "When Irene moved to San Francisco last year, she started using dating apps as a way to meet new people, get to know her new city, and connect with others who care about the things she does. After the 25-year-old analyst downloaded Hinge and started swiping, she noticed a trend…",
-   "published": "2026-11-06T19:58:08+00:00",
-   "topics": [],
    "first_seen": "2026-11-06T21:29:09+00:00"
   },
   {
@@ -11472,78 +11524,6 @@
    "published": "2026-10-08T07:07:34+00:00",
    "topics": [
     "Models"
-   ],
-   "first_seen": "2026-10-11T09:46:44+00:00"
-  },
-  {
-   "id": "1b35443cec6d3b4d",
-   "title": "Port of the TypeScript compiler, checker and lsp to Rust, by LLM",
-   "link": "https://github.com/pingdotgg/ts-rust",
-   "source": "Hacker News",
-   "kind": "community",
-   "summary": "Article URL: https://github.com/pingdotgg/ts-rust Comments URL: https://news.ycombinator.com/item?id=50000676 Points: 118 # Comments: 222",
-   "published": "2026-10-08T00:46:00+00:00",
-   "topics": [
-    "Models"
-   ],
-   "first_seen": "2026-10-11T09:46:44+00:00"
-  },
-  {
-   "id": "3a0428350fd02b1e",
-   "title": "Microsoft event debuts new AI-friendly hardware and Windows changes",
-   "link": "https://arstechnica.com/gadgets/2026/10/microsoft-event-debuts-new-ai-friendly-hardware-and-windows-changes/",
-   "source": "Ars Technica",
-   "kind": "press",
-   "summary": "Get ready for more AI in your Windows and more AI on the desktop.",
-   "published": "2026-10-08T00:00:24+00:00",
-   "topics": [],
-   "first_seen": "2026-10-11T09:46:44+00:00"
-  },
-  {
-   "id": "077dea1e8a7adb2e",
-   "title": "Disrupting AI-enabled “false front” operations",
-   "link": "https://openai.com/index/disrupting-ai-enabled-false-front-operations",
-   "source": "OpenAI",
-   "kind": "lab",
-   "summary": "OpenAI disrupted two AI-enabled influence operations that used false-front journalists and a think tank to spread geopolitical messaging.",
-   "published": "2026-10-08T00:00:00+00:00",
-   "topics": [],
-   "first_seen": "2026-10-11T09:46:44+00:00"
-  },
-  {
-   "id": "0f05fd4155a46f47",
-   "title": "The model that didn't exist, so you made it yourself",
-   "link": "https://huggingface.co/blog/building-with-ml-intern",
-   "source": "Hugging Face",
-   "kind": "lab",
-   "summary": "",
-   "published": "2026-10-08T00:00:00+00:00",
-   "topics": [
-    "Models"
-   ],
-   "first_seen": "2026-10-11T09:46:44+00:00"
-  },
-  {
-   "id": "0f47a943c04a6d3c",
-   "title": "Quoting Ben Affleck",
-   "link": "https://simonwillison.net/2026/Oct/7/ben-affleck/",
-   "source": "Simon Willison",
-   "kind": "community",
-   "summary": "I've always been kind of into computers since I was young. And then when film started to move from analog film to digital, I became more interested in that aspect of it. And the visual effects workflow for many years has included machine learning. So I can write like pretty…",
-   "published": "2026-10-07T23:14:58+00:00",
-   "topics": [],
-   "first_seen": "2026-10-11T09:46:44+00:00"
-  },
-  {
-   "id": "0598a3e5bb11bf63",
-   "title": "“Software is over”: Bold AI developer takes aim at Adobe with open source clones",
-   "link": "https://arstechnica.com/ai/2026/10/software-is-over-bold-ai-developer-takes-aim-at-adobe-with-open-source-clones/",
-   "source": "Ars Technica",
-   "kind": "press",
-   "summary": "Opus-built Creative Cloud alternatives are ambitious, free, and nowhere near finished.",
-   "published": "2026-10-07T21:56:42+00:00",
-   "topics": [
-    "Tools"
    ],
    "first_seen": "2026-10-11T09:46:44+00:00"
   }
