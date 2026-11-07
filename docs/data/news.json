@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-07T01:55:39+00:00",
+ "updated": "2026-11-07T08:46:36+00:00",
  "sources": [
   {
    "name": "OpenAI",
@@ -13,9 +13,9 @@
    "name": "Google DeepMind",
    "url": "https://deepmind.google/blog/rss.xml",
    "kind": "lab",
-   "ok": false,
-   "count": 0,
-   "error": "ParseError: not well-formed (invalid token): line 1, column 0"
+   "ok": true,
+   "count": 40,
+   "error": null
   },
   {
    "name": "Google AI",
@@ -85,9 +85,9 @@
    "name": "Hacker News",
    "url": "https://hnrss.org/newest?q=AI+OR+LLM+OR+GPT+OR+Claude&points=100",
    "kind": "community",
-   "ok": false,
-   "count": 0,
-   "error": "TimeoutError: The read operation timed out"
+   "ok": true,
+   "count": 20,
+   "error": null
   }
  ],
  "items": [
@@ -153,6 +153,19 @@
    "published": "2026-11-06T21:51:59+00:00",
    "topics": [],
    "first_seen": "2026-11-06T21:29:09+00:00"
+  },
+  {
+   "id": "5072f0d6af005438",
+   "title": "AI is dramatically accelerating AI research",
+   "link": "https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai",
+   "source": "Hacker News",
+   "kind": "community",
+   "summary": "Article URL: https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai Comments URL: https://news.ycombinator.com/item?id=50397994 Points: 288 # Comments: 227",
+   "published": "2026-11-06T20:27:23+00:00",
+   "topics": [
+    "Research"
+   ],
+   "first_seen": "2026-11-07T08:46:36+00:00"
   },
   {
    "id": "c0641eb0de56205a",
@@ -303,6 +316,17 @@
    "first_seen": "2026-11-06T15:55:13+00:00"
   },
   {
+   "id": "c63019ae7846985d",
+   "title": "University libraries are being swarmed by AI bots, putting public access at risk",
+   "link": "https://www.cbc.ca/news/world/university-libraries-ai-data-scraping-bots-9.7408287",
+   "source": "Hacker News",
+   "kind": "community",
+   "summary": "Article URL: https://www.cbc.ca/news/world/university-libraries-ai-data-scraping-bots-9.7408287 Comments URL: https://news.ycombinator.com/item?id=50392499 Points: 128 # Comments: 58",
+   "published": "2026-11-06T14:13:09+00:00",
+   "topics": [],
+   "first_seen": "2026-11-07T08:46:36+00:00"
+  },
+  {
    "id": "ab4846bbc512d790",
    "title": "After blocking Muse, Amazon now lets users text Alexa to help them shop",
    "link": "https://techcrunch.com/2026/11/06/after-blocking-muse-amazon-now-lets-users-text-alexa-to-help-them-shop/",
@@ -416,7 +440,7 @@
    "link": "https://www.lesswrong.com/posts/DALNiKBjMGMF8grme/arjun-panickssery-s-shortform?commentId=fJtaHHHfx45tD7BSL",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://www.lesswrong.com/posts/DALNiKBjMGMF8grme/arjun-panickssery-s-shortform?commentId=fJtaHHHfx45tD7BSL Comments URL: https://news.ycombinator.com/item?id=50388513 Points: 156 # Comments: 149",
+   "summary": "Article URL: https://www.lesswrong.com/posts/DALNiKBjMGMF8grme/arjun-panickssery-s-shortform?commentId=fJtaHHHfx45tD7BSL Comments URL: https://news.ycombinator.com/item?id=50388513 Points: 196 # Comments: 198",
    "published": "2026-11-06T05:19:04+00:00",
    "topics": [],
    "first_seen": "2026-11-06T15:55:13+00:00"
@@ -478,7 +502,7 @@
    "link": "https://finance.yahoo.com/technology/ai/articles/mark-cuban-says-facebook-knowingly-213000020.html",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://finance.yahoo.com/technology/ai/articles/mark-cuban-says-facebook-knowingly-213000020.html Comments URL: https://news.ycombinator.com/item?id=50385870 Points: 457 # Comments: 212",
+   "summary": "Article URL: https://finance.yahoo.com/technology/ai/articles/mark-cuban-says-facebook-knowingly-213000020.html Comments URL: https://news.ycombinator.com/item?id=50385870 Points: 506 # Comments: 224",
    "published": "2026-11-05T23:09:57+00:00",
    "topics": [
     "Business"
@@ -531,7 +555,7 @@
    "link": "https://github.com/anthropics/claude-code/issues/107757",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://github.com/anthropics/claude-code/issues/107757 Comments URL: https://news.ycombinator.com/item?id=50385272 Points: 1411 # Comments: 445",
+   "summary": "Article URL: https://github.com/anthropics/claude-code/issues/107757 Comments URL: https://news.ycombinator.com/item?id=50385272 Points: 1570 # Comments: 502",
    "published": "2026-11-05T22:17:15+00:00",
    "topics": [
     "Models"
@@ -649,7 +673,7 @@
    "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-05-2026",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-05-2026 Comments URL: https://news.ycombinator.com/item?id=50382179 Points: 162 # Comments: 190",
+   "summary": "Article URL: https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-05-2026 Comments URL: https://news.ycombinator.com/item?id=50382179 Points: 162 # Comments: 191",
    "published": "2026-11-05T18:00:01+00:00",
    "topics": [
     "Business"
@@ -926,7 +950,7 @@
    "link": "https://alignment.openai.com/misalignment-reports/covert-underperformance-on-safety-research-tasks/",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://alignment.openai.com/misalignment-reports/covert-underperformance-on-safety-research-tasks/ Comments URL: https://news.ycombinator.com/item?id=50376313 Points: 336 # Comments: 185",
+   "summary": "Article URL: https://alignment.openai.com/misalignment-reports/covert-underperformance-on-safety-research-tasks/ Comments URL: https://news.ycombinator.com/item?id=50376313 Points: 341 # Comments: 189",
    "published": "2026-11-05T07:44:30+00:00",
    "topics": [
     "Models",
@@ -1333,7 +1357,7 @@
    "link": "https://techcrunch.com/2026/11/02/y-combinators-garry-tan-uses-ai-agents-so-much-he-spends-up-to-200k-a-year-on-tokens/",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://techcrunch.com/2026/11/02/y-combinators-garry-tan-uses-ai-agents-so-much-he-spends-up-to-200k-a-year-on-tokens/ Comments URL: https://news.ycombinator.com/item?id=50366971 Points: 107 # Comments: 173",
+   "summary": "Article URL: https://techcrunch.com/2026/11/02/y-combinators-garry-tan-uses-ai-agents-so-much-he-spends-up-to-200k-a-year-on-tokens/ Comments URL: https://news.ycombinator.com/item?id=50366971 Points: 109 # Comments: 176",
    "published": "2026-11-04T15:28:31+00:00",
    "topics": [
     "Tools"
@@ -1420,7 +1444,7 @@
    "link": "https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability Comments URL: https://news.ycombinator.com/item?id=50364336 Points: 1284 # Comments: 746",
+   "summary": "Article URL: https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability Comments URL: https://news.ycombinator.com/item?id=50364336 Points: 1292 # Comments: 748",
    "published": "2026-11-04T11:52:17+00:00",
    "topics": [],
    "first_seen": "2026-11-04T19:45:13+00:00"
@@ -1431,7 +1455,7 @@
    "link": "https://www.theguardian.com/uk-news/2026/nov/03/ai-godfather-geoffrey-hinton-better-off-without-ai",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://www.theguardian.com/uk-news/2026/nov/03/ai-godfather-geoffrey-hinton-better-off-without-ai Comments URL: https://news.ycombinator.com/item?id=50363554 Points: 320 # Comments: 318",
+   "summary": "Article URL: https://www.theguardian.com/uk-news/2026/nov/03/ai-godfather-geoffrey-hinton-better-off-without-ai Comments URL: https://news.ycombinator.com/item?id=50363554 Points: 321 # Comments: 320",
    "published": "2026-11-04T10:23:34+00:00",
    "topics": [],
    "first_seen": "2026-11-04T19:45:13+00:00"
@@ -1767,7 +1791,7 @@
    "link": "https://ben.stolovitz.com/posts/how-use-ai-oct-2026/",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://ben.stolovitz.com/posts/how-use-ai-oct-2026/ Comments URL: https://news.ycombinator.com/item?id=50355767 Points: 257 # Comments: 318",
+   "summary": "Article URL: https://ben.stolovitz.com/posts/how-use-ai-oct-2026/ Comments URL: https://news.ycombinator.com/item?id=50355767 Points: 257 # Comments: 321",
    "published": "2026-11-03T18:11:11+00:00",
    "topics": [],
    "first_seen": "2026-11-04T12:07:49+00:00"
@@ -1802,7 +1826,7 @@
    "link": "https://github.com/postmanlabs/postman-app-support/issues/14370",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://github.com/postmanlabs/postman-app-support/issues/14370 Comments URL: https://news.ycombinator.com/item?id=50354960 Points: 1519 # Comments: 492",
+   "summary": "Article URL: https://github.com/postmanlabs/postman-app-support/issues/14370 Comments URL: https://news.ycombinator.com/item?id=50354960 Points: 1523 # Comments: 494",
    "published": "2026-11-03T17:22:37+00:00",
    "topics": [
     "Tools"
@@ -11498,32 +11522,6 @@
    "published": "2026-10-08T09:00:00+00:00",
    "topics": [
     "Research"
-   ],
-   "first_seen": "2026-10-11T09:46:44+00:00"
-  },
-  {
-   "id": "48f3042078ba6545",
-   "title": "Building a safer path to autonomous industrial AI",
-   "link": "https://www.technologyreview.com/2026/10/08/1144020/building-a-safer-path-to-autonomous-industrial-ai/",
-   "source": "MIT Technology Review",
-   "kind": "press",
-   "summary": "Industrial AI is entering a new phase. After decades of predictive analytics and other specialized applications, advances in foundation models, physical AI, and agentic AI are making it possible to automate more complex tasks across industrial environments. But unlike AI that…",
-   "published": "2026-10-08T08:17:32+00:00",
-   "topics": [
-    "Models"
-   ],
-   "first_seen": "2026-10-11T09:46:44+00:00"
-  },
-  {
-   "id": "9cea5cfc877a326d",
-   "title": "I think I found a planet nobody knew existed. I used Claude Code to find it",
-   "link": "https://www.reddit.com/r/ClaudeAI/s/mbe5IY2LF9",
-   "source": "Hacker News",
-   "kind": "community",
-   "summary": "Article URL: https://www.reddit.com/r/ClaudeAI/s/mbe5IY2LF9 Comments URL: https://news.ycombinator.com/item?id=50002665 Points: 300 # Comments: 133",
-   "published": "2026-10-08T07:07:34+00:00",
-   "topics": [
-    "Models"
    ],
    "first_seen": "2026-10-11T09:46:44+00:00"
   }
