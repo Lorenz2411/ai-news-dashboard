@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-07T16:25:56+00:00",
+ "updated": "2026-11-07T21:49:30+00:00",
  "sources": [
   {
    "name": "OpenAI",
@@ -91,6 +91,32 @@
   }
  ],
  "items": [
+  {
+   "id": "69c75581d56ff5e1",
+   "title": "Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo",
+   "link": "https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo/",
+   "source": "TechCrunch",
+   "kind": "press",
+   "summary": "A memo circulated earlier this year reportedly claimed that China’s Ministry of State Security recruited a female technology executive to spy on Nvidia's CEO.",
+   "published": "2026-11-07T21:17:08+00:00",
+   "topics": [
+    "Hardware"
+   ],
+   "first_seen": "2026-11-07T21:49:30+00:00"
+  },
+  {
+   "id": "1eeaf5457cb1a01a",
+   "title": "The end of Microsoft Research's AI Frontiers group",
+   "link": "https://hunch.net/?p=13764006",
+   "source": "Hacker News",
+   "kind": "community",
+   "summary": "https://archive.is/AaY5O https://businessexaminer.ca/victoria-articles/item/microsoft... Comments URL: https://news.ycombinator.com/item?id=50406563 Points: 248 # Comments: 139",
+   "published": "2026-11-07T18:02:17+00:00",
+   "topics": [
+    "Research"
+   ],
+   "first_seen": "2026-11-07T21:49:30+00:00"
+  },
   {
    "id": "fa06ff8fdc83e259",
    "title": "NYT Cooking’s AI assistant saved my weeknight chicken, but almost ruined my cake",
@@ -209,7 +235,7 @@
    "link": "https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai Comments URL: https://news.ycombinator.com/item?id=50397994 Points: 341 # Comments: 321",
+   "summary": "Article URL: https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai Comments URL: https://news.ycombinator.com/item?id=50397994 Points: 358 # Comments: 333",
    "published": "2026-11-06T20:27:23+00:00",
    "topics": [
     "Research"
@@ -272,7 +298,7 @@
    "link": "https://www.reuters.com/business/microsoft-is-winding-down-oracle-deal-rent-ai-cloud-capacity-bloomberg-news-2026-11-06/",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://www.reuters.com/business/microsoft-is-winding-down-oracle-deal-rent-ai-cloud-capacity-bloomberg-news-2026-11-06/ Comments URL: https://news.ycombinator.com/item?id=50395933 Points: 104 # Comments: 18",
+   "summary": "Article URL: https://www.reuters.com/business/microsoft-is-winding-down-oracle-deal-rent-ai-cloud-capacity-bloomberg-news-2026-11-06/ Comments URL: https://news.ycombinator.com/item?id=50395933 Points: 105 # Comments: 19",
    "published": "2026-11-06T18:04:06+00:00",
    "topics": [],
    "first_seen": "2026-11-07T16:25:56+00:00"
@@ -381,7 +407,7 @@
    "link": "https://www.cbc.ca/news/world/university-libraries-ai-data-scraping-bots-9.7408287",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://www.cbc.ca/news/world/university-libraries-ai-data-scraping-bots-9.7408287 Comments URL: https://news.ycombinator.com/item?id=50392499 Points: 132 # Comments: 61",
+   "summary": "Article URL: https://www.cbc.ca/news/world/university-libraries-ai-data-scraping-bots-9.7408287 Comments URL: https://news.ycombinator.com/item?id=50392499 Points: 134 # Comments: 63",
    "published": "2026-11-06T14:13:09+00:00",
    "topics": [],
    "first_seen": "2026-11-07T08:46:36+00:00"
@@ -470,6 +496,20 @@
    "first_seen": "2026-11-06T15:55:13+00:00"
   },
   {
+   "id": "3b78672d47e119ba",
+   "title": "AI for scientific discovery: How researchers use Claude",
+   "link": "https://www.anthropic.com/research/how-researchers-use-claude",
+   "source": "Hacker News",
+   "kind": "community",
+   "summary": "Article URL: https://www.anthropic.com/research/how-researchers-use-claude Comments URL: https://news.ycombinator.com/item?id=50389990 Points: 101 # Comments: 39",
+   "published": "2026-11-06T09:13:30+00:00",
+   "topics": [
+    "Models",
+    "Research"
+   ],
+   "first_seen": "2026-11-07T21:49:30+00:00"
+  },
+  {
    "id": "bc8f9eac19663ff6",
    "title": "Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
    "link": "https://openai.com/index/partnering-with-hacktron",
@@ -500,7 +540,7 @@
    "link": "https://www.lesswrong.com/posts/DALNiKBjMGMF8grme/arjun-panickssery-s-shortform?commentId=fJtaHHHfx45tD7BSL",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://www.lesswrong.com/posts/DALNiKBjMGMF8grme/arjun-panickssery-s-shortform?commentId=fJtaHHHfx45tD7BSL Comments URL: https://news.ycombinator.com/item?id=50388513 Points: 209 # Comments: 207",
+   "summary": "Article URL: https://www.lesswrong.com/posts/DALNiKBjMGMF8grme/arjun-panickssery-s-shortform?commentId=fJtaHHHfx45tD7BSL Comments URL: https://news.ycombinator.com/item?id=50388513 Points: 211 # Comments: 210",
    "published": "2026-11-06T05:19:04+00:00",
    "topics": [],
    "first_seen": "2026-11-06T15:55:13+00:00"
@@ -562,7 +602,7 @@
    "link": "https://finance.yahoo.com/technology/ai/articles/mark-cuban-says-facebook-knowingly-213000020.html",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://finance.yahoo.com/technology/ai/articles/mark-cuban-says-facebook-knowingly-213000020.html Comments URL: https://news.ycombinator.com/item?id=50385870 Points: 509 # Comments: 226",
+   "summary": "Article URL: https://finance.yahoo.com/technology/ai/articles/mark-cuban-says-facebook-knowingly-213000020.html Comments URL: https://news.ycombinator.com/item?id=50385870 Points: 510 # Comments: 228",
    "published": "2026-11-05T23:09:57+00:00",
    "topics": [
     "Business"
@@ -615,7 +655,7 @@
    "link": "https://github.com/anthropics/claude-code/issues/107757",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://github.com/anthropics/claude-code/issues/107757 Comments URL: https://news.ycombinator.com/item?id=50385272 Points: 1583 # Comments: 507",
+   "summary": "Article URL: https://github.com/anthropics/claude-code/issues/107757 Comments URL: https://news.ycombinator.com/item?id=50385272 Points: 1589 # Comments: 514",
    "published": "2026-11-05T22:17:15+00:00",
    "topics": [
     "Models"
@@ -1010,7 +1050,7 @@
    "link": "https://alignment.openai.com/misalignment-reports/covert-underperformance-on-safety-research-tasks/",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://alignment.openai.com/misalignment-reports/covert-underperformance-on-safety-research-tasks/ Comments URL: https://news.ycombinator.com/item?id=50376313 Points: 341 # Comments: 189",
+   "summary": "Article URL: https://alignment.openai.com/misalignment-reports/covert-underperformance-on-safety-research-tasks/ Comments URL: https://news.ycombinator.com/item?id=50376313 Points: 341 # Comments: 192",
    "published": "2026-11-05T07:44:30+00:00",
    "topics": [
     "Models",
@@ -1417,7 +1457,7 @@
    "link": "https://techcrunch.com/2026/11/02/y-combinators-garry-tan-uses-ai-agents-so-much-he-spends-up-to-200k-a-year-on-tokens/",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://techcrunch.com/2026/11/02/y-combinators-garry-tan-uses-ai-agents-so-much-he-spends-up-to-200k-a-year-on-tokens/ Comments URL: https://news.ycombinator.com/item?id=50366971 Points: 109 # Comments: 177",
+   "summary": "Article URL: https://techcrunch.com/2026/11/02/y-combinators-garry-tan-uses-ai-agents-so-much-he-spends-up-to-200k-a-year-on-tokens/ Comments URL: https://news.ycombinator.com/item?id=50366971 Points: 110 # Comments: 178",
    "published": "2026-11-04T15:28:31+00:00",
    "topics": [
     "Tools"
@@ -1515,7 +1555,7 @@
    "link": "https://www.theguardian.com/uk-news/2026/nov/03/ai-godfather-geoffrey-hinton-better-off-without-ai",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://www.theguardian.com/uk-news/2026/nov/03/ai-godfather-geoffrey-hinton-better-off-without-ai Comments URL: https://news.ycombinator.com/item?id=50363554 Points: 321 # Comments: 322",
+   "summary": "Article URL: https://www.theguardian.com/uk-news/2026/nov/03/ai-godfather-geoffrey-hinton-better-off-without-ai Comments URL: https://news.ycombinator.com/item?id=50363554 Points: 322 # Comments: 323",
    "published": "2026-11-04T10:23:34+00:00",
    "topics": [],
    "first_seen": "2026-11-04T19:45:13+00:00"
@@ -1730,7 +1770,7 @@
    "link": "https://asia.nikkei.com/business/technology/artificial-intelligence/us-tech-giants-hidden-ai-debt-swells-90-to-3.2tn-in-6-months",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://asia.nikkei.com/business/technology/artificial-intelligence/us-tech-giants-hidden-ai-debt-swells-90-to-3.2tn-in-6-months Comments URL: https://news.ycombinator.com/item?id=50358422 Points: 420 # Comments: 170",
+   "summary": "Article URL: https://asia.nikkei.com/business/technology/artificial-intelligence/us-tech-giants-hidden-ai-debt-swells-90-to-3.2tn-in-6-months Comments URL: https://news.ycombinator.com/item?id=50358422 Points: 421 # Comments: 170",
    "published": "2026-11-03T21:26:44+00:00",
    "topics": [],
    "first_seen": "2026-11-04T02:19:54+00:00"
@@ -11392,134 +11432,6 @@
    "topics": [
     "Models",
     "Tools"
-   ],
-   "first_seen": "2026-10-11T09:46:44+00:00"
-  },
-  {
-   "id": "3e04105beca7661b",
-   "title": "Instinct was the buzziest AI agent around — can it survive Muse?",
-   "link": "https://www.theverge.com/tech/1008254/instinct-agent-ai-hands-on-muse-dots",
-   "source": "The Verge",
-   "kind": "press",
-   "summary": "Before there were cute little guys, there was Instinct. In August, the startup got its AI agent to market with an unusual playbook: invite-only, no marketing, and barely so much as a website. And yet, Instinct quickly became the buzziest thing in AI, garnering praise for its…",
-   "published": "2026-10-08T21:38:35+00:00",
-   "topics": [
-    "Business",
-    "Tools"
-   ],
-   "first_seen": "2026-10-11T09:46:44+00:00"
-  },
-  {
-   "id": "f55b626ec460a20b",
-   "title": "Quoting Carson Gross",
-   "link": "https://simonwillison.net/2026/Oct/8/carson-gross/",
-   "source": "Simon Willison",
-   "kind": "community",
-   "summary": "Computer programming is, fundamentally, about two things: Problem-solving using computers Learning to control complexity while solving these problems I have a hard time imagining a future where knowing how to solve problems with computers and how to control the complexity of…",
-   "published": "2026-10-08T21:05:44+00:00",
-   "topics": [],
-   "first_seen": "2026-10-11T09:46:44+00:00"
-  },
-  {
-   "id": "4f0829ed301a7767",
-   "title": "Pretend you’re sitting at Elizabeth Holmes’ desk on this weirdly detailed website",
-   "link": "https://techcrunch.com/2026/10/08/pretend-youre-sitting-at-elizabeth-holmes-desk-on-this-weirdly-detailed-website/",
-   "source": "TechCrunch",
-   "kind": "press",
-   "summary": "With over a thousand emails, slides, texts, and documents from the United States v. Elizabeth Holmes trial, Extend engineer Bo Lau created a website that simulates what it might have been like to rifle through the Theranos founder's desk.",
-   "published": "2026-10-08T21:00:00+00:00",
-   "topics": [],
-   "first_seen": "2026-10-11T09:46:44+00:00"
-  },
-  {
-   "id": "008a26599983ed29",
-   "title": "AI-ready biological data: $1.8B global commitment",
-   "link": "https://biohub.org/news/virtual-biology-initiative-expansion/",
-   "source": "Hacker News",
-   "kind": "community",
-   "summary": "Article URL: https://biohub.org/news/virtual-biology-initiative-expansion/ Comments URL: https://news.ycombinator.com/item?id=50011999 Points: 149 # Comments: 20",
-   "published": "2026-10-08T20:46:25+00:00",
-   "topics": [],
-   "first_seen": "2026-10-11T09:46:44+00:00"
-  },
-  {
-   "id": "c9efa01bf0436b80",
-   "title": "Fired OpenAI safety researchers dispute misconduct claims, warn of chilling effect",
-   "link": "https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/",
-   "source": "TechCrunch",
-   "kind": "press",
-   "summary": "Three fired OpenAI safety researchers dispute allegations of mishandling sensitive information, warning in an open letter that their dismissals are creating a chilling effect on the company’s AI safety culture.",
-   "published": "2026-10-08T20:04:26+00:00",
-   "topics": [
-    "Policy"
-   ],
-   "first_seen": "2026-10-11T09:46:44+00:00"
-  },
-  {
-   "id": "7dcbf8a5afe012f6",
-   "title": "Ben Affleck is an AI nerd, and the internet is impressed",
-   "link": "https://techcrunch.com/2026/10/08/ben-affleck-is-an-ai-nerd-and-the-internet-is-impressed/",
-   "source": "TechCrunch",
-   "kind": "press",
-   "summary": "Ben Affleck is going viral for his deep knowledge of AI, from neural networks and transformers to open weights. The actor, who sold his AI filmmaking startup to Netflix earlier this year, is proving he's more than just a Hollywood star.",
-   "published": "2026-10-08T18:20:32+00:00",
-   "topics": [
-    "Business"
-   ],
-   "first_seen": "2026-10-11T09:46:44+00:00"
-  },
-  {
-   "id": "66a844307a25a338",
-   "title": "Popular AI leaderboard Arena nearly doubles valuation to $3.1B valuation in 10 months",
-   "link": "https://techcrunch.com/2026/10/08/popular-ai-leaderboard-arena-nearly-doubles-valuation-to-3-1b-valuation-in-10-months/",
-   "source": "TechCrunch",
-   "kind": "press",
-   "summary": "The company behind the popular LMArena leaderboard has raised $200 million led by Lightspeed and Khosla, and is now measuring AI models on alignment issues such as lying.",
-   "published": "2026-10-08T18:19:45+00:00",
-   "topics": [
-    "Models",
-    "Business"
-   ],
-   "first_seen": "2026-10-11T09:46:44+00:00"
-  },
-  {
-   "id": "8dce6b889a93aede",
-   "title": "OpenAI’s revenue is reportedly $20 billion less than previously projected",
-   "link": "https://techcrunch.com/2026/10/08/openais-revenue-is-reportedly-20-billion-less-than-previously-projected/",
-   "source": "TechCrunch",
-   "kind": "press",
-   "summary": "It had previously been reported that the AI lab's annualized revenue was some $70 billion, but a new report claims it's a whole lot less than that.",
-   "published": "2026-10-08T18:19:42+00:00",
-   "topics": [
-    "Business"
-   ],
-   "first_seen": "2026-10-11T09:46:44+00:00"
-  },
-  {
-   "id": "47672f48bba99761",
-   "title": "Google brings agentic AI to Gemini, starting with businesses",
-   "link": "https://techcrunch.com/2026/10/08/google-brings-agentic-ai-to-gemini-starting-with-businesses/",
-   "source": "TechCrunch",
-   "kind": "press",
-   "summary": "Google is turning Gemini into an AI agent that can plan, execute tasks, and work across business apps and systems. The agent can delegate work to subagents, use multiple AI models, and even gets its own workplace identity, complete with an email address.",
-   "published": "2026-10-08T18:18:00+00:00",
-   "topics": [
-    "Models",
-    "Tools"
-   ],
-   "first_seen": "2026-10-11T09:46:44+00:00"
-  },
-  {
-   "id": "0542b0f0c0fef5dc",
-   "title": "Anthropic changes usage policy to ban model abuse and election interference",
-   "link": "https://techcrunch.com/2026/10/08/anthropic-changes-usage-policy-to-ban-model-abuse-and-election-interference/",
-   "source": "TechCrunch",
-   "kind": "press",
-   "summary": "Anthropic's updated usage policy explicitly prohibits users from repeatedly abusing Claude in extreme cases, though ordinary frustration and criticism are still allowed. The new rules also address election interference, deceptive campaigns, weapons software, and surveillance.",
-   "published": "2026-10-08T18:16:24+00:00",
-   "topics": [
-    "Models",
-    "Policy"
    ],
    "first_seen": "2026-10-11T09:46:44+00:00"
   }
