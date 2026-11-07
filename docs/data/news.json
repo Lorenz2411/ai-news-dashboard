@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-07T08:46:36+00:00",
+ "updated": "2026-11-07T16:25:56+00:00",
  "sources": [
   {
    "name": "OpenAI",
@@ -13,9 +13,9 @@
    "name": "Google DeepMind",
    "url": "https://deepmind.google/blog/rss.xml",
    "kind": "lab",
-   "ok": true,
-   "count": 40,
-   "error": null
+   "ok": false,
+   "count": 0,
+   "error": "ParseError: not well-formed (invalid token): line 1, column 0"
   },
   {
    "name": "Google AI",
@@ -92,6 +92,41 @@
  ],
  "items": [
   {
+   "id": "fa06ff8fdc83e259",
+   "title": "NYT Cooking’s AI assistant saved my weeknight chicken, but almost ruined my cake",
+   "link": "https://www.theverge.com/tech/1029489/nyt-cooking-ai-assistant-review",
+   "source": "The Verge",
+   "kind": "press",
+   "summary": "Around 7PM each weeknight, I find myself standing in front of the fridge, trying to decide on something for dinner that won't make my husband complain, \"Chicken again?\" Yes, I should meal plan more, but I don't, so this is where I'm at. A nightly battle in which the chicken…",
+   "published": "2026-11-07T15:47:15+00:00",
+   "topics": [],
+   "first_seen": "2026-11-07T16:25:56+00:00"
+  },
+  {
+   "id": "73be1ddc7ff24f89",
+   "title": "The US let Nvidia sell chips to an empty office in China",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/1029483/nvidia-ai-chips-china-blacklist-government",
+   "source": "The Verge",
+   "kind": "press",
+   "summary": "Concerns are being raised that neither the Commerce Department nor Nvidia are doing their due diligence when it comes to vetting Chinese firms cleared to handle the company's H200 AI chips. According to The New York Times, New Matrix is on the list of approved firms, yet its…",
+   "published": "2026-11-07T15:43:45+00:00",
+   "topics": [
+    "Hardware"
+   ],
+   "first_seen": "2026-11-07T16:25:56+00:00"
+  },
+  {
+   "id": "055e03fe8fc4b1cc",
+   "title": "AI broke the cybersecurity world. What’s next?",
+   "link": "https://www.theverge.com/podcast/1029038/ai-cybersecurity-hackers-data-breach-dark-age-alex-stamos",
+   "source": "The Verge",
+   "kind": "press",
+   "summary": "Today, I’m talking with Alex Stamos, chief security officer at Cognition and longtime cybersecurity expert, about what a mess cybersecurity is right now. This episode is part one of a special series looking at AI in real life. I’ve always enjoyed talking to Alex because he’s so…",
+   "published": "2026-11-07T05:43:11+00:00",
+   "topics": [],
+   "first_seen": "2026-11-07T16:25:56+00:00"
+  },
+  {
    "id": "36231604b2886429",
    "title": "Crusoe sells troubled Wyoming data center project to Google",
    "link": "https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/",
@@ -155,12 +190,26 @@
    "first_seen": "2026-11-06T21:29:09+00:00"
   },
   {
+   "id": "8879475e62b3793a",
+   "title": "Why a new report on Anthropic automating AI development is alarming researchers",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/1029126/anthropic-metr-report-accelerating-ai-development",
+   "source": "The Verge",
+   "kind": "press",
+   "summary": "Anthropic is using AI to build more powerful AI. And it appears to be working remarkably well, with the company's models improving roughly twice as quickly as a year ago, with little indication of slowing down. That's according to a new report published Thursday by the AI safety…",
+   "published": "2026-11-06T21:48:06+00:00",
+   "topics": [
+    "Models",
+    "Policy"
+   ],
+   "first_seen": "2026-11-07T16:25:56+00:00"
+  },
+  {
    "id": "5072f0d6af005438",
    "title": "AI is dramatically accelerating AI research",
    "link": "https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai Comments URL: https://news.ycombinator.com/item?id=50397994 Points: 288 # Comments: 227",
+   "summary": "Article URL: https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai Comments URL: https://news.ycombinator.com/item?id=50397994 Points: 341 # Comments: 321",
    "published": "2026-11-06T20:27:23+00:00",
    "topics": [
     "Research"
@@ -216,6 +265,17 @@
     "Tools"
    ],
    "first_seen": "2026-11-06T21:29:09+00:00"
+  },
+  {
+   "id": "fdf35b5ad24cef6a",
+   "title": "Microsoft is winding down Oracle deal to rent AI cloud capacity",
+   "link": "https://www.reuters.com/business/microsoft-is-winding-down-oracle-deal-rent-ai-cloud-capacity-bloomberg-news-2026-11-06/",
+   "source": "Hacker News",
+   "kind": "community",
+   "summary": "Article URL: https://www.reuters.com/business/microsoft-is-winding-down-oracle-deal-rent-ai-cloud-capacity-bloomberg-news-2026-11-06/ Comments URL: https://news.ycombinator.com/item?id=50395933 Points: 104 # Comments: 18",
+   "published": "2026-11-06T18:04:06+00:00",
+   "topics": [],
+   "first_seen": "2026-11-07T16:25:56+00:00"
   },
   {
    "id": "860444638104df4b",
@@ -321,7 +381,7 @@
    "link": "https://www.cbc.ca/news/world/university-libraries-ai-data-scraping-bots-9.7408287",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://www.cbc.ca/news/world/university-libraries-ai-data-scraping-bots-9.7408287 Comments URL: https://news.ycombinator.com/item?id=50392499 Points: 128 # Comments: 58",
+   "summary": "Article URL: https://www.cbc.ca/news/world/university-libraries-ai-data-scraping-bots-9.7408287 Comments URL: https://news.ycombinator.com/item?id=50392499 Points: 132 # Comments: 61",
    "published": "2026-11-06T14:13:09+00:00",
    "topics": [],
    "first_seen": "2026-11-07T08:46:36+00:00"
@@ -440,7 +500,7 @@
    "link": "https://www.lesswrong.com/posts/DALNiKBjMGMF8grme/arjun-panickssery-s-shortform?commentId=fJtaHHHfx45tD7BSL",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://www.lesswrong.com/posts/DALNiKBjMGMF8grme/arjun-panickssery-s-shortform?commentId=fJtaHHHfx45tD7BSL Comments URL: https://news.ycombinator.com/item?id=50388513 Points: 196 # Comments: 198",
+   "summary": "Article URL: https://www.lesswrong.com/posts/DALNiKBjMGMF8grme/arjun-panickssery-s-shortform?commentId=fJtaHHHfx45tD7BSL Comments URL: https://news.ycombinator.com/item?id=50388513 Points: 209 # Comments: 207",
    "published": "2026-11-06T05:19:04+00:00",
    "topics": [],
    "first_seen": "2026-11-06T15:55:13+00:00"
@@ -502,7 +562,7 @@
    "link": "https://finance.yahoo.com/technology/ai/articles/mark-cuban-says-facebook-knowingly-213000020.html",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://finance.yahoo.com/technology/ai/articles/mark-cuban-says-facebook-knowingly-213000020.html Comments URL: https://news.ycombinator.com/item?id=50385870 Points: 506 # Comments: 224",
+   "summary": "Article URL: https://finance.yahoo.com/technology/ai/articles/mark-cuban-says-facebook-knowingly-213000020.html Comments URL: https://news.ycombinator.com/item?id=50385870 Points: 509 # Comments: 226",
    "published": "2026-11-05T23:09:57+00:00",
    "topics": [
     "Business"
@@ -555,7 +615,7 @@
    "link": "https://github.com/anthropics/claude-code/issues/107757",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://github.com/anthropics/claude-code/issues/107757 Comments URL: https://news.ycombinator.com/item?id=50385272 Points: 1570 # Comments: 502",
+   "summary": "Article URL: https://github.com/anthropics/claude-code/issues/107757 Comments URL: https://news.ycombinator.com/item?id=50385272 Points: 1583 # Comments: 507",
    "published": "2026-11-05T22:17:15+00:00",
    "topics": [
     "Models"
@@ -673,7 +733,7 @@
    "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-05-2026",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-05-2026 Comments URL: https://news.ycombinator.com/item?id=50382179 Points: 162 # Comments: 191",
+   "summary": "Article URL: https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-05-2026 Comments URL: https://news.ycombinator.com/item?id=50382179 Points: 163 # Comments: 191",
    "published": "2026-11-05T18:00:01+00:00",
    "topics": [
     "Business"
@@ -1357,7 +1417,7 @@
    "link": "https://techcrunch.com/2026/11/02/y-combinators-garry-tan-uses-ai-agents-so-much-he-spends-up-to-200k-a-year-on-tokens/",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://techcrunch.com/2026/11/02/y-combinators-garry-tan-uses-ai-agents-so-much-he-spends-up-to-200k-a-year-on-tokens/ Comments URL: https://news.ycombinator.com/item?id=50366971 Points: 109 # Comments: 176",
+   "summary": "Article URL: https://techcrunch.com/2026/11/02/y-combinators-garry-tan-uses-ai-agents-so-much-he-spends-up-to-200k-a-year-on-tokens/ Comments URL: https://news.ycombinator.com/item?id=50366971 Points: 109 # Comments: 177",
    "published": "2026-11-04T15:28:31+00:00",
    "topics": [
     "Tools"
@@ -1444,7 +1504,7 @@
    "link": "https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability Comments URL: https://news.ycombinator.com/item?id=50364336 Points: 1292 # Comments: 748",
+   "summary": "Article URL: https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability Comments URL: https://news.ycombinator.com/item?id=50364336 Points: 1294 # Comments: 749",
    "published": "2026-11-04T11:52:17+00:00",
    "topics": [],
    "first_seen": "2026-11-04T19:45:13+00:00"
@@ -1455,7 +1515,7 @@
    "link": "https://www.theguardian.com/uk-news/2026/nov/03/ai-godfather-geoffrey-hinton-better-off-without-ai",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://www.theguardian.com/uk-news/2026/nov/03/ai-godfather-geoffrey-hinton-better-off-without-ai Comments URL: https://news.ycombinator.com/item?id=50363554 Points: 321 # Comments: 320",
+   "summary": "Article URL: https://www.theguardian.com/uk-news/2026/nov/03/ai-godfather-geoffrey-hinton-better-off-without-ai Comments URL: https://news.ycombinator.com/item?id=50363554 Points: 321 # Comments: 322",
    "published": "2026-11-04T10:23:34+00:00",
    "topics": [],
    "first_seen": "2026-11-04T19:45:13+00:00"
@@ -1791,7 +1851,7 @@
    "link": "https://ben.stolovitz.com/posts/how-use-ai-oct-2026/",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://ben.stolovitz.com/posts/how-use-ai-oct-2026/ Comments URL: https://news.ycombinator.com/item?id=50355767 Points: 257 # Comments: 321",
+   "summary": "Article URL: https://ben.stolovitz.com/posts/how-use-ai-oct-2026/ Comments URL: https://news.ycombinator.com/item?id=50355767 Points: 258 # Comments: 321",
    "published": "2026-11-03T18:11:11+00:00",
    "topics": [],
    "first_seen": "2026-11-04T12:07:49+00:00"
@@ -1826,7 +1886,7 @@
    "link": "https://github.com/postmanlabs/postman-app-support/issues/14370",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://github.com/postmanlabs/postman-app-support/issues/14370 Comments URL: https://news.ycombinator.com/item?id=50354960 Points: 1523 # Comments: 494",
+   "summary": "Article URL: https://github.com/postmanlabs/postman-app-support/issues/14370 Comments URL: https://news.ycombinator.com/item?id=50354960 Points: 1524 # Comments: 494",
    "published": "2026-11-03T17:22:37+00:00",
    "topics": [
     "Tools"
@@ -11460,68 +11520,6 @@
    "topics": [
     "Models",
     "Policy"
-   ],
-   "first_seen": "2026-10-11T09:46:44+00:00"
-  },
-  {
-   "id": "112b5f00879d4fef",
-   "title": "How Oracle turns days of work into minutes with ChatGPT and Codex",
-   "link": "https://openai.com/index/oracle",
-   "source": "OpenAI",
-   "kind": "lab",
-   "summary": "Across recruiting, engineering, and operations, Oracle turns specialist knowledge into fast, repeatable workflows with ChatGPT Work and Codex.",
-   "published": "2026-10-08T16:00:00+00:00",
-   "topics": [],
-   "first_seen": "2026-10-11T09:46:44+00:00"
-  },
-  {
-   "id": "ca1ec6c6a1a1314d",
-   "title": "Pollo AI turns creative ideas into campaigns with OpenAI",
-   "link": "https://openai.com/index/pollo-ai",
-   "source": "OpenAI",
-   "kind": "lab",
-   "summary": "With GPT-5.6, GPT-6 Astra, and GPT‑Image‑2.5, Pollo AI helps creators turn bold ideas into detailed images and cinematic video ads.",
-   "published": "2026-10-08T12:00:00+00:00",
-   "topics": [
-    "Models"
-   ],
-   "first_seen": "2026-10-11T09:46:44+00:00"
-  },
-  {
-   "id": "f6d3626eb7c890d9",
-   "title": "LegalOn halves Codex costs while maintaining development speed",
-   "link": "https://openai.com/index/legalon-halves-codex-costs",
-   "source": "OpenAI",
-   "kind": "lab",
-   "summary": "LegalOn cut estimated daily Codex costs by 65% while maintaining development speed. It matched Astra, Sol, and Luna to tasks and managed budgets strategically.",
-   "published": "2026-10-08T12:00:00+00:00",
-   "topics": [],
-   "first_seen": "2026-10-11T09:46:44+00:00"
-  },
-  {
-   "id": "5387f8e8d5e8c2a4",
-   "title": "Nvidia's big bet on physical AI aims for safer robotaxis, humanoid robots",
-   "link": "https://arstechnica.com/ai/2026/10/nvidias-big-bet-on-physical-ai-aims-for-safer-robotaxis-humanoid-robots/",
-   "source": "Ars Technica",
-   "kind": "press",
-   "summary": "Full-stack safety solution for physical AI is being used by robotics companies.",
-   "published": "2026-10-08T11:15:33+00:00",
-   "topics": [
-    "Policy",
-    "Hardware"
-   ],
-   "first_seen": "2026-10-11T09:46:44+00:00"
-  },
-  {
-   "id": "7e0548f31e363490",
-   "title": "AI breakthroughs in robotics won’t change your life any time soon",
-   "link": "https://www.technologyreview.com/2026/10/08/1145923/ai-breakthroughs-in-robotics-wont-change-your-life-any-time-soon/",
-   "source": "MIT Technology Review",
-   "kind": "press",
-   "summary": "The story is a collaboration between MIT Technology Review and Aventine, a non-profit research foundation that creates and supports content about how technology and science are changing the way we live. A robot shaped like a human—white with a black head and torso—has been…",
-   "published": "2026-10-08T09:00:00+00:00",
-   "topics": [
-    "Research"
    ],
    "first_seen": "2026-10-11T09:46:44+00:00"
   }
