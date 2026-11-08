@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-08T08:58:55+00:00",
+ "updated": "2026-11-08T16:40:22+00:00",
  "sources": [
   {
    "name": "OpenAI",
@@ -85,9 +85,9 @@
    "name": "Hacker News",
    "url": "https://hnrss.org/newest?q=AI+OR+LLM+OR+GPT+OR+Claude&points=100",
    "kind": "community",
-   "ok": true,
-   "count": 20,
-   "error": null
+   "ok": false,
+   "count": 0,
+   "error": "HTTPError: HTTP Error 502: Bad Gateway"
   }
  ],
  "items": [
@@ -11293,130 +11293,6 @@
    "kind": "press",
    "summary": "For six years, Danu founder Amy Ma has been working on a better way to sort recyclable waste.",
    "published": "2026-10-09T16:45:00+00:00",
-   "topics": [],
-   "first_seen": "2026-10-11T09:46:44+00:00"
-  },
-  {
-   "id": "304a6e31805197fa",
-   "title": "We can’t help treating AI like it’s human. But should we?",
-   "link": "https://techcrunch.com/2026/10/09/we-cant-help-treating-ai-like-its-human-but-should-we/",
-   "source": "TechCrunch",
-   "kind": "press",
-   "summary": "\"When we are drawn into even the most primitive exchanges with a relational artifact, we believe it cares for us,\" Dr. Sherry Turkle writes. \"And we are wired to care for it in return.\"",
-   "published": "2026-10-09T16:40:14+00:00",
-   "topics": [],
-   "first_seen": "2026-10-11T09:46:44+00:00"
-  },
-  {
-   "id": "b7942fed5b9fdcb2",
-   "title": "a16z’s Olivia Moore on the state of consumer AI",
-   "link": "https://techcrunch.com/2026/10/09/a16zs-olivia-moore-on-the-state-of-consumer-ai/",
-   "source": "TechCrunch",
-   "kind": "press",
-   "summary": "Moore sees a huge opportunity in consumer AI, particularly if the industry can tap into revenue streams beyond just subscriptions and API charges.",
-   "published": "2026-10-09T15:43:33+00:00",
-   "topics": [
-    "Business",
-    "Tools"
-   ],
-   "first_seen": "2026-10-11T09:46:44+00:00"
-  },
-  {
-   "id": "43ef54e74d276082",
-   "title": "Impactful scheduling for GPU clusters",
-   "link": "https://huggingface.co/blog/allenai/impactful-scheduling",
-   "source": "Hugging Face",
-   "kind": "lab",
-   "summary": "",
-   "published": "2026-10-09T15:20:29+00:00",
-   "topics": [
-    "Hardware"
-   ],
-   "first_seen": "2026-10-11T09:46:44+00:00"
-  },
-  {
-   "id": "8c9077e7ebaff493",
-   "title": "Quoting Matthew Green",
-   "link": "https://simonwillison.net/2026/Oct/9/matthew-green/",
-   "source": "Simon Willison",
-   "kind": "community",
-   "summary": "Everyone is very concerned about being respectable, so I’m going to be the goofball who raises worst-case possibilities. I think there is a 1% chance we live in Minicrypt, and a 15% chance we functionally lose confidence in our existing public-key encryption algorithms. [...]…",
-   "published": "2026-10-09T15:02:29+00:00",
-   "topics": [
-    "Business"
-   ],
-   "first_seen": "2026-10-11T09:46:44+00:00"
-  },
-  {
-   "id": "e6bbf4ee8129244c",
-   "title": "TechCrunch Disrupt 2026 starts in 4 days — lock in your pass savings of up to $100 before prices rise",
-   "link": "https://techcrunch.com/2026/10/09/techcrunch-disrupt-2026-starts-in-4-days-lock-in-your-pass-savings-of-up-to-100-before-prices-rise/",
-   "source": "TechCrunch",
-   "kind": "press",
-   "summary": "Four days until TechCrunch Disrupt 2026 starts, when 10,000 founders, investors, and tech leaders gather in San Francisco's Moscone West on October 13-15. Save up to $100 on your price. Plus, save 50% on a second pass of the same type.",
-   "published": "2026-10-09T14:00:00+00:00",
-   "topics": [
-    "Business"
-   ],
-   "first_seen": "2026-10-11T09:46:44+00:00"
-  },
-  {
-   "id": "95fd0fb1a7d9fd74",
-   "title": "A new feature for my blog, built using my voice",
-   "link": "https://simonwillison.net/2026/Oct/9/built-using-my-voice/",
-   "source": "Simon Willison",
-   "kind": "community",
-   "summary": "I shipped a new feature for my blog today: the Newsletters page, which offers an index of all of the newsletters I've sent out, both my free weekly Substack and my monthly sponsors-only updates. I built the feature almost entirely using my voice, chatting away to my laptop while…",
-   "published": "2026-10-09T12:54:06+00:00",
-   "topics": [],
-   "first_seen": "2026-10-11T09:46:44+00:00"
-  },
-  {
-   "id": "5632765a25755308",
-   "title": "Pointing AI at archives found a forgotten meteorite, lost rhinos, and more",
-   "link": "https://jessewaites.com/blog/post/i-pointed-ai-at-400-years-of-archives/",
-   "source": "Hacker News",
-   "kind": "community",
-   "summary": "Article URL: https://jessewaites.com/blog/post/i-pointed-ai-at-400-years-of-archives/ Comments URL: https://news.ycombinator.com/item?id=50019056 Points: 184 # Comments: 92",
-   "published": "2026-10-09T11:36:20+00:00",
-   "topics": [],
-   "first_seen": "2026-10-11T09:46:44+00:00"
-  },
-  {
-   "id": "595085953aeea904",
-   "title": "Show HN: Let your AI agents paint big arrows, boxes and text on your screen",
-   "link": "https://github.com/franzenzenhofer/big-arrow-on-the-screen",
-   "source": "Hacker News",
-   "kind": "community",
-   "summary": "Article URL: https://github.com/franzenzenhofer/big-arrow-on-the-screen Comments URL: https://news.ycombinator.com/item?id=50018817 Points: 417 # Comments: 196",
-   "published": "2026-10-09T11:03:48+00:00",
-   "topics": [
-    "Tools"
-   ],
-   "first_seen": "2026-10-11T09:46:44+00:00"
-  },
-  {
-   "id": "15717a6b7c9a1b04",
-   "title": "OpenAI doubles down on decision to fire three AI safety researchers",
-   "link": "https://www.theverge.com/ai-artificial-intelligence/1008604/openai-defends-decision-fire-safety-researchers",
-   "source": "The Verge",
-   "kind": "press",
-   "summary": "OpenAI is standing firm on its decision to fire three safety researchers after an investigation found they committed \"a significant breach of trust.\" In a post on X on Friday, the company said Jasmine Wang, Tomek Korbak and Mikita ⁠Balesni were dismissed for violating \"clear…",
-   "published": "2026-10-09T09:48:26+00:00",
-   "topics": [
-    "Policy",
-    "Business"
-   ],
-   "first_seen": "2026-10-11T09:46:44+00:00"
-  },
-  {
-   "id": "12c2c27c0af6f8fd",
-   "title": "We’re putting too much faith in AI’s ability to say no",
-   "link": "https://www.technologyreview.com/2026/10/09/1145728/we-are-putting-too-much-faith-in-ai-to-say-no/",
-   "source": "MIT Technology Review",
-   "kind": "press",
-   "summary": "Ever since people first seriously contemplated giving machines an intelligence modeled on our own, there has never been any question that they would, like us, be able to say no. The sci-fi canon is full of stories of robotic disobedience. Most of these capers are, of course…",
-   "published": "2026-10-09T09:00:00+00:00",
    "topics": [],
    "first_seen": "2026-10-11T09:46:44+00:00"
   }
