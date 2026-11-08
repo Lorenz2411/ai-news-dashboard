@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-08T01:26:21+00:00",
+ "updated": "2026-11-08T08:58:55+00:00",
  "sources": [
   {
    "name": "OpenAI",
@@ -13,9 +13,9 @@
    "name": "Google DeepMind",
    "url": "https://deepmind.google/blog/rss.xml",
    "kind": "lab",
-   "ok": false,
-   "count": 0,
-   "error": "ParseError: not well-formed (invalid token): line 1, column 0"
+   "ok": true,
+   "count": 40,
+   "error": null
   },
   {
    "name": "Google AI",
@@ -85,12 +85,25 @@
    "name": "Hacker News",
    "url": "https://hnrss.org/newest?q=AI+OR+LLM+OR+GPT+OR+Claude&points=100",
    "kind": "community",
-   "ok": false,
-   "count": 0,
-   "error": "HTTPError: HTTP Error 502: Bad Gateway"
+   "ok": true,
+   "count": 20,
+   "error": null
   }
  ],
  "items": [
+  {
+   "id": "e66f4eeac8f3ba07",
+   "title": "Goodbye Claude, Hello Pi",
+   "link": "https://caleb.software/posts/claude-to-pi.html",
+   "source": "Hacker News",
+   "kind": "community",
+   "summary": "Article URL: https://caleb.software/posts/claude-to-pi.html Comments URL: https://news.ycombinator.com/item?id=50410107 Points: 253 # Comments: 144",
+   "published": "2026-11-08T03:11:48+00:00",
+   "topics": [
+    "Models"
+   ],
+   "first_seen": "2026-11-08T08:58:55+00:00"
+  },
   {
    "id": "3880bf849bb943e9",
    "title": "datasette #3046: Don't serve link: rel=next HTTP headers to Firefox for HTML pages",
@@ -131,12 +144,26 @@
    "first_seen": "2026-11-07T21:49:30+00:00"
   },
   {
+   "id": "5186d80b7eef5626",
+   "title": "Claude Code's \"Don't Ask Again\" exposes passwords in 1,122 public GitHub files",
+   "link": "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again",
+   "source": "Hacker News",
+   "kind": "community",
+   "summary": "Article URL: https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again Comments URL: https://news.ycombinator.com/item?id=50407882 Points: 373 # Comments: 258",
+   "published": "2026-11-07T20:45:32+00:00",
+   "topics": [
+    "Models",
+    "Tools"
+   ],
+   "first_seen": "2026-11-08T08:58:55+00:00"
+  },
+  {
    "id": "1eeaf5457cb1a01a",
    "title": "The end of Microsoft Research's AI Frontiers group",
    "link": "https://hunch.net/?p=13764006",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "https://archive.is/AaY5O https://businessexaminer.ca/victoria-articles/item/microsoft... Comments URL: https://news.ycombinator.com/item?id=50406563 Points: 248 # Comments: 139",
+   "summary": "https://archive.is/AaY5O https://businessexaminer.ca/victoria-articles/item/microsoft... Comments URL: https://news.ycombinator.com/item?id=50406563 Points: 453 # Comments: 270",
    "published": "2026-11-07T18:02:17+00:00",
    "topics": [
     "Research"
@@ -261,7 +288,7 @@
    "link": "https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai Comments URL: https://news.ycombinator.com/item?id=50397994 Points: 358 # Comments: 333",
+   "summary": "Article URL: https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai Comments URL: https://news.ycombinator.com/item?id=50397994 Points: 365 # Comments: 348",
    "published": "2026-11-06T20:27:23+00:00",
    "topics": [
     "Research"
@@ -324,7 +351,7 @@
    "link": "https://www.reuters.com/business/microsoft-is-winding-down-oracle-deal-rent-ai-cloud-capacity-bloomberg-news-2026-11-06/",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://www.reuters.com/business/microsoft-is-winding-down-oracle-deal-rent-ai-cloud-capacity-bloomberg-news-2026-11-06/ Comments URL: https://news.ycombinator.com/item?id=50395933 Points: 105 # Comments: 19",
+   "summary": "Article URL: https://www.reuters.com/business/microsoft-is-winding-down-oracle-deal-rent-ai-cloud-capacity-bloomberg-news-2026-11-06/ Comments URL: https://news.ycombinator.com/item?id=50395933 Points: 107 # Comments: 19",
    "published": "2026-11-06T18:04:06+00:00",
    "topics": [],
    "first_seen": "2026-11-07T16:25:56+00:00"
@@ -433,7 +460,7 @@
    "link": "https://www.cbc.ca/news/world/university-libraries-ai-data-scraping-bots-9.7408287",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://www.cbc.ca/news/world/university-libraries-ai-data-scraping-bots-9.7408287 Comments URL: https://news.ycombinator.com/item?id=50392499 Points: 134 # Comments: 63",
+   "summary": "Article URL: https://www.cbc.ca/news/world/university-libraries-ai-data-scraping-bots-9.7408287 Comments URL: https://news.ycombinator.com/item?id=50392499 Points: 136 # Comments: 63",
    "published": "2026-11-06T14:13:09+00:00",
    "topics": [],
    "first_seen": "2026-11-07T08:46:36+00:00"
@@ -566,7 +593,7 @@
    "link": "https://www.lesswrong.com/posts/DALNiKBjMGMF8grme/arjun-panickssery-s-shortform?commentId=fJtaHHHfx45tD7BSL",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://www.lesswrong.com/posts/DALNiKBjMGMF8grme/arjun-panickssery-s-shortform?commentId=fJtaHHHfx45tD7BSL Comments URL: https://news.ycombinator.com/item?id=50388513 Points: 211 # Comments: 210",
+   "summary": "Article URL: https://www.lesswrong.com/posts/DALNiKBjMGMF8grme/arjun-panickssery-s-shortform?commentId=fJtaHHHfx45tD7BSL Comments URL: https://news.ycombinator.com/item?id=50388513 Points: 219 # Comments: 217",
    "published": "2026-11-06T05:19:04+00:00",
    "topics": [],
    "first_seen": "2026-11-06T15:55:13+00:00"
@@ -628,7 +655,7 @@
    "link": "https://finance.yahoo.com/technology/ai/articles/mark-cuban-says-facebook-knowingly-213000020.html",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://finance.yahoo.com/technology/ai/articles/mark-cuban-says-facebook-knowingly-213000020.html Comments URL: https://news.ycombinator.com/item?id=50385870 Points: 510 # Comments: 228",
+   "summary": "Article URL: https://finance.yahoo.com/technology/ai/articles/mark-cuban-says-facebook-knowingly-213000020.html Comments URL: https://news.ycombinator.com/item?id=50385870 Points: 515 # Comments: 229",
    "published": "2026-11-05T23:09:57+00:00",
    "topics": [
     "Business"
@@ -681,7 +708,7 @@
    "link": "https://github.com/anthropics/claude-code/issues/107757",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://github.com/anthropics/claude-code/issues/107757 Comments URL: https://news.ycombinator.com/item?id=50385272 Points: 1589 # Comments: 514",
+   "summary": "Article URL: https://github.com/anthropics/claude-code/issues/107757 Comments URL: https://news.ycombinator.com/item?id=50385272 Points: 1596 # Comments: 522",
    "published": "2026-11-05T22:17:15+00:00",
    "topics": [
     "Models"
@@ -799,7 +826,7 @@
    "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-05-2026",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-05-2026 Comments URL: https://news.ycombinator.com/item?id=50382179 Points: 163 # Comments: 191",
+   "summary": "Article URL: https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-05-2026 Comments URL: https://news.ycombinator.com/item?id=50382179 Points: 163 # Comments: 192",
    "published": "2026-11-05T18:00:01+00:00",
    "topics": [
     "Business"
@@ -1076,7 +1103,7 @@
    "link": "https://alignment.openai.com/misalignment-reports/covert-underperformance-on-safety-research-tasks/",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://alignment.openai.com/misalignment-reports/covert-underperformance-on-safety-research-tasks/ Comments URL: https://news.ycombinator.com/item?id=50376313 Points: 341 # Comments: 192",
+   "summary": "Article URL: https://alignment.openai.com/misalignment-reports/covert-underperformance-on-safety-research-tasks/ Comments URL: https://news.ycombinator.com/item?id=50376313 Points: 341 # Comments: 193",
    "published": "2026-11-05T07:44:30+00:00",
    "topics": [
     "Models",
@@ -1483,7 +1510,7 @@
    "link": "https://techcrunch.com/2026/11/02/y-combinators-garry-tan-uses-ai-agents-so-much-he-spends-up-to-200k-a-year-on-tokens/",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://techcrunch.com/2026/11/02/y-combinators-garry-tan-uses-ai-agents-so-much-he-spends-up-to-200k-a-year-on-tokens/ Comments URL: https://news.ycombinator.com/item?id=50366971 Points: 110 # Comments: 178",
+   "summary": "Article URL: https://techcrunch.com/2026/11/02/y-combinators-garry-tan-uses-ai-agents-so-much-he-spends-up-to-200k-a-year-on-tokens/ Comments URL: https://news.ycombinator.com/item?id=50366971 Points: 111 # Comments: 178",
    "published": "2026-11-04T15:28:31+00:00",
    "topics": [
     "Tools"
@@ -1570,7 +1597,7 @@
    "link": "https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability Comments URL: https://news.ycombinator.com/item?id=50364336 Points: 1294 # Comments: 749",
+   "summary": "Article URL: https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability Comments URL: https://news.ycombinator.com/item?id=50364336 Points: 1299 # Comments: 749",
    "published": "2026-11-04T11:52:17+00:00",
    "topics": [],
    "first_seen": "2026-11-04T19:45:13+00:00"
@@ -11391,33 +11418,6 @@
    "summary": "Ever since people first seriously contemplated giving machines an intelligence modeled on our own, there has never been any question that they would, like us, be able to say no. The sci-fi canon is full of stories of robotic disobedience. Most of these capers are, of course…",
    "published": "2026-10-09T09:00:00+00:00",
    "topics": [],
-   "first_seen": "2026-10-11T09:46:44+00:00"
-  },
-  {
-   "id": "edd58468d564448f",
-   "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
-   "link": "https://openai.com/index/sophos",
-   "source": "OpenAI",
-   "kind": "lab",
-   "summary": "Discover how Sophos uses OpenAI’s Daybreak to cut cyber-threat investigation time by 96% and automate 52% of MDR cases while preserving human oversight.",
-   "published": "2026-10-09T07:00:00+00:00",
-   "topics": [
-    "Business"
-   ],
-   "first_seen": "2026-10-11T09:46:44+00:00"
-  },
-  {
-   "id": "90995f7dbc9c2674",
-   "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
-   "link": "https://openai.com/index/asana-browser-agent",
-   "source": "OpenAI",
-   "kind": "lab",
-   "summary": "Using GPT-6 Astra in Codex, Asana made its browser agent 76x cheaper and 5x faster in tests to offer customers more capable models.",
-   "published": "2026-10-09T07:00:00+00:00",
-   "topics": [
-    "Models",
-    "Tools"
-   ],
    "first_seen": "2026-10-11T09:46:44+00:00"
   }
  ]
