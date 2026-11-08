@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-08T16:40:22+00:00",
+ "updated": "2026-11-08T22:03:53+00:00",
  "sources": [
   {
    "name": "OpenAI",
@@ -92,6 +92,71 @@
  ],
  "items": [
   {
+   "id": "bc55171edc52873b",
+   "title": "Nvidia will investigate CEO Jensen Huang’s relationship with possible Chinese spy",
+   "link": "https://techcrunch.com/2026/11/08/nvidia-says-its-investigating-ceo-jensen-huangs-relationship-with-possible-chinese-spy/",
+   "source": "TechCrunch",
+   "kind": "press",
+   "summary": "In a memo to the company, Huang admitted that he had an affair.",
+   "published": "2026-11-08T21:00:11+00:00",
+   "topics": [
+    "Business",
+    "Hardware"
+   ],
+   "first_seen": "2026-11-08T22:03:53+00:00"
+  },
+  {
+   "id": "ecd65815b585666d",
+   "title": "Nvidia is investigating Jensen Huang’s relationship with a Chinese spy",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/1029562/nvidia-investigating-jensen-huang-relationship-chinese-spy",
+   "source": "The Verge",
+   "kind": "press",
+   "summary": "Nvidia has announced that it is opening an investigation into CEO Jensen Huang and his relationship with Megaspeed executive Alice Huang, who was reportedly recruited by China's Ministry of State Security to spy on the company. A statement posted by the board of directors reads…",
+   "published": "2026-11-08T20:55:35+00:00",
+   "topics": [
+    "Business",
+    "Hardware"
+   ],
+   "first_seen": "2026-11-08T22:03:53+00:00"
+  },
+  {
+   "id": "fa06ff8fdc83e259",
+   "title": "NYT Cooking’s AI assistant saved my weeknight chicken, but almost ruined my cake",
+   "link": "https://www.theverge.com/tech/1029489/nyt-cooking-ai-assistant-review",
+   "source": "The Verge",
+   "kind": "press",
+   "summary": "Around 7PM each weeknight, I find myself standing in front of the fridge, trying to decide on something for dinner that won't make my husband complain, \"Chicken again?\" Yes, I should meal plan more, but I don't, so this is where I'm at. A nightly battle in which the chicken…",
+   "published": "2026-11-08T19:41:47+00:00",
+   "topics": [],
+   "first_seen": "2026-11-07T16:25:56+00:00"
+  },
+  {
+   "id": "53044e44b3aab431",
+   "title": "Apple is racing to make Siri more agentic",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/1029552/apple-siri-ai-agentic",
+   "source": "The Verge",
+   "kind": "press",
+   "summary": "Bloomberg's Mark Gurman says CEO John Ternus is pressuring AI czar Craig Federighi to accelerate the Siri roadmap and deliver a powerful AI agent that can compete with OpenAI's Dots or Meta's Muse. While Federighi has delivered a functional version of Siri AI on an incredibly…",
+   "published": "2026-11-08T19:18:19+00:00",
+   "topics": [
+    "Tools"
+   ],
+   "first_seen": "2026-11-08T22:03:53+00:00"
+  },
+  {
+   "id": "ae06ecf7187204d4",
+   "title": "Elvis and Eminem rights holders are suing Suno",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/1029533/elvis-eminem-suno-ai-music-clone-lawsuit",
+   "source": "The Verge",
+   "kind": "press",
+   "summary": "Suno is facing yet another pair of lawsuits. A group of rights holders of Elvis Presley's music and the publisher of some of Eminem's biggest records are suing the AI music company, claiming it illegally generates music and lyrics that mimic those artists. The lawyers in the…",
+   "published": "2026-11-08T17:23:19+00:00",
+   "topics": [
+    "Policy"
+   ],
+   "first_seen": "2026-11-08T22:03:53+00:00"
+  },
+  {
    "id": "e66f4eeac8f3ba07",
    "title": "Goodbye Claude, Hello Pi",
    "link": "https://caleb.software/posts/claude-to-pi.html",
@@ -169,17 +234,6 @@
     "Research"
    ],
    "first_seen": "2026-11-07T21:49:30+00:00"
-  },
-  {
-   "id": "fa06ff8fdc83e259",
-   "title": "NYT Cooking’s AI assistant saved my weeknight chicken, but almost ruined my cake",
-   "link": "https://www.theverge.com/tech/1029489/nyt-cooking-ai-assistant-review",
-   "source": "The Verge",
-   "kind": "press",
-   "summary": "Around 7PM each weeknight, I find myself standing in front of the fridge, trying to decide on something for dinner that won't make my husband complain, \"Chicken again?\" Yes, I should meal plan more, but I don't, so this is where I'm at. A nightly battle in which the chicken…",
-   "published": "2026-11-07T15:47:15+00:00",
-   "topics": [],
-   "first_seen": "2026-11-07T16:25:56+00:00"
   },
   {
    "id": "73be1ddc7ff24f89",
@@ -11119,181 +11173,6 @@
     "Models",
     "Hardware"
    ],
-   "first_seen": "2026-10-11T09:46:44+00:00"
-  },
-  {
-   "id": "d9ded0e842593759",
-   "title": "Anthropic AI model submits false tip on unsolved Philly murder, police say",
-   "link": "https://www.nbcphiladelphia.com/news/local/anthropic-ai-model-submits-false-tip-on-unsolved-philly-murder-police-say/4477051/",
-   "source": "Hacker News",
-   "kind": "community",
-   "summary": "Article URL: https://www.nbcphiladelphia.com/news/local/anthropic-ai-model-submits-false-tip-on-unsolved-philly-murder-police-say/4477051/ Comments URL: https://news.ycombinator.com/item?id=50027118 Points: 212 # Comments: 157",
-   "published": "2026-10-09T22:00:35+00:00",
-   "topics": [
-    "Models"
-   ],
-   "first_seen": "2026-10-11T09:46:44+00:00"
-  },
-  {
-   "id": "ac2c548222f71119",
-   "title": "The maker of non-text AI model Jev valued at $7.5B just weeks after launch",
-   "link": "https://techcrunch.com/2026/10/09/the-maker-of-non-text-ai-model-jev-valued-at-7-5b-just-weeks-after-launch/",
-   "source": "TechCrunch",
-   "kind": "press",
-   "summary": "What has users and large corporations so excited about Jev is TypeSafe’s claim that it works significantly faster and uses far fewer tokens than LLMs.",
-   "published": "2026-10-09T21:41:29+00:00",
-   "topics": [
-    "Models",
-    "Tools"
-   ],
-   "first_seen": "2026-10-11T09:46:44+00:00"
-  },
-  {
-   "id": "0ea9d786e45ed9d7",
-   "title": "AI agent makers are promising privacy — will they deliver?",
-   "link": "https://www.theverge.com/ai-artificial-intelligence/1009051/privacy-ai-agent-promises-openai-meta-muse-dots",
-   "source": "The Verge",
-   "kind": "press",
-   "summary": "At this year's OpenAI DevDay, CEO Sam Altman unveiled the company's new AI agent Dots - and told the crowd that the company wants to \"set a new standard for privacy in frontier AI.\" OpenAI would spend the day taking veiled shots at Meta's Muse, its primary competitor, for…",
-   "published": "2026-10-09T21:26:33+00:00",
-   "topics": [
-    "Tools"
-   ],
-   "first_seen": "2026-10-11T09:46:44+00:00"
-  },
-  {
-   "id": "9f4f46039e3dc6c1",
-   "title": "AI coding agents generate more code, but not more software",
-   "link": "https://arstechnica.com/ai/2026/10/ai-coding-agents-generate-more-code-but-not-more-software/",
-   "source": "Ars Technica",
-   "kind": "press",
-   "summary": "Study finds coding efficiency gains get \"absorbed\" by human review \"bottleneck.\"",
-   "published": "2026-10-09T19:43:50+00:00",
-   "topics": [
-    "Research",
-    "Tools"
-   ],
-   "first_seen": "2026-10-11T09:46:44+00:00"
-  },
-  {
-   "id": "6794814fc09c1a8f",
-   "title": "An Anthropic AI model sent a false homicide tip to Philadelphia police",
-   "link": "https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police/",
-   "source": "TechCrunch",
-   "kind": "press",
-   "summary": "Anthropic did not discover this behavior until over two months after its AI submitted the false tip.",
-   "published": "2026-10-09T19:36:56+00:00",
-   "topics": [
-    "Models"
-   ],
-   "first_seen": "2026-10-11T09:46:44+00:00"
-  },
-  {
-   "id": "d07dddd55da28704",
-   "title": "‘Pure insanity’: Mathematicians will need years to make sense of OpenAI’s latest drop",
-   "link": "https://www.theverge.com/ai-artificial-intelligence/1008726/openai-mathematics-solutions-chaos",
-   "source": "The Verge",
-   "kind": "press",
-   "summary": "\"Staggering.\" \"Overwhelming.\" \"Unprecedented.\" \"Surreal.\" \"Pure insanity.\" Those were among the descriptions more than three dozen mathematicians reached for in conversations with The Verge as they tried to make sense of the flood of mathematical results OpenAI abruptly dropped…",
-   "published": "2026-10-09T19:11:12+00:00",
-   "topics": [],
-   "first_seen": "2026-10-11T09:46:44+00:00"
-  },
-  {
-   "id": "9304db4f19bb1881",
-   "title": "AI disqualification yields new Nikon Small World in Motion winner",
-   "link": "https://arstechnica.com/science/2026/10/winning-nikon-small-world-in-motion-video-disqualified-for-ai-use/",
-   "source": "Ars Technica",
-   "kind": "press",
-   "summary": "New winner is Nguyen Nam Nhat of Vietnam for video of a roundworm and single-celled Dileptus.",
-   "published": "2026-10-09T18:44:06+00:00",
-   "topics": [],
-   "first_seen": "2026-10-11T09:46:44+00:00"
-  },
-  {
-   "id": "f11f2c288c2c9565",
-   "title": "Nikon microscopic video competition winner disqualified for using generative AI",
-   "link": "https://www.theverge.com/ai-artificial-intelligence/1008930/nikon-small-world-in-motion-winner-ai",
-   "source": "The Verge",
-   "kind": "press",
-   "summary": "Nikon says the video that originally won first place in its Small World in Motion contest \"did not comply with the competition rules regarding generative AI.\" BBC reports that the original first place video from Dr. Ning Xu claimed to show \"tiny, hair-like structures called…",
-   "published": "2026-10-09T18:06:57+00:00",
-   "topics": [],
-   "first_seen": "2026-10-11T09:46:44+00:00"
-  },
-  {
-   "id": "84d5b4b8b9e370c6",
-   "title": "What mathematicians should know about the Lean Theorem Prover: reliability & AI",
-   "link": "https://terrytao.wordpress.com/2026/10/09/what-mathematicians-should-know-about-the-lean-theorem-proverquestions-of-reliability-and-ai/",
-   "source": "Hacker News",
-   "kind": "community",
-   "summary": "Article URL: https://terrytao.wordpress.com/2026/10/09/what-mathematicians-should-know-about-the-lean-theorem-proverquestions-of-reliability-and-ai/ Comments URL: https://news.ycombinator.com/item?id=50024090 Points: 207 # Comments: 58",
-   "published": "2026-10-09T17:42:12+00:00",
-   "topics": [],
-   "first_seen": "2026-10-11T09:46:44+00:00"
-  },
-  {
-   "id": "e0e3889317150e81",
-   "title": "Trump’s attempt to rename AI is looking awfully artificial",
-   "link": "https://www.theverge.com/policy/1008677/trump-super-intelligence-ai-rebranding",
-   "source": "The Verge",
-   "kind": "press",
-   "summary": "President Donald Trump has a knack for turning words against his enemies. His first successful presidential run was built on monikers like \"Little Marco\" and \"Crooked Hillary\"; he changed \"fake news\" from a phrase describing scammy media outlets to a derogatory term for the…",
-   "published": "2026-10-09T17:23:28+00:00",
-   "topics": [],
-   "first_seen": "2026-10-11T09:46:44+00:00"
-  },
-  {
-   "id": "04902b83f5b9f295",
-   "title": "Typesafe AI raises $870M at $7.5B",
-   "link": "https://typesafe.ai/blog/series-ai",
-   "source": "Hacker News",
-   "kind": "community",
-   "summary": "Article URL: https://typesafe.ai/blog/series-ai Comments URL: https://news.ycombinator.com/item?id=50023450 Points: 443 # Comments: 356",
-   "published": "2026-10-09T17:02:31+00:00",
-   "topics": [
-    "Business"
-   ],
-   "first_seen": "2026-10-11T09:46:44+00:00"
-  },
-  {
-   "id": "fd6b62e24c31730f",
-   "title": "Amazon and others are done keeping data center deals secret. Is it enough to build trust?",
-   "link": "https://techcrunch.com/video/amazon-and-others-are-done-keeping-data-center-deals-secret-is-it-enough-to-build-trust/",
-   "source": "TechCrunch",
-   "kind": "press",
-   "summary": "Amazon says it will stop using NDAs when negotiating data center deals with local governments, following a similar move from Microsoft earlier this year. Secrecy has fueled community backlash against AI infrastructure, with opposition leading to hundreds of proposed and enacted…",
-   "published": "2026-10-09T16:56:42+00:00",
-   "topics": [
-    "Policy",
-    "Hardware"
-   ],
-   "first_seen": "2026-10-11T09:46:44+00:00"
-  },
-  {
-   "id": "3e5144fcace1c1fd",
-   "title": "Amazon drops data center NDAs, and AI agents want your credit card",
-   "link": "https://techcrunch.com/podcast/amazon-drops-data-center-ndas-and-ai-agents-want-your-credit-card/",
-   "source": "TechCrunch",
-   "kind": "press",
-   "summary": "Amazon says it will stop using NDAs when negotiating data center deals with local governments, following a similar move from Microsoft earlier this year. Secrecy has fueled community backlash against AI infrastructure, with opposition leading to hundreds of proposed and enacted…",
-   "published": "2026-10-09T16:53:02+00:00",
-   "topics": [
-    "Policy",
-    "Tools",
-    "Hardware"
-   ],
-   "first_seen": "2026-10-11T09:46:44+00:00"
-  },
-  {
-   "id": "edf79715fb8e813e",
-   "title": "Danu Robotics’ fight to build a better recycling robot",
-   "link": "https://techcrunch.com/2026/10/09/danu-robotics-fight-to-build-a-better-recycling-robot/",
-   "source": "TechCrunch",
-   "kind": "press",
-   "summary": "For six years, Danu founder Amy Ma has been working on a better way to sort recyclable waste.",
-   "published": "2026-10-09T16:45:00+00:00",
-   "topics": [],
    "first_seen": "2026-10-11T09:46:44+00:00"
   }
  ]
