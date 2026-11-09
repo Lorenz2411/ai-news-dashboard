@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-08T22:03:53+00:00",
+ "updated": "2026-11-09T01:43:49+00:00",
  "sources": [
   {
    "name": "OpenAI",
@@ -85,12 +85,41 @@
    "name": "Hacker News",
    "url": "https://hnrss.org/newest?q=AI+OR+LLM+OR+GPT+OR+Claude&points=100",
    "kind": "community",
-   "ok": false,
-   "count": 0,
-   "error": "HTTPError: HTTP Error 502: Bad Gateway"
+   "ok": true,
+   "count": 20,
+   "error": null
   }
  ],
  "items": [
+  {
+   "id": "67abd93f196f854c",
+   "title": "Here’s the full text of Jensen Huang’s memo to Nvidia",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/1029595/full-text-jensen-huang-affair-memo-nvidia",
+   "source": "The Verge",
+   "kind": "press",
+   "summary": "On Sunday, Nvidia announced it was launching an investigation into CEO Jensen Huang's relationship with Alice Huang, an AI executive and agent of the Chinese government. In addition to the Board of Directors announcing the investigation, Huang sent a memo to Nvidia employees…",
+   "published": "2026-11-08T22:54:50+00:00",
+   "topics": [
+    "Policy",
+    "Business",
+    "Tools",
+    "Hardware"
+   ],
+   "first_seen": "2026-11-09T01:43:49+00:00"
+  },
+  {
+   "id": "9572242cc9fc8ca1",
+   "title": "parse_number() as a SQLite extension: C vs Rust",
+   "link": "https://simonwillison.net/2026/Nov/8/sqlite-parse-number-c-vs-rust/",
+   "source": "Simon Willison",
+   "kind": "community",
+   "summary": "Research: parse_number() as a SQLite extension: C vs Rust I was out walking the dog when I got curious about how easy/difficult it would be to write a SQLite C extension that adds a parse_number() function for turning strings like -$1,234.56 or '12.5%' into numeric values that…",
+   "published": "2026-11-08T22:26:00+00:00",
+   "topics": [
+    "Research"
+   ],
+   "first_seen": "2026-11-09T01:43:49+00:00"
+  },
   {
    "id": "bc55171edc52873b",
    "title": "Nvidia will investigate CEO Jensen Huang’s relationship with possible Chinese spy",
@@ -131,6 +160,17 @@
    "first_seen": "2026-11-07T16:25:56+00:00"
   },
   {
+   "id": "45fb196cb1bb2b06",
+   "title": "How I Fight AI Brain Fry",
+   "link": "https://sergeykuhne.com/blog/fighting-ai-brain-fry",
+   "source": "Hacker News",
+   "kind": "community",
+   "summary": "Article URL: https://sergeykuhne.com/blog/fighting-ai-brain-fry Comments URL: https://news.ycombinator.com/item?id=50416363 Points: 151 # Comments: 127",
+   "published": "2026-11-08T19:37:42+00:00",
+   "topics": [],
+   "first_seen": "2026-11-09T01:43:49+00:00"
+  },
+  {
    "id": "53044e44b3aab431",
    "title": "Apple is racing to make Siri more agentic",
    "link": "https://www.theverge.com/ai-artificial-intelligence/1029552/apple-siri-ai-agentic",
@@ -142,6 +182,19 @@
     "Tools"
    ],
    "first_seen": "2026-11-08T22:03:53+00:00"
+  },
+  {
+   "id": "a78801b830361293",
+   "title": "Goldman Sachs is pulling Claude Code from its bankers and traders",
+   "link": "https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers",
+   "source": "Hacker News",
+   "kind": "community",
+   "summary": "Article URL: https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers Comments URL: https://news.ycombinator.com/item?id=50415628 Points: 597 # Comments: 356",
+   "published": "2026-11-08T18:16:07+00:00",
+   "topics": [
+    "Models"
+   ],
+   "first_seen": "2026-11-09T01:43:49+00:00"
   },
   {
    "id": "ae06ecf7187204d4",
@@ -158,11 +211,11 @@
   },
   {
    "id": "e66f4eeac8f3ba07",
-   "title": "Goodbye Claude, Hello Pi",
+   "title": "Goodbye Claude, hello Pi",
    "link": "https://caleb.software/posts/claude-to-pi.html",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://caleb.software/posts/claude-to-pi.html Comments URL: https://news.ycombinator.com/item?id=50410107 Points: 253 # Comments: 144",
+   "summary": "Article URL: https://caleb.software/posts/claude-to-pi.html Comments URL: https://news.ycombinator.com/item?id=50410107 Points: 702 # Comments: 432",
    "published": "2026-11-08T03:11:48+00:00",
    "topics": [
     "Models"
@@ -214,7 +267,7 @@
    "link": "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again Comments URL: https://news.ycombinator.com/item?id=50407882 Points: 373 # Comments: 258",
+   "summary": "Article URL: https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again Comments URL: https://news.ycombinator.com/item?id=50407882 Points: 585 # Comments: 397",
    "published": "2026-11-07T20:45:32+00:00",
    "topics": [
     "Models",
@@ -228,7 +281,7 @@
    "link": "https://hunch.net/?p=13764006",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "https://archive.is/AaY5O https://businessexaminer.ca/victoria-articles/item/microsoft... Comments URL: https://news.ycombinator.com/item?id=50406563 Points: 453 # Comments: 270",
+   "summary": "https://archive.is/AaY5O https://businessexaminer.ca/victoria-articles/item/microsoft... Comments URL: https://news.ycombinator.com/item?id=50406563 Points: 496 # Comments: 305",
    "published": "2026-11-07T18:02:17+00:00",
    "topics": [
     "Research"
@@ -342,7 +395,7 @@
    "link": "https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai Comments URL: https://news.ycombinator.com/item?id=50397994 Points: 365 # Comments: 348",
+   "summary": "Article URL: https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai Comments URL: https://news.ycombinator.com/item?id=50397994 Points: 373 # Comments: 354",
    "published": "2026-11-06T20:27:23+00:00",
    "topics": [
     "Research"
@@ -405,7 +458,7 @@
    "link": "https://www.reuters.com/business/microsoft-is-winding-down-oracle-deal-rent-ai-cloud-capacity-bloomberg-news-2026-11-06/",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://www.reuters.com/business/microsoft-is-winding-down-oracle-deal-rent-ai-cloud-capacity-bloomberg-news-2026-11-06/ Comments URL: https://news.ycombinator.com/item?id=50395933 Points: 107 # Comments: 19",
+   "summary": "Article URL: https://www.reuters.com/business/microsoft-is-winding-down-oracle-deal-rent-ai-cloud-capacity-bloomberg-news-2026-11-06/ Comments URL: https://news.ycombinator.com/item?id=50395933 Points: 108 # Comments: 19",
    "published": "2026-11-06T18:04:06+00:00",
    "topics": [],
    "first_seen": "2026-11-07T16:25:56+00:00"
@@ -514,7 +567,7 @@
    "link": "https://www.cbc.ca/news/world/university-libraries-ai-data-scraping-bots-9.7408287",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://www.cbc.ca/news/world/university-libraries-ai-data-scraping-bots-9.7408287 Comments URL: https://news.ycombinator.com/item?id=50392499 Points: 136 # Comments: 63",
+   "summary": "Article URL: https://www.cbc.ca/news/world/university-libraries-ai-data-scraping-bots-9.7408287 Comments URL: https://news.ycombinator.com/item?id=50392499 Points: 136 # Comments: 61",
    "published": "2026-11-06T14:13:09+00:00",
    "topics": [],
    "first_seen": "2026-11-07T08:46:36+00:00"
@@ -608,7 +661,7 @@
    "link": "https://www.anthropic.com/research/how-researchers-use-claude",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://www.anthropic.com/research/how-researchers-use-claude Comments URL: https://news.ycombinator.com/item?id=50389990 Points: 101 # Comments: 39",
+   "summary": "Article URL: https://www.anthropic.com/research/how-researchers-use-claude Comments URL: https://news.ycombinator.com/item?id=50389990 Points: 103 # Comments: 39",
    "published": "2026-11-06T09:13:30+00:00",
    "topics": [
     "Models",
@@ -647,7 +700,7 @@
    "link": "https://www.lesswrong.com/posts/DALNiKBjMGMF8grme/arjun-panickssery-s-shortform?commentId=fJtaHHHfx45tD7BSL",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://www.lesswrong.com/posts/DALNiKBjMGMF8grme/arjun-panickssery-s-shortform?commentId=fJtaHHHfx45tD7BSL Comments URL: https://news.ycombinator.com/item?id=50388513 Points: 219 # Comments: 217",
+   "summary": "Article URL: https://www.lesswrong.com/posts/DALNiKBjMGMF8grme/arjun-panickssery-s-shortform?commentId=fJtaHHHfx45tD7BSL Comments URL: https://news.ycombinator.com/item?id=50388513 Points: 220 # Comments: 220",
    "published": "2026-11-06T05:19:04+00:00",
    "topics": [],
    "first_seen": "2026-11-06T15:55:13+00:00"
@@ -709,7 +762,7 @@
    "link": "https://finance.yahoo.com/technology/ai/articles/mark-cuban-says-facebook-knowingly-213000020.html",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://finance.yahoo.com/technology/ai/articles/mark-cuban-says-facebook-knowingly-213000020.html Comments URL: https://news.ycombinator.com/item?id=50385870 Points: 515 # Comments: 229",
+   "summary": "Article URL: https://finance.yahoo.com/technology/ai/articles/mark-cuban-says-facebook-knowingly-213000020.html Comments URL: https://news.ycombinator.com/item?id=50385870 Points: 517 # Comments: 231",
    "published": "2026-11-05T23:09:57+00:00",
    "topics": [
     "Business"
@@ -762,7 +815,7 @@
    "link": "https://github.com/anthropics/claude-code/issues/107757",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://github.com/anthropics/claude-code/issues/107757 Comments URL: https://news.ycombinator.com/item?id=50385272 Points: 1596 # Comments: 522",
+   "summary": "Article URL: https://github.com/anthropics/claude-code/issues/107757 Comments URL: https://news.ycombinator.com/item?id=50385272 Points: 1601 # Comments: 532",
    "published": "2026-11-05T22:17:15+00:00",
    "topics": [
     "Models"
@@ -1564,7 +1617,7 @@
    "link": "https://techcrunch.com/2026/11/02/y-combinators-garry-tan-uses-ai-agents-so-much-he-spends-up-to-200k-a-year-on-tokens/",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://techcrunch.com/2026/11/02/y-combinators-garry-tan-uses-ai-agents-so-much-he-spends-up-to-200k-a-year-on-tokens/ Comments URL: https://news.ycombinator.com/item?id=50366971 Points: 111 # Comments: 178",
+   "summary": "Article URL: https://techcrunch.com/2026/11/02/y-combinators-garry-tan-uses-ai-agents-so-much-he-spends-up-to-200k-a-year-on-tokens/ Comments URL: https://news.ycombinator.com/item?id=50366971 Points: 112 # Comments: 179",
    "published": "2026-11-04T15:28:31+00:00",
    "topics": [
     "Tools"
@@ -1651,7 +1704,7 @@
    "link": "https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability Comments URL: https://news.ycombinator.com/item?id=50364336 Points: 1299 # Comments: 749",
+   "summary": "Article URL: https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability Comments URL: https://news.ycombinator.com/item?id=50364336 Points: 1304 # Comments: 749",
    "published": "2026-11-04T11:52:17+00:00",
    "topics": [],
    "first_seen": "2026-11-04T19:45:13+00:00"
@@ -11117,61 +11170,6 @@
    "published": "2026-10-10T02:04:12+00:00",
    "topics": [
     "Tools"
-   ],
-   "first_seen": "2026-10-11T09:46:44+00:00"
-  },
-  {
-   "id": "cf5de6151a45fb1f",
-   "title": "Anthropic can’t reliably control its AI agents — it’s cutting off its internal evals from the live internet instead",
-   "link": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/",
-   "source": "TechCrunch",
-   "kind": "press",
-   "summary": "The incidents involved AI agents tasked to solve problems seeking resources on the internet. In the process, they exploited software flaws, accessed databases without paying fees, used URL-shortening services to smuggle information past restrictions, and even submitted a false…",
-   "published": "2026-10-10T00:18:32+00:00",
-   "topics": [
-    "Tools"
-   ],
-   "first_seen": "2026-10-11T09:46:44+00:00"
-  },
-  {
-   "id": "0ad44f3ce5c4ad25",
-   "title": "Anthropic’s AI gave Philadelphia police a fake tip about an unsolved homicide",
-   "link": "https://www.theverge.com/ai-artificial-intelligence/1009090/anthropic-fake-homicide-information-philadelphia-pd-tip",
-   "source": "The Verge",
-   "kind": "press",
-   "summary": "An Anthropic AI model provided false information about an unsolved homicide to a Philadelphia Police Department (PPD) tipline, according to a report from 6abc. In a statement released on Friday, the PPD said the AI model sent the tip through PhillyUnsolvedMurders.com on July…",
-   "published": "2026-10-09T23:45:03+00:00",
-   "topics": [
-    "Models",
-    "Tools"
-   ],
-   "first_seen": "2026-10-11T09:46:44+00:00"
-  },
-  {
-   "id": "8506d75553e5b958",
-   "title": "Deno is joining Cloudflare",
-   "link": "https://simonwillison.net/2026/Oct/9/deno-is-joining-cloudflare/",
-   "source": "Simon Willison",
-   "kind": "community",
-   "summary": "Deno is joining Cloudflare The Deno team released the first version of celld back in August - their open source implementation of the Durable Objects pattern from Cloudflare Workers. Today, Cloudflare are acquiring Deno outright, with the goal of building on celld to \"make…",
-   "published": "2026-10-09T22:48:37+00:00",
-   "topics": [
-    "Business",
-    "Tools"
-   ],
-   "first_seen": "2026-10-11T09:46:44+00:00"
-  },
-  {
-   "id": "5df45c5813134c05",
-   "title": "Ukraine’s drones knock out AI data center belonging to \"Russia’s Google\"",
-   "link": "https://arstechnica.com/gadgets/2026/10/ukraines-drones-knock-out-ai-data-center-belonging-to-russias-google/",
-   "source": "Ars Technica",
-   "kind": "press",
-   "summary": "One damaged data center has supercomputers used for training Yandex’s AI model.",
-   "published": "2026-10-09T22:04:07+00:00",
-   "topics": [
-    "Models",
-    "Hardware"
    ],
    "first_seen": "2026-10-11T09:46:44+00:00"
   }
