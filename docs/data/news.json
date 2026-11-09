@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-09T09:47:50+00:00",
+ "updated": "2026-11-09T20:43:39+00:00",
  "sources": [
   {
    "name": "OpenAI",
@@ -92,8 +92,362 @@
  ],
  "items": [
   {
+   "id": "39befa3379491d53",
+   "title": "Jensen Huang pulls out of ElevenLabs Summit amid Nvidia controversy",
+   "link": "https://techcrunch.com/2026/11/09/jensen-huang-pulls-out-of-elevenlabs-summit-amid-nvidia-controversy/",
+   "source": "TechCrunch",
+   "kind": "press",
+   "summary": "The Nvidia CEO also pulled out of an Anthropic event earlier.",
+   "published": "2026-11-09T20:09:06+00:00",
+   "topics": [
+    "Hardware"
+   ],
+   "first_seen": "2026-11-09T20:43:39+00:00"
+  },
+  {
+   "id": "3ec2e278915eae81",
+   "title": "The backlash about data centers might really just be about electricity",
+   "link": "https://www.technologyreview.com/2026/11/09/1148194/the-backlash-about-data-centers-might-really-just-be-about-electricity/",
+   "source": "MIT Technology Review",
+   "kind": "press",
+   "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. As voters went to the polls across the US last week, I was in Ashburn, Virginia, part of what’s known as Data Center Alley—the world’s…",
+   "published": "2026-11-09T19:35:33+00:00",
+   "topics": [
+    "Hardware"
+   ],
+   "first_seen": "2026-11-09T20:43:39+00:00"
+  },
+  {
+   "id": "2b128ff095485e1c",
+   "title": "Anthropic releases new Mythos and Fable models amid RSI concerns",
+   "link": "https://techcrunch.com/2026/11/09/anthropic-releases-new-mythos-and-fable-models-amid-rsi-concerns/",
+   "source": "TechCrunch",
+   "kind": "press",
+   "summary": "Anthropic says the new models \"show improvements in areas like coding, reasoning, and vision,\" as well as in communicating more clearly with users.",
+   "published": "2026-11-09T19:24:51+00:00",
+   "topics": [
+    "Models",
+    "Tools"
+   ],
+   "first_seen": "2026-11-09T20:43:39+00:00"
+  },
+  {
+   "id": "4a7141713ab5f922",
+   "title": "Apple’s $50 Intelligence Usage Packs extend access to some AI features",
+   "link": "https://www.theverge.com/tech/1030084/apple-intelligence-usage-packs-ai-features-creator-studio-logic-pro",
+   "source": "The Verge",
+   "kind": "press",
+   "summary": "After publishing a support article in early September outlining usage limits for some Apple Intelligence features, the company has updated Logic Pro with an option to \"Buy More Usage\" for a one-time purchase price of $49.99, as spotted by 9to5Mac. It has a built-in AI assistant…",
+   "published": "2026-11-09T19:09:58+00:00",
+   "topics": [],
+   "first_seen": "2026-11-09T20:43:39+00:00"
+  },
+  {
+   "id": "9c331579e229757a",
+   "title": "ChatGPT Enterprise now available in AWS Marketplace",
+   "link": "https://openai.com/index/chatgpt-enterprise-aws-marketplace",
+   "source": "OpenAI",
+   "kind": "lab",
+   "summary": "ChatGPT Enterprise is now available through AWS Marketplace, helping organizations simplify procurement through existing AWS purchasing and billing relationships.",
+   "published": "2026-11-09T19:00:00+00:00",
+   "topics": [],
+   "first_seen": "2026-11-09T20:43:39+00:00"
+  },
+  {
+   "id": "f1eea0a2781af6aa",
+   "title": "Anthropic launches new Claude Fable and Mythos 5.2 models",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/1030005/anthropic-claude-fable-mythos-5-2",
+   "source": "The Verge",
+   "kind": "press",
+   "summary": "Anthropic is announcing two new models today: Claude Fable 5.2 and Claude Mythos 5.2, which it says are designed to take on \"daunting\" technical challenges. The company claims the new models show improvements in coding, reasoning, and vision, and can generate outputs faster than…",
+   "published": "2026-11-09T18:58:38+00:00",
+   "topics": [
+    "Models",
+    "Tools"
+   ],
+   "first_seen": "2026-11-09T20:43:39+00:00"
+  },
+  {
+   "id": "796a7f7ee338b70f",
+   "title": "Claude Fable 5.2 and Mythos 5.2",
+   "link": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
+   "source": "Hacker News",
+   "kind": "community",
+   "summary": "Article URL: https://www.anthropic.com/claude-fable-and-mythos-5-2 Comments URL: https://news.ycombinator.com/item?id=50429906 Points: 569 # Comments: 278",
+   "published": "2026-11-09T18:56:29+00:00",
+   "topics": [
+    "Models"
+   ],
+   "first_seen": "2026-11-09T20:43:39+00:00"
+  },
+  {
+   "id": "20ff528b54959b19",
+   "title": "Jensen Huang’s affair with alleged Chinese spy puts Nvidia’s China ambitions under scrutiny",
+   "link": "https://techcrunch.com/2026/11/09/jensen-huangs-affair-with-alleged-chinese-spy-puts-nvidias-china-ambitions-under-scrutiny/",
+   "source": "TechCrunch",
+   "kind": "press",
+   "summary": "Jensen Huang’s alleged affair with a suspected Chinese spy threatens to complicate Nvidia’s lobbying efforts to loosen U.S. chip export restrictions and maintain access to China’s lucrative AI market.",
+   "published": "2026-11-09T18:09:52+00:00",
+   "topics": [
+    "Hardware"
+   ],
+   "first_seen": "2026-11-09T20:43:39+00:00"
+  },
+  {
+   "id": "9d5aee5d27ee2692",
+   "title": "Instagram’s Effect Builder makes new filters from AI prompts",
+   "link": "https://www.theverge.com/tech/1030061/instagram-ai-effect-builder-filters",
+   "source": "The Verge",
+   "kind": "press",
+   "summary": "After expanding its Edits app to macOS last week, Instagram's next move is launching this Effect Builder that generates custom filters for your Stories posts with AI. Available now for US residents who are over 18, it has a prompt box for describing your filter idea to the…",
+   "published": "2026-11-09T18:07:23+00:00",
+   "topics": [
+    "Tools"
+   ],
+   "first_seen": "2026-11-09T20:43:39+00:00"
+  },
+  {
+   "id": "fe9001b06ea620d4",
+   "title": "Meta releases Muse Ember, a new lightweight model for agent execution",
+   "link": "https://techcrunch.com/2026/11/09/meta-releases-muse-ember-a-new-lightweight-model-for-agent-execution/",
+   "source": "TechCrunch",
+   "kind": "press",
+   "summary": "At 10 cents per million input tokens, Ember is significantly cheaper than frontier competitors like Haiku and Luna.",
+   "published": "2026-11-09T18:00:00+00:00",
+   "topics": [
+    "Models",
+    "Tools"
+   ],
+   "first_seen": "2026-11-09T20:43:39+00:00"
+  },
+  {
+   "id": "ecd65815b585666d",
+   "title": "Nvidia is investigating Jensen Huang’s relationship with an alleged Chinese spy",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/1029562/nvidia-investigating-jensen-huang-relationship-chinese-spy",
+   "source": "The Verge",
+   "kind": "press",
+   "summary": "Nvidia has announced that it is opening an investigation into CEO Jensen Huang and his relationship with Megaspeed executive Alice Huang, who was reportedly recruited by China's Ministry of State Security to spy on the company. A statement posted by the board of directors reads…",
+   "published": "2026-11-09T17:49:31+00:00",
+   "topics": [
+    "Business",
+    "Hardware"
+   ],
+   "first_seen": "2026-11-08T22:03:53+00:00"
+  },
+  {
+   "id": "67abd93f196f854c",
+   "title": "Here’s the full text of Jensen Huang’s memo to Nvidia",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/1029595/full-text-jensen-huang-affair-memo-nvidia",
+   "source": "The Verge",
+   "kind": "press",
+   "summary": "On Sunday, Nvidia announced it was launching an investigation into CEO Jensen Huang's relationship with Alice Huang, an AI executive and agent of the Chinese government. In addition to the Board of Directors announcing the investigation, Huang sent a memo to Nvidia employees…",
+   "published": "2026-11-09T17:46:40+00:00",
+   "topics": [
+    "Policy",
+    "Business",
+    "Tools",
+    "Hardware"
+   ],
+   "first_seen": "2026-11-09T01:43:49+00:00"
+  },
+  {
+   "id": "a06869aa80e569ca",
+   "title": "The future of AI hinges on… Jensen Huang’s sex life?",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/1029990/jensen-huang-the-spy-who-loved-me",
+   "source": "The Verge",
+   "kind": "press",
+   "summary": "I would prefer that these people's sex lives were none of my business but I guess we have to talk about Jensen Huang and the National Security Incident. Who could have guessed that the guy who was out here signing titties might not have great judgment about how to behave around…",
+   "published": "2026-11-09T17:36:26+00:00",
+   "topics": [],
+   "first_seen": "2026-11-09T20:43:39+00:00"
+  },
+  {
+   "id": "4065836ff3f518ca",
+   "title": "Claude Code is accidentally exposing secrets all over GitHub",
+   "link": "https://arstechnica.com/ai/2026/11/claude-code-settings-files-expose-thousands-of-secrets-on-github/",
+   "source": "Ars Technica",
+   "kind": "press",
+   "summary": "\"Do not ask again\" prompt leads to passwords, API keys, and more being shared.",
+   "published": "2026-11-09T17:24:26+00:00",
+   "topics": [
+    "Models",
+    "Tools"
+   ],
+   "first_seen": "2026-11-09T20:43:39+00:00"
+  },
+  {
+   "id": "50d303e5bf841380",
+   "title": "Nancy Pelosi’s replacement is ready to regulate AI",
+   "link": "https://www.technologyreview.com/2026/11/09/1148182/nancy-pelosis-replacement-is-ready-to-regulate-ai/",
+   "source": "MIT Technology Review",
+   "kind": "press",
+   "summary": "As a California state senator, Scott Wiener authored legislation aimed at curbing the risks of advanced AI. Now, after winning a tight congressional race for former Speaker of the House Nancy Pelosi’s open San Francisco seat, he could play a key role in setting federal AI…",
+   "published": "2026-11-09T17:05:43+00:00",
+   "topics": [
+    "Policy"
+   ],
+   "first_seen": "2026-11-09T20:43:39+00:00"
+  },
+  {
+   "id": "ea1cff75717bdba9",
+   "title": "Anthropic joins AI’s natural gas frenzy, buys $3.4B worth of turbines",
+   "link": "https://techcrunch.com/2026/11/09/anthropic-joins-ais-natural-gas-frenzy-buys-3-4b-worth-of-turbines/",
+   "source": "TechCrunch",
+   "kind": "press",
+   "summary": "Anthropic bought billions of dollars' worth of natural gas turbines in a deal that could give it buyer's remorse.",
+   "published": "2026-11-09T16:56:54+00:00",
+   "topics": [],
+   "first_seen": "2026-11-09T20:43:39+00:00"
+  },
+  {
+   "id": "ad058ec7fa053fd0",
+   "title": "Medium’s new TK app brings AI assistance directly into the writing process",
+   "link": "https://techcrunch.com/2026/11/09/mediums-new-tk-app-brings-ai-assistance-directly-into-the-writing-process/",
+   "source": "TechCrunch",
+   "kind": "press",
+   "summary": "Medium's new writing app embraces AI-assisted writing, despite growing controversy over the technology's role in publishing.",
+   "published": "2026-11-09T16:12:28+00:00",
+   "topics": [
+    "Tools"
+   ],
+   "first_seen": "2026-11-09T20:43:39+00:00"
+  },
+  {
+   "id": "67d134866a7d1897",
+   "title": "Trump’s 60 Minutes interview touched on AI safety, threat to arrest an AI exec",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/1029802/trump-60-minutes-ai",
+   "source": "The Verge",
+   "kind": "press",
+   "summary": "Asked about AI executives' warnings about their models' safety on 60 Minutes, Trump said, \"I think that the risk is not nearly as real as it- as they talk, and I think the risk can be managed, and it's managed.\" He claimed the DOJ is managing that risk, saying, \"We had a…",
+   "published": "2026-11-09T16:00:35+00:00",
+   "topics": [
+    "Models",
+    "Policy"
+   ],
+   "first_seen": "2026-11-09T20:43:39+00:00"
+  },
+  {
+   "id": "86961a9937fd8746",
+   "title": "Disney and Adobe are building generative AI tools together",
+   "link": "https://www.theverge.com/tech/1029773/disney-adobe-generative-ai-partnership",
+   "source": "The Verge",
+   "kind": "press",
+   "summary": "The Walt Disney Company has teamed up with Adobe to develop proprietary \"artist-led\" generative AI models to support Disney's production pipeline. The multiyear partnership was announced today at Adobe's MAX conference, and it will see Adobe providing Disney with early access to…",
+   "published": "2026-11-09T15:54:52+00:00",
+   "topics": [
+    "Models",
+    "Business"
+   ],
+   "first_seen": "2026-11-09T20:43:39+00:00"
+  },
+  {
+   "id": "5d63754d84e9ecf3",
+   "title": "Nvidia CEO's affair becomes a national security problem",
+   "link": "https://arstechnica.com/tech-policy/2026/11/ceo-jensen-huang-admits-affair-as-nvidia-probes-possible-chinese-espionage/",
+   "source": "Ars Technica",
+   "kind": "press",
+   "summary": "Nvidia is probing whether Chinese intelligence targeted its CEO through an affair.",
+   "published": "2026-11-09T15:23:20+00:00",
+   "topics": [
+    "Hardware"
+   ],
+   "first_seen": "2026-11-09T20:43:39+00:00"
+  },
+  {
+   "id": "bce465cdb584c186",
+   "title": "Hold up — I had a great time talking to the RIAA guy",
+   "link": "https://www.theverge.com/podcast/1029684/riaa-mitch-glazier-napster-ai-labels-music",
+   "source": "The Verge",
+   "kind": "press",
+   "summary": "Today, I’m talking with Mitch Glazier, who is CEO and chairman of the RIAA. This conversation was a real full-circle moment for me: I was in college when Napster hit, and the RIAA became everyone’s villain for suing kids for downloading music. That was when I decided to go be a…",
+   "published": "2026-11-09T15:22:38+00:00",
+   "topics": [],
+   "first_seen": "2026-11-09T20:43:39+00:00"
+  },
+  {
+   "id": "057e22ab69c04fb1",
+   "title": "Nemotron-Personas-Finance-Japan: A Synthetic Dataset Capturing Japan's Demographics and Financial Context",
+   "link": "https://huggingface.co/blog/nvidia/nemotron-personas-finance-japan",
+   "source": "Hugging Face",
+   "kind": "lab",
+   "summary": "",
+   "published": "2026-11-09T15:05:57+00:00",
+   "topics": [
+    "Research"
+   ],
+   "first_seen": "2026-11-09T20:43:39+00:00"
+  },
+  {
+   "id": "cc49c1ae6860a64f",
+   "title": "Jonathan Kanter is using AI to take on Big Tech",
+   "link": "https://www.theverge.com/policy/1029652/kanter-doj-biden-legal-tech",
+   "source": "The Verge",
+   "kind": "press",
+   "summary": "When Jonathan Kanter stepped down as head of the Justice Department's Antitrust Division in 2024, he set out to keep fighting to dismantle illegal monopolies. But this time, he's continuing the fight in the private sector, and with a perhaps unexpected tool: AI. Alongside former…",
+   "published": "2026-11-09T14:10:44+00:00",
+   "topics": [],
+   "first_seen": "2026-11-09T20:43:39+00:00"
+  },
+  {
+   "id": "95c3c02be004506d",
+   "title": "Automattic debuts a platform to deploy vibe-coding apps amid a changing internet",
+   "link": "https://techcrunch.com/2026/11/09/automattic-debuts-a-platform-to-deploy-vibe-coding-apps-amid-a-changing-internet/",
+   "source": "TechCrunch",
+   "kind": "press",
+   "summary": "Automattic aims to compete with the likes of Lovable with Spacefast.",
+   "published": "2026-11-09T14:00:00+00:00",
+   "topics": [],
+   "first_seen": "2026-11-09T20:43:39+00:00"
+  },
+  {
+   "id": "b044ec790c182bd0",
+   "title": "Innovating with AI in the special chemicals industry",
+   "link": "https://www.technologyreview.com/2026/11/09/1147654/innovating-with-ai-in-the-special-chemicals-industry/",
+   "source": "MIT Technology Review",
+   "kind": "press",
+   "summary": "As companies look to accelerate innovation with artificial intelligence, cloud computing, and advanced modeling, the primary challenge is connecting new technologies to reliable data, scientific expertise, and the practical realities of bringing products to market. For specialty…",
+   "published": "2026-11-09T13:00:00+00:00",
+   "topics": [],
+   "first_seen": "2026-11-09T20:43:39+00:00"
+  },
+  {
+   "id": "7b1451fc786c34f9",
+   "title": "Your Experts Have Partners. There's HOPE for Keeping Them Together",
+   "link": "https://huggingface.co/blog/amazon/higher-order-pruning-experts",
+   "source": "Hugging Face",
+   "kind": "lab",
+   "summary": "",
+   "published": "2026-11-09T12:34:29+00:00",
+   "topics": [],
+   "first_seen": "2026-11-09T20:43:39+00:00"
+  },
+  {
+   "id": "932fe34bad728f30",
+   "title": "Kuken Industries searches 70 years of drawings in minutes",
+   "link": "https://openai.com/index/kuken",
+   "source": "OpenAI",
+   "kind": "lab",
+   "summary": "Kuken Industries uses the OpenAI API to search 70 years of cooling tower drawings. Engineers can find the drawing for a repair in 4.5 minutes, down from nearly an hour.",
+   "published": "2026-11-09T08:00:00+00:00",
+   "topics": [
+    "Tools"
+   ],
+   "first_seen": "2026-11-09T20:43:39+00:00"
+  },
+  {
+   "id": "da2e6822ca93de5d",
+   "title": "Apple capped engineers at a $200 daily AI budget",
+   "link": "https://www.stork.ai/newsletter/2026-11-08-apple-capped-engineers-at-a-200-daily-ai-budget",
+   "source": "Hacker News",
+   "kind": "community",
+   "summary": "Article URL: https://www.stork.ai/newsletter/2026-11-08-apple-capped-engineers-at-a-200-daily-ai-budget Comments URL: https://news.ycombinator.com/item?id=50421426 Points: 109 # Comments: 117",
+   "published": "2026-11-09T05:30:11+00:00",
+   "topics": [],
+   "first_seen": "2026-11-09T20:43:39+00:00"
+  },
+  {
    "id": "fdfdfd60876dfdbc",
-   "title": "Is Jensen Huang’s job on the line? Yale’s Jeffrey Sonnenfeld estimates it’s “about a 50-50”",
+   "title": "Is Jensen Huang’s job on the line? Yale’s Jeffrey Sonnenfeld estimates it’s ‘about a 50-50’",
    "link": "https://techcrunch.com/2026/11/08/is-jensen-huangs-job-on-the-line-yales-jeffrey-sonnenfeld-estimates-its-about-a-50-50/",
    "source": "TechCrunch",
    "kind": "press",
@@ -130,45 +484,15 @@
    "first_seen": "2026-11-09T09:47:50+00:00"
   },
   {
-   "id": "ecd65815b585666d",
-   "title": "Nvidia is investigating Jensen Huang’s relationship with a Chinese spy",
-   "link": "https://www.theverge.com/ai-artificial-intelligence/1029562/nvidia-investigating-jensen-huang-relationship-chinese-spy",
-   "source": "The Verge",
-   "kind": "press",
-   "summary": "Nvidia has announced that it is opening an investigation into CEO Jensen Huang and his relationship with Megaspeed executive Alice Huang, who was reportedly recruited by China's Ministry of State Security to spy on the company. A statement posted by the board of directors reads…",
-   "published": "2026-11-09T02:24:39+00:00",
-   "topics": [
-    "Business",
-    "Hardware"
-   ],
-   "first_seen": "2026-11-08T22:03:53+00:00"
-  },
-  {
    "id": "ab9dc8df3d41751c",
    "title": "I'm not convinced the AI bubble exists",
    "link": "https://matteoraso.github.io/im-not-convinced-the-ai-bubble-exists.html#im-not-convinced-the-ai-bubble-exists",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://matteoraso.github.io/im-not-convinced-the-ai-bubble-exists.html#im-not-convinced-the-ai-bubble-exists Comments URL: https://news.ycombinator.com/item?id=50418975 Points: 276 # Comments: 458",
+   "summary": "Article URL: https://matteoraso.github.io/im-not-convinced-the-ai-bubble-exists.html#im-not-convinced-the-ai-bubble-exists Comments URL: https://news.ycombinator.com/item?id=50418975 Points: 533 # Comments: 910",
    "published": "2026-11-08T23:44:36+00:00",
    "topics": [],
    "first_seen": "2026-11-09T09:47:50+00:00"
-  },
-  {
-   "id": "67abd93f196f854c",
-   "title": "Here’s the full text of Jensen Huang’s memo to Nvidia",
-   "link": "https://www.theverge.com/ai-artificial-intelligence/1029595/full-text-jensen-huang-affair-memo-nvidia",
-   "source": "The Verge",
-   "kind": "press",
-   "summary": "On Sunday, Nvidia announced it was launching an investigation into CEO Jensen Huang's relationship with Alice Huang, an AI executive and agent of the Chinese government. In addition to the Board of Directors announcing the investigation, Huang sent a memo to Nvidia employees…",
-   "published": "2026-11-08T22:54:50+00:00",
-   "topics": [
-    "Policy",
-    "Business",
-    "Tools",
-    "Hardware"
-   ],
-   "first_seen": "2026-11-09T01:43:49+00:00"
   },
   {
    "id": "9572242cc9fc8ca1",
@@ -210,11 +534,11 @@
   },
   {
    "id": "45fb196cb1bb2b06",
-   "title": "How I Fight AI Brain Fry",
+   "title": "How I'm fighting the AI brain fry",
    "link": "https://sergeykuhne.com/blog/fighting-ai-brain-fry",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://sergeykuhne.com/blog/fighting-ai-brain-fry Comments URL: https://news.ycombinator.com/item?id=50416363 Points: 247 # Comments: 171",
+   "summary": "Article URL: https://sergeykuhne.com/blog/fighting-ai-brain-fry Comments URL: https://news.ycombinator.com/item?id=50416363 Points: 298 # Comments: 206",
    "published": "2026-11-08T19:37:42+00:00",
    "topics": [],
    "first_seen": "2026-11-09T01:43:49+00:00"
@@ -238,7 +562,7 @@
    "link": "https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers Comments URL: https://news.ycombinator.com/item?id=50415628 Points: 773 # Comments: 412",
+   "summary": "Article URL: https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers Comments URL: https://news.ycombinator.com/item?id=50415628 Points: 874 # Comments: 470",
    "published": "2026-11-08T18:16:07+00:00",
    "topics": [
     "Models"
@@ -264,12 +588,23 @@
    "link": "https://caleb.software/posts/claude-to-pi.html",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://caleb.software/posts/claude-to-pi.html Comments URL: https://news.ycombinator.com/item?id=50410107 Points: 764 # Comments: 470",
+   "summary": "Article URL: https://caleb.software/posts/claude-to-pi.html Comments URL: https://news.ycombinator.com/item?id=50410107 Points: 801 # Comments: 483",
    "published": "2026-11-08T03:11:48+00:00",
    "topics": [
     "Models"
    ],
    "first_seen": "2026-11-08T08:58:55+00:00"
+  },
+  {
+   "id": "41a5428cc5a23d0e",
+   "title": "Wearable device makers are using brain data to train AI without telling users",
+   "link": "https://www.science.org/content/article/wearable-device-makers-are-harvesting-brain-data-train-ai-without-telling-users",
+   "source": "Hacker News",
+   "kind": "community",
+   "summary": "Article URL: https://www.science.org/content/article/wearable-device-makers-are-harvesting-brain-data-train-ai-without-telling-users Comments URL: https://news.ycombinator.com/item?id=50409856 Points: 119 # Comments: 96",
+   "published": "2026-11-08T02:02:38+00:00",
+   "topics": [],
+   "first_seen": "2026-11-09T20:43:39+00:00"
   },
   {
    "id": "3880bf849bb943e9",
@@ -316,7 +651,7 @@
    "link": "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again Comments URL: https://news.ycombinator.com/item?id=50407882 Points: 603 # Comments: 408",
+   "summary": "Article URL: https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again Comments URL: https://news.ycombinator.com/item?id=50407882 Points: 621 # Comments: 417",
    "published": "2026-11-07T20:45:32+00:00",
    "topics": [
     "Models",
@@ -343,7 +678,7 @@
    "link": "https://hunch.net/?p=13764006",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "https://archive.is/AaY5O https://businessexaminer.ca/victoria-articles/item/microsoft... Comments URL: https://news.ycombinator.com/item?id=50406563 Points: 502 # Comments: 309",
+   "summary": "https://archive.is/AaY5O https://businessexaminer.ca/victoria-articles/item/microsoft... Comments URL: https://news.ycombinator.com/item?id=50406563 Points: 507 # Comments: 309",
    "published": "2026-11-07T18:02:17+00:00",
    "topics": [
     "Research"
@@ -373,6 +708,28 @@
    "published": "2026-11-07T05:43:11+00:00",
    "topics": [],
    "first_seen": "2026-11-07T16:25:56+00:00"
+  },
+  {
+   "id": "a556ec6077950a4f",
+   "title": "From the front row to the hot seat — what the midterms mean for Big Tech",
+   "link": "https://techcrunch.com/2026/11/06/from-the-front-row-to-the-hot-seat-what-the-midterms-mean-for-big-tech/",
+   "source": "TechCrunch",
+   "kind": "press",
+   "summary": "After spending two years getting cozy with the White House, Big Tech is suddenly trying to make friends with Democrats, and the open question is whether that image makeover can hold up against what states, local communities, and the markets are about to do.",
+   "published": "2026-11-07T04:16:43+00:00",
+   "topics": [],
+   "first_seen": "2026-11-09T20:43:39+00:00"
+  },
+  {
+   "id": "3128af5441e36e10",
+   "title": "The AI sell-off compared to well-known stock market crashes",
+   "link": "https://www.kadoa.com/companies/insights/ai-selloff-perspective",
+   "source": "Hacker News",
+   "kind": "community",
+   "summary": "Article URL: https://www.kadoa.com/companies/insights/ai-selloff-perspective Comments URL: https://news.ycombinator.com/item?id=50401029 Points: 100 # Comments: 84",
+   "published": "2026-11-07T02:20:06+00:00",
+   "topics": [],
+   "first_seen": "2026-11-09T20:43:39+00:00"
   },
   {
    "id": "36231604b2886429",
@@ -457,7 +814,7 @@
    "link": "https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai Comments URL: https://news.ycombinator.com/item?id=50397994 Points: 374 # Comments: 354",
+   "summary": "Article URL: https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai Comments URL: https://news.ycombinator.com/item?id=50397994 Points: 375 # Comments: 358",
    "published": "2026-11-06T20:27:23+00:00",
    "topics": [
     "Research"
@@ -520,7 +877,7 @@
    "link": "https://www.reuters.com/business/microsoft-is-winding-down-oracle-deal-rent-ai-cloud-capacity-bloomberg-news-2026-11-06/",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://www.reuters.com/business/microsoft-is-winding-down-oracle-deal-rent-ai-cloud-capacity-bloomberg-news-2026-11-06/ Comments URL: https://news.ycombinator.com/item?id=50395933 Points: 108 # Comments: 20",
+   "summary": "Article URL: https://www.reuters.com/business/microsoft-is-winding-down-oracle-deal-rent-ai-cloud-capacity-bloomberg-news-2026-11-06/ Comments URL: https://news.ycombinator.com/item?id=50395933 Points: 109 # Comments: 20",
    "published": "2026-11-06T18:04:06+00:00",
    "topics": [],
    "first_seen": "2026-11-07T16:25:56+00:00"
@@ -629,7 +986,7 @@
    "link": "https://www.cbc.ca/news/world/university-libraries-ai-data-scraping-bots-9.7408287",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://www.cbc.ca/news/world/university-libraries-ai-data-scraping-bots-9.7408287 Comments URL: https://news.ycombinator.com/item?id=50392499 Points: 136 # Comments: 61",
+   "summary": "Article URL: https://www.cbc.ca/news/world/university-libraries-ai-data-scraping-bots-9.7408287 Comments URL: https://news.ycombinator.com/item?id=50392499 Points: 137 # Comments: 61",
    "published": "2026-11-06T14:13:09+00:00",
    "topics": [],
    "first_seen": "2026-11-07T08:46:36+00:00"
@@ -762,7 +1119,7 @@
    "link": "https://www.lesswrong.com/posts/DALNiKBjMGMF8grme/arjun-panickssery-s-shortform?commentId=fJtaHHHfx45tD7BSL",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://www.lesswrong.com/posts/DALNiKBjMGMF8grme/arjun-panickssery-s-shortform?commentId=fJtaHHHfx45tD7BSL Comments URL: https://news.ycombinator.com/item?id=50388513 Points: 220 # Comments: 220",
+   "summary": "Article URL: https://www.lesswrong.com/posts/DALNiKBjMGMF8grme/arjun-panickssery-s-shortform?commentId=fJtaHHHfx45tD7BSL Comments URL: https://news.ycombinator.com/item?id=50388513 Points: 221 # Comments: 222",
    "published": "2026-11-06T05:19:04+00:00",
    "topics": [],
    "first_seen": "2026-11-06T15:55:13+00:00"
@@ -824,7 +1181,7 @@
    "link": "https://finance.yahoo.com/technology/ai/articles/mark-cuban-says-facebook-knowingly-213000020.html",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://finance.yahoo.com/technology/ai/articles/mark-cuban-says-facebook-knowingly-213000020.html Comments URL: https://news.ycombinator.com/item?id=50385870 Points: 520 # Comments: 231",
+   "summary": "Article URL: https://finance.yahoo.com/technology/ai/articles/mark-cuban-says-facebook-knowingly-213000020.html Comments URL: https://news.ycombinator.com/item?id=50385870 Points: 521 # Comments: 233",
    "published": "2026-11-05T23:09:57+00:00",
    "topics": [
     "Business"
@@ -877,7 +1234,7 @@
    "link": "https://github.com/anthropics/claude-code/issues/107757",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://github.com/anthropics/claude-code/issues/107757 Comments URL: https://news.ycombinator.com/item?id=50385272 Points: 1606 # Comments: 533",
+   "summary": "Article URL: https://github.com/anthropics/claude-code/issues/107757 Comments URL: https://news.ycombinator.com/item?id=50385272 Points: 1610 # Comments: 533",
    "published": "2026-11-05T22:17:15+00:00",
    "topics": [
     "Models"
@@ -995,7 +1352,7 @@
    "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-05-2026",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-05-2026 Comments URL: https://news.ycombinator.com/item?id=50382179 Points: 163 # Comments: 192",
+   "summary": "Article URL: https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-05-2026 Comments URL: https://news.ycombinator.com/item?id=50382179 Points: 163 # Comments: 193",
    "published": "2026-11-05T18:00:01+00:00",
    "topics": [
     "Business"
@@ -11149,87 +11506,6 @@
    "published": "2026-10-10T21:23:38+00:00",
    "topics": [
     "Policy"
-   ],
-   "first_seen": "2026-10-11T09:46:44+00:00"
-  },
-  {
-   "id": "9fe15a12a7df7ad0",
-   "title": "Apple discloses deal to hire team and license tech from personalized podcast startup Huxe",
-   "link": "https://techcrunch.com/2026/10/10/apple-discloses-deal-to-hire-team-and-license-tech-from-personalized-podcast-startup-huxe/",
-   "source": "TechCrunch",
-   "kind": "press",
-   "summary": "Is Apple hoping to get into the AI-generated podcast business?",
-   "published": "2026-10-10T19:50:00+00:00",
-   "topics": [
-    "Business"
-   ],
-   "first_seen": "2026-10-11T09:46:44+00:00"
-  },
-  {
-   "id": "611aad146f3729c8",
-   "title": "Nvidia in talks to acquire US 'open' model startup Reflection AI",
-   "link": "https://www.ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a",
-   "source": "Hacker News",
-   "kind": "community",
-   "summary": "Article URL: https://www.ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a Comments URL: https://news.ycombinator.com/item?id=50035886 Points: 179 # Comments: 116",
-   "published": "2026-10-10T18:48:35+00:00",
-   "topics": [
-    "Models",
-    "Business",
-    "Hardware"
-   ],
-   "first_seen": "2026-10-11T09:46:44+00:00"
-  },
-  {
-   "id": "6801da099eadf383",
-   "title": "3 days to TechCrunch Disrupt 2026: Meet the startups before they hit mainstream",
-   "link": "https://techcrunch.com/2026/10/10/3-days-to-disrupt-2026-meet-the-startups-before-they-hit-mainstream/",
-   "source": "TechCrunch",
-   "kind": "press",
-   "summary": "TechCrunch Disrupt 2026 takes place October 13-15 in San Francisco. Over 300 startups will show what they’ve built to 10,000 tech leaders. Plus, 250+ speakers are ready to share insights across 200+ sessions. Register before doors open to save up to $100 and get a second pass at…",
-   "published": "2026-10-10T15:00:00+00:00",
-   "topics": [
-    "Business"
-   ],
-   "first_seen": "2026-10-11T09:46:44+00:00"
-  },
-  {
-   "id": "0decde66c5ee642f",
-   "title": "Anthropic is cutting off its internal evaluations from the internet",
-   "link": "https://www.theverge.com/ai-artificial-intelligence/1009286/anthropic-is-cutting-off-its-internal-evaluations-from-the-internet",
-   "source": "The Verge",
-   "kind": "press",
-   "summary": "After a recent spate of high-profile incidents in which AI agents escaped containment, Anthropic is cutting off internet access for all internal evaluations. In a report Friday, the company detailed \"unintended model actions,\" including submitting a false tip regarding an…",
-   "published": "2026-10-10T14:41:16+00:00",
-   "topics": [
-    "Models",
-    "Tools"
-   ],
-   "first_seen": "2026-10-11T09:46:44+00:00"
-  },
-  {
-   "id": "a893947d303d6bf8",
-   "title": "Here are the top AI agents that can live in your text messages",
-   "link": "https://techcrunch.com/2026/10/10/all-the-ai-agents-that-can-live-in-your-text-messages/",
-   "source": "TechCrunch",
-   "kind": "press",
-   "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
-   "published": "2026-10-10T14:00:00+00:00",
-   "topics": [
-    "Tools"
-   ],
-   "first_seen": "2026-10-11T09:46:44+00:00"
-  },
-  {
-   "id": "6b75dae75d979d91",
-   "title": "Talorys – A self-hosted personal AI agent on Cloudflare's free tier",
-   "link": "https://github.com/rociiu/talorys",
-   "source": "Hacker News",
-   "kind": "community",
-   "summary": "Article URL: https://github.com/rociiu/talorys Comments URL: https://news.ycombinator.com/item?id=50031614 Points: 328 # Comments: 155",
-   "published": "2026-10-10T10:52:09+00:00",
-   "topics": [
-    "Tools"
    ],
    "first_seen": "2026-10-11T09:46:44+00:00"
   }
