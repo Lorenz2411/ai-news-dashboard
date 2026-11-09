@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-09T01:43:49+00:00",
+ "updated": "2026-11-09T09:47:50+00:00",
  "sources": [
   {
    "name": "OpenAI",
@@ -92,6 +92,69 @@
  ],
  "items": [
   {
+   "id": "fdfdfd60876dfdbc",
+   "title": "Is Jensen Huang’s job on the line? Yale’s Jeffrey Sonnenfeld estimates it’s “about a 50-50”",
+   "link": "https://techcrunch.com/2026/11/08/is-jensen-huangs-job-on-the-line-yales-jeffrey-sonnenfeld-estimates-its-about-a-50-50/",
+   "source": "TechCrunch",
+   "kind": "press",
+   "summary": "Nvidia’s board is investigating Jensen Huang over his relationship with a suspected Chinese spy, and Yale’s Jeffrey Sonnenfeld thinks it’s roughly a coin flip whether Huang stays on as CEO.",
+   "published": "2026-11-09T05:26:29+00:00",
+   "topics": [
+    "Business",
+    "Hardware"
+   ],
+   "first_seen": "2026-11-09T09:47:50+00:00"
+  },
+  {
+   "id": "5b851a3023343d96",
+   "title": "The Web Is More Than Enough, by Paul Ford",
+   "link": "https://simonwillison.net/2026/Nov/9/hn-50421091/",
+   "source": "Simon Willison",
+   "kind": "community",
+   "summary": "My comment on The Web Is More Than Enough, by Paul Ford — Hacker News. OK, this comment convinced me to give that a shot. Here's a thing I made in Three.js this morning - a Nudibranch themed Faberge Egg: https://static.simonwillison.net/static/2026/Hidden-Reef-Egg... (77KB) I…",
+   "published": "2026-11-09T04:32:33+00:00",
+   "topics": [],
+   "first_seen": "2026-11-09T09:47:50+00:00"
+  },
+  {
+   "id": "a92667754bb129c0",
+   "title": "Hide your slop PR descriptions behind",
+   "link": "https://simonwillison.net/2026/Nov/9/details-summary/",
+   "source": "Simon Willison",
+   "kind": "community",
+   "summary": "Most of the changes I make to my projects these days come in the form of PRs opened for me by Claude Code or Codex. The PR is my unit of work - I use them to bundle commits together, iterating on them until a feature is complete, document decisions and then merge the finished…",
+   "published": "2026-11-09T04:25:05+00:00",
+   "topics": [
+    "Models"
+   ],
+   "first_seen": "2026-11-09T09:47:50+00:00"
+  },
+  {
+   "id": "ecd65815b585666d",
+   "title": "Nvidia is investigating Jensen Huang’s relationship with a Chinese spy",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/1029562/nvidia-investigating-jensen-huang-relationship-chinese-spy",
+   "source": "The Verge",
+   "kind": "press",
+   "summary": "Nvidia has announced that it is opening an investigation into CEO Jensen Huang and his relationship with Megaspeed executive Alice Huang, who was reportedly recruited by China's Ministry of State Security to spy on the company. A statement posted by the board of directors reads…",
+   "published": "2026-11-09T02:24:39+00:00",
+   "topics": [
+    "Business",
+    "Hardware"
+   ],
+   "first_seen": "2026-11-08T22:03:53+00:00"
+  },
+  {
+   "id": "ab9dc8df3d41751c",
+   "title": "I'm not convinced the AI bubble exists",
+   "link": "https://matteoraso.github.io/im-not-convinced-the-ai-bubble-exists.html#im-not-convinced-the-ai-bubble-exists",
+   "source": "Hacker News",
+   "kind": "community",
+   "summary": "Article URL: https://matteoraso.github.io/im-not-convinced-the-ai-bubble-exists.html#im-not-convinced-the-ai-bubble-exists Comments URL: https://news.ycombinator.com/item?id=50418975 Points: 276 # Comments: 458",
+   "published": "2026-11-08T23:44:36+00:00",
+   "topics": [],
+   "first_seen": "2026-11-09T09:47:50+00:00"
+  },
+  {
    "id": "67abd93f196f854c",
    "title": "Here’s the full text of Jensen Huang’s memo to Nvidia",
    "link": "https://www.theverge.com/ai-artificial-intelligence/1029595/full-text-jensen-huang-affair-memo-nvidia",
@@ -135,20 +198,6 @@
    "first_seen": "2026-11-08T22:03:53+00:00"
   },
   {
-   "id": "ecd65815b585666d",
-   "title": "Nvidia is investigating Jensen Huang’s relationship with a Chinese spy",
-   "link": "https://www.theverge.com/ai-artificial-intelligence/1029562/nvidia-investigating-jensen-huang-relationship-chinese-spy",
-   "source": "The Verge",
-   "kind": "press",
-   "summary": "Nvidia has announced that it is opening an investigation into CEO Jensen Huang and his relationship with Megaspeed executive Alice Huang, who was reportedly recruited by China's Ministry of State Security to spy on the company. A statement posted by the board of directors reads…",
-   "published": "2026-11-08T20:55:35+00:00",
-   "topics": [
-    "Business",
-    "Hardware"
-   ],
-   "first_seen": "2026-11-08T22:03:53+00:00"
-  },
-  {
    "id": "fa06ff8fdc83e259",
    "title": "NYT Cooking’s AI assistant saved my weeknight chicken, but almost ruined my cake",
    "link": "https://www.theverge.com/tech/1029489/nyt-cooking-ai-assistant-review",
@@ -165,7 +214,7 @@
    "link": "https://sergeykuhne.com/blog/fighting-ai-brain-fry",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://sergeykuhne.com/blog/fighting-ai-brain-fry Comments URL: https://news.ycombinator.com/item?id=50416363 Points: 151 # Comments: 127",
+   "summary": "Article URL: https://sergeykuhne.com/blog/fighting-ai-brain-fry Comments URL: https://news.ycombinator.com/item?id=50416363 Points: 247 # Comments: 171",
    "published": "2026-11-08T19:37:42+00:00",
    "topics": [],
    "first_seen": "2026-11-09T01:43:49+00:00"
@@ -189,7 +238,7 @@
    "link": "https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers Comments URL: https://news.ycombinator.com/item?id=50415628 Points: 597 # Comments: 356",
+   "summary": "Article URL: https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers Comments URL: https://news.ycombinator.com/item?id=50415628 Points: 773 # Comments: 412",
    "published": "2026-11-08T18:16:07+00:00",
    "topics": [
     "Models"
@@ -215,7 +264,7 @@
    "link": "https://caleb.software/posts/claude-to-pi.html",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://caleb.software/posts/claude-to-pi.html Comments URL: https://news.ycombinator.com/item?id=50410107 Points: 702 # Comments: 432",
+   "summary": "Article URL: https://caleb.software/posts/claude-to-pi.html Comments URL: https://news.ycombinator.com/item?id=50410107 Points: 764 # Comments: 470",
    "published": "2026-11-08T03:11:48+00:00",
    "topics": [
     "Models"
@@ -267,7 +316,7 @@
    "link": "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again Comments URL: https://news.ycombinator.com/item?id=50407882 Points: 585 # Comments: 397",
+   "summary": "Article URL: https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again Comments URL: https://news.ycombinator.com/item?id=50407882 Points: 603 # Comments: 408",
    "published": "2026-11-07T20:45:32+00:00",
    "topics": [
     "Models",
@@ -276,12 +325,25 @@
    "first_seen": "2026-11-08T08:58:55+00:00"
   },
   {
+   "id": "dadfbd3c3260c4b0",
+   "title": "Terry Pratchett's Study",
+   "link": "https://simonwillison.net/2026/Nov/7/hn-50407316/",
+   "source": "Simon Willison",
+   "kind": "community",
+   "summary": "My comment on Terry Pratchett's Study — Hacker News. Terry Pratchett once wrote about the concept of \"horizontal wealth\". Vertical wealth is where you spend money on rich people stuff - yachts and suchlike. Horizontal wealth is where you spend more money on the things you liked…",
+   "published": "2026-11-07T19:34:24+00:00",
+   "topics": [
+    "Research"
+   ],
+   "first_seen": "2026-11-09T09:47:50+00:00"
+  },
+  {
    "id": "1eeaf5457cb1a01a",
    "title": "The end of Microsoft Research's AI Frontiers group",
    "link": "https://hunch.net/?p=13764006",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "https://archive.is/AaY5O https://businessexaminer.ca/victoria-articles/item/microsoft... Comments URL: https://news.ycombinator.com/item?id=50406563 Points: 496 # Comments: 305",
+   "summary": "https://archive.is/AaY5O https://businessexaminer.ca/victoria-articles/item/microsoft... Comments URL: https://news.ycombinator.com/item?id=50406563 Points: 502 # Comments: 309",
    "published": "2026-11-07T18:02:17+00:00",
    "topics": [
     "Research"
@@ -395,7 +457,7 @@
    "link": "https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai Comments URL: https://news.ycombinator.com/item?id=50397994 Points: 373 # Comments: 354",
+   "summary": "Article URL: https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai Comments URL: https://news.ycombinator.com/item?id=50397994 Points: 374 # Comments: 354",
    "published": "2026-11-06T20:27:23+00:00",
    "topics": [
     "Research"
@@ -458,7 +520,7 @@
    "link": "https://www.reuters.com/business/microsoft-is-winding-down-oracle-deal-rent-ai-cloud-capacity-bloomberg-news-2026-11-06/",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://www.reuters.com/business/microsoft-is-winding-down-oracle-deal-rent-ai-cloud-capacity-bloomberg-news-2026-11-06/ Comments URL: https://news.ycombinator.com/item?id=50395933 Points: 108 # Comments: 19",
+   "summary": "Article URL: https://www.reuters.com/business/microsoft-is-winding-down-oracle-deal-rent-ai-cloud-capacity-bloomberg-news-2026-11-06/ Comments URL: https://news.ycombinator.com/item?id=50395933 Points: 108 # Comments: 20",
    "published": "2026-11-06T18:04:06+00:00",
    "topics": [],
    "first_seen": "2026-11-07T16:25:56+00:00"
@@ -762,7 +824,7 @@
    "link": "https://finance.yahoo.com/technology/ai/articles/mark-cuban-says-facebook-knowingly-213000020.html",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://finance.yahoo.com/technology/ai/articles/mark-cuban-says-facebook-knowingly-213000020.html Comments URL: https://news.ycombinator.com/item?id=50385870 Points: 517 # Comments: 231",
+   "summary": "Article URL: https://finance.yahoo.com/technology/ai/articles/mark-cuban-says-facebook-knowingly-213000020.html Comments URL: https://news.ycombinator.com/item?id=50385870 Points: 520 # Comments: 231",
    "published": "2026-11-05T23:09:57+00:00",
    "topics": [
     "Business"
@@ -815,7 +877,7 @@
    "link": "https://github.com/anthropics/claude-code/issues/107757",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://github.com/anthropics/claude-code/issues/107757 Comments URL: https://news.ycombinator.com/item?id=50385272 Points: 1601 # Comments: 532",
+   "summary": "Article URL: https://github.com/anthropics/claude-code/issues/107757 Comments URL: https://news.ycombinator.com/item?id=50385272 Points: 1606 # Comments: 533",
    "published": "2026-11-05T22:17:15+00:00",
    "topics": [
     "Models"
@@ -1210,7 +1272,7 @@
    "link": "https://alignment.openai.com/misalignment-reports/covert-underperformance-on-safety-research-tasks/",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://alignment.openai.com/misalignment-reports/covert-underperformance-on-safety-research-tasks/ Comments URL: https://news.ycombinator.com/item?id=50376313 Points: 341 # Comments: 193",
+   "summary": "Article URL: https://alignment.openai.com/misalignment-reports/covert-underperformance-on-safety-research-tasks/ Comments URL: https://news.ycombinator.com/item?id=50376313 Points: 341 # Comments: 194",
    "published": "2026-11-05T07:44:30+00:00",
    "topics": [
     "Models",
@@ -2127,6 +2189,17 @@
    "published": "2026-11-03T17:01:49+00:00",
    "topics": [],
    "first_seen": "2026-11-03T21:48:33+00:00"
+  },
+  {
+   "id": "5b7b48c647c50787",
+   "title": "AI is destroying my CS degree",
+   "link": "https://simonwillison.net/2026/Nov/3/hn-50354278/",
+   "source": "Simon Willison",
+   "kind": "community",
+   "summary": "My comment on AI is destroying my CS degree — Hacker News. I don't envy educators right now. AI clearly means you need to change how you teach and evaluate students. We are only a few years in though, and it's still extremely unclear what effective teaching with these tools…",
+   "published": "2026-11-03T16:42:02+00:00",
+   "topics": [],
+   "first_seen": "2026-11-09T09:47:50+00:00"
   },
   {
    "id": "bc4177032a04e266",
@@ -11155,19 +11228,6 @@
    "kind": "community",
    "summary": "Article URL: https://github.com/rociiu/talorys Comments URL: https://news.ycombinator.com/item?id=50031614 Points: 328 # Comments: 155",
    "published": "2026-10-10T10:52:09+00:00",
-   "topics": [
-    "Tools"
-   ],
-   "first_seen": "2026-10-11T09:46:44+00:00"
-  },
-  {
-   "id": "5528ba1d9cba341e",
-   "title": "Quoting The New York Times",
-   "link": "https://simonwillison.net/2026/Oct/10/the-new-york-times/",
-   "source": "Simon Willison",
-   "kind": "community",
-   "summary": "Anthropic detailed the activity of its A.I. agents in a blog post on Friday, without naming the targeted websites. But two sources with knowledge of the incidents said Anthropic’s A.I. agents had submitted 20 visa applications through a form available on the State Department’s…",
-   "published": "2026-10-10T02:04:12+00:00",
    "topics": [
     "Tools"
    ],
