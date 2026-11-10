@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-09T20:43:39+00:00",
+ "updated": "2026-11-10T04:06:51+00:00",
  "sources": [
   {
    "name": "OpenAI",
@@ -13,9 +13,9 @@
    "name": "Google DeepMind",
    "url": "https://deepmind.google/blog/rss.xml",
    "kind": "lab",
-   "ok": true,
-   "count": 40,
-   "error": null
+   "ok": false,
+   "count": 0,
+   "error": "ParseError: not well-formed (invalid token): line 1, column 0"
   },
   {
    "name": "Google AI",
@@ -85,12 +85,144 @@
    "name": "Hacker News",
    "url": "https://hnrss.org/newest?q=AI+OR+LLM+OR+GPT+OR+Claude&points=100",
    "kind": "community",
-   "ok": true,
-   "count": 20,
-   "error": null
+   "ok": false,
+   "count": 0,
+   "error": "TimeoutError: The read operation timed out"
   }
  ],
  "items": [
+  {
+   "id": "98071e4b97d92c7e",
+   "title": "Anthropic reportedly plans to move forward with IPO plans",
+   "link": "https://techcrunch.com/2026/11/09/anthropic-reportedly-plans-to-move-forward-with-ipo-plans/",
+   "source": "TechCrunch",
+   "kind": "press",
+   "summary": "The AI company is expected to set its valuation range this week, the Wall Street Journal reported.",
+   "published": "2026-11-10T01:27:12+00:00",
+   "topics": [
+    "Business"
+   ],
+   "first_seen": "2026-11-10T04:06:51+00:00"
+  },
+  {
+   "id": "8d28cfa5555a578e",
+   "title": "David Ellison says AI could be the ‘biggest creative unlock in modern history’",
+   "link": "https://www.theverge.com/entertainment/1030510/paramount-skydance-david-ellison-ai",
+   "source": "The Verge",
+   "kind": "press",
+   "summary": "During Paramount Skydance's latest earnings call, CEO David Ellison said \"it's hard to imagine\" AI won't have a bigger impact on the film industry than CGI. In response to a question about the company's outlook for AI, Ellison said: \"I think when you zoom out and look at…",
+   "published": "2026-11-10T00:28:49+00:00",
+   "topics": [],
+   "first_seen": "2026-11-10T04:06:51+00:00"
+  },
+  {
+   "id": "285987eab7312733",
+   "title": "What could China get from Jensen Huang?",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/1030328/what-could-china-get-from-jensen-huang",
+   "source": "The Verge",
+   "kind": "press",
+   "summary": "It's difficult to overstate Nvidia's power in today's AI landscape. The company's chips are the bedrock upon which advanced AI technology in the US is being built, and demand has consistently outpaced supply for years. Nvidia has also been an influential investor in a wide range…",
+   "published": "2026-11-10T00:07:10+00:00",
+   "topics": [
+    "Business",
+    "Hardware"
+   ],
+   "first_seen": "2026-11-10T04:06:51+00:00"
+  },
+  {
+   "id": "fd48ce2874be788e",
+   "title": "Here’s what Trump said he knew about Jensen Huang",
+   "link": "https://www.theverge.com/tech/1030446/trump-jensen-huang-press-conference",
+   "source": "The Verge",
+   "kind": "press",
+   "summary": "President Trump held a White House press briefing earlier today and responded to several questions about his knowledge of Nvidia CEO Jensen Huang's affair with an alleged Chinese spy. Huang said this weekend that he had been \"​​unfaithful\" to his wife, and the company has opened…",
+   "published": "2026-11-10T00:02:17+00:00",
+   "topics": [
+    "Hardware"
+   ],
+   "first_seen": "2026-11-10T04:06:51+00:00"
+  },
+  {
+   "id": "c93c64172e07cb1e",
+   "title": "llm-anthropic 0.31",
+   "link": "https://simonwillison.net/2026/Nov/9/llm-anthropic/",
+   "source": "Simon Willison",
+   "kind": "community",
+   "summary": "Release: llm-anthropic 0.31 Anthropic released Fable 5.2 and Mythos 5.2 today. I've added them to llm-anthropic , so you can now run prompts through Fable 5.2 like this: uv tool install llm llm install llm-anthropic llm keys set anthropic # paste key here llm -m claude-fable-5.2…",
+   "published": "2026-11-09T23:58:46+00:00",
+   "topics": [
+    "Models",
+    "Tools"
+   ],
+   "first_seen": "2026-11-10T04:06:51+00:00"
+  },
+  {
+   "id": "d363b026f0d913e8",
+   "title": "Locating the source of a mysterious beep with Claude",
+   "link": "https://simonwillison.net/2026/Nov/9/mysterious-beeps/",
+   "source": "Simon Willison",
+   "kind": "community",
+   "summary": "Our house has a box room, full of boxes that we still haven't unpacked from our last move. A couple of weeks ago something in that room started intermittently beeping . The beeps were far enough apart that standing in the room and trying to determine the source of the noise was…",
+   "published": "2026-11-09T23:57:21+00:00",
+   "topics": [
+    "Models"
+   ],
+   "first_seen": "2026-11-10T04:06:51+00:00"
+  },
+  {
+   "id": "15c28179b2dc3ec9",
+   "title": "Everything we know so far about the Nvidia spy scandal targeting CEO Jensen Huang",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang",
+   "source": "The Verge",
+   "kind": "press",
+   "summary": "The leather-jacketed CEO of Nvidia, Jensen Huang, has acknowledged an affair with Megaspeed exec Alice Huang, spurring an investigation by his company and intense discussions worldwide. Recent reporting noted that since last year, US intelligence reports had identified Alice…",
+   "published": "2026-11-09T23:46:30+00:00",
+   "topics": [
+    "Business",
+    "Hardware"
+   ],
+   "first_seen": "2026-11-10T04:06:51+00:00"
+  },
+  {
+   "id": "13bdf291560a5d69",
+   "title": "Jensen Huang reportedly engaged a PR firm with a history of handling high-profile sex scandals a year ago",
+   "link": "https://techcrunch.com/2026/11/09/jensen-huang-reportedly-engaged-a-pr-firm-with-a-history-of-handling-high-profile-sex-scandals-a-year-ago/",
+   "source": "TechCrunch",
+   "kind": "press",
+   "summary": "The PR firm was enlisted shortly after an October 2025 New York Times report described Alice Huang's business dealings with Jensen Huang, Wired reported.",
+   "published": "2026-11-09T23:28:37+00:00",
+   "topics": [],
+   "first_seen": "2026-11-10T04:06:51+00:00"
+  },
+  {
+   "id": "f469998b0ebdf825",
+   "title": "A short seller flagged Nvidia CEO’s ties to a suspected Chinese spy six months before the scandal",
+   "link": "https://techcrunch.com/2026/11/09/a-short-seller-flagged-nvidia-ceos-ties-to-a-suspected-chinese-spy-six-months-before-the-scandal/",
+   "source": "TechCrunch",
+   "kind": "press",
+   "summary": "Six months before Nvidia's spy scandal erupted, Culper Research was already questioning Jensen Huang's unusually close relationship with a Chinese executive.",
+   "published": "2026-11-09T22:46:09+00:00",
+   "topics": [
+    "Research",
+    "Hardware"
+   ],
+   "first_seen": "2026-11-10T04:06:51+00:00"
+  },
+  {
+   "id": "05d31a5bc4a78da3",
+   "title": "The race is on to sue Nvidia",
+   "link": "https://techcrunch.com/2026/11/09/the-race-is-on-to-sue-nvidia/",
+   "source": "TechCrunch",
+   "kind": "press",
+   "summary": "Nvidia’s stock slid more than 4% after its board opened an investigation into Jensen Huang’s relationship with a suspected Chinese spy, and one securities law expert says the company’s earlier insistence that it was all “normal” could turn into a very expensive problem.",
+   "published": "2026-11-09T22:23:42+00:00",
+   "topics": [
+    "Policy",
+    "Business",
+    "Hardware"
+   ],
+   "first_seen": "2026-11-10T04:06:51+00:00"
+  },
   {
    "id": "39befa3379491d53",
    "title": "Jensen Huang pulls out of ElevenLabs Summit amid Nvidia controversy",
@@ -411,6 +543,21 @@
    "first_seen": "2026-11-09T20:43:39+00:00"
   },
   {
+   "id": "f37b680abcf7adcb",
+   "title": "Control Room: A central system to track and stop model workloads across our research infrastructure",
+   "link": "https://openai.com/index/control-room",
+   "source": "OpenAI",
+   "kind": "lab",
+   "summary": "Learn how OpenAI’s Control Room tracks model workloads across our research infrastructure and can rapidly stop them when safety or security concerns arise.",
+   "published": "2026-11-09T13:00:00+00:00",
+   "topics": [
+    "Models",
+    "Research",
+    "Policy"
+   ],
+   "first_seen": "2026-11-10T04:06:51+00:00"
+  },
+  {
    "id": "7b1451fc786c34f9",
    "title": "Your Experts Have Partners. There's HOPE for Keeping Them Together",
    "link": "https://huggingface.co/blog/amazon/higher-order-pruning-experts",
@@ -433,6 +580,19 @@
     "Tools"
    ],
    "first_seen": "2026-11-09T20:43:39+00:00"
+  },
+  {
+   "id": "23b94c697622500f",
+   "title": "CodeRabbit scales agentic software development and ships 20x more",
+   "link": "https://openai.com/index/coderabbit-codex-daybreak",
+   "source": "OpenAI",
+   "kind": "lab",
+   "summary": "CodeRabbit uses OpenAI models to govern and trust AI-generated code and Codex to ship 20 times more software with the same engineering team.",
+   "published": "2026-11-09T08:00:00+00:00",
+   "topics": [
+    "Models"
+   ],
+   "first_seen": "2026-11-10T04:06:51+00:00"
   },
   {
    "id": "da2e6822ca93de5d",
@@ -2049,7 +2209,7 @@
    "link": "https://simonwillison.net/2026/Nov/4/datasette-llm/",
    "source": "Simon Willison",
    "kind": "community",
-   "summary": "Release: datasette-llm 0.1a10 Fixes a bug that affected my agent.datasette.io demo site, where the set of available LLM models was not correctly restricted to just those in the configuration. Tags: datasette , llm",
+   "summary": "Release: datasette-llm 0.1a10 Fixes a bug that affected my agent.datasette.io demo site, where the set of available LLM models was not correctly restricted to just those in the configuration. Tags: llm , datasette",
    "published": "2026-11-04T15:26:02+00:00",
    "topics": [
     "Models",
@@ -11434,80 +11594,6 @@
     "Models"
    ],
    "first_seen": "2026-10-11T16:19:26+00:00"
-  },
-  {
-   "id": "68fdf4ebf9ab7162",
-   "title": "500B tokens later: Letting AI agents decompile a first-person shooter",
-   "link": "https://momo5502.com/posts/2026-10-09-game-decompilation/",
-   "source": "Hacker News",
-   "kind": "community",
-   "summary": "Article URL: https://momo5502.com/posts/2026-10-09-game-decompilation/ Comments URL: https://news.ycombinator.com/item?id=50039092 Points: 216 # Comments: 152",
-   "published": "2026-10-11T02:02:38+00:00",
-   "topics": [
-    "Tools"
-   ],
-   "first_seen": "2026-10-11T16:19:26+00:00"
-  },
-  {
-   "id": "a786585932c30cce",
-   "title": "Dwarf Fortress uses version control now",
-   "link": "https://simonwillison.net/2026/Oct/11/dwarf-fortress/",
-   "source": "Simon Willison",
-   "kind": "community",
-   "summary": "I remember hearing a while ago that Dwarf Fortress didn't use version control. That fact has been lodged in my head, because given its inherent complexity I have trouble imagining a codebase that would benefit from version control more . That's art. I went looking and I'm sad to…",
-   "published": "2026-10-11T00:52:37+00:00",
-   "topics": [],
-   "first_seen": "2026-10-11T09:46:44+00:00"
-  },
-  {
-   "id": "ffe9771dd0f2e869",
-   "title": "Python 3.15.0 added to actions/python-versions",
-   "link": "https://simonwillison.net/2026/Oct/10/python-actions/",
-   "source": "Simon Willison",
-   "kind": "community",
-   "summary": "Python 3.15.0 added to actions/python-versions Bit of a niche link, but I've been waiting for this for a couple of days - I even told ChatGPT to check for it: Clone https://github.com/actions/python-versions and git pull once an hour until they add the stable 3.15 - then tell me…",
-   "published": "2026-10-10T23:58:04+00:00",
-   "topics": [],
-   "first_seen": "2026-10-11T09:46:44+00:00"
-  },
-  {
-   "id": "35dc91695d5dee44",
-   "title": "Satya Nadella says we should assume all AI models are ‘compromised’",
-   "link": "https://www.theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised",
-   "source": "The Verge",
-   "kind": "press",
-   "summary": "In a lengthy post on X, Microsoft's CEO laid out his views on the dangers posed by highly advanced AI models and how to confront those risks. Nadella says we can no longer accept a world where AI is treated as a \"set of nested black boxes\" whose advice and actions we simply…",
-   "published": "2026-10-10T22:10:17+00:00",
-   "topics": [
-    "Models"
-   ],
-   "first_seen": "2026-10-11T09:46:44+00:00"
-  },
-  {
-   "id": "d05facb80f7a8876",
-   "title": "Microsoft’s Satya Nadella says AI models need an ‘emergency brake’",
-   "link": "https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake/",
-   "source": "TechCrunch",
-   "kind": "press",
-   "summary": "In a Saturday morning post, Microsoft's CEO wrote that it’s time “to step back and assess the trust architecture” of AI.",
-   "published": "2026-10-10T21:47:51+00:00",
-   "topics": [
-    "Models"
-   ],
-   "first_seen": "2026-10-11T09:46:44+00:00"
-  },
-  {
-   "id": "e77e9ae83492452b",
-   "title": "DistroKid has been quietly taking down songs in response to UMG lawsuit",
-   "link": "https://www.theverge.com/entertainment/1009309/distrokid-take-down-songs-umg-lawsuit",
-   "source": "The Verge",
-   "kind": "press",
-   "summary": "Artists are taking to social media to complain that DistroKid has unceremoniously removed their work without notice. Now DistroKid has confirmed to The Verge that the takedowns are a direct response to claims made by UMG. The label filed a lawsuit in September claiming that…",
-   "published": "2026-10-10T21:23:38+00:00",
-   "topics": [
-    "Policy"
-   ],
-   "first_seen": "2026-10-11T09:46:44+00:00"
   }
  ]
 }
