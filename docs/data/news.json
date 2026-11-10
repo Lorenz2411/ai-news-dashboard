@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-10T12:38:49+00:00",
+ "updated": "2026-11-10T20:49:34+00:00",
  "sources": [
   {
    "name": "OpenAI",
@@ -92,6 +92,378 @@
  ],
  "items": [
   {
+   "id": "c4b2e9a50337f305",
+   "title": "What happens to mathematics when AI becames an oracle?",
+   "link": "https://arstechnica.com/science/2026/11/what-happens-to-mathematics-when-ai-becames-an-oracle/",
+   "source": "Ars Technica",
+   "kind": "press",
+   "summary": "Mathematician Steven Strogatz discusses his new book, Big Math: The Hidden Codes That Run Our World .",
+   "published": "2026-11-10T20:30:01+00:00",
+   "topics": [],
+   "first_seen": "2026-11-10T20:49:34+00:00"
+  },
+  {
+   "id": "9a5bae24e02d25cd",
+   "title": "All 7 Anthropic founders will each cash out about $250M in IPO",
+   "link": "https://techcrunch.com/2026/11/10/all-7-anthropic-founders-will-each-cash-out-about-250m-in-ipo/",
+   "source": "TechCrunch",
+   "kind": "press",
+   "summary": "Each of the seven co-founders plans to sell exactly the same number of shares in the IPO, which would bring each of them about $250 million in cash at the midpoint of the price range while leaving the group in control of the company.",
+   "published": "2026-11-10T19:57:52+00:00",
+   "topics": [
+    "Business"
+   ],
+   "first_seen": "2026-11-10T20:49:34+00:00"
+  },
+  {
+   "id": "34a6071342ff5a88",
+   "title": "The US is winning the AI race. Jensen Huang could have blown it",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/1031063/jensen-huang-ai-race-us-china-spy",
+   "source": "The Verge",
+   "kind": "press",
+   "summary": "As espionage targets go, Jensen Huang is perhaps one of the least surprising on Earth. The Nvidia CEO runs one of the world's most valuable companies, controls the in-demand technology fueling the AI boom, and is cozy with presidents, CEOs, and all manner of important people. He…",
+   "published": "2026-11-10T19:31:58+00:00",
+   "topics": [
+    "Hardware"
+   ],
+   "first_seen": "2026-11-10T20:49:34+00:00"
+  },
+  {
+   "id": "fe6d70a1808af088",
+   "title": "Oura to acquire AI-native primary care startup Counsel Health for $625M",
+   "link": "https://techcrunch.com/2026/11/10/oura-to-acquire-ai-native-primary-care-startup-counsel-health-for-625m/",
+   "source": "TechCrunch",
+   "kind": "press",
+   "summary": "The deal comes a few weeks after Oura postponed its up to $2.2 billion IPO indefinitely, citing “uncertainty in the IPO market.”",
+   "published": "2026-11-10T19:23:34+00:00",
+   "topics": [
+    "Business"
+   ],
+   "first_seen": "2026-11-10T20:49:34+00:00"
+  },
+  {
+   "id": "7ac1a3b2939bf58c",
+   "title": "The indie game community is in disarray over AI and Big Walk",
+   "link": "https://www.theverge.com/games/1030994/big-walk-independent-games-festival-igf-ai",
+   "source": "The Verge",
+   "kind": "press",
+   "summary": "Some Independent Games Festival (IGF) jurors published a statement yesterday saying they would not vote for games that use generative AI in \"any capacity.\" Soon after, the developer of indie hit Big Walk has published a statement saying it \"sparingly\" used AI in the \"final…",
+   "published": "2026-11-10T19:06:22+00:00",
+   "topics": [],
+   "first_seen": "2026-11-10T20:49:34+00:00"
+  },
+  {
+   "id": "2800935556d85c08",
+   "title": "PSI is trying to make a business out of AI-driven scientific discovery",
+   "link": "https://techcrunch.com/2026/11/10/psi-is-trying-to-make-a-business-out-of-ai-driven-scientific-discovery/",
+   "source": "TechCrunch",
+   "kind": "press",
+   "summary": "PSI used an unreleased Anthropic model to answer a fundamental question about quantum computing that scientists have pursued for nearly two decades.",
+   "published": "2026-11-10T19:03:52+00:00",
+   "topics": [
+    "Models"
+   ],
+   "first_seen": "2026-11-10T20:49:34+00:00"
+  },
+  {
+   "id": "ac5a661efbfd509d",
+   "title": "Gemini Intelligence: New features, on more devices",
+   "link": "https://blog.google/products-and-platforms/platforms/android/gemini-intelligence-november-features-devices/",
+   "source": "Google AI",
+   "kind": "lab",
+   "summary": "",
+   "published": "2026-11-10T19:00:00+00:00",
+   "topics": [
+    "Models"
+   ],
+   "first_seen": "2026-11-10T20:49:34+00:00"
+  },
+  {
+   "id": "ccdccf818b30a0e0",
+   "title": "OpenAI rolls out new business profiles, making ChatGPT just a little bit more like Google",
+   "link": "https://techcrunch.com/2026/11/10/openai-rolls-out-new-business-profiles-making-chatgpt-just-a-little-bit-more-like-google/",
+   "source": "TechCrunch",
+   "kind": "press",
+   "summary": "OpenAI is looking to make ChatGPT a more robust consumer discovery engine, and a host of new features seek to empower businesses to help it do that.",
+   "published": "2026-11-10T18:49:52+00:00",
+   "topics": [],
+   "first_seen": "2026-11-10T20:49:34+00:00"
+  },
+  {
+   "id": "fd8e1c638d2dc1c1",
+   "title": "Anthropic launches Claude Meetings to turn workplace discussions into plans and tasks",
+   "link": "https://techcrunch.com/2026/11/10/anthropic-launches-claude-meetings-to-turn-workplace-discussions-into-plans-and-tasks/",
+   "source": "TechCrunch",
+   "kind": "press",
+   "summary": "As participants talk, Claude can draft the plan being discussed, map out a timeline on a whiteboard, answer questions in the meeting chat, and access connected work apps to retrieve information, such as last year's figures.",
+   "published": "2026-11-10T17:30:00+00:00",
+   "topics": [
+    "Models",
+    "Tools"
+   ],
+   "first_seen": "2026-11-10T20:49:34+00:00"
+  },
+  {
+   "id": "940b8a321b942013",
+   "title": "Nvidia CEO Jensen Huang’s affair with alleged Chinese spy: a timeline",
+   "link": "https://techcrunch.com/2026/11/10/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+   "source": "TechCrunch",
+   "kind": "press",
+   "summary": "The affair could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
+   "published": "2026-11-10T17:04:19+00:00",
+   "topics": [
+    "Hardware"
+   ],
+   "first_seen": "2026-11-10T20:49:34+00:00"
+  },
+  {
+   "id": "0cd5e191c405cf88",
+   "title": "Anthropic targets $1.4 trillion IPO",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/1030703/anthropic-ipo-1-4-trillion",
+   "source": "The Verge",
+   "kind": "press",
+   "summary": "Anthropic confirmed on Tuesday that its IPO could be one of the biggest ever, even while falling short of previous expectations. Its IPO price is expected to be between $70.00 and $78.00 per share, which would put its valuation as high as $1.4 trillion, according to the The New…",
+   "published": "2026-11-10T16:38:24+00:00",
+   "topics": [
+    "Business"
+   ],
+   "first_seen": "2026-11-10T20:49:34+00:00"
+  },
+  {
+   "id": "7396b577c72532a7",
+   "title": "ChatGPT is getting verified AI ‘Business Agents’",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/1030552/openai-chatgpt-business-agents-hub",
+   "source": "The Verge",
+   "kind": "press",
+   "summary": "ChatGPT is going to let you chat with verified \"Business Agents\" that represent a brand to help you with things like comparison shopping. The feature, available first to \"eligible\" e-commerce and online service businesses in the US, is launching as part of a suite of…",
+   "published": "2026-11-10T16:34:41+00:00",
+   "topics": [
+    "Tools"
+   ],
+   "first_seen": "2026-11-10T20:49:34+00:00"
+  },
+  {
+   "id": "3e50515c6d1fc8cc",
+   "title": "eBay appears to have shut the door on third-party AI agents",
+   "link": "https://www.theverge.com/tech/1030838/ebay-ai-agents-meta-muse-agentic-shopping",
+   "source": "The Verge",
+   "kind": "press",
+   "summary": "eBay appears to have blocked AI agents, including Meta's Muse, from browsing on the platform - the latest speed bump in the AI agent race. A reader tells The Verge that for several weeks he's had his Muse agent browse and curate a daily digest of watches for sale on platforms…",
+   "published": "2026-11-10T16:20:30+00:00",
+   "topics": [
+    "Tools"
+   ],
+   "first_seen": "2026-11-10T20:49:34+00:00"
+  },
+  {
+   "id": "0b2e1c02de474f20",
+   "title": "Gemini 4 Carbon is now available",
+   "link": "https://deepmind.google/blog/gemini-4-carbon-is-now-available/",
+   "source": "Google DeepMind",
+   "kind": "lab",
+   "summary": "",
+   "published": "2026-11-10T16:03:47+00:00",
+   "topics": [
+    "Models"
+   ],
+   "first_seen": "2026-11-10T20:49:34+00:00"
+  },
+  {
+   "id": "5ef445c1e85d847f",
+   "title": "Google broadens its AI hardware portfolio with two new specialized chips",
+   "link": "https://techcrunch.com/2026/11/10/google-broadens-its-ai-hardware-portfolio-with-two-new-specialized-chips/",
+   "source": "TechCrunch",
+   "kind": "press",
+   "summary": "Google's new tensor processing units (TPUs) broaden its chip portfolio to more use cases: confidential model training and more memory capacity.",
+   "published": "2026-11-10T15:54:08+00:00",
+   "topics": [
+    "Models",
+    "Hardware"
+   ],
+   "first_seen": "2026-11-10T20:49:34+00:00"
+  },
+  {
+   "id": "015cb2c6872b425f",
+   "title": "Photoshop, Lightroom, and Premiere are making it easier to remove things",
+   "link": "https://www.theverge.com/tech/1030653/adobe-max-2026-photoshop-premiere-removal-updates",
+   "source": "The Verge",
+   "kind": "press",
+   "summary": "Adobe is expanding its Creative Cloud apps and Firefly AI platform with new capabilities that aim to make design and editing projects faster and less complicated. Some of the announcements from Adobe's Max event today include features for automatically removing objects…",
+   "published": "2026-11-10T15:49:40+00:00",
+   "topics": [],
+   "first_seen": "2026-11-10T20:49:34+00:00"
+  },
+  {
+   "id": "a14681e2ddce1255",
+   "title": "Google releases Gemini 4 Carbon with agent ‘swarm’ feature",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/1030787/google-gemini-4-carbon-public-rollout",
+   "source": "The Verge",
+   "kind": "press",
+   "summary": "Google is rolling out its latest AI model, Gemini 4 Carbon, to the general public after releasing it to a select group of \"cybersecurity defenders\" two weeks ago. Google claims Carbon is its \"strongest model\" yet, and capable of competing with the very best systems from…",
+   "published": "2026-11-10T15:30:28+00:00",
+   "topics": [
+    "Models",
+    "Tools"
+   ],
+   "first_seen": "2026-11-10T20:49:34+00:00"
+  },
+  {
+   "id": "05045298619b51c5",
+   "title": "Meta’s AI agent Muse lands on Apple Watch and Android Wear OS",
+   "link": "https://techcrunch.com/2026/11/10/metas-ai-agent-muse-lands-on-apple-watch-and-wear-os/",
+   "source": "TechCrunch",
+   "kind": "press",
+   "summary": "Users can now interact with Meta’s AI assistant through voice calls, text messages, or dictation on their Apple Watch.",
+   "published": "2026-11-10T15:29:30+00:00",
+   "topics": [
+    "Tools"
+   ],
+   "first_seen": "2026-11-10T20:49:34+00:00"
+  },
+  {
+   "id": "ec3f910d2a185a91",
+   "title": "Anthropic has its own AI-powered office suite now",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/1030709/anthropic-has-its-own-ai-powered-office-suite-now",
+   "source": "The Verge",
+   "kind": "press",
+   "summary": "For years, Anthropic has been known for its focus on enterprise and coding tools that attract high-flying corporate clients, inspiring competing frontier labs - like OpenAI, SpaceXSI, and Meta - to copy its strategies. Earlier this year, Claude Code went through its own…",
+   "published": "2026-11-10T15:13:38+00:00",
+   "topics": [
+    "Models"
+   ],
+   "first_seen": "2026-11-10T20:49:34+00:00"
+  },
+  {
+   "id": "004c51f512e0fac4",
+   "title": "DeepMind reveals Gemini Robotics 2.5 and open safety benchmark \"ASIMOV-jailbreak\"",
+   "link": "https://arstechnica.com/google/2026/11/deepmind-reveals-gemini-robotics-2-5-and-open-safety-benchmark-asimov-jailbreak/",
+   "source": "Ars Technica",
+   "kind": "press",
+   "summary": "The new model is up to twice as successful at some tasks.",
+   "published": "2026-11-10T15:00:39+00:00",
+   "topics": [
+    "Models",
+    "Research",
+    "Policy"
+   ],
+   "first_seen": "2026-11-10T20:49:34+00:00"
+  },
+  {
+   "id": "707c973eeceba790",
+   "title": "Hands-on with Ring’s new AI drone camera for your home",
+   "link": "https://www.theverge.com/tech/1030601/ring-drone-cam-hands-on-price-release-date-ai-pilot",
+   "source": "The Verge",
+   "kind": "press",
+   "summary": "Ring is finally shipping a flying indoor drone camera. For real this time. The Ring Drone Cam will arrive on January 27th, 2027, for $249.99, Ring founder Jamie Siminoff said at a launch event in New York City this week. If it does actually ship, it will arrive almost six years…",
+   "published": "2026-11-10T14:28:59+00:00",
+   "topics": [
+    "Tools"
+   ],
+   "first_seen": "2026-11-10T20:49:34+00:00"
+  },
+  {
+   "id": "d10ce5761f29e021",
+   "title": "Adobe brings AI agents and new creative tools to Photoshop, Premiere, and Firefly",
+   "link": "https://techcrunch.com/2026/11/10/adobe-adds-more-ai-to-its-products-and-launches-an-mcp/",
+   "source": "TechCrunch",
+   "kind": "press",
+   "summary": "Adobe is taking on Figma with a new prototype builder tool in Firefly.",
+   "published": "2026-11-10T14:05:10+00:00",
+   "topics": [
+    "Tools"
+   ],
+   "first_seen": "2026-11-10T20:49:34+00:00"
+  },
+  {
+   "id": "6f3953006a306e0b",
+   "title": "Anthropic sets IPO price range of $70 to $78 per share to reach an implied valuation of $1.404 trillion",
+   "link": "https://techcrunch.com/2026/11/10/anthropic-sets-ipo-price-range-of-70-to-78-per-share-to-reach-an-implied-valuation-of-1-404-trillion/",
+   "source": "TechCrunch",
+   "kind": "press",
+   "summary": "The company could end up being worth a hefty $1.404 trillion if its shares list at the top of the price range, on a fully diluted basis.",
+   "published": "2026-11-10T14:01:39+00:00",
+   "topics": [
+    "Business"
+   ],
+   "first_seen": "2026-11-10T20:49:34+00:00"
+  },
+  {
+   "id": "c5fffc8a0cbdc3d4",
+   "title": "We’re bringing Adobe’s creative and productivity tools closer to your everyday Google apps.",
+   "link": "https://blog.google/company-news/inside-google/company-announcements/adobe-google-partnership-integration/",
+   "source": "Google AI",
+   "kind": "lab",
+   "summary": "",
+   "published": "2026-11-10T14:00:00+00:00",
+   "topics": [],
+   "first_seen": "2026-11-10T20:49:34+00:00"
+  },
+  {
+   "id": "5cd056a31d5df370",
+   "title": "After challenging Google’s Android with Cyanogen, its co-founder takes aim at Windows for AI era",
+   "link": "https://techcrunch.com/2026/11/10/after-challenging-googles-android-with-cyanogen-its-co-founder-takes-aim-at-windows-for-ai-era/",
+   "source": "TechCrunch",
+   "kind": "press",
+   "summary": "Kora is set to launch as a free-to-use alternative to Windows, targeting users who rely heavily on AI models and agents.",
+   "published": "2026-11-10T14:00:00+00:00",
+   "topics": [
+    "Models",
+    "Tools"
+   ],
+   "first_seen": "2026-11-10T20:49:34+00:00"
+  },
+  {
+   "id": "c8072ec28f747b94",
+   "title": "Spotify’s AI DJ gets new voices, personalities, and an option for less chatter",
+   "link": "https://techcrunch.com/2026/11/10/spotifys-ai-dj-gets-new-voices-personalities-and-an-option-for-less-chatter/",
+   "source": "TechCrunch",
+   "kind": "press",
+   "summary": "Spotify Premium users can now customize their AI DJ with new voices with different personalities, or turn off the commentary between songs.",
+   "published": "2026-11-10T14:00:00+00:00",
+   "topics": [],
+   "first_seen": "2026-11-10T20:49:34+00:00"
+  },
+  {
+   "id": "c5e9e08f64384a91",
+   "title": "Ring, known for its doorbell cameras, launches a home security drone and an enterprise security robot",
+   "link": "https://techcrunch.com/2026/11/10/ring-known-for-its-doorbell-cameras-launches-a-home-security-drone-and-an-enterprise-security-robot/",
+   "source": "TechCrunch",
+   "kind": "press",
+   "summary": "Amazon-owned Ring is pushing into robotics with the launch of a home security drone and a rolling robot designed to patrol and protect businesses.",
+   "published": "2026-11-10T13:30:00+00:00",
+   "topics": [
+    "Tools"
+   ],
+   "first_seen": "2026-11-10T20:49:34+00:00"
+  },
+  {
+   "id": "155d33cae7267931",
+   "title": "Google Cloud launches Gemini for healthcare.",
+   "link": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-for-healthcare/",
+   "source": "Google AI",
+   "kind": "lab",
+   "summary": "",
+   "published": "2026-11-10T13:00:00+00:00",
+   "topics": [
+    "Models",
+    "Tools"
+   ],
+   "first_seen": "2026-11-10T20:49:34+00:00"
+  },
+  {
+   "id": "1c52468d7a994ee2",
+   "title": "Cyberattacks threaten to make open source AI a little less open, Hugging Face exec warns",
+   "link": "https://techcrunch.com/2026/11/10/cyberattacks-threaten-to-make-open-source-ai-a-little-less-open-hugging-face-exec-warns/",
+   "source": "TechCrunch",
+   "kind": "press",
+   "summary": "Hugging Face executive Irene Solaiman warns that growing cyberattacks on open AI platforms could force tighter security restrictions, threatening the accessibility that makes open source communities valuable to developers worldwide.",
+   "published": "2026-11-10T13:00:00+00:00",
+   "topics": [
+    "Tools"
+   ],
+   "first_seen": "2026-11-10T20:49:34+00:00"
+  },
+  {
    "id": "ffd1be60b8ac1c68",
    "title": "Ukraine’s fiber-optic drones get squeezed by AI data center demand",
    "link": "https://arstechnica.com/gadgets/2026/11/ukraines-fiber-optic-drones-get-squeezed-by-ai-data-center-demand/",
@@ -129,6 +501,41 @@
    "first_seen": "2026-11-10T12:38:49+00:00"
   },
   {
+   "id": "04566ece2f1b9bd7",
+   "title": "Adobe is going all in on agentic AI",
+   "link": "https://www.theverge.com/tech/1030593/adobe-max-ai-agents-mcp-firefly-assistant-updates",
+   "source": "The Verge",
+   "kind": "press",
+   "summary": "Adobe is committing itself to the notion that chatbots and AI agents could be your next design assistant, or even automate creative workflows and repetitive tasks on your behalf. Some of the tools and features announced today at Adobe's Max conference in Miami, Florida, include…",
+   "published": "2026-11-10T11:24:56+00:00",
+   "topics": [
+    "Tools"
+   ],
+   "first_seen": "2026-11-10T20:49:34+00:00"
+  },
+  {
+   "id": "593498d54f698ec5",
+   "title": "AI usage generates a fragile codebase",
+   "link": "https://evanxmerz.com/post/ai-usage-generates-a-fragile-codebase/",
+   "source": "Hacker News",
+   "kind": "community",
+   "summary": "Article URL: https://evanxmerz.com/post/ai-usage-generates-a-fragile-codebase/ Comments URL: https://news.ycombinator.com/item?id=50438318 Points: 259 # Comments: 312",
+   "published": "2026-11-10T10:25:58+00:00",
+   "topics": [],
+   "first_seen": "2026-11-10T20:49:34+00:00"
+  },
+  {
+   "id": "5ca4dc7b6d88cb31",
+   "title": "Introducing Businesses in ChatGPT",
+   "link": "https://openai.com/index/introducing-businesses-chatgpt",
+   "source": "OpenAI",
+   "kind": "lab",
+   "summary": "Manage your business information, get insights about how your business shows up, and turn interest into action in ChatGPT.",
+   "published": "2026-11-10T10:00:00+00:00",
+   "topics": [],
+   "first_seen": "2026-11-10T20:49:34+00:00"
+  },
+  {
    "id": "01a8528fa117926a",
    "title": "Closing the AI guidance gap in education",
    "link": "https://openai.com/index/closing-ai-guidance-gap-education",
@@ -157,6 +564,17 @@
    "first_seen": "2026-11-10T12:38:49+00:00"
   },
   {
+   "id": "a7266a93fa893ce0",
+   "title": "Fireworks AI security breach impacts Notion and their customers",
+   "link": "https://www.notion.com/help/security-incident-involving-a-third-party-ai-vendor",
+   "source": "Hacker News",
+   "kind": "community",
+   "summary": "Article URL: https://www.notion.com/help/security-incident-involving-a-third-party-ai-vendor Comments URL: https://news.ycombinator.com/item?id=50437106 Points: 153 # Comments: 56",
+   "published": "2026-11-10T07:19:38+00:00",
+   "topics": [],
+   "first_seen": "2026-11-10T20:49:34+00:00"
+  },
+  {
    "id": "1b18832a8d2c83f7",
    "title": "Otter AI can now follow conversations across 30+ languages",
    "link": "https://techcrunch.com/2026/11/09/otter-ai-can-now-follow-conversations-across-30-languages/",
@@ -166,6 +584,19 @@
    "published": "2026-11-10T07:00:00+00:00",
    "topics": [],
    "first_seen": "2026-11-10T12:38:49+00:00"
+  },
+  {
+   "id": "3588ceed41552e46",
+   "title": "Work at the Frontier: AI’s effect on freelance work",
+   "link": "https://openai.com/index/ai-effect-on-freelance-work",
+   "source": "OpenAI",
+   "kind": "lab",
+   "summary": "New research from OpenAI and Upwork finds shifting demand for freelance work, new skill combinations, and larger budgets and more hours for AI-related projects.",
+   "published": "2026-11-10T07:00:00+00:00",
+   "topics": [
+    "Research"
+   ],
+   "first_seen": "2026-11-10T20:49:34+00:00"
   },
   {
    "id": "c8bf0b8e918f2da7",
@@ -199,7 +630,7 @@
    "link": "https://www.cnbc.com/2026/11/06/coreweave-bond-yield-tops-16percent-as-ai-credit-stress-rises.html",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://www.cnbc.com/2026/11/06/coreweave-bond-yield-tops-16percent-as-ai-credit-stress-rises.html Comments URL: https://news.ycombinator.com/item?id=50435660 Points: 175 # Comments: 148",
+   "summary": "Article URL: https://www.cnbc.com/2026/11/06/coreweave-bond-yield-tops-16percent-as-ai-credit-stress-rises.html Comments URL: https://news.ycombinator.com/item?id=50435660 Points: 190 # Comments: 180",
    "published": "2026-11-10T03:20:06+00:00",
    "topics": [],
    "first_seen": "2026-11-10T12:38:49+00:00"
@@ -254,6 +685,30 @@
     "Hardware"
    ],
    "first_seen": "2026-11-10T04:06:51+00:00"
+  },
+  {
+   "id": "724fae9251483a53",
+   "title": "Pay for Hugging Face Hub with your Google Cloud Account",
+   "link": "https://huggingface.co/blog/hub-gcp-marketplace",
+   "source": "Hugging Face",
+   "kind": "lab",
+   "summary": "",
+   "published": "2026-11-10T00:00:00+00:00",
+   "topics": [],
+   "first_seen": "2026-11-10T20:49:34+00:00"
+  },
+  {
+   "id": "3229de0d919212c3",
+   "title": "Decision Models in Hugging Face",
+   "link": "https://huggingface.co/blog/decision",
+   "source": "Hugging Face",
+   "kind": "lab",
+   "summary": "",
+   "published": "2026-11-10T00:00:00+00:00",
+   "topics": [
+    "Models"
+   ],
+   "first_seen": "2026-11-10T20:49:34+00:00"
   },
   {
    "id": "c93c64172e07cb1e",
@@ -343,7 +798,7 @@
    "link": "https://www.reddit.com/r/ClaudeCode/comments/1xq2n3t/a_year_after_the_100_ai_mandate_nobody/",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "https://redlib.catsarch.com/r/ClaudeCode/comments/1xq2n3t/a_... Comments URL: https://news.ycombinator.com/item?id=50433079 Points: 130 # Comments: 168",
+   "summary": "https://redlib.catsarch.com/r/ClaudeCode/comments/1xq2n3t/a_... Comments URL: https://news.ycombinator.com/item?id=50433079 Points: 144 # Comments: 186",
    "published": "2026-11-09T22:19:12+00:00",
    "topics": [],
    "first_seen": "2026-11-10T12:38:49+00:00"
@@ -367,12 +822,26 @@
    "link": "https://artificialanalysis.ai/models/claude-fable-5-2",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://artificialanalysis.ai/models/claude-fable-5-2 Comments URL: https://news.ycombinator.com/item?id=50431144 Points: 353 # Comments: 255",
+   "summary": "Article URL: https://artificialanalysis.ai/models/claude-fable-5-2 Comments URL: https://news.ycombinator.com/item?id=50431144 Points: 368 # Comments: 265",
    "published": "2026-11-09T20:04:55+00:00",
    "topics": [
     "Models"
    ],
    "first_seen": "2026-11-10T12:38:49+00:00"
+  },
+  {
+   "id": "a98763b80c842ad2",
+   "title": "Gemini Robotics 2.5 accelerates real-world general dexterity",
+   "link": "https://deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence/",
+   "source": "Google DeepMind",
+   "kind": "lab",
+   "summary": "Our most capable vision-language-action model enhances robot dexterity, reliability, and safety",
+   "published": "2026-11-09T19:51:47+00:00",
+   "topics": [
+    "Models",
+    "Policy"
+   ],
+   "first_seen": "2026-11-10T20:49:34+00:00"
   },
   {
    "id": "3ec2e278915eae81",
@@ -464,12 +933,23 @@
    "first_seen": "2026-11-09T20:43:39+00:00"
   },
   {
+   "id": "586d37dc594556b4",
+   "title": "Show HN: STE80 Humanizer – de-AI text by writing 80% of the way to ASD-STE100",
+   "link": "https://github.com/Dodaios/ste80-humanizer",
+   "source": "Hacker News",
+   "kind": "community",
+   "summary": "Article URL: https://github.com/Dodaios/ste80-humanizer Comments URL: https://news.ycombinator.com/item?id=50429144 Points: 104 # Comments: 38",
+   "published": "2026-11-09T18:05:44+00:00",
+   "topics": [],
+   "first_seen": "2026-11-10T20:49:34+00:00"
+  },
+  {
    "id": "796a7f7ee338b70f",
    "title": "Claude Fable 5.2 and Mythos 5.2",
    "link": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://www.anthropic.com/claude-fable-and-mythos-5-2 Comments URL: https://news.ycombinator.com/item?id=50429068 Points: 677 # Comments: 848",
+   "summary": "Article URL: https://www.anthropic.com/claude-fable-and-mythos-5-2 Comments URL: https://news.ycombinator.com/item?id=50429068 Points: 857 # Comments: 978",
    "published": "2026-11-09T18:01:10+00:00",
    "topics": [
     "Models"
@@ -787,7 +1267,7 @@
    "link": "https://matteoraso.github.io/im-not-convinced-the-ai-bubble-exists.html#im-not-convinced-the-ai-bubble-exists",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://matteoraso.github.io/im-not-convinced-the-ai-bubble-exists.html#im-not-convinced-the-ai-bubble-exists Comments URL: https://news.ycombinator.com/item?id=50418975 Points: 557 # Comments: 948",
+   "summary": "Article URL: https://matteoraso.github.io/im-not-convinced-the-ai-bubble-exists.html#im-not-convinced-the-ai-bubble-exists Comments URL: https://news.ycombinator.com/item?id=50418975 Points: 562 # Comments: 957",
    "published": "2026-11-08T23:44:36+00:00",
    "topics": [],
    "first_seen": "2026-11-09T09:47:50+00:00"
@@ -836,7 +1316,7 @@
    "link": "https://sergeykuhne.com/blog/fighting-ai-brain-fry",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://sergeykuhne.com/blog/fighting-ai-brain-fry Comments URL: https://news.ycombinator.com/item?id=50416363 Points: 307 # Comments: 212",
+   "summary": "Article URL: https://sergeykuhne.com/blog/fighting-ai-brain-fry Comments URL: https://news.ycombinator.com/item?id=50416363 Points: 308 # Comments: 213",
    "published": "2026-11-08T19:37:42+00:00",
    "topics": [],
    "first_seen": "2026-11-09T01:43:49+00:00"
@@ -860,7 +1340,7 @@
    "link": "https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers Comments URL: https://news.ycombinator.com/item?id=50415628 Points: 891 # Comments: 483",
+   "summary": "Article URL: https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers Comments URL: https://news.ycombinator.com/item?id=50415628 Points: 896 # Comments: 488",
    "published": "2026-11-08T18:16:07+00:00",
    "topics": [
     "Models"
@@ -886,7 +1366,7 @@
    "link": "https://caleb.software/posts/claude-to-pi.html",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://caleb.software/posts/claude-to-pi.html Comments URL: https://news.ycombinator.com/item?id=50410107 Points: 808 # Comments: 488",
+   "summary": "Article URL: https://caleb.software/posts/claude-to-pi.html Comments URL: https://news.ycombinator.com/item?id=50410107 Points: 813 # Comments: 489",
    "published": "2026-11-08T03:11:48+00:00",
    "topics": [
     "Models"
@@ -949,7 +1429,7 @@
    "link": "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again Comments URL: https://news.ycombinator.com/item?id=50407882 Points: 623 # Comments: 424",
+   "summary": "Article URL: https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again Comments URL: https://news.ycombinator.com/item?id=50407882 Points: 624 # Comments: 426",
    "published": "2026-11-07T20:45:32+00:00",
    "topics": [
     "Models",
@@ -11649,65 +12129,6 @@
     "Tools"
    ],
    "first_seen": "2026-10-11T21:57:54+00:00"
-  },
-  {
-   "id": "44c65736f8dd5ac9",
-   "title": "The gap in shared understanding of LLM capability is widening",
-   "link": "https://twitter.com/karpathy/status/2109361546505966046",
-   "source": "Hacker News",
-   "kind": "community",
-   "summary": "Article URL: https://twitter.com/karpathy/status/2109361546505966046 Comments URL: https://news.ycombinator.com/item?id=50047422 Points: 719 # Comments: 1049",
-   "published": "2026-10-11T20:20:52+00:00",
-   "topics": [
-    "Models"
-   ],
-   "first_seen": "2026-10-12T01:19:43+00:00"
-  },
-  {
-   "id": "e380f02bc291d4d2",
-   "title": "48 hours to TechCrunch Disrupt 2026 — hear directly from the people building what’s next",
-   "link": "https://techcrunch.com/2026/10/11/48-hours-to-techcrunch-disrupt-2026-hear-directly-from-the-people-building-whats-next/",
-   "source": "TechCrunch",
-   "kind": "press",
-   "summary": "Less than 48 hours, TechCrunch Disrupt 2026 starts in San Francisco’s Moscone West. Save up to $100 on your pass before prices increase at the door, plus get 50% on a second pass. Or score other deals.",
-   "published": "2026-10-11T19:00:00+00:00",
-   "topics": [],
-   "first_seen": "2026-10-11T21:57:54+00:00"
-  },
-  {
-   "id": "7ec8afeed3530ddc",
-   "title": "Silicon Valley is falling in line with Trump’s attempt to rename AI",
-   "link": "https://www.theverge.com/ai-artificial-intelligence/1009406/silicon-valley-is-falling-in-line-with-trumps-attempt-to-rename-ai",
-   "source": "The Verge",
-   "kind": "press",
-   "summary": "When President Donald Trump announced his plans to rebrand artificial intelligence as \"super intelligence,\" you'd be forgiven for being skeptical that it would catch on. While most of the broader population is sticking with AI, some of Silicon Valley's most powerful are falling…",
-   "published": "2026-10-11T18:33:56+00:00",
-   "topics": [],
-   "first_seen": "2026-10-11T21:57:54+00:00"
-  },
-  {
-   "id": "70688ea0e7a560a0",
-   "title": "Can the AI industry persuade data center opponents by getting rid of NDAs?",
-   "link": "https://techcrunch.com/2026/10/11/can-the-ai-industry-persuade-data-center-opponents-by-getting-rid-of-ndas/",
-   "source": "TechCrunch",
-   "kind": "press",
-   "summary": "On Equity, we debate the impact of data center moratoriums and whether the AI industry has a communication problem.",
-   "published": "2026-10-11T16:52:33+00:00",
-   "topics": [
-    "Hardware"
-   ],
-   "first_seen": "2026-10-11T21:57:54+00:00"
-  },
-  {
-   "id": "ba5db8106c64fb8b",
-   "title": "These execs think voice AI hasn’t reached its ChatGPT moment yet",
-   "link": "https://techcrunch.com/2026/10/11/these-execs-think-voice-ai-hasnt-reached-its-chatgpt-moment-yet/",
-   "source": "TechCrunch",
-   "kind": "press",
-   "summary": "Voice AI often misses important points for its context layer, and causes the whole pipeline to break.",
-   "published": "2026-10-11T14:00:00+00:00",
-   "topics": [],
-   "first_seen": "2026-10-11T16:19:26+00:00"
   }
  ]
 }
