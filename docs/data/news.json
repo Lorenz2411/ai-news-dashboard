@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-10T04:06:51+00:00",
+ "updated": "2026-11-10T12:38:49+00:00",
  "sources": [
   {
    "name": "OpenAI",
@@ -13,9 +13,9 @@
    "name": "Google DeepMind",
    "url": "https://deepmind.google/blog/rss.xml",
    "kind": "lab",
-   "ok": false,
-   "count": 0,
-   "error": "ParseError: not well-formed (invalid token): line 1, column 0"
+   "ok": true,
+   "count": 40,
+   "error": null
   },
   {
    "name": "Google AI",
@@ -85,12 +85,125 @@
    "name": "Hacker News",
    "url": "https://hnrss.org/newest?q=AI+OR+LLM+OR+GPT+OR+Claude&points=100",
    "kind": "community",
-   "ok": false,
-   "count": 0,
-   "error": "TimeoutError: The read operation timed out"
+   "ok": true,
+   "count": 20,
+   "error": null
   }
  ],
  "items": [
+  {
+   "id": "ffd1be60b8ac1c68",
+   "title": "Ukraine’s fiber-optic drones get squeezed by AI data center demand",
+   "link": "https://arstechnica.com/gadgets/2026/11/ukraines-fiber-optic-drones-get-squeezed-by-ai-data-center-demand/",
+   "source": "Ars Technica",
+   "kind": "press",
+   "summary": "Ukraine competes with Russia and data centers for China’s optical fiber supply.",
+   "published": "2026-11-10T12:15:32+00:00",
+   "topics": [
+    "Hardware"
+   ],
+   "first_seen": "2026-11-10T12:38:49+00:00"
+  },
+  {
+   "id": "428ac4b42c0b5f39",
+   "title": "Introducing AlphaProof Code: a breakthrough in verifying complex software at depth",
+   "link": "https://deepmind.google/blog/introducing-alphaproof-code/",
+   "source": "Google DeepMind",
+   "kind": "lab",
+   "summary": "AlphaProof Code agents wrote three million lines of proofs in Lean to verify Signal’s core encryption.",
+   "published": "2026-11-10T12:02:28+00:00",
+   "topics": [
+    "Tools"
+   ],
+   "first_seen": "2026-11-10T12:38:49+00:00"
+  },
+  {
+   "id": "46ecb159c1535b09",
+   "title": "Helping caregivers use AI in everyday life",
+   "link": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life",
+   "source": "OpenAI",
+   "kind": "lab",
+   "summary": "OpenAI Academy is bringing free, hands-on ChatGPT workshops to caregivers in five U.S. cities, helping them build practical AI skills for everyday life.",
+   "published": "2026-11-10T12:00:00+00:00",
+   "topics": [],
+   "first_seen": "2026-11-10T12:38:49+00:00"
+  },
+  {
+   "id": "01a8528fa117926a",
+   "title": "Closing the AI guidance gap in education",
+   "link": "https://openai.com/index/closing-ai-guidance-gap-education",
+   "source": "OpenAI",
+   "kind": "lab",
+   "summary": "New ThinkYoung research and lessons from OpenAI’s EMEA education partnerships on supporting teachers, AI literacy, and independent learning.",
+   "published": "2026-11-10T09:00:00+00:00",
+   "topics": [
+    "Research",
+    "Business"
+   ],
+   "first_seen": "2026-11-10T12:38:49+00:00"
+  },
+  {
+   "id": "fabe838d73f55c38",
+   "title": "Introducing Our Smallest, Most Efficient Model: Muse Ember",
+   "link": "https://simonwillison.net/2026/Nov/10/muse-ember/",
+   "source": "Simon Willison",
+   "kind": "community",
+   "summary": "Introducing Our Smallest, Most Efficient Model: Muse Ember Meta AI just launched their entry in the Claude Haiku/GPT Luna category: Muse Ember, which they describe as: [...] our smallest and most efficient model designed for complex reasoning execution and the work agents repeat…",
+   "published": "2026-11-10T07:28:21+00:00",
+   "topics": [
+    "Models",
+    "Tools"
+   ],
+   "first_seen": "2026-11-10T12:38:49+00:00"
+  },
+  {
+   "id": "1b18832a8d2c83f7",
+   "title": "Otter AI can now follow conversations across 30+ languages",
+   "link": "https://techcrunch.com/2026/11/09/otter-ai-can-now-follow-conversations-across-30-languages/",
+   "source": "TechCrunch",
+   "kind": "press",
+   "summary": "Otter AI just added support for 27 languages and revealed an upcoming feature that can follow along if speakers switch between languages.",
+   "published": "2026-11-10T07:00:00+00:00",
+   "topics": [],
+   "first_seen": "2026-11-10T12:38:49+00:00"
+  },
+  {
+   "id": "c8bf0b8e918f2da7",
+   "title": "Quoting Prompting Claude Fable 5.2",
+   "link": "https://simonwillison.net/2026/Nov/10/prompting-claude-fable-52/",
+   "source": "Simon Willison",
+   "kind": "community",
+   "summary": "Claude Fable 5.2 responds closely to what the prompt says about who owns the code it works on. In Anthropic’s testing on small coding tasks, when a prompt said nothing about ownership or presented the code base as someone else’s, the model tended to add to the existing…",
+   "published": "2026-11-10T05:34:14+00:00",
+   "topics": [
+    "Models"
+   ],
+   "first_seen": "2026-11-10T12:38:49+00:00"
+  },
+  {
+   "id": "75546f2ae879a5a9",
+   "title": "Yonkers Rises",
+   "link": "https://simonwillison.net/2026/Nov/10/yonkers-rises/",
+   "source": "Simon Willison",
+   "kind": "community",
+   "summary": "Tool: Yonkers Rises I realized I didn't know where Yonkers was, so I looked it up on Google Maps and then, to help embed its location and shape in my head (and to try out Claude Fable 5.2's 3D modeling and animation skills), I prompted Fable 5.2 Medium to: Make a three js…",
+   "published": "2026-11-10T03:53:04+00:00",
+   "topics": [
+    "Models"
+   ],
+   "first_seen": "2026-11-10T12:38:49+00:00"
+  },
+  {
+   "id": "9c5da62bab376f7f",
+   "title": "CoreWeave bond yield tops 16% as AI credit stress rises",
+   "link": "https://www.cnbc.com/2026/11/06/coreweave-bond-yield-tops-16percent-as-ai-credit-stress-rises.html",
+   "source": "Hacker News",
+   "kind": "community",
+   "summary": "Article URL: https://www.cnbc.com/2026/11/06/coreweave-bond-yield-tops-16percent-as-ai-credit-stress-rises.html Comments URL: https://news.ycombinator.com/item?id=50435660 Points: 175 # Comments: 148",
+   "published": "2026-11-10T03:20:06+00:00",
+   "topics": [],
+   "first_seen": "2026-11-10T12:38:49+00:00"
+  },
   {
    "id": "98071e4b97d92c7e",
    "title": "Anthropic reportedly plans to move forward with IPO plans",
@@ -148,10 +261,11 @@
    "link": "https://simonwillison.net/2026/Nov/9/llm-anthropic/",
    "source": "Simon Willison",
    "kind": "community",
-   "summary": "Release: llm-anthropic 0.31 Anthropic released Fable 5.2 and Mythos 5.2 today. I've added them to llm-anthropic , so you can now run prompts through Fable 5.2 like this: uv tool install llm llm install llm-anthropic llm keys set anthropic # paste key here llm -m claude-fable-5.2…",
+   "summary": "Release: llm-anthropic 0.31 Anthropic released Fable 5.2 and Mythos 5.2 today. Fable 5.2 is currently ranked first on Artificial Analysis . Anthropic say it \"solved two open problems in the physics of black holes\", so clearly their internal benchmarks have become more ambitious!…",
    "published": "2026-11-09T23:58:46+00:00",
    "topics": [
     "Models",
+    "Research",
     "Tools"
    ],
    "first_seen": "2026-11-10T04:06:51+00:00"
@@ -224,6 +338,17 @@
    "first_seen": "2026-11-10T04:06:51+00:00"
   },
   {
+   "id": "055d8b97090dd8a2",
+   "title": "A year after the 100% AI mandate nobody understands our code",
+   "link": "https://www.reddit.com/r/ClaudeCode/comments/1xq2n3t/a_year_after_the_100_ai_mandate_nobody/",
+   "source": "Hacker News",
+   "kind": "community",
+   "summary": "https://redlib.catsarch.com/r/ClaudeCode/comments/1xq2n3t/a_... Comments URL: https://news.ycombinator.com/item?id=50433079 Points: 130 # Comments: 168",
+   "published": "2026-11-09T22:19:12+00:00",
+   "topics": [],
+   "first_seen": "2026-11-10T12:38:49+00:00"
+  },
+  {
    "id": "39befa3379491d53",
    "title": "Jensen Huang pulls out of ElevenLabs Summit amid Nvidia controversy",
    "link": "https://techcrunch.com/2026/11/09/jensen-huang-pulls-out-of-elevenlabs-summit-amid-nvidia-controversy/",
@@ -235,6 +360,19 @@
     "Hardware"
    ],
    "first_seen": "2026-11-09T20:43:39+00:00"
+  },
+  {
+   "id": "255b56db4a4a44d0",
+   "title": "Claude Fable 5.2 scores 65 on Artificial Analysis, highest so far",
+   "link": "https://artificialanalysis.ai/models/claude-fable-5-2",
+   "source": "Hacker News",
+   "kind": "community",
+   "summary": "Article URL: https://artificialanalysis.ai/models/claude-fable-5-2 Comments URL: https://news.ycombinator.com/item?id=50431144 Points: 353 # Comments: 255",
+   "published": "2026-11-09T20:04:55+00:00",
+   "topics": [
+    "Models"
+   ],
+   "first_seen": "2026-11-10T12:38:49+00:00"
   },
   {
    "id": "3ec2e278915eae81",
@@ -300,19 +438,6 @@
    "first_seen": "2026-11-09T20:43:39+00:00"
   },
   {
-   "id": "796a7f7ee338b70f",
-   "title": "Claude Fable 5.2 and Mythos 5.2",
-   "link": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
-   "source": "Hacker News",
-   "kind": "community",
-   "summary": "Article URL: https://www.anthropic.com/claude-fable-and-mythos-5-2 Comments URL: https://news.ycombinator.com/item?id=50429906 Points: 569 # Comments: 278",
-   "published": "2026-11-09T18:56:29+00:00",
-   "topics": [
-    "Models"
-   ],
-   "first_seen": "2026-11-09T20:43:39+00:00"
-  },
-  {
    "id": "20ff528b54959b19",
    "title": "Jensen Huang’s affair with alleged Chinese spy puts Nvidia’s China ambitions under scrutiny",
    "link": "https://techcrunch.com/2026/11/09/jensen-huangs-affair-with-alleged-chinese-spy-puts-nvidias-china-ambitions-under-scrutiny/",
@@ -335,6 +460,19 @@
    "published": "2026-11-09T18:07:23+00:00",
    "topics": [
     "Tools"
+   ],
+   "first_seen": "2026-11-09T20:43:39+00:00"
+  },
+  {
+   "id": "796a7f7ee338b70f",
+   "title": "Claude Fable 5.2 and Mythos 5.2",
+   "link": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
+   "source": "Hacker News",
+   "kind": "community",
+   "summary": "Article URL: https://www.anthropic.com/claude-fable-and-mythos-5-2 Comments URL: https://news.ycombinator.com/item?id=50429068 Points: 677 # Comments: 848",
+   "published": "2026-11-09T18:01:10+00:00",
+   "topics": [
+    "Models"
    ],
    "first_seen": "2026-11-09T20:43:39+00:00"
   },
@@ -600,7 +738,7 @@
    "link": "https://www.stork.ai/newsletter/2026-11-08-apple-capped-engineers-at-a-200-daily-ai-budget",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://www.stork.ai/newsletter/2026-11-08-apple-capped-engineers-at-a-200-daily-ai-budget Comments URL: https://news.ycombinator.com/item?id=50421426 Points: 109 # Comments: 117",
+   "summary": "Article URL: https://www.stork.ai/newsletter/2026-11-08-apple-capped-engineers-at-a-200-daily-ai-budget Comments URL: https://news.ycombinator.com/item?id=50421426 Points: 113 # Comments: 124",
    "published": "2026-11-09T05:30:11+00:00",
    "topics": [],
    "first_seen": "2026-11-09T20:43:39+00:00"
@@ -649,7 +787,7 @@
    "link": "https://matteoraso.github.io/im-not-convinced-the-ai-bubble-exists.html#im-not-convinced-the-ai-bubble-exists",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://matteoraso.github.io/im-not-convinced-the-ai-bubble-exists.html#im-not-convinced-the-ai-bubble-exists Comments URL: https://news.ycombinator.com/item?id=50418975 Points: 533 # Comments: 910",
+   "summary": "Article URL: https://matteoraso.github.io/im-not-convinced-the-ai-bubble-exists.html#im-not-convinced-the-ai-bubble-exists Comments URL: https://news.ycombinator.com/item?id=50418975 Points: 557 # Comments: 948",
    "published": "2026-11-08T23:44:36+00:00",
    "topics": [],
    "first_seen": "2026-11-09T09:47:50+00:00"
@@ -698,7 +836,7 @@
    "link": "https://sergeykuhne.com/blog/fighting-ai-brain-fry",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://sergeykuhne.com/blog/fighting-ai-brain-fry Comments URL: https://news.ycombinator.com/item?id=50416363 Points: 298 # Comments: 206",
+   "summary": "Article URL: https://sergeykuhne.com/blog/fighting-ai-brain-fry Comments URL: https://news.ycombinator.com/item?id=50416363 Points: 307 # Comments: 212",
    "published": "2026-11-08T19:37:42+00:00",
    "topics": [],
    "first_seen": "2026-11-09T01:43:49+00:00"
@@ -722,7 +860,7 @@
    "link": "https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers Comments URL: https://news.ycombinator.com/item?id=50415628 Points: 874 # Comments: 470",
+   "summary": "Article URL: https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers Comments URL: https://news.ycombinator.com/item?id=50415628 Points: 891 # Comments: 483",
    "published": "2026-11-08T18:16:07+00:00",
    "topics": [
     "Models"
@@ -748,7 +886,7 @@
    "link": "https://caleb.software/posts/claude-to-pi.html",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://caleb.software/posts/claude-to-pi.html Comments URL: https://news.ycombinator.com/item?id=50410107 Points: 801 # Comments: 483",
+   "summary": "Article URL: https://caleb.software/posts/claude-to-pi.html Comments URL: https://news.ycombinator.com/item?id=50410107 Points: 808 # Comments: 488",
    "published": "2026-11-08T03:11:48+00:00",
    "topics": [
     "Models"
@@ -761,7 +899,7 @@
    "link": "https://www.science.org/content/article/wearable-device-makers-are-harvesting-brain-data-train-ai-without-telling-users",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://www.science.org/content/article/wearable-device-makers-are-harvesting-brain-data-train-ai-without-telling-users Comments URL: https://news.ycombinator.com/item?id=50409856 Points: 119 # Comments: 96",
+   "summary": "Article URL: https://www.science.org/content/article/wearable-device-makers-are-harvesting-brain-data-train-ai-without-telling-users Comments URL: https://news.ycombinator.com/item?id=50409856 Points: 119 # Comments: 97",
    "published": "2026-11-08T02:02:38+00:00",
    "topics": [],
    "first_seen": "2026-11-09T20:43:39+00:00"
@@ -811,7 +949,7 @@
    "link": "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again Comments URL: https://news.ycombinator.com/item?id=50407882 Points: 621 # Comments: 417",
+   "summary": "Article URL: https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again Comments URL: https://news.ycombinator.com/item?id=50407882 Points: 623 # Comments: 424",
    "published": "2026-11-07T20:45:32+00:00",
    "topics": [
     "Models",
@@ -838,7 +976,7 @@
    "link": "https://hunch.net/?p=13764006",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "https://archive.is/AaY5O https://businessexaminer.ca/victoria-articles/item/microsoft... Comments URL: https://news.ycombinator.com/item?id=50406563 Points: 507 # Comments: 309",
+   "summary": "https://archive.is/AaY5O https://businessexaminer.ca/victoria-articles/item/microsoft... Comments URL: https://news.ycombinator.com/item?id=50406563 Points: 510 # Comments: 310",
    "published": "2026-11-07T18:02:17+00:00",
    "topics": [
     "Research"
@@ -886,7 +1024,7 @@
    "link": "https://www.kadoa.com/companies/insights/ai-selloff-perspective",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://www.kadoa.com/companies/insights/ai-selloff-perspective Comments URL: https://news.ycombinator.com/item?id=50401029 Points: 100 # Comments: 84",
+   "summary": "Article URL: https://www.kadoa.com/companies/insights/ai-selloff-perspective Comments URL: https://news.ycombinator.com/item?id=50401029 Points: 101 # Comments: 84",
    "published": "2026-11-07T02:20:06+00:00",
    "topics": [],
    "first_seen": "2026-11-09T20:43:39+00:00"
@@ -974,7 +1112,7 @@
    "link": "https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai Comments URL: https://news.ycombinator.com/item?id=50397994 Points: 375 # Comments: 358",
+   "summary": "Article URL: https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai Comments URL: https://news.ycombinator.com/item?id=50397994 Points: 377 # Comments: 360",
    "published": "2026-11-06T20:27:23+00:00",
    "topics": [
     "Research"
@@ -1279,7 +1417,7 @@
    "link": "https://www.lesswrong.com/posts/DALNiKBjMGMF8grme/arjun-panickssery-s-shortform?commentId=fJtaHHHfx45tD7BSL",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://www.lesswrong.com/posts/DALNiKBjMGMF8grme/arjun-panickssery-s-shortform?commentId=fJtaHHHfx45tD7BSL Comments URL: https://news.ycombinator.com/item?id=50388513 Points: 221 # Comments: 222",
+   "summary": "Article URL: https://www.lesswrong.com/posts/DALNiKBjMGMF8grme/arjun-panickssery-s-shortform?commentId=fJtaHHHfx45tD7BSL Comments URL: https://news.ycombinator.com/item?id=50388513 Points: 221 # Comments: 225",
    "published": "2026-11-06T05:19:04+00:00",
    "topics": [],
    "first_seen": "2026-11-06T15:55:13+00:00"
@@ -11569,30 +11707,6 @@
    "summary": "Voice AI often misses important points for its context layer, and causes the whole pipeline to break.",
    "published": "2026-10-11T14:00:00+00:00",
    "topics": [],
-   "first_seen": "2026-10-11T16:19:26+00:00"
-  },
-  {
-   "id": "2ecde3f57bd91ef1",
-   "title": "Using AI for just 10 minutes erodes your ability to persist at hard things",
-   "link": "https://vcresearch.berkeley.edu/news/using-ai-just-10-minutes-erodes-your-ability-persist-hard-things",
-   "source": "Hacker News",
-   "kind": "community",
-   "summary": "Article URL: https://vcresearch.berkeley.edu/news/using-ai-just-10-minutes-erodes-your-ability-persist-hard-things Comments URL: https://news.ycombinator.com/item?id=50041765 Points: 190 # Comments: 147",
-   "published": "2026-10-11T10:47:21+00:00",
-   "topics": [],
-   "first_seen": "2026-10-12T09:12:05+00:00"
-  },
-  {
-   "id": "ea95eacbd85b4f83",
-   "title": "Learning to use local AI is exciting, overwhelming, and frustrating",
-   "link": "https://www.theverge.com/ai-artificial-intelligence/1008484/learning-local-ai-hermes-qwen-model-mac-studio-testing-diary-progress",
-   "source": "The Verge",
-   "kind": "press",
-   "summary": "I'm embarking on a journey I've so far been hesitant to go on: actually using AI on the regular. Giving my most personal data to cloud services has been a major hold up for me, but it's increasingly possible to run powerful models locally to see what they're capable of. Is this…",
-   "published": "2026-10-11T04:53:46+00:00",
-   "topics": [
-    "Models"
-   ],
    "first_seen": "2026-10-11T16:19:26+00:00"
   }
  ]
