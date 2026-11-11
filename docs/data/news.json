@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-11T01:55:36+00:00",
+ "updated": "2026-11-11T09:24:59+00:00",
  "sources": [
   {
    "name": "OpenAI",
@@ -85,9 +85,9 @@
    "name": "Hacker News",
    "url": "https://hnrss.org/newest?q=AI+OR+LLM+OR+GPT+OR+Claude&points=100",
    "kind": "community",
-   "ok": true,
-   "count": 20,
-   "error": null
+   "ok": false,
+   "count": 0,
+   "error": "HTTPError: HTTP Error 502: Bad Gateway"
   }
  ],
  "items": [
@@ -103,6 +103,54 @@
     "Policy"
    ],
    "first_seen": "2026-11-11T01:55:36+00:00"
+  },
+  {
+   "id": "7e65614cc89aac7b",
+   "title": "Experience the art and legacy of Dr. Esther Mahlangu",
+   "link": "https://blog.google/company-news/outreach-and-initiatives/arts-culture/esther-mahlangu/",
+   "source": "Google AI",
+   "kind": "lab",
+   "summary": "",
+   "published": "2026-11-11T09:00:00+00:00",
+   "topics": [],
+   "first_seen": "2026-11-11T09:24:59+00:00"
+  },
+  {
+   "id": "80b38ea7da372c49",
+   "title": "ChatGPT Plus for veterans and servicemembers",
+   "link": "https://openai.com/index/chatgpt-plus-for-veterans",
+   "source": "OpenAI",
+   "kind": "lab",
+   "summary": "More than 20,000 veterans and transitioning service members have claimed a free year of ChatGPT Plus. See how they use it to prepare for civilian careers.",
+   "published": "2026-11-11T08:00:00+00:00",
+   "topics": [],
+   "first_seen": "2026-11-11T09:24:59+00:00"
+  },
+  {
+   "id": "a390f90d4604de89",
+   "title": "Nvidia’s crisis has corporate governance experts reaching for the popcorn",
+   "link": "https://techcrunch.com/2026/11/10/nvidias-crisis-has-corporate-governance-experts-reaching-for-the-popcorn/",
+   "source": "TechCrunch",
+   "kind": "press",
+   "summary": "The governance experts we talked to say nobody has seen anything like what's unfolding right now.",
+   "published": "2026-11-11T07:30:51+00:00",
+   "topics": [
+    "Hardware"
+   ],
+   "first_seen": "2026-11-11T09:24:59+00:00"
+  },
+  {
+   "id": "b22522d14a17f95f",
+   "title": "BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
+   "link": "https://huggingface.co/blog/qvac/botpsy",
+   "source": "Hugging Face",
+   "kind": "lab",
+   "summary": "",
+   "published": "2026-11-11T05:01:16+00:00",
+   "topics": [
+    "Models"
+   ],
+   "first_seen": "2026-11-11T09:24:59+00:00"
   },
   {
    "id": "cd1dc6d6e6bd42c3",
@@ -655,6 +703,20 @@
    "first_seen": "2026-11-10T12:38:49+00:00"
   },
   {
+   "id": "4e3e5904c85ae763",
+   "title": "Singapore Airlines elevates travel & work with OpenAI technology",
+   "link": "https://openai.com/index/singapore-airlines-travel-work",
+   "source": "OpenAI",
+   "kind": "lab",
+   "summary": "Discover how Singapore Airlines uses OpenAI models and API to enhance customer support, travel discovery, and employee productivity, doubling CSAT for its Kris chatbot.",
+   "published": "2026-11-10T08:00:00+00:00",
+   "topics": [
+    "Models",
+    "Tools"
+   ],
+   "first_seen": "2026-11-11T09:24:59+00:00"
+  },
+  {
    "id": "fabe838d73f55c38",
    "title": "Introducing Our Smallest, Most Efficient Model: Muse Ember",
    "link": "https://simonwillison.net/2026/Nov/10/muse-ember/",
@@ -814,6 +876,20 @@
     "Models"
    ],
    "first_seen": "2026-11-10T20:49:34+00:00"
+  },
+  {
+   "id": "1ff74ee2cb106637",
+   "title": "Cogent and OpenAI build cyber defense factories for enterprises",
+   "link": "https://openai.com/index/cogent-security",
+   "source": "OpenAI",
+   "kind": "lab",
+   "summary": "Cogent combines OpenAI models with enterprise context to help automatically remediate vulnerabilities with agents.",
+   "published": "2026-11-10T00:00:00+00:00",
+   "topics": [
+    "Models",
+    "Tools"
+   ],
+   "first_seen": "2026-11-11T09:24:59+00:00"
   },
   {
    "id": "c93c64172e07cb1e",
@@ -12191,20 +12267,6 @@
    "published": "2026-10-12T11:13:10+00:00",
    "topics": [
     "Models",
-    "Tools"
-   ],
-   "first_seen": "2026-10-12T19:48:20+00:00"
-  },
-  {
-   "id": "59e7fc14e8c1a5c7",
-   "title": "datasette-ports 0.4",
-   "link": "https://simonwillison.net/2026/Oct/12/datasette-ports/",
-   "source": "Simon Willison",
-   "kind": "community",
-   "summary": "Release: datasette-ports 0.4 My plugin for detecting and listing all Datasette instances on the current machine now works with the latest version, and displays the detected PID as well. Knowing the PID makes it easier to attach the new Python 3.15 profiler . Tags: datasette",
-   "published": "2026-10-12T04:57:07+00:00",
-   "topics": [
-    "Research",
     "Tools"
    ],
    "first_seen": "2026-10-12T19:48:20+00:00"
