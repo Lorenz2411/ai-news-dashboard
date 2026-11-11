@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-10T20:49:34+00:00",
+ "updated": "2026-11-11T01:55:36+00:00",
  "sources": [
   {
    "name": "OpenAI",
@@ -92,8 +92,86 @@
  ],
  "items": [
   {
+   "id": "f28f90d2895a812c",
+   "title": "Gilbert + Tobin rethinks the business of law with AI",
+   "link": "https://openai.com/index/gilbert-tobin-sam-nickless",
+   "source": "OpenAI",
+   "kind": "lab",
+   "summary": "A conversation with Sam Nickless, Partner and Chief Executive Officer at Gilbert + Tobin.",
+   "published": "2026-11-12T00:00:00+00:00",
+   "topics": [
+    "Policy"
+   ],
+   "first_seen": "2026-11-11T01:55:36+00:00"
+  },
+  {
+   "id": "cd1dc6d6e6bd42c3",
+   "title": "Ring cameras go mobile as Amazon debuts AI-powered security drone and robot",
+   "link": "https://arstechnica.com/ai/2026/11/ring-cameras-go-mobile-as-amazon-debuts-ai-powered-security-drone-and-robot/",
+   "source": "Ars Technica",
+   "kind": "press",
+   "summary": "Amazon's roaming Ring Robotics devices will debut in late 2026 and early 2027.",
+   "published": "2026-11-10T22:35:01+00:00",
+   "topics": [],
+   "first_seen": "2026-11-11T01:55:36+00:00"
+  },
+  {
+   "id": "168143ea4218e6bb",
+   "title": "Apple has new Mac app coming to make running local AI models easy",
+   "link": "https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/",
+   "source": "Hacker News",
+   "kind": "community",
+   "summary": "Article URL: https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/ Comments URL: https://news.ycombinator.com/item?id=50446520 Points: 107 # Comments: 90",
+   "published": "2026-11-10T21:25:03+00:00",
+   "topics": [
+    "Models",
+    "Tools"
+   ],
+   "first_seen": "2026-11-11T01:55:36+00:00"
+  },
+  {
+   "id": "b686da68349e5f78",
+   "title": "Grok Build coding agent leaks oodles of confidential info, some belonging to SpaceXSI",
+   "link": "https://arstechnica.com/security/2026/11/grok-build-coding-agent-leaks-oodles-of-confidential-info-some-belonging-to-spacexsi/",
+   "source": "Ars Technica",
+   "kind": "press",
+   "summary": "Researcher finds 35,000 Grok Build apps wide open to anyone who looked for them.",
+   "published": "2026-11-10T21:12:59+00:00",
+   "topics": [
+    "Models",
+    "Tools"
+   ],
+   "first_seen": "2026-11-11T01:55:36+00:00"
+  },
+  {
+   "id": "bd2a6830d8cf7795",
+   "title": "OpenAI acquires Odessia, travel startup created by Sonder founder",
+   "link": "https://techcrunch.com/2026/11/10/openai-acquires-odessia-travel-startup-created-by-sonder-founder/",
+   "source": "TechCrunch",
+   "kind": "press",
+   "summary": "OpenAI has not yet said what its plans are for the future of travel. But Sonder founder Francis Davidson is a well-known figure in the travel industry.",
+   "published": "2026-11-10T21:08:52+00:00",
+   "topics": [
+    "Business"
+   ],
+   "first_seen": "2026-11-11T01:55:36+00:00"
+  },
+  {
+   "id": "91faed0650f0d054",
+   "title": "OpenAI, Anthropic face new oversight as New York’s AI safety law takes effect",
+   "link": "https://techcrunch.com/2026/11/10/openai-anthropic-face-new-oversight-as-new-yorks-ai-safety-law-takes-effect/",
+   "source": "TechCrunch",
+   "kind": "press",
+   "summary": "New York is preparing to enforce its sweeping AI safety law, requiring major developers like OpenAI and Anthropic to register, disclose safety practices, and report critical incidents or face fines.",
+   "published": "2026-11-10T20:52:13+00:00",
+   "topics": [
+    "Policy"
+   ],
+   "first_seen": "2026-11-11T01:55:36+00:00"
+  },
+  {
    "id": "c4b2e9a50337f305",
-   "title": "What happens to mathematics when AI becames an oracle?",
+   "title": "What happens to mathematics when AI becomes an oracle?",
    "link": "https://arstechnica.com/science/2026/11/what-happens-to-mathematics-when-ai-becames-an-oracle/",
    "source": "Ars Technica",
    "kind": "press",
@@ -101,6 +179,20 @@
    "published": "2026-11-10T20:30:01+00:00",
    "topics": [],
    "first_seen": "2026-11-10T20:49:34+00:00"
+  },
+  {
+   "id": "c1fbfe2e3fcb7bc5",
+   "title": "llm-gemini 0.36",
+   "link": "https://simonwillison.net/2026/Nov/10/llm-gemini/",
+   "source": "Simon Willison",
+   "kind": "community",
+   "summary": "Release: llm-gemini 0.36 Gemini 4 Carbon was announced two weeks ago for \"a subset of cyber defenders\", but today it's available to everyone else . This is Google's best ever Gemini, priced at $2/million input and $10/million output at launch (that's GPT-6.1 Sol / Claude Sonnet…",
+   "published": "2026-11-10T20:09:44+00:00",
+   "topics": [
+    "Models",
+    "Tools"
+   ],
+   "first_seen": "2026-11-11T01:55:36+00:00"
   },
   {
    "id": "9a5bae24e02d25cd",
@@ -188,6 +280,19 @@
    "published": "2026-11-10T18:49:52+00:00",
    "topics": [],
    "first_seen": "2026-11-10T20:49:34+00:00"
+  },
+  {
+   "id": "7737e173e31a5988",
+   "title": "Claude Whiteboards, Claude Sheets, and Claude Data",
+   "link": "https://claude.com/resources/articles/sheets-whiteboards-data",
+   "source": "Hacker News",
+   "kind": "community",
+   "summary": "Article URL: https://claude.com/resources/articles/sheets-whiteboards-data Comments URL: https://news.ycombinator.com/item?id=50443716 Points: 157 # Comments: 132",
+   "published": "2026-11-10T17:55:07+00:00",
+   "topics": [
+    "Models"
+   ],
+   "first_seen": "2026-11-11T01:55:36+00:00"
   },
   {
    "id": "fd8e1c638d2dc1c1",
@@ -519,7 +624,7 @@
    "link": "https://evanxmerz.com/post/ai-usage-generates-a-fragile-codebase/",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://evanxmerz.com/post/ai-usage-generates-a-fragile-codebase/ Comments URL: https://news.ycombinator.com/item?id=50438318 Points: 259 # Comments: 312",
+   "summary": "Article URL: https://evanxmerz.com/post/ai-usage-generates-a-fragile-codebase/ Comments URL: https://news.ycombinator.com/item?id=50438318 Points: 378 # Comments: 405",
    "published": "2026-11-10T10:25:58+00:00",
    "topics": [],
    "first_seen": "2026-11-10T20:49:34+00:00"
@@ -569,7 +674,7 @@
    "link": "https://www.notion.com/help/security-incident-involving-a-third-party-ai-vendor",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://www.notion.com/help/security-incident-involving-a-third-party-ai-vendor Comments URL: https://news.ycombinator.com/item?id=50437106 Points: 153 # Comments: 56",
+   "summary": "Article URL: https://www.notion.com/help/security-incident-involving-a-third-party-ai-vendor Comments URL: https://news.ycombinator.com/item?id=50437106 Points: 159 # Comments: 60",
    "published": "2026-11-10T07:19:38+00:00",
    "topics": [],
    "first_seen": "2026-11-10T20:49:34+00:00"
@@ -630,7 +735,7 @@
    "link": "https://www.cnbc.com/2026/11/06/coreweave-bond-yield-tops-16percent-as-ai-credit-stress-rises.html",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://www.cnbc.com/2026/11/06/coreweave-bond-yield-tops-16percent-as-ai-credit-stress-rises.html Comments URL: https://news.ycombinator.com/item?id=50435660 Points: 190 # Comments: 180",
+   "summary": "Article URL: https://www.cnbc.com/2026/11/06/coreweave-bond-yield-tops-16percent-as-ai-credit-stress-rises.html Comments URL: https://news.ycombinator.com/item?id=50435660 Points: 191 # Comments: 186",
    "published": "2026-11-10T03:20:06+00:00",
    "topics": [],
    "first_seen": "2026-11-10T12:38:49+00:00"
@@ -798,7 +903,7 @@
    "link": "https://www.reddit.com/r/ClaudeCode/comments/1xq2n3t/a_year_after_the_100_ai_mandate_nobody/",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "https://redlib.catsarch.com/r/ClaudeCode/comments/1xq2n3t/a_... Comments URL: https://news.ycombinator.com/item?id=50433079 Points: 144 # Comments: 186",
+   "summary": "https://redlib.catsarch.com/r/ClaudeCode/comments/1xq2n3t/a_... Comments URL: https://news.ycombinator.com/item?id=50433079 Points: 151 # Comments: 192",
    "published": "2026-11-09T22:19:12+00:00",
    "topics": [],
    "first_seen": "2026-11-10T12:38:49+00:00"
@@ -822,7 +927,7 @@
    "link": "https://artificialanalysis.ai/models/claude-fable-5-2",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://artificialanalysis.ai/models/claude-fable-5-2 Comments URL: https://news.ycombinator.com/item?id=50431144 Points: 368 # Comments: 265",
+   "summary": "Article URL: https://artificialanalysis.ai/models/claude-fable-5-2 Comments URL: https://news.ycombinator.com/item?id=50431144 Points: 372 # Comments: 268",
    "published": "2026-11-09T20:04:55+00:00",
    "topics": [
     "Models"
@@ -938,7 +1043,7 @@
    "link": "https://github.com/Dodaios/ste80-humanizer",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://github.com/Dodaios/ste80-humanizer Comments URL: https://news.ycombinator.com/item?id=50429144 Points: 104 # Comments: 38",
+   "summary": "Article URL: https://github.com/Dodaios/ste80-humanizer Comments URL: https://news.ycombinator.com/item?id=50429144 Points: 105 # Comments: 39",
    "published": "2026-11-09T18:05:44+00:00",
    "topics": [],
    "first_seen": "2026-11-10T20:49:34+00:00"
@@ -949,7 +1054,7 @@
    "link": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://www.anthropic.com/claude-fable-and-mythos-5-2 Comments URL: https://news.ycombinator.com/item?id=50429068 Points: 857 # Comments: 978",
+   "summary": "Article URL: https://www.anthropic.com/claude-fable-and-mythos-5-2 Comments URL: https://news.ycombinator.com/item?id=50429068 Points: 877 # Comments: 1004",
    "published": "2026-11-09T18:01:10+00:00",
    "topics": [
     "Models"
@@ -1218,7 +1323,7 @@
    "link": "https://www.stork.ai/newsletter/2026-11-08-apple-capped-engineers-at-a-200-daily-ai-budget",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://www.stork.ai/newsletter/2026-11-08-apple-capped-engineers-at-a-200-daily-ai-budget Comments URL: https://news.ycombinator.com/item?id=50421426 Points: 113 # Comments: 124",
+   "summary": "Article URL: https://www.stork.ai/newsletter/2026-11-08-apple-capped-engineers-at-a-200-daily-ai-budget Comments URL: https://news.ycombinator.com/item?id=50421426 Points: 113 # Comments: 125",
    "published": "2026-11-09T05:30:11+00:00",
    "topics": [],
    "first_seen": "2026-11-09T20:43:39+00:00"
@@ -1267,7 +1372,7 @@
    "link": "https://matteoraso.github.io/im-not-convinced-the-ai-bubble-exists.html#im-not-convinced-the-ai-bubble-exists",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://matteoraso.github.io/im-not-convinced-the-ai-bubble-exists.html#im-not-convinced-the-ai-bubble-exists Comments URL: https://news.ycombinator.com/item?id=50418975 Points: 562 # Comments: 957",
+   "summary": "Article URL: https://matteoraso.github.io/im-not-convinced-the-ai-bubble-exists.html#im-not-convinced-the-ai-bubble-exists Comments URL: https://news.ycombinator.com/item?id=50418975 Points: 564 # Comments: 958",
    "published": "2026-11-08T23:44:36+00:00",
    "topics": [],
    "first_seen": "2026-11-09T09:47:50+00:00"
@@ -1316,7 +1421,7 @@
    "link": "https://sergeykuhne.com/blog/fighting-ai-brain-fry",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://sergeykuhne.com/blog/fighting-ai-brain-fry Comments URL: https://news.ycombinator.com/item?id=50416363 Points: 308 # Comments: 213",
+   "summary": "Article URL: https://sergeykuhne.com/blog/fighting-ai-brain-fry Comments URL: https://news.ycombinator.com/item?id=50416363 Points: 310 # Comments: 215",
    "published": "2026-11-08T19:37:42+00:00",
    "topics": [],
    "first_seen": "2026-11-09T01:43:49+00:00"
@@ -1340,7 +1445,7 @@
    "link": "https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers Comments URL: https://news.ycombinator.com/item?id=50415628 Points: 896 # Comments: 488",
+   "summary": "Article URL: https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers Comments URL: https://news.ycombinator.com/item?id=50415628 Points: 898 # Comments: 488",
    "published": "2026-11-08T18:16:07+00:00",
    "topics": [
     "Models"
@@ -1366,7 +1471,7 @@
    "link": "https://caleb.software/posts/claude-to-pi.html",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://caleb.software/posts/claude-to-pi.html Comments URL: https://news.ycombinator.com/item?id=50410107 Points: 813 # Comments: 489",
+   "summary": "Article URL: https://caleb.software/posts/claude-to-pi.html Comments URL: https://news.ycombinator.com/item?id=50410107 Points: 814 # Comments: 491",
    "published": "2026-11-08T03:11:48+00:00",
    "topics": [
     "Models"
@@ -1429,7 +1534,7 @@
    "link": "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again Comments URL: https://news.ycombinator.com/item?id=50407882 Points: 624 # Comments: 426",
+   "summary": "Article URL: https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again Comments URL: https://news.ycombinator.com/item?id=50407882 Points: 624 # Comments: 427",
    "published": "2026-11-07T20:45:32+00:00",
    "topics": [
     "Models",
@@ -1592,7 +1697,7 @@
    "link": "https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai Comments URL: https://news.ycombinator.com/item?id=50397994 Points: 377 # Comments: 360",
+   "summary": "Article URL: https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai Comments URL: https://news.ycombinator.com/item?id=50397994 Points: 378 # Comments: 360",
    "published": "2026-11-06T20:27:23+00:00",
    "topics": [
     "Research"
@@ -12103,32 +12208,6 @@
     "Tools"
    ],
    "first_seen": "2026-10-12T19:48:20+00:00"
-  },
-  {
-   "id": "ce7cbe0fa7852207",
-   "title": "Show HN: Atticus – Hold-to-talk voice assistant for macOS that runs on Claude -p",
-   "link": "https://github.com/SaarthurR/atticus-mac",
-   "source": "Hacker News",
-   "kind": "community",
-   "summary": "Hi HN! I'm Saarth. I'm in 9th grade, and I built Atticus. Atticus is a fast and cheap Mac assistant that can do tasks for you. You hold down Control-Option-Space, speak or type your task, be it complex or a simple browser search, and Atticus will get on it. The interesting part…",
-   "published": "2026-10-12T00:15:12+00:00",
-   "topics": [
-    "Models"
-   ],
-   "first_seen": "2026-10-13T17:36:05+00:00"
-  },
-  {
-   "id": "2a599db62b35d5c3",
-   "title": "Will the HomeView be Apple’s first smart home success?",
-   "link": "https://techcrunch.com/2026/10/11/will-the-homeview-be-apples-first-smart-home-success/",
-   "source": "TechCrunch",
-   "kind": "press",
-   "summary": "Over the past couple of years, we’ve seen multiple reports that Apple was working on a new smart home product, but now it seems the product has a name and a launch date.",
-   "published": "2026-10-11T21:14:40+00:00",
-   "topics": [
-    "Tools"
-   ],
-   "first_seen": "2026-10-11T21:57:54+00:00"
   }
  ]
 }
