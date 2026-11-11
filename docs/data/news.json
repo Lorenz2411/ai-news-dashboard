@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-11T09:24:59+00:00",
+ "updated": "2026-11-11T17:53:22+00:00",
  "sources": [
   {
    "name": "OpenAI",
@@ -105,6 +105,151 @@
    "first_seen": "2026-11-11T01:55:36+00:00"
   },
   {
+   "id": "9e2e1c68cf1b43c9",
+   "title": "Big Walk used AI to fix a bug. Now the indie gaming world is having a reckoning.",
+   "link": "https://arstechnica.com/gaming/2026/11/big-walk-used-ai-to-fix-a-bug-now-the-indie-gaming-world-is-having-a-reckoning/",
+   "source": "Ars Technica",
+   "kind": "press",
+   "summary": "Any amount of AI coding is too much for many Indie Game Festival judges.",
+   "published": "2026-11-11T17:37:32+00:00",
+   "topics": [],
+   "first_seen": "2026-11-11T17:53:22+00:00"
+  },
+  {
+   "id": "32bc3a2f6211a8fe",
+   "title": "Is Jensen Huang’s bad behavior more commonplace than it seems?",
+   "link": "https://techcrunch.com/2026/11/11/is-jensen-huangs-bad-behavior-more-commonplace-than-it-seems/",
+   "source": "TechCrunch",
+   "kind": "press",
+   "summary": "“There are a lot of senior people in the industry that know this is happening, and are effectively condoning it,” an investment intel consultant said.",
+   "published": "2026-11-11T16:16:07+00:00",
+   "topics": [
+    "Business"
+   ],
+   "first_seen": "2026-11-11T17:53:22+00:00"
+  },
+  {
+   "id": "29f521837a1e4833",
+   "title": "OpenAI’s quarterly revenue reportedly crosses $10B for the first time",
+   "link": "https://techcrunch.com/2026/11/11/openais-quarterly-revenue-reportedly-crosses-10b-for-the-first-time/",
+   "source": "TechCrunch",
+   "kind": "press",
+   "summary": "Sales of $10B represents an almost 50% jump from revenue of $6.7 billion the company recorded in the second quarter.",
+   "published": "2026-11-11T16:14:44+00:00",
+   "topics": [
+    "Business"
+   ],
+   "first_seen": "2026-11-11T17:53:22+00:00"
+  },
+  {
+   "id": "97adab01dbf7344a",
+   "title": "Try Tabletop: Customizable, collaborative spaces for groups to plan, play and do more together.",
+   "link": "https://blog.google/innovation-and-ai/models-and-research/google-labs/tabletop/",
+   "source": "Google AI",
+   "kind": "lab",
+   "summary": "",
+   "published": "2026-11-11T16:00:00+00:00",
+   "topics": [],
+   "first_seen": "2026-11-11T17:53:22+00:00"
+  },
+  {
+   "id": "a19ce5d70afc97e2",
+   "title": "Anthropic's IPO roadshow video",
+   "link": "https://simonwillison.net/2026/Nov/11/anthropic-ipo-roadshow/",
+   "source": "Simon Willison",
+   "kind": "community",
+   "summary": "Anthropic's IPO roadshow video Anthropic kicked off their IPO roadshow yesterday, and their roadshow video has some previously unreleased information about how their business works. The section on \"Approach to compute\" with co-founder Tom Brown is particularly interesting…",
+   "published": "2026-11-11T15:11:59+00:00",
+   "topics": [
+    "Business"
+   ],
+   "first_seen": "2026-11-11T17:53:22+00:00"
+  },
+  {
+   "id": "5b916f1bea878c9c",
+   "title": "AlphaGenome 2: Deciphering how cells read DNA to better understand disease",
+   "link": "https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/",
+   "source": "Google DeepMind",
+   "kind": "lab",
+   "summary": "Predicting how DNA sequences and their variations impact specific human cell types and disease.",
+   "published": "2026-11-11T15:00:15+00:00",
+   "topics": [],
+   "first_seen": "2026-11-11T17:53:22+00:00"
+  },
+  {
+   "id": "7d4c517a6890da29",
+   "title": "Databricks’ new AI agent tells CEO Ali Ghodsi the unvarnished truth",
+   "link": "https://techcrunch.com/2026/11/11/databricks-new-ai-agent-tells-ceo-ali-ghodsi-the-unvarnished-truth/",
+   "source": "TechCrunch",
+   "kind": "press",
+   "summary": "At 12,000 employees, AI Ghodsi is the first to admit that he can't know everyone and that they are unlikely to confess the things that go wrong to him. But he doesn't need them to. He uses Databricks' newly revised Genie agent for that.",
+   "published": "2026-11-11T15:00:00+00:00",
+   "topics": [
+    "Tools"
+   ],
+   "first_seen": "2026-11-11T17:53:22+00:00"
+  },
+  {
+   "id": "a86af765ffafecba",
+   "title": "Google’s AlphaGenome 2 zooms in on the cellular roots of disease",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/1031524/google-deepmind-alphagenome-2-genetic-ai-model",
+   "source": "The Verge",
+   "kind": "press",
+   "summary": "Researchers at Google DeepMind have unveiled a new AI model designed to unravel how changes in our DNA affect different cells, giving scientists a more detailed view of a notoriously difficult problem that could hold important clues to the causes of disease - and point the way…",
+   "published": "2026-11-11T14:18:08+00:00",
+   "topics": [
+    "Models"
+   ],
+   "first_seen": "2026-11-11T17:53:22+00:00"
+  },
+  {
+   "id": "2d8f602ac5a8eead",
+   "title": "Google’s Tabletop AI experiment lets you build custom collaboration apps",
+   "link": "https://www.theverge.com/tech/1031526/google-tabletop-ai-experiment-waitlist-availability",
+   "source": "The Verge",
+   "kind": "press",
+   "summary": "Google has cooked up a new experimental AI tool called Tabletop that generates customized collaborative hubs to help you coordinate with family, and friends. The Tabletop platform shares some visual similarities with workplace management apps like Asana and Monday, but with a…",
+   "published": "2026-11-11T14:15:27+00:00",
+   "topics": [],
+   "first_seen": "2026-11-11T17:53:22+00:00"
+  },
+  {
+   "id": "ef892408bebc346b",
+   "title": "Google DeepMind just mathematically verified key parts of Signal",
+   "link": "https://arstechnica.com/ai/2026/11/signals-encryption-just-passed-an-ai-powered-mathematical-checkup/",
+   "source": "Ars Technica",
+   "kind": "press",
+   "summary": "The four-week project hints that AI could make formal verification far more practical.",
+   "published": "2026-11-11T14:08:57+00:00",
+   "topics": [],
+   "first_seen": "2026-11-11T17:53:22+00:00"
+  },
+  {
+   "id": "7c021a2e6c5bb952",
+   "title": "Plurai wants to help AI agents work better using the same approach that helped get self-driving cars to roads",
+   "link": "https://techcrunch.com/2026/11/11/plurai-wants-to-help-ai-agents-work-better-using-the-same-approach-that-helped-get-self-driving-cars-to-roads/",
+   "source": "TechCrunch",
+   "kind": "press",
+   "summary": "Like the end-to-end models trained to drive cars, AI agents are probabilistic systems operating in unpredictable environments.",
+   "published": "2026-11-11T14:00:00+00:00",
+   "topics": [
+    "Models",
+    "Tools"
+   ],
+   "first_seen": "2026-11-11T17:53:22+00:00"
+  },
+  {
+   "id": "450a9863af999dab",
+   "title": "Adobe’s AI experiments let you walk around in photos and interview your characters",
+   "link": "https://www.theverge.com/tech/1031505/adobe-max-2026-sneaks-experiments-ai",
+   "source": "The Verge",
+   "kind": "press",
+   "summary": "Some of the most impressive tech that Adobe showcases at its annual Max conference each year is the experimental features it's developing, and the latest of those tools are being announced today: they can transform images into explorable 3D scenes, design AI characters by…",
+   "published": "2026-11-11T12:56:24+00:00",
+   "topics": [],
+   "first_seen": "2026-11-11T17:53:22+00:00"
+  },
+  {
    "id": "7e65614cc89aac7b",
    "title": "Experience the art and legacy of Dr. Esther Mahlangu",
    "link": "https://blog.google/company-news/outreach-and-initiatives/arts-culture/esther-mahlangu/",
@@ -151,6 +296,19 @@
     "Models"
    ],
    "first_seen": "2026-11-11T09:24:59+00:00"
+  },
+  {
+   "id": "d2296a64c0dc3b89",
+   "title": "Token Pooling-Aware Training for Multi-Vector Embedding Models",
+   "link": "https://huggingface.co/blog/token-pooling",
+   "source": "Hugging Face",
+   "kind": "lab",
+   "summary": "",
+   "published": "2026-11-11T00:00:00+00:00",
+   "topics": [
+    "Models"
+   ],
+   "first_seen": "2026-11-11T17:53:22+00:00"
   },
   {
    "id": "cd1dc6d6e6bd42c3",
@@ -12077,196 +12235,6 @@
    "topics": [
     "Models",
     "Research",
-    "Tools"
-   ],
-   "first_seen": "2026-10-12T19:48:20+00:00"
-  },
-  {
-   "id": "b4c6a3e5aa4cab30",
-   "title": "Russia was not ready for the data center war it started with Ukraine",
-   "link": "https://arstechnica.com/gadgets/2026/10/russia-was-not-ready-for-the-data-center-war-it-started-with-ukraine/",
-   "source": "Ars Technica",
-   "kind": "press",
-   "summary": "Russian bloggers warn Russia’s hyper-centralized digital economy is vulnerable.",
-   "published": "2026-10-12T17:52:36+00:00",
-   "topics": [
-    "Hardware"
-   ],
-   "first_seen": "2026-10-12T19:48:20+00:00"
-  },
-  {
-   "id": "8e8b602fc5f53407",
-   "title": "WindBorne wins a hefty US Air Force contract for its balloon data",
-   "link": "https://techcrunch.com/2026/10/12/windborne-wins-a-hefty-us-air-force-contract-for-its-balloon-data/",
-   "source": "TechCrunch",
-   "kind": "press",
-   "summary": "A Silicon Valley startup that uses weather balloons and AI to predict the weather won a U.S. military contract worth almost $50 million.",
-   "published": "2026-10-12T17:19:14+00:00",
-   "topics": [
-    "Business"
-   ],
-   "first_seen": "2026-10-12T19:48:20+00:00"
-  },
-  {
-   "id": "131f413269cf581f",
-   "title": "Profiling web-edit with Python 3.15: flame graphs and source heatmaps",
-   "link": "https://simonwillison.net/2026/Oct/12/python-3-15-web-edit-profiling/",
-   "source": "Simon Willison",
-   "kind": "community",
-   "summary": "Research: Profiling web-edit with Python 3.15: flame graphs and source heatmaps I put the new Python 3.15 profiler through its paces by having GPT-6 Astra Extra High in Codex run it against my new web-edit app : I need a Python 3.15 flame graph and heatmap demo of the \"web-edit\"…",
-   "published": "2026-10-12T16:58:00+00:00",
-   "topics": [
-    "Models",
-    "Research",
-    "Tools"
-   ],
-   "first_seen": "2026-10-13T22:44:39+00:00"
-  },
-  {
-   "id": "93062c67d6f00e76",
-   "title": "web-edit 0.1a0",
-   "link": "https://simonwillison.net/2026/Oct/12/web-edit/",
-   "source": "Simon Willison",
-   "kind": "community",
-   "summary": "Release: web-edit 0.1a0 I was working on a project from my phone using Codex Remote when I found myself wanting to edit a credentials file without round-tripping those credentials through the LLM itself. So... I had Codex and GPT-6 Astra Extra High build this Python web app…",
-   "published": "2026-10-12T15:54:36+00:00",
-   "topics": [
-    "Models",
-    "Tools"
-   ],
-   "first_seen": "2026-10-13T02:00:38+00:00"
-  },
-  {
-   "id": "fa08cc00ea9a27a9",
-   "title": "Honeyjar offers AI tools to improve PR and comms at every company",
-   "link": "https://techcrunch.com/2026/10/12/honeyjar-offers-ai-tools-to-improve-pr-and-comms-at-every-company/",
-   "source": "TechCrunch",
-   "kind": "press",
-   "summary": "Journalists, entrepreneurs, and even some public relations professionals will tell you that the PR process is broken. But could AI actually make things better?",
-   "published": "2026-10-12T15:45:00+00:00",
-   "topics": [],
-   "first_seen": "2026-10-12T19:48:20+00:00"
-  },
-  {
-   "id": "da2cafd8b4908248",
-   "title": "Microsoft president says UK is best placed to drive AI regulation",
-   "link": "https://techcrunch.com/2026/10/12/microsoft-president-says-uk-is-best-placed-to-drive-ai-regulation/",
-   "source": "TechCrunch",
-   "kind": "press",
-   "summary": "Microsoft president Brad Smith calls for urgent AI regulation, saying milk and washing machines have more oversight than AI companies.",
-   "published": "2026-10-12T15:31:19+00:00",
-   "topics": [
-    "Policy"
-   ],
-   "first_seen": "2026-10-12T19:48:20+00:00"
-  },
-  {
-   "id": "6ecbcc7a7d94a271",
-   "title": "This AI startup says it can generate permit-ready blueprints in minutes",
-   "link": "https://techcrunch.com/2026/10/12/this-ai-startup-says-it-can-generate-permit-ready-blueprints-in-minutes/",
-   "source": "TechCrunch",
-   "kind": "press",
-   "summary": "Blueprints AI, a bootstrapped startup based in Santa Monica, developed software that produces code-compliant construction blueprints from a photo, PDF, or sketch.",
-   "published": "2026-10-12T15:27:59+00:00",
-   "topics": [
-    "Business"
-   ],
-   "first_seen": "2026-10-12T19:48:20+00:00"
-  },
-  {
-   "id": "f869ceb5043b48af",
-   "title": "Kevin Kelly's 2016 AI Predictions, 10 Years Later",
-   "link": "https://taylor.town/kk-ai-2026",
-   "source": "Hacker News",
-   "kind": "community",
-   "summary": "Article URL: https://taylor.town/kk-ai-2026 Comments URL: https://news.ycombinator.com/item?id=50057668 Points: 218 # Comments: 88",
-   "published": "2026-10-12T15:16:45+00:00",
-   "topics": [],
-   "first_seen": "2026-10-13T17:36:05+00:00"
-  },
-  {
-   "id": "a1c039e95c8c9060",
-   "title": "Why aren't AI companies being charged for hacking?",
-   "link": "https://mortoray.com/why-arent-ai-companies-being-charged-for-hacking/",
-   "source": "Hacker News",
-   "kind": "community",
-   "summary": "Article URL: https://mortoray.com/why-arent-ai-companies-being-charged-for-hacking/ Comments URL: https://news.ycombinator.com/item?id=50057278 Points: 335 # Comments: 368",
-   "published": "2026-10-12T14:52:37+00:00",
-   "topics": [],
-   "first_seen": "2026-10-12T19:48:20+00:00"
-  },
-  {
-   "id": "47c2a6e011d8ec69",
-   "title": "TechCrunch Disrupt 2026 starts tomorrow: Your final chance to secure up to $100 ticket savings",
-   "link": "https://techcrunch.com/2026/10/12/techcrunch-disrupt-2026-starts-tomorrow-your-final-chance-to-secure-up-to-100-ticket-savings/",
-   "source": "TechCrunch",
-   "kind": "press",
-   "summary": "Tomorrow at 8 a.m. PT, it all begins z— 10,000+ founders, investors, and tech operators will gather at San Francisco’s Moscone West for TechCrunch Disrupt 2026 for three days of ideas, connections, and startups shaping what comes next. This is your last 24 hours to secure ticket…",
-   "published": "2026-10-12T14:00:00+00:00",
-   "topics": [
-    "Business"
-   ],
-   "first_seen": "2026-10-12T19:48:20+00:00"
-  },
-  {
-   "id": "f35a073890448086",
-   "title": "Microsoft’s new AI chip makes it less reliant on Nvidia’s GPUs",
-   "link": "https://www.theverge.com/news/1009465/microsoft-maia-300-chip-improvements-rollout",
-   "source": "The Verge",
-   "kind": "press",
-   "summary": "Microsoft is announcing its third-generation Maia in-house AI chip today, designed to be the \"primary AI inference system\" for Microsoft's products and services. Maia 300 not only improves the cost and efficiency of running AI workloads in the cloud, it's also more capable of…",
-   "published": "2026-10-12T13:33:06+00:00",
-   "topics": [
-    "Hardware"
-   ],
-   "first_seen": "2026-10-12T19:48:20+00:00"
-  },
-  {
-   "id": "3ea17d5e396158ce",
-   "title": "Former Plaud exec raises $26M for AI app that listens to you in the background",
-   "link": "https://techcrunch.com/2026/10/12/former-plaud-exec-raises-26m-for-ai-app-that-listens-to-you-in-the-background/",
-   "source": "TechCrunch",
-   "kind": "press",
-   "summary": "One of the core promises of AI is that the more it knows about a person, the better it will be able to assist them with tasks and make appropriate suggestions, which, if you'll believe the tech companies, requires apps and devices to listen, watch, or record users' activity all…",
-   "published": "2026-10-12T12:47:59+00:00",
-   "topics": [
-    "Business",
-    "Tools"
-   ],
-   "first_seen": "2026-10-12T19:48:20+00:00"
-  },
-  {
-   "id": "5dfaa1d43f85e664",
-   "title": "Amazon has over 1 million robot workers. What’s next for human employees?",
-   "link": "https://arstechnica.com/ai/2026/10/inside-amazons-robotic-arms-race-and-what-it-means-for-the-future-of-human-work/",
-   "source": "Ars Technica",
-   "kind": "press",
-   "summary": "The second-largest corporate employer has bet big on robot workers to scale.",
-   "published": "2026-10-12T12:43:10+00:00",
-   "topics": [],
-   "first_seen": "2026-10-12T19:48:20+00:00"
-  },
-  {
-   "id": "c68c034bd72cd63d",
-   "title": "QGIS enacts moratorium on AI contributions",
-   "link": "https://github.com/qgis/QGIS-Enhancement-Proposals/pull/387",
-   "source": "Hacker News",
-   "kind": "community",
-   "summary": "https://lists.osgeo.org/pipermail/qgis-developer/2026-Septem... Comments URL: https://news.ycombinator.com/item?id=50054751 Points: 392 # Comments: 409",
-   "published": "2026-10-12T11:22:24+00:00",
-   "topics": [],
-   "first_seen": "2026-10-12T19:48:20+00:00"
-  },
-  {
-   "id": "5b0bbc20b589187e",
-   "title": "Meta has some Wonder Full new AI models",
-   "link": "https://www.theverge.com/ai-artificial-intelligence/1009479/meta-muse-wonder-full-ai-model",
-   "source": "The Verge",
-   "kind": "press",
-   "summary": "Meta is making up for lost time in the AI race. After launching Muse Spark, the first model from its revamped Superintelligence Labs division, and buzzy AI agent Muse, it's now launching two new models it claims can go toe-to-toe with the industry's best. The new models, Muse…",
-   "published": "2026-10-12T11:13:10+00:00",
-   "topics": [
-    "Models",
     "Tools"
    ],
    "first_seen": "2026-10-12T19:48:20+00:00"
