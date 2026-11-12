@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-12T09:50:23+00:00",
+ "updated": "2026-11-12T18:19:11+00:00",
  "sources": [
   {
    "name": "OpenAI",
@@ -85,12 +85,330 @@
    "name": "Hacker News",
    "url": "https://hnrss.org/newest?q=AI+OR+LLM+OR+GPT+OR+Claude&points=100",
    "kind": "community",
-   "ok": true,
-   "count": 20,
-   "error": null
+   "ok": false,
+   "count": 0,
+   "error": "HTTPError: HTTP Error 502: Bad Gateway"
   }
  ],
  "items": [
+  {
+   "id": "d545fdc617b9aefd",
+   "title": "Oh, Palantir is ‘progressive’ now, is it?",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/1032126/alex-baby-you-were-recorded-on-video",
+   "source": "The Verge",
+   "kind": "press",
+   "summary": "I had other things to do today, but Alex Karp's pathetic attempt to pivot back to the left gave me no choice but to put them on hold. Last week's elections were a bloodbath for the right, a problem for all the wannabe fash founders who had tied their political fortunes to a…",
+   "published": "2026-11-12T18:06:54+00:00",
+   "topics": [],
+   "first_seen": "2026-11-12T18:19:11+00:00"
+  },
+  {
+   "id": "4bad5afe01a19f79",
+   "title": "Introducing Gemini 4 Hydrogen",
+   "link": "https://deepmind.google/blog/introducing-gemini-4-hydrogen/",
+   "source": "Google DeepMind",
+   "kind": "lab",
+   "summary": "",
+   "published": "2026-11-12T18:00:50+00:00",
+   "topics": [
+    "Models"
+   ],
+   "first_seen": "2026-11-12T18:19:11+00:00"
+  },
+  {
+   "id": "459a57b4750adf48",
+   "title": "Google Search gets a major upgrade with Gemini 4 Hydrogen",
+   "link": "https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade/",
+   "source": "Google AI",
+   "kind": "lab",
+   "summary": "",
+   "published": "2026-11-12T18:00:00+00:00",
+   "topics": [
+    "Models"
+   ],
+   "first_seen": "2026-11-12T18:19:11+00:00"
+  },
+  {
+   "id": "96892311de09e14b",
+   "title": "The Jensen Huang scandal is hardly over",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/1032069/jensen-huang-resignation-affair-chips-smuggling",
+   "source": "The Verge",
+   "kind": "press",
+   "summary": "I was certain, until the story of Jensen Huang's second affair hit, that Huang was bulletproof. After all, why wouldn't he be? He's placed himself indispensably at the center of the AI industry and famously had no succession plan at Nvidia. In fact, he's the only CEO Nvidia has…",
+   "published": "2026-11-12T17:52:23+00:00",
+   "topics": [
+    "Hardware"
+   ],
+   "first_seen": "2026-11-12T18:19:11+00:00"
+  },
+  {
+   "id": "deea79b353aff377",
+   "title": "Hugging Face CEO vows to keep fighting for open-source AI after Jensen Huang’s exit",
+   "link": "https://techcrunch.com/2026/11/12/hugging-face-ceo-vows-to-keep-fighting-for-open-source-ai-after-jensen-huangs-exit/",
+   "source": "TechCrunch",
+   "kind": "press",
+   "summary": "Hugging Face's CEO pledged to keep fighting for open-source AI after Huang's exit, raising questions about Nvidia's $12.9B acquisition.",
+   "published": "2026-11-12T17:36:40+00:00",
+   "topics": [
+    "Tools",
+    "Hardware"
+   ],
+   "first_seen": "2026-11-12T18:19:11+00:00"
+  },
+  {
+   "id": "4a6d92631407ef3c",
+   "title": "Nvidia is reportedly preparing to fire Jensen Huang",
+   "link": "https://www.theverge.com/tech/1031652/jensen-huang-rumor",
+   "source": "The Verge",
+   "kind": "press",
+   "summary": "Nvidia's board is preparing to dismiss CEO Jensen Huang following a report from The New York Times about a second alleged extramarital affair, just days after he admitted to a separate affair with a woman alleged to be a Chinese spy, The Wall Street Journal reports. The second…",
+   "published": "2026-11-12T17:35:37+00:00",
+   "topics": [
+    "Hardware"
+   ],
+   "first_seen": "2026-11-12T00:43:14+00:00"
+  },
+  {
+   "id": "4213b9afeff9a7e6",
+   "title": "More game developers are starting to use generative AI",
+   "link": "https://www.theverge.com/games/1032085/gdc-festival-of-gaming-annual-survey-ai-layoffs",
+   "source": "The Verge",
+   "kind": "press",
+   "summary": "More video game developers are using generative AI tools in their jobs compared to last year, according to the GDC Festival of Gaming's latest annual industry survey. Forty percent of developers surveyed say they use it \"as part of their job,\" an increase from 36 percent in…",
+   "published": "2026-11-12T17:24:09+00:00",
+   "topics": [],
+   "first_seen": "2026-11-12T18:19:11+00:00"
+  },
+  {
+   "id": "ddf7a6c150d0e1d1",
+   "title": "SoftBank’s billion-dollar loss may have put a cap on AI’s natural gas ambitions",
+   "link": "https://techcrunch.com/2026/11/12/softbanks-billion-dollar-loss-may-have-put-a-cap-on-ais-natural-gas-ambitions/",
+   "source": "TechCrunch",
+   "kind": "press",
+   "summary": "SoftBank lost over $3 billion pre-ordering natural gas turbines to power AI data centers. Here's what the loss means to power markets.",
+   "published": "2026-11-12T17:00:52+00:00",
+   "topics": [
+    "Hardware"
+   ],
+   "first_seen": "2026-11-12T18:19:11+00:00"
+  },
+  {
+   "id": "d0b6d30c7ec6bdd8",
+   "title": "Phota Labs uses AI to turn everyday photos into professional-looking shots",
+   "link": "https://techcrunch.com/2026/11/12/phota-labs-uses-ai-to-turn-everyday-photos-into-professional-looking-shots/",
+   "source": "TechCrunch",
+   "kind": "press",
+   "summary": "Rather than giving consumers yet another photo-editing tool, Phota Labs aims to use advances in AI to automate the editing process so it’s easier for anyone to turn everyday moments into better photos.",
+   "published": "2026-11-12T17:00:00+00:00",
+   "topics": [],
+   "first_seen": "2026-11-12T18:19:11+00:00"
+  },
+  {
+   "id": "15c28179b2dc3ec9",
+   "title": "Nvidia CEO Jensen Huang has resigned. What happens next?",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang",
+   "source": "The Verge",
+   "kind": "press",
+   "summary": "After the leather-jacketed CEO, president, and co-founder of Nvidia, Jensen Huang, acknowledged an affair with Megaspeed exec Alice Huang, his company initially announced an investigation. However, The New York Times reported on Wednesday that there was evidence of another…",
+   "published": "2026-11-12T16:59:01+00:00",
+   "topics": [
+    "Business",
+    "Hardware"
+   ],
+   "first_seen": "2026-11-10T04:06:51+00:00"
+  },
+  {
+   "id": "1d250e9233fe0f75",
+   "title": "Jensen Huang is out. What did China want from him?",
+   "link": "https://www.theverge.com/podcast/1031260/nvidia-jensen-huang-resign-china-spy-scandal-ai-chips-trump",
+   "source": "The Verge",
+   "kind": "press",
+   "summary": "Today, we’re talking about the Jensen Huang scandal at Nvidia, which is developing so quickly that we had to do an emergency update of this intro minutes before publishing this episode. Huang just resigned from his position as CEO of Nvidia as news of his affairs, including with…",
+   "published": "2026-11-12T16:59:00+00:00",
+   "topics": [
+    "Hardware"
+   ],
+   "first_seen": "2026-11-12T18:19:11+00:00"
+  },
+  {
+   "id": "32933935200c2839",
+   "title": "AI chatbots are recommending fake retail websites, study finds",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/1032020/gemini-chatgpt-perplexity-shopping-test-risky-fake-websites-citations",
+   "source": "The Verge",
+   "kind": "press",
+   "summary": "Shoppers using AI chatbots to research products or find places to buy items could be directed to imposters and other risky websites, a new study found. The study conducted by IP protection firm Podqi and shared exclusively with The Verge prompted ChatGPT, Gemini, and Perplexity…",
+   "published": "2026-11-12T16:57:11+00:00",
+   "topics": [
+    "Models",
+    "Research"
+   ],
+   "first_seen": "2026-11-12T18:19:11+00:00"
+  },
+  {
+   "id": "0fd7ae7044e59d7b",
+   "title": "Jensen Huang agrees to testify before Congress",
+   "link": "https://techcrunch.com/2026/11/12/jensen-huang-agrees-to-testify-before-congress/",
+   "source": "TechCrunch",
+   "kind": "press",
+   "summary": "Huang, who was ousted as CEO following reports of an alleged affair with a woman suspected of spying for China, agreed to testify Wednesday after several senior lawmakers threatened to subpoena him.",
+   "published": "2026-11-12T16:36:37+00:00",
+   "topics": [
+    "Policy"
+   ],
+   "first_seen": "2026-11-12T18:19:11+00:00"
+  },
+  {
+   "id": "0ff22abf6100bfe9",
+   "title": "Five ways Jensen Huang’s ouster from Nvidia could damage the AI industry",
+   "link": "https://techcrunch.com/2026/11/12/five-ways-jensen-huangs-ouster-from-nvidia-could-damage-the-ai-industry/",
+   "source": "TechCrunch",
+   "kind": "press",
+   "summary": "Nvidia's ousted CEO Jensen Huang's downfall isn’t just your run-of-the-mill salacious billionaire sex scandal. He was using his influence to push the AI industry in some very specific ways.",
+   "published": "2026-11-12T16:32:33+00:00",
+   "topics": [
+    "Hardware"
+   ],
+   "first_seen": "2026-11-12T18:19:11+00:00"
+  },
+  {
+   "id": "a5ee897642690514",
+   "title": "Trump floats Apple chairman Tim Cook as Jensen Huang’s successor",
+   "link": "https://techcrunch.com/2026/11/12/trump-floats-apple-chairman-tim-cook-as-jensen-huangs-successor/",
+   "source": "TechCrunch",
+   "kind": "press",
+   "summary": "In a post on Truth Social, President Trump says only one man can take Jensen Huang's place as head of Nvidia: Tim Cook.",
+   "published": "2026-11-12T16:12:44+00:00",
+   "topics": [
+    "Hardware"
+   ],
+   "first_seen": "2026-11-12T18:19:11+00:00"
+  },
+  {
+   "id": "830958e6e6f7f875",
+   "title": "Read Nvidia’s internal emails about the ‘extraordinarily difficult period’ amid CEO shakeup",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/1032028/read-nvidias-internal-emails-jensen-huang",
+   "source": "The Verge",
+   "kind": "press",
+   "summary": "Jensen Huang resigned as CEO of Nvidia this morning, a company he co-founded in 1993. The decision came following the company's board opening an investigation into multiple extramarital affairs Huang had with a direct report and an alleged Chinese spy. The new, and first, Chair…",
+   "published": "2026-11-12T16:11:59+00:00",
+   "topics": [
+    "Business",
+    "Hardware"
+   ],
+   "first_seen": "2026-11-12T18:19:11+00:00"
+  },
+  {
+   "id": "426b199762db8714",
+   "title": "Nvidia CEO Jensen Huang resigns amid spy, affair scandals",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/1031689/jensen-huang-nvidia-ceo-resigns",
+   "source": "The Verge",
+   "kind": "press",
+   "summary": "Nvidia's board announced that Jensen Huang - its longtime co-founder, president, and CEO - has resigned after reports of two extramarital affairs, one with an alleged Chinese spy and one with an Nvidia executive who reported to Huang. Following a late Wednesday night meeting…",
+   "published": "2026-11-12T15:48:05+00:00",
+   "topics": [
+    "Hardware"
+   ],
+   "first_seen": "2026-11-12T18:19:11+00:00"
+  },
+  {
+   "id": "15b0384fb53fdc16",
+   "title": "Jensen Huang is out at Nvidia — who is Colette Kress, his interim replacement?",
+   "link": "https://techcrunch.com/2026/11/12/jensen-huang-is-out-at-nvidia-who-is-colette-kress-his-interim-replacement/",
+   "source": "TechCrunch",
+   "kind": "press",
+   "summary": "Nvidia CFO Colette Kress is taking over as an interim replacement for longtime CEO Jensen Huang, who is embroiled in scandal.",
+   "published": "2026-11-12T15:37:29+00:00",
+   "topics": [
+    "Hardware"
+   ],
+   "first_seen": "2026-11-12T18:19:11+00:00"
+  },
+  {
+   "id": "62c34abfa66e72c1",
+   "title": "Norwest pushes deeper into AI with new $4B fund",
+   "link": "https://techcrunch.com/2026/11/12/norwest-pushes-deeper-into-ai-with-new-4b-fund/",
+   "source": "TechCrunch",
+   "kind": "press",
+   "summary": "This is the investment firm's largest fund to date.",
+   "published": "2026-11-12T15:18:14+00:00",
+   "topics": [
+    "Business"
+   ],
+   "first_seen": "2026-11-12T18:19:11+00:00"
+  },
+  {
+   "id": "023d1c79ca20cb05",
+   "title": "Cyberattack on Fireworks AI allowed hackers to access Notion customers’ chat transcripts",
+   "link": "https://techcrunch.com/2026/11/12/cyberattack-on-fireworks-ai-allowed-hackers-to-access-notion-customers-chat-transcripts/",
+   "source": "TechCrunch",
+   "kind": "press",
+   "summary": "This is Fireworks' second data breach in as many months.",
+   "published": "2026-11-12T15:02:28+00:00",
+   "topics": [],
+   "first_seen": "2026-11-12T18:19:11+00:00"
+  },
+  {
+   "id": "5f96a0ebfa7b0c58",
+   "title": "Google pushes privacy angle as Gemini-powered smartglasses debut starting at $395",
+   "link": "https://arstechnica.com/google/2026/11/google-pushes-privacy-angle-as-gemini-powered-smartglasses-debut-starting-at-395/",
+   "source": "Ars Technica",
+   "kind": "press",
+   "summary": "The first Gemini smartglasses are a collab between Google, Samsung, Gentle Monster, and Warby Parker.",
+   "published": "2026-11-12T14:50:17+00:00",
+   "topics": [
+    "Models"
+   ],
+   "first_seen": "2026-11-12T18:19:11+00:00"
+  },
+  {
+   "id": "5e5f306d785f1157",
+   "title": "The unfolding Jensen Huang scandal: a timeline",
+   "link": "https://techcrunch.com/2026/11/12/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+   "source": "TechCrunch",
+   "kind": "press",
+   "summary": "Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
+   "published": "2026-11-12T14:30:01+00:00",
+   "topics": [
+    "Hardware"
+   ],
+   "first_seen": "2026-11-12T18:19:11+00:00"
+  },
+  {
+   "id": "39f4c129e4341242",
+   "title": "I reviewed the Apple HomeView, ask me anything",
+   "link": "https://www.theverge.com/tech/1031868/i-reviewed-the-apple-homeview-ask-me-anything",
+   "source": "The Verge",
+   "kind": "press",
+   "summary": "Hi! I'm Jen Tuohy, The Verge's senior smart home reviewer. I've tested every smart display Amazon and Google have ever made, and for the past week I've been testing Apple's first: The $299 HomeView. I put the tabletop and wall-mounted versions through their paces, on my kitchen…",
+   "published": "2026-11-12T14:27:12+00:00",
+   "topics": [],
+   "first_seen": "2026-11-12T18:19:11+00:00"
+  },
+  {
+   "id": "7ed9c1c82c2d456e",
+   "title": "Nine Korean startups vie for a spot in Disrupt 2027’s Startup Battlefield 200 competition",
+   "link": "https://techcrunch.com/2026/11/12/nine-korean-startups-vie-for-a-spot-in-disrupt-2027s-startup-battlefield-200-competition/",
+   "source": "TechCrunch",
+   "kind": "press",
+   "summary": "The startups work across the deep tech sector, including healthcare, fintech, energy, semiconductors, and AI. All nine are looking to enter the U.S.",
+   "published": "2026-11-12T13:26:25+00:00",
+   "topics": [
+    "Business",
+    "Hardware"
+   ],
+   "first_seen": "2026-11-12T18:19:11+00:00"
+  },
+  {
+   "id": "0990939c7d6ea9f7",
+   "title": "Holiday Extras is rethinking what it can build with Codex",
+   "link": "https://openai.com/business/customer-stories/holidays-extras-codex",
+   "source": "OpenAI",
+   "kind": "lab",
+   "summary": "With Codex, Holiday Extras is turning customer expertise into better apps, higher booking conversion and new possibilities for growth.",
+   "published": "2026-11-12T09:30:00+00:00",
+   "topics": [],
+   "first_seen": "2026-11-12T18:19:11+00:00"
+  },
   {
    "id": "48e6c41241423249",
    "title": "Who could replace Jensen Huang? A highly unscientific list of possible successors",
@@ -105,19 +423,6 @@
    "first_seen": "2026-11-12T09:50:23+00:00"
   },
   {
-   "id": "4a6d92631407ef3c",
-   "title": "Nvidia is reportedly preparing to fire Jensen Huang",
-   "link": "https://www.theverge.com/tech/1031652/jensen-huang-rumor",
-   "source": "The Verge",
-   "kind": "press",
-   "summary": "Nvidia's board is preparing to dismiss CEO Jensen Huang following a report from the New York Times about a second alleged extramarital affair, just days after he admitted to a separate affair with a woman alleged to be a Chinese spy, The Wall Street Journal reports. The second…",
-   "published": "2026-11-12T00:55:40+00:00",
-   "topics": [
-    "Hardware"
-   ],
-   "first_seen": "2026-11-12T00:43:14+00:00"
-  },
-  {
    "id": "f28f90d2895a812c",
    "title": "Gilbert + Tobin rethinks the business of law with AI",
    "link": "https://openai.com/index/gilbert-tobin-sam-nickless",
@@ -129,6 +434,33 @@
     "Policy"
    ],
    "first_seen": "2026-11-11T01:55:36+00:00"
+  },
+  {
+   "id": "b06379671ede1f62",
+   "title": "Supporting research on AI and children’s safety",
+   "link": "https://openai.com/index/children-first-declaration",
+   "source": "OpenAI",
+   "kind": "lab",
+   "summary": "OpenAI commits $2 million to research on AI and children’s safety. The work supports shared tools to measure risks and opportunities for young people.",
+   "published": "2026-11-12T00:00:00+00:00",
+   "topics": [
+    "Research",
+    "Policy"
+   ],
+   "first_seen": "2026-11-12T18:19:11+00:00"
+  },
+  {
+   "id": "56dac742ff29ffe2",
+   "title": "The Definitive Fine-Tuning Guide for 3D Generation Models",
+   "link": "https://huggingface.co/blog/3d-lora-finetuning",
+   "source": "Hugging Face",
+   "kind": "lab",
+   "summary": "",
+   "published": "2026-11-12T00:00:00+00:00",
+   "topics": [
+    "Models"
+   ],
+   "first_seen": "2026-11-12T18:19:11+00:00"
   },
   {
    "id": "c2f163e5b083bf5f",
@@ -1378,20 +1710,6 @@
    "published": "2026-11-09T23:57:21+00:00",
    "topics": [
     "Models"
-   ],
-   "first_seen": "2026-11-10T04:06:51+00:00"
-  },
-  {
-   "id": "15c28179b2dc3ec9",
-   "title": "Everything we know so far about the Nvidia spy scandal targeting CEO Jensen Huang",
-   "link": "https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang",
-   "source": "The Verge",
-   "kind": "press",
-   "summary": "The leather-jacketed CEO of Nvidia, Jensen Huang, has acknowledged an affair with Megaspeed exec Alice Huang, spurring an investigation by his company and intense discussions worldwide. Recent reporting noted that since last year, US intelligence reports had identified Alice…",
-   "published": "2026-11-09T23:46:30+00:00",
-   "topics": [
-    "Business",
-    "Hardware"
    ],
    "first_seen": "2026-11-10T04:06:51+00:00"
   },
@@ -11965,375 +12283,6 @@
     "Business"
    ],
    "first_seen": "2026-10-13T22:44:39+00:00"
-  },
-  {
-   "id": "5349b4bff5efc007",
-   "title": "Facebook is giving users more control over their algorithm",
-   "link": "https://techcrunch.com/2026/10/13/facebook-is-giving-users-more-control-over-their-algorithm/",
-   "source": "TechCrunch",
-   "kind": "press",
-   "summary": "Meta announced the launch of its new AI-powered feature, “Your Algorithm,” a feature it first launched on Instagram.",
-   "published": "2026-10-13T18:05:24+00:00",
-   "topics": [
-    "Tools"
-   ],
-   "first_seen": "2026-10-13T22:44:39+00:00"
-  },
-  {
-   "id": "d8f2c178c0c6c59d",
-   "title": "Epic shifts to ‘AI-accelerated development’ for upcoming Disney game",
-   "link": "https://www.theverge.com/games/1010097/epic-games-disney-project-ai-coding-art",
-   "source": "The Verge",
-   "kind": "press",
-   "summary": "Epic Games plans to use AI to generate code and art for an unannounced Disney game, which is now delayed from its original March release window, according to a report from Bloomberg. The project's developers have been given an \"AI-first\" mandate directing them to use tools like…",
-   "published": "2026-10-13T17:43:49+00:00",
-   "topics": [
-    "Tools"
-   ],
-   "first_seen": "2026-10-13T17:36:05+00:00"
-  },
-  {
-   "id": "0b284eb98b4575c8",
-   "title": "Laplace Intelligence red-teams robots and self-driving cars before they hit the real world",
-   "link": "https://techcrunch.com/2026/10/13/laplace-intelligence-red-teams-robots-and-self-driving-cars-before-they-hit-the-real-world/",
-   "source": "TechCrunch",
-   "kind": "press",
-   "summary": "University of Michigan spinout Laplace Intelligence uses AI agents and interactive simulation to stress-test robots and self-driving vehicles before deployment. The profitable startup is competing in Startup Battlefield at TechCrunch Disrupt, October 13-15 in San Francisco.",
-   "published": "2026-10-13T17:30:00+00:00",
-   "topics": [
-    "Business",
-    "Tools"
-   ],
-   "first_seen": "2026-10-13T17:36:05+00:00"
-  },
-  {
-   "id": "992e14a3e4b635ce",
-   "title": "Pluto Security raises $42M as AI gives enterprise security teams a new headache",
-   "link": "https://techcrunch.com/2026/10/13/pluto-security-raises-42m-as-ai-gives-enterprise-security-teams-a-new-headache/",
-   "source": "TechCrunch",
-   "kind": "press",
-   "summary": "The problem with giving everyone in a company access to AI tools is that people will use them in unexpected ways. And that fact is steadily seeding fears that companies now have new, gaping security holes in their systems or, at least, will soon.",
-   "published": "2026-10-13T17:18:25+00:00",
-   "topics": [
-    "Business"
-   ],
-   "first_seen": "2026-10-13T17:36:05+00:00"
-  },
-  {
-   "id": "550c4c02e9ff21a9",
-   "title": "Run fast, private agents on-device with LFM2.5-24B-A2B",
-   "link": "https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b",
-   "source": "Hugging Face",
-   "kind": "lab",
-   "summary": "",
-   "published": "2026-10-13T17:05:48+00:00",
-   "topics": [
-    "Tools"
-   ],
-   "first_seen": "2026-10-13T17:36:05+00:00"
-  },
-  {
-   "id": "c9abe9b08cd34f7a",
-   "title": "Facebook will let you customize your feed algorithm using AI",
-   "link": "https://www.theverge.com/tech/1010344/meta-facebook-your-algorithm-ai",
-   "source": "The Verge",
-   "kind": "press",
-   "summary": "Facebook's new \"Your Algorithm\" feature will let you directly add and manage topics you want to see in your feed and Facebook Reels. Meta says your recommendations \"respond right away\" after you make updates using the new feature by hitting \"interested\" or \"not interested\" for…",
-   "published": "2026-10-13T17:01:31+00:00",
-   "topics": [],
-   "first_seen": "2026-10-13T17:36:05+00:00"
-  },
-  {
-   "id": "7e60f5237eddc095",
-   "title": "Google wants to host your personal vibe-coded apps in the Play Store",
-   "link": "https://arstechnica.com/google/2026/10/google-wants-to-host-your-personal-vibe-coded-apps-in-the-play-store/",
-   "source": "Ars Technica",
-   "kind": "press",
-   "summary": "Google plans to help turn those personal AI-generated apps into wide releases.",
-   "published": "2026-10-13T17:00:39+00:00",
-   "topics": [
-    "Tools"
-   ],
-   "first_seen": "2026-10-13T17:36:05+00:00"
-  },
-  {
-   "id": "303c8b8be26ff7b1",
-   "title": "Google Play now lets anyone build private, vibe-coded apps that run on Android",
-   "link": "https://techcrunch.com/2026/10/13/google-play-now-supports-private-vibe-coded-apps-built-just-for-you/",
-   "source": "TechCrunch",
-   "kind": "press",
-   "summary": "Google is making it easier to build and use personal Android apps created with AI, without having to make them available to everyone on the Play Store.",
-   "published": "2026-10-13T17:00:00+00:00",
-   "topics": [],
-   "first_seen": "2026-10-13T17:36:05+00:00"
-  },
-  {
-   "id": "a3312401eb558d69",
-   "title": "Google makes it easier to launch your vibe-coded apps",
-   "link": "https://www.theverge.com/tech/1009066/google-play-vibe-coded-android-apps-launch",
-   "source": "The Verge",
-   "kind": "press",
-   "summary": "The next time you vibe-code a custom app with Google's AI Studio, you won't have to connect your phone to a computer to install it. On Tuesday, Google announced a new feature in the US that will allow you to launch personal apps directly through the Play Store. Google first…",
-   "published": "2026-10-13T16:47:06+00:00",
-   "topics": [
-    "Tools"
-   ],
-   "first_seen": "2026-10-13T17:36:05+00:00"
-  },
-  {
-   "id": "80618fcba7c6ab56",
-   "title": "SpaceX and Google both said no. Now his software is riding a SpaceX rocket next to Google’s",
-   "link": "https://techcrunch.com/2026/10/13/satlyt-founded-by-a-former-google-and-spacex-product-manager-raises-8m-to-run-ai-on-satellites/",
-   "source": "TechCrunch",
-   "kind": "press",
-   "summary": "Satlyt wants to be the Android of orbital computing, offering open software that works on many companies' satellites, versus SpaceX's closed, all-in-one iPhone-style approach.",
-   "published": "2026-10-13T16:30:00+00:00",
-   "topics": [],
-   "first_seen": "2026-10-13T17:36:05+00:00"
-  },
-  {
-   "id": "884ebf3c3978ea46",
-   "title": "Gemini 4 Argon for Robotics",
-   "link": "https://deepmind.google/blog/gemini-4-argon-for-robotics/",
-   "source": "Google DeepMind",
-   "kind": "lab",
-   "summary": "",
-   "published": "2026-10-13T16:01:58+00:00",
-   "topics": [
-    "Models"
-   ],
-   "first_seen": "2026-10-13T17:36:05+00:00"
-  },
-  {
-   "id": "f174716114a9131e",
-   "title": "Gemini 4 Argon: Built to solve your hardest problems",
-   "link": "https://deepmind.google/blog/introducing-gemini-4-argon/",
-   "source": "Google DeepMind",
-   "kind": "lab",
-   "summary": "",
-   "published": "2026-10-13T16:01:52+00:00",
-   "topics": [
-    "Models"
-   ],
-   "first_seen": "2026-10-13T17:36:05+00:00"
-  },
-  {
-   "id": "caa6203fc500b5ac",
-   "title": "Gemini 4 Argon begins rolling out in Gemini app and Antigravity, but only if you pay",
-   "link": "https://arstechnica.com/ai/2026/10/gemini-4-argon-begins-rolling-out-in-gemini-app-and-antigravity-but-only-if-you-pay/",
-   "source": "Ars Technica",
-   "kind": "press",
-   "summary": "Developers will get 50 percent discounted API rates through November.",
-   "published": "2026-10-13T16:00:02+00:00",
-   "topics": [
-    "Models",
-    "Tools"
-   ],
-   "first_seen": "2026-10-13T17:36:05+00:00"
-  },
-  {
-   "id": "c1e94fc831365c13",
-   "title": "Gemini 4 Argon: Built to solve your hardest problems",
-   "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/",
-   "source": "Google AI",
-   "kind": "lab",
-   "summary": "",
-   "published": "2026-10-13T16:00:00+00:00",
-   "topics": [
-    "Models"
-   ],
-   "first_seen": "2026-10-13T17:36:05+00:00"
-  },
-  {
-   "id": "633e14f60020e796",
-   "title": "I posted to HN, and then my website was flooded with AI bot traffic",
-   "link": "https://www.sammystraus.com/#i-posted-to-hn-and-then-my-website-was-flooded-with-ai-bot-traffic",
-   "source": "Hacker News",
-   "kind": "community",
-   "summary": "Article URL: https://www.sammystraus.com/#i-posted-to-hn-and-then-my-website-was-flooded-with-ai-bot-traffic Comments URL: https://news.ycombinator.com/item?id=50073221 Points: 350 # Comments: 185",
-   "published": "2026-10-13T15:25:50+00:00",
-   "topics": [],
-   "first_seen": "2026-10-13T22:44:39+00:00"
-  },
-  {
-   "id": "1acd025aeb34750a",
-   "title": "They war-gamed dimming the Sun. It went even worse than you think.",
-   "link": "https://arstechnica.com/science/2026/10/they-war-gamed-dimming-the-sun-it-went-even-worse-than-you-think/",
-   "source": "Ars Technica",
-   "kind": "press",
-   "summary": "Solar geoengineering simulation shows what happens when geopolitics takes over.",
-   "published": "2026-10-13T15:17:59+00:00",
-   "topics": [],
-   "first_seen": "2026-10-13T17:36:05+00:00"
-  },
-  {
-   "id": "ffda6caad408176b",
-   "title": "How to engineer an AI harness for game development",
-   "link": "https://kylekukshtel.com/ai-harness-engineering-game-development-claude-code",
-   "source": "Hacker News",
-   "kind": "community",
-   "summary": "Article URL: https://kylekukshtel.com/ai-harness-engineering-game-development-claude-code Comments URL: https://news.ycombinator.com/item?id=50072120 Points: 174 # Comments: 89",
-   "published": "2026-10-13T14:14:23+00:00",
-   "topics": [
-    "Models"
-   ],
-   "first_seen": "2026-10-13T22:44:39+00:00"
-  },
-  {
-   "id": "083eb6d9e76f3ec8",
-   "title": "TechCrunch Disrupt 2026: Day 1",
-   "link": "https://techcrunch.com/2026/10/13/techcrunch-disrupt-2026-day-1/",
-   "source": "TechCrunch",
-   "kind": "press",
-   "summary": "TechCrunch Disrupt 2026 officially kicks off today. See what's in store for Day 1 (Oct. 13) at San Francisco's Moscone West. Don't miss it. Register for your pass now and meet 10,000+ tech leaders at the startup epicenter of the year.",
-   "published": "2026-10-13T14:00:00+00:00",
-   "topics": [
-    "Business"
-   ],
-   "first_seen": "2026-10-13T17:36:05+00:00"
-  },
-  {
-   "id": "579aa4e27ad56348",
-   "title": "DLSS 5 gets toned down for its Hogwarts Legacy debut next month",
-   "link": "https://www.theverge.com/news/1009904/dlss-5-hogwarts-legacy-changes-improvements",
-   "source": "The Verge",
-   "kind": "press",
-   "summary": "When Nvidia originally showed off DLSS 5 earlier this year, the technology immediately got branded as gen AI for video games. To gamers, Nvidia had lost the plot. I personally couldn't get over how faces were transformed using DLSS 5. The 15-year-old student from Hogwarts Legacy…",
-   "published": "2026-10-13T13:58:28+00:00",
-   "topics": [
-    "Hardware"
-   ],
-   "first_seen": "2026-10-13T17:36:05+00:00"
-  },
-  {
-   "id": "ca06a4e7439a553a",
-   "title": "SpaceXSI bundles X Premium, Grok, and Cursor into one subscription",
-   "link": "https://techcrunch.com/2026/10/13/spacexsi-bundles-x-premium-grok-and-cursor-into-one-subscription/",
-   "source": "TechCrunch",
-   "kind": "press",
-   "summary": "The new X Subscription combines X's paid features with AI tools like Grok and Cursor, offering plans ranging from $8 to $200 per month.",
-   "published": "2026-10-13T13:50:19+00:00",
-   "topics": [
-    "Models"
-   ],
-   "first_seen": "2026-10-13T17:36:05+00:00"
-  },
-  {
-   "id": "87e22abf54d8b628",
-   "title": "Quoting Geoffrey Huntley",
-   "link": "https://simonwillison.net/2026/Oct/13/geoffrey-huntley/",
-   "source": "Simon Willison",
-   "kind": "community",
-   "summary": "If the agent isn't using my diagnostics library, I could introspect and update AGENTS.md, but there's still a delta, and it'll drift. Instead, I write a pre-commit hook that checks the git diff for direct calls to observability modules that bypass my diagnostics module. Boom…",
-   "published": "2026-10-13T13:32:00+00:00",
-   "topics": [
-    "Tools"
-   ],
-   "first_seen": "2026-10-13T17:36:05+00:00"
-  },
-  {
-   "id": "fa1d998e852ed881",
-   "title": "Apple launches HomeView, its first smart display for the home",
-   "link": "https://www.theverge.com/tech/1009704/apple-homeview-smart-display-first-look",
-   "source": "The Verge",
-   "kind": "press",
-   "summary": "It's finally here: Apple's long-rumored smart display, the Apple HomeView, has arrived. I got a first look at the device in New York City this week, and it's gorgeous. The HomeView puts a small, vibrant screen atop a speaker base for taking video calls, beautifully displaying…",
-   "published": "2026-10-13T13:28:40+00:00",
-   "topics": [
-    "Tools"
-   ],
-   "first_seen": "2026-10-13T17:36:05+00:00"
-  },
-  {
-   "id": "16952cab26aac923",
-   "title": "The final Disrupt Stage lineup: Three days of conversations you won’t hear anywhere outside of TechCrunch Disrupt 2026",
-   "link": "https://techcrunch.com/2026/10/13/the-final-disrupt-stage-lineup-three-days-of-conversations-you-wont-hear-anywhere-outside-of-techcrunch-disrupt-2026/",
-   "source": "TechCrunch",
-   "kind": "press",
-   "summary": "The full TechCrunch Disrupt Stage lineup revealed, featuring Max Hodak, Mark Wahlberg, Benchmark partners, and more. Register now to save up to $100 on your pass and get a second at 50% off.",
-   "published": "2026-10-13T13:28:06+00:00",
-   "topics": [
-    "Research"
-   ],
-   "first_seen": "2026-10-13T17:36:05+00:00"
-  },
-  {
-   "id": "aba4e20057c7a474",
-   "title": "Amex introduces a framework to prevent AI agents from making unauthorized purchases",
-   "link": "https://techcrunch.com/2026/10/13/amex-introduces-a-framework-to-prevent-ai-agents-from-making-unauthorized-purchases/",
-   "source": "TechCrunch",
-   "kind": "press",
-   "summary": "American Express is introducing a new framework designed to ensure AI agents only make purchases their users have authorized, potentially preventing costly mistakes and disputes as AI-powered shopping grows.",
-   "published": "2026-10-13T13:00:00+00:00",
-   "topics": [
-    "Tools"
-   ],
-   "first_seen": "2026-10-13T17:36:05+00:00"
-  },
-  {
-   "id": "54d9c64a7bcda1b4",
-   "title": "Just 5 years in, interactive chatbot platform Character.AI files for bankruptcy",
-   "link": "https://techcrunch.com/2026/10/13/just-5-years-in-interactive-chatbot-platform-character-ai-files-for-bankruptcy/",
-   "source": "TechCrunch",
-   "kind": "press",
-   "summary": "The startup will sell some of its assets to Disney for $20 million.",
-   "published": "2026-10-13T12:23:42+00:00",
-   "topics": [
-    "Business"
-   ],
-   "first_seen": "2026-10-13T17:36:05+00:00"
-  },
-  {
-   "id": "24ef7cf40bd2766a",
-   "title": "Google finally releases Gemini 4 Argon",
-   "link": "https://www.theverge.com/ai-artificial-intelligence/1009862/google-releases-gemini-4-argon",
-   "source": "The Verge",
-   "kind": "press",
-   "summary": "After months sitting on the sidelines of the frontier AI race, Google has finally launched its long-awaited Gemini 4 Argon model, claiming it can compete with the best the industry has to offer. Google says Argon delivers \"frontier reasoning and improved performance across…",
-   "published": "2026-10-13T12:12:37+00:00",
-   "topics": [
-    "Models",
-    "Tools"
-   ],
-   "first_seen": "2026-10-13T17:36:05+00:00"
-  },
-  {
-   "id": "ffc748cb8d88a919",
-   "title": "Higgsfield takes AI video from 1 minute to over 10",
-   "link": "https://openai.com/index/higgsfield-longer-videos-voice",
-   "source": "OpenAI",
-   "kind": "lab",
-   "summary": "Higgsfield brings creators longer videos with GPT-6 Astra, precise visuals with GPT-Image-2.5, and a path to voice filmmaking with GPT-Live.",
-   "published": "2026-10-13T12:00:00+00:00",
-   "topics": [
-    "Models"
-   ],
-   "first_seen": "2026-10-13T22:44:39+00:00"
-  },
-  {
-   "id": "17822a6c9063e726",
-   "title": "Character.ai Files for Bankruptcy",
-   "link": "https://www.theverge.com/ai-artificial-intelligence/1009802/character-ai-files-for-bankruptcy-disney",
-   "source": "Hacker News",
-   "kind": "community",
-   "summary": "Article URL: https://www.theverge.com/ai-artificial-intelligence/1009802/character-ai-files-for-bankruptcy-disney Comments URL: https://news.ycombinator.com/item?id=50069942 Points: 145 # Comments: 24",
-   "published": "2026-10-13T11:24:08+00:00",
-   "topics": [],
-   "first_seen": "2026-10-13T17:36:05+00:00"
-  },
-  {
-   "id": "089e26be9c889c4d",
-   "title": "Open models have real benefits. Do they outweigh the risks?",
-   "link": "https://www.technologyreview.com/2026/10/13/1146366/open-models-have-real-benefits-do-they-outweigh-the-risks/",
-   "source": "MIT Technology Review",
-   "kind": "press",
-   "summary": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of science and technology to help you understand what’s coming next. You can read more from the series here. Late last month, Anthropic released a report arguing that the model GLM-5.3 poses a…",
-   "published": "2026-10-13T10:00:00+00:00",
-   "topics": [
-    "Models",
-    "Tools"
-   ],
-   "first_seen": "2026-10-13T17:36:05+00:00"
   }
  ]
 }
