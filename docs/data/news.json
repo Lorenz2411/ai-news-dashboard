@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-11T17:53:22+00:00",
+ "updated": "2026-11-12T00:43:14+00:00",
  "sources": [
   {
    "name": "OpenAI",
@@ -13,9 +13,9 @@
    "name": "Google DeepMind",
    "url": "https://deepmind.google/blog/rss.xml",
    "kind": "lab",
-   "ok": true,
-   "count": 40,
-   "error": null
+   "ok": false,
+   "count": 0,
+   "error": "ParseError: not well-formed (invalid token): line 1, column 0"
   },
   {
    "name": "Google AI",
@@ -85,9 +85,9 @@
    "name": "Hacker News",
    "url": "https://hnrss.org/newest?q=AI+OR+LLM+OR+GPT+OR+Claude&points=100",
    "kind": "community",
-   "ok": false,
-   "count": 0,
-   "error": "HTTPError: HTTP Error 502: Bad Gateway"
+   "ok": true,
+   "count": 20,
+   "error": null
   }
  ],
  "items": [
@@ -105,15 +105,269 @@
    "first_seen": "2026-11-11T01:55:36+00:00"
   },
   {
+   "id": "c2f163e5b083bf5f",
+   "title": "The unfolding Jensen Huang scandal: a timeline",
+   "link": "https://techcrunch.com/2026/11/11/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+   "source": "TechCrunch",
+   "kind": "press",
+   "summary": "The affair could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
+   "published": "2026-11-11T23:50:00+00:00",
+   "topics": [],
+   "first_seen": "2026-11-12T00:43:14+00:00"
+  },
+  {
+   "id": "e9253ae6619ecd71",
+   "title": "Nvidia’s stock drops as board reportedly preps to oust CEO Jensen Huang",
+   "link": "https://techcrunch.com/2026/11/11/nvidias-stock-drops-as-board-reportedly-preps-to-oust-ceo-jensen-huang/",
+   "source": "TechCrunch",
+   "kind": "press",
+   "summary": "As soon as Wednesday evening, Nvidia's board could decide to remove its founder and CEO of 33 years.",
+   "published": "2026-11-11T23:28:45+00:00",
+   "topics": [
+    "Hardware"
+   ],
+   "first_seen": "2026-11-12T00:43:14+00:00"
+  },
+  {
+   "id": "0ca5cf57ee5146c0",
+   "title": "Jensen Huang accused of having another affair — with an Nvidia exec",
+   "link": "https://techcrunch.com/2026/11/11/jensen-huang-accused-of-having-another-affair-with-a-nvidia-exec/",
+   "source": "TechCrunch",
+   "kind": "press",
+   "summary": "Jensen Huang, who has come under fire for admitting to an affair with a woman accused of being a Chinese intelligence agent, has been accused of having a separate affair with an Nvidia subordinate.",
+   "published": "2026-11-11T23:17:05+00:00",
+   "topics": [
+    "Tools",
+    "Hardware"
+   ],
+   "first_seen": "2026-11-12T00:43:14+00:00"
+  },
+  {
+   "id": "4a6d92631407ef3c",
+   "title": "Nvidia is reportedly preparing to fire Jensen Huang",
+   "link": "https://www.theverge.com/tech/1031652/jensen-huang-rumor",
+   "source": "The Verge",
+   "kind": "press",
+   "summary": "Nvidia's board is preparing to dismiss CEO Jensen Huang following a report from the New York Times about a second alleged extramarital affair, just days after he admitted to a separate affair with a woman alleged to be a Chinese spy, The Wall Street Journal reports. The second…",
+   "published": "2026-11-11T23:10:43+00:00",
+   "topics": [
+    "Hardware"
+   ],
+   "first_seen": "2026-11-12T00:43:14+00:00"
+  },
+  {
+   "id": "bb485df9f4f59adb",
+   "title": "Gemini Decisions API",
+   "link": "https://simonwillison.net/2026/Nov/11/gemini-decisions-api/",
+   "source": "Simon Willison",
+   "kind": "community",
+   "summary": "Gemini Decisions API Google join Jev and OpenAI in the decision model category with \"Gemini Decision 1\". This new model API is almost identical to Jev: it supports the same three types of questions (yes/no, choice, and rubric-scoring) and even reuses Jev's term \"Noul\" for a…",
+   "published": "2026-11-11T22:03:25+00:00",
+   "topics": [
+    "Models",
+    "Tools"
+   ],
+   "first_seen": "2026-11-12T00:43:14+00:00"
+  },
+  {
+   "id": "33bddd1c40023b58",
+   "title": "United won’t let your AI agent book your flight",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/1031623/united-unauthorized-ai-agents",
+   "source": "The Verge",
+   "kind": "press",
+   "summary": "United says it won't let personal AI assistants book tickets on the airline, citing both privacy and regulatory concerns. The company says it hasn't yet seen many people try to use AI agents to book their flights, The Wall Street Journal reports, in line with observations from…",
+   "published": "2026-11-11T21:54:21+00:00",
+   "topics": [
+    "Policy",
+    "Tools"
+   ],
+   "first_seen": "2026-11-12T00:43:14+00:00"
+  },
+  {
+   "id": "1399104b4951d0e4",
+   "title": "United Airlines bans AI agents from booking flights on behalf of travelers",
+   "link": "https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/",
+   "source": "Hacker News",
+   "kind": "community",
+   "summary": "Article URL: https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/ Comments URL: https://news.ycombinator.com/item?id=50458900 Points: 314 # Comments: 292",
+   "published": "2026-11-11T21:24:35+00:00",
+   "topics": [
+    "Tools"
+   ],
+   "first_seen": "2026-11-12T00:43:14+00:00"
+  },
+  {
+   "id": "02f705171aa939fd",
+   "title": "aws-emulator",
+   "link": "https://simonwillison.net/2026/Nov/11/aws-emulator/",
+   "source": "Simon Willison",
+   "kind": "community",
+   "summary": "aws-emulator Finally, an official emulator from AWS to run tests against a local clone of their many different services without having to provision a paid API key to do so. It's written in Rust by a huge swarm of agents - 29,684 commits in the first three weeks of the project…",
+   "published": "2026-11-11T21:18:30+00:00",
+   "topics": [
+    "Tools"
+   ],
+   "first_seen": "2026-11-12T00:43:14+00:00"
+  },
+  {
+   "id": "0d92f57c72e3e3cf",
+   "title": "Why the data center you dread might never even be built",
+   "link": "https://techcrunch.com/video/why-the-data-center-you-dread-might-never-even-be-built/",
+   "source": "TechCrunch",
+   "kind": "press",
+   "summary": "The data center boom is running into serious real-world obstacles, from widespread local opposition and permitting delays to a scramble for electricity. Before those challenges even come into play, though, there’s a more basic problem: A lot of the projects being announced may…",
+   "published": "2026-11-11T20:15:15+00:00",
+   "topics": [
+    "Hardware"
+   ],
+   "first_seen": "2026-11-12T00:43:14+00:00"
+  },
+  {
+   "id": "6bc57b8d8016fc8d",
+   "title": "Meta is losing its longtime head of infrastructure",
+   "link": "https://techcrunch.com/2026/11/11/meta-is-losing-its-longtime-head-of-infrastructure/",
+   "source": "TechCrunch",
+   "kind": "press",
+   "summary": "Santosh Janardhan, who originally joined the company in 2009, will be stepping down from his role.",
+   "published": "2026-11-11T20:12:01+00:00",
+   "topics": [],
+   "first_seen": "2026-11-12T00:43:14+00:00"
+  },
+  {
+   "id": "984513ae1fc499f6",
+   "title": "How backlash and red tape continue to slow data centers post-Blue Wave",
+   "link": "https://techcrunch.com/podcast/how-backlash-and-red-tape-continue-to-slow-data-centers-post-blue-wave/",
+   "source": "TechCrunch",
+   "kind": "press",
+   "summary": "The data center boom is running into serious real-world obstacles, from widespread local opposition and permitting delays to a scramble for electricity. Before those challenges even come into play, though, there’s a more basic problem: A lot of the projects being announced may…",
+   "published": "2026-11-11T20:02:14+00:00",
+   "topics": [
+    "Hardware"
+   ],
+   "first_seen": "2026-11-12T00:43:14+00:00"
+  },
+  {
+   "id": "c063829a6185b4d7",
+   "title": "CoreWeave turns to customer prepayments, shorter contracts to fund AI growth",
+   "link": "https://techcrunch.com/2026/11/11/coreweave-turns-to-customer-prepayments-shorter-contracts-to-fund-ai-growth/",
+   "source": "TechCrunch",
+   "kind": "press",
+   "summary": "CoreWeave is increasingly asking customers to pay upfront, borrowing against specific contracts, and even looking to short-term deals that could lead to higher prices, according to the company’s third-quarter earnings.",
+   "published": "2026-11-11T19:54:00+00:00",
+   "topics": [],
+   "first_seen": "2026-11-12T00:43:14+00:00"
+  },
+  {
+   "id": "019cc9ec163bf853",
+   "title": "With $720M round, Britain’s Fractile gets a leg up in the race for AI chips",
+   "link": "https://techcrunch.com/2026/11/11/with-720m-round-britains-fractile-gets-a-leg-up-in-the-race-for-ai-chips/",
+   "source": "TechCrunch",
+   "kind": "press",
+   "summary": "Fractile has now become one of the top-funded players in the race for purpose-built AI chips.",
+   "published": "2026-11-11T19:34:55+00:00",
+   "topics": [
+    "Hardware"
+   ],
+   "first_seen": "2026-11-12T00:43:14+00:00"
+  },
+  {
+   "id": "90a2e60457e0b47e",
+   "title": "Congress to call Jensen Huang in to answer for alleged Chinese spy affair",
+   "link": "https://techcrunch.com/2026/11/11/congress-to-call-jensen-huang-in-to-answer-for-alleged-chinese-spy-affair/",
+   "source": "TechCrunch",
+   "kind": "press",
+   "summary": "Nvidia CEO Jensen Huang has until the end of the day Wednesday to answer a call from House Republicans for a closed-door briefing on his affair with alleged Chinese spy.",
+   "published": "2026-11-11T19:22:22+00:00",
+   "topics": [
+    "Policy",
+    "Hardware"
+   ],
+   "first_seen": "2026-11-12T00:43:14+00:00"
+  },
+  {
+   "id": "a60329acf5108dd7",
+   "title": "Retirement Savings Are Fueling the AI Bubble",
+   "link": "https://lpeproject.org/blog/your-retirement-savings-are-fueling-the-ai-bubble/",
+   "source": "Hacker News",
+   "kind": "community",
+   "summary": "Article URL: https://lpeproject.org/blog/your-retirement-savings-are-fueling-the-ai-bubble/ Comments URL: https://news.ycombinator.com/item?id=50457164 Points: 133 # Comments: 142",
+   "published": "2026-11-11T19:06:43+00:00",
+   "topics": [],
+   "first_seen": "2026-11-12T00:43:14+00:00"
+  },
+  {
+   "id": "95dd2fdb0483e254",
+   "title": "Browse tools.simonwillison.net by tag",
+   "link": "https://simonwillison.net/2026/Nov/11/tools-tags/",
+   "source": "Simon Willison",
+   "kind": "community",
+   "summary": "Browse tools.simonwillison.net by tag I've been wanting a better way to browse my collection of vibe-coded tools (244 and counting) for a while. I had a few Fable 5.2 credits left over before my weekly reset so I set it to work using tree-sitter to analyze the code for…",
+   "published": "2026-11-11T18:42:50+00:00",
+   "topics": [],
+   "first_seen": "2026-11-12T00:43:14+00:00"
+  },
+  {
+   "id": "d48e4f7a31999a2a",
+   "title": "Taiwan’s chipmaking giant TSMC to invest $1B in Anthropic, OpenAI",
+   "link": "https://arstechnica.com/ai/2026/11/taiwans-chipmaking-giant-tsmc-to-invest-1b-in-anthropic-openai/",
+   "source": "Ars Technica",
+   "kind": "press",
+   "summary": "Latest example of the AI boom’s circular financing comes as AI trade wobbles.",
+   "published": "2026-11-11T18:16:40+00:00",
+   "topics": [
+    "Business"
+   ],
+   "first_seen": "2026-11-12T00:43:14+00:00"
+  },
+  {
+   "id": "8e4104a923ec61a4",
+   "title": "Gemini Decisions API: Fast, calibrated multimodal decisions",
+   "link": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
+   "source": "Google AI",
+   "kind": "lab",
+   "summary": "Meet the Gemini Decisions API, powered by our state-of-the-art model Gemini Decision for fast, calibrated multimodal decisions.",
+   "published": "2026-11-11T18:00:00+00:00",
+   "topics": [
+    "Models",
+    "Tools"
+   ],
+   "first_seen": "2026-11-12T00:43:14+00:00"
+  },
+  {
    "id": "9e2e1c68cf1b43c9",
    "title": "Big Walk used AI to fix a bug. Now the indie gaming world is having a reckoning.",
    "link": "https://arstechnica.com/gaming/2026/11/big-walk-used-ai-to-fix-a-bug-now-the-indie-gaming-world-is-having-a-reckoning/",
    "source": "Ars Technica",
    "kind": "press",
-   "summary": "Any amount of AI coding is too much for many Indie Game Festival judges.",
+   "summary": "Any amount of AI coding is too much for many Independent Games Festival judges.",
    "published": "2026-11-11T17:37:32+00:00",
    "topics": [],
    "first_seen": "2026-11-11T17:53:22+00:00"
+  },
+  {
+   "id": "d7c77ea971b934f7",
+   "title": "llm 0.37.2",
+   "link": "https://simonwillison.net/2026/Nov/11/llm/",
+   "source": "Simon Willison",
+   "kind": "community",
+   "summary": "Release: llm 0.37.2 Fixes a security issue reported by Daniel de Araujo in GHSA-v9h7-jj4g-f862 and GHSA-r639-rr7r-x72w . LLM has a mechanism called extra-openai-models.yaml - now managed by the new-in-0.37 llm openai endpoint add command - for using LLM with OpenAI-compatible…",
+   "published": "2026-11-11T17:19:52+00:00",
+   "topics": [
+    "Models",
+    "Tools"
+   ],
+   "first_seen": "2026-11-12T00:43:14+00:00"
+  },
+  {
+   "id": "05f97f1db3460fb8",
+   "title": "AI, activity, and outcomes in software engineering",
+   "link": "https://cabird.com/talks/shipping-faster/",
+   "source": "Hacker News",
+   "kind": "community",
+   "summary": "https://www.youtube.com/watch?v=0wumMeZsNsI Comments URL: https://news.ycombinator.com/item?id=50455332 Points: 103 # Comments: 100",
+   "published": "2026-11-11T16:33:28+00:00",
+   "topics": [],
+   "first_seen": "2026-11-12T00:43:14+00:00"
   },
   {
    "id": "32bc3a2f6211a8fe",
@@ -134,7 +388,7 @@
    "link": "https://techcrunch.com/2026/11/11/openais-quarterly-revenue-reportedly-crosses-10b-for-the-first-time/",
    "source": "TechCrunch",
    "kind": "press",
-   "summary": "Sales of $10B represents an almost 50% jump from revenue of $6.7 billion the company recorded in the second quarter.",
+   "summary": "Sales of $10 billion represents an almost 50% jump from revenue of $6.7 billion the company recorded in the second quarter.",
    "published": "2026-11-11T16:14:44+00:00",
    "topics": [
     "Business"
@@ -182,7 +436,7 @@
    "link": "https://techcrunch.com/2026/11/11/databricks-new-ai-agent-tells-ceo-ali-ghodsi-the-unvarnished-truth/",
    "source": "TechCrunch",
    "kind": "press",
-   "summary": "At 12,000 employees, AI Ghodsi is the first to admit that he can't know everyone and that they are unlikely to confess the things that go wrong to him. But he doesn't need them to. He uses Databricks' newly revised Genie agent for that.",
+   "summary": "With Databricks at 12,000 employees, AI Ghodsi is the first to admit that he can't know everyone and that they are unlikely to confess the things that go wrong to him. But he doesn't need them to. He uses Databricks' newly revised Genie agent for that.",
    "published": "2026-11-11T15:00:00+00:00",
    "topics": [
     "Tools"
@@ -250,6 +504,19 @@
    "first_seen": "2026-11-11T17:53:22+00:00"
   },
   {
+   "id": "8d8bc38f54a7d350",
+   "title": "My AI agents found an unmapped Maya site",
+   "link": "https://pietromiotti.com/latest/maya-site",
+   "source": "Hacker News",
+   "kind": "community",
+   "summary": "Article URL: https://pietromiotti.com/latest/maya-site Comments URL: https://news.ycombinator.com/item?id=50452455 Points: 918 # Comments: 335",
+   "published": "2026-11-11T12:05:22+00:00",
+   "topics": [
+    "Tools"
+   ],
+   "first_seen": "2026-11-12T00:43:14+00:00"
+  },
+  {
    "id": "7e65614cc89aac7b",
    "title": "Experience the art and legacy of Dr. Esther Mahlangu",
    "link": "https://blog.google/company-news/outreach-and-initiatives/arts-culture/esther-mahlangu/",
@@ -311,6 +578,17 @@
    "first_seen": "2026-11-11T17:53:22+00:00"
   },
   {
+   "id": "8c999d6885d24711",
+   "title": "JioStar’s chief architect on AI discovery at 500M-user scale",
+   "link": "https://openai.com/index/jiostar-vijay-seshadri",
+   "source": "OpenAI",
+   "kind": "lab",
+   "summary": "JioStar’s Vijay Seshadri explains AI discovery at 500M-user scale. Read his lessons on evals, guardrails, and taking AI into production.",
+   "published": "2026-11-11T00:00:00+00:00",
+   "topics": [],
+   "first_seen": "2026-11-12T00:43:14+00:00"
+  },
+  {
    "id": "cd1dc6d6e6bd42c3",
    "title": "Ring cameras go mobile as Amazon debuts AI-powered security drone and robot",
    "link": "https://arstechnica.com/ai/2026/11/ring-cameras-go-mobile-as-amazon-debuts-ai-powered-security-drone-and-robot/",
@@ -327,7 +605,7 @@
    "link": "https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/ Comments URL: https://news.ycombinator.com/item?id=50446520 Points: 107 # Comments: 90",
+   "summary": "Article URL: https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/ Comments URL: https://news.ycombinator.com/item?id=50446520 Points: 515 # Comments: 524",
    "published": "2026-11-10T21:25:03+00:00",
    "topics": [
     "Models",
@@ -493,12 +771,25 @@
    "link": "https://claude.com/resources/articles/sheets-whiteboards-data",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://claude.com/resources/articles/sheets-whiteboards-data Comments URL: https://news.ycombinator.com/item?id=50443716 Points: 157 # Comments: 132",
+   "summary": "Article URL: https://claude.com/resources/articles/sheets-whiteboards-data Comments URL: https://news.ycombinator.com/item?id=50443716 Points: 281 # Comments: 216",
    "published": "2026-11-10T17:55:07+00:00",
    "topics": [
     "Models"
    ],
    "first_seen": "2026-11-11T01:55:36+00:00"
+  },
+  {
+   "id": "dfad3e6674c2521c",
+   "title": "Life on Claude Nine",
+   "link": "https://babuschk.in/posts/2026-01-25-life-on-claude-nine.html",
+   "source": "Hacker News",
+   "kind": "community",
+   "summary": "Article URL: https://babuschk.in/posts/2026-01-25-life-on-claude-nine.html Comments URL: https://news.ycombinator.com/item?id=50443587 Points: 129 # Comments: 85",
+   "published": "2026-11-10T17:44:44+00:00",
+   "topics": [
+    "Models"
+   ],
+   "first_seen": "2026-11-12T00:43:14+00:00"
   },
   {
    "id": "fd8e1c638d2dc1c1",
@@ -830,7 +1121,7 @@
    "link": "https://evanxmerz.com/post/ai-usage-generates-a-fragile-codebase/",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://evanxmerz.com/post/ai-usage-generates-a-fragile-codebase/ Comments URL: https://news.ycombinator.com/item?id=50438318 Points: 378 # Comments: 405",
+   "summary": "Article URL: https://evanxmerz.com/post/ai-usage-generates-a-fragile-codebase/ Comments URL: https://news.ycombinator.com/item?id=50438318 Points: 630 # Comments: 606",
    "published": "2026-11-10T10:25:58+00:00",
    "topics": [],
    "first_seen": "2026-11-10T20:49:34+00:00"
@@ -894,7 +1185,7 @@
    "link": "https://www.notion.com/help/security-incident-involving-a-third-party-ai-vendor",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://www.notion.com/help/security-incident-involving-a-third-party-ai-vendor Comments URL: https://news.ycombinator.com/item?id=50437106 Points: 159 # Comments: 60",
+   "summary": "Article URL: https://www.notion.com/help/security-incident-involving-a-third-party-ai-vendor Comments URL: https://news.ycombinator.com/item?id=50437106 Points: 164 # Comments: 64",
    "published": "2026-11-10T07:19:38+00:00",
    "topics": [],
    "first_seen": "2026-11-10T20:49:34+00:00"
@@ -929,7 +1220,7 @@
    "link": "https://simonwillison.net/2026/Nov/10/prompting-claude-fable-52/",
    "source": "Simon Willison",
    "kind": "community",
-   "summary": "Claude Fable 5.2 responds closely to what the prompt says about who owns the code it works on. In Anthropic’s testing on small coding tasks, when a prompt said nothing about ownership or presented the code base as someone else’s, the model tended to add to the existing…",
+   "summary": "Claude Fable 5.2 pays close attention to who owns the code it works on. In Anthropic’s testing on small coding tasks, the model tended to add to the existing structure when the prompt said nothing about ownership or presented the code base as someone else’s, even when that…",
    "published": "2026-11-10T05:34:14+00:00",
    "topics": [
     "Models"
@@ -955,7 +1246,7 @@
    "link": "https://www.cnbc.com/2026/11/06/coreweave-bond-yield-tops-16percent-as-ai-credit-stress-rises.html",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://www.cnbc.com/2026/11/06/coreweave-bond-yield-tops-16percent-as-ai-credit-stress-rises.html Comments URL: https://news.ycombinator.com/item?id=50435660 Points: 191 # Comments: 186",
+   "summary": "Article URL: https://www.cnbc.com/2026/11/06/coreweave-bond-yield-tops-16percent-as-ai-credit-stress-rises.html Comments URL: https://news.ycombinator.com/item?id=50435660 Points: 194 # Comments: 193",
    "published": "2026-11-10T03:20:06+00:00",
    "topics": [],
    "first_seen": "2026-11-10T12:38:49+00:00"
@@ -1137,7 +1428,7 @@
    "link": "https://www.reddit.com/r/ClaudeCode/comments/1xq2n3t/a_year_after_the_100_ai_mandate_nobody/",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "https://redlib.catsarch.com/r/ClaudeCode/comments/1xq2n3t/a_... Comments URL: https://news.ycombinator.com/item?id=50433079 Points: 151 # Comments: 192",
+   "summary": "https://redlib.catsarch.com/r/ClaudeCode/comments/1xq2n3t/a_... Comments URL: https://news.ycombinator.com/item?id=50433079 Points: 158 # Comments: 200",
    "published": "2026-11-09T22:19:12+00:00",
    "topics": [],
    "first_seen": "2026-11-10T12:38:49+00:00"
@@ -1161,7 +1452,7 @@
    "link": "https://artificialanalysis.ai/models/claude-fable-5-2",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://artificialanalysis.ai/models/claude-fable-5-2 Comments URL: https://news.ycombinator.com/item?id=50431144 Points: 372 # Comments: 268",
+   "summary": "Article URL: https://artificialanalysis.ai/models/claude-fable-5-2 Comments URL: https://news.ycombinator.com/item?id=50431144 Points: 379 # Comments: 278",
    "published": "2026-11-09T20:04:55+00:00",
    "topics": [
     "Models"
@@ -1277,7 +1568,7 @@
    "link": "https://github.com/Dodaios/ste80-humanizer",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://github.com/Dodaios/ste80-humanizer Comments URL: https://news.ycombinator.com/item?id=50429144 Points: 105 # Comments: 39",
+   "summary": "Article URL: https://github.com/Dodaios/ste80-humanizer Comments URL: https://news.ycombinator.com/item?id=50429144 Points: 111 # Comments: 43",
    "published": "2026-11-09T18:05:44+00:00",
    "topics": [],
    "first_seen": "2026-11-10T20:49:34+00:00"
@@ -1288,7 +1579,7 @@
    "link": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://www.anthropic.com/claude-fable-and-mythos-5-2 Comments URL: https://news.ycombinator.com/item?id=50429068 Points: 877 # Comments: 1004",
+   "summary": "Article URL: https://www.anthropic.com/claude-fable-and-mythos-5-2 Comments URL: https://news.ycombinator.com/item?id=50429068 Points: 909 # Comments: 1038",
    "published": "2026-11-09T18:01:10+00:00",
    "topics": [
     "Models"
@@ -1557,7 +1848,7 @@
    "link": "https://www.stork.ai/newsletter/2026-11-08-apple-capped-engineers-at-a-200-daily-ai-budget",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://www.stork.ai/newsletter/2026-11-08-apple-capped-engineers-at-a-200-daily-ai-budget Comments URL: https://news.ycombinator.com/item?id=50421426 Points: 113 # Comments: 125",
+   "summary": "Article URL: https://www.stork.ai/newsletter/2026-11-08-apple-capped-engineers-at-a-200-daily-ai-budget Comments URL: https://news.ycombinator.com/item?id=50421426 Points: 113 # Comments: 126",
    "published": "2026-11-09T05:30:11+00:00",
    "topics": [],
    "first_seen": "2026-11-09T20:43:39+00:00"
@@ -1606,7 +1897,7 @@
    "link": "https://matteoraso.github.io/im-not-convinced-the-ai-bubble-exists.html#im-not-convinced-the-ai-bubble-exists",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://matteoraso.github.io/im-not-convinced-the-ai-bubble-exists.html#im-not-convinced-the-ai-bubble-exists Comments URL: https://news.ycombinator.com/item?id=50418975 Points: 564 # Comments: 958",
+   "summary": "Article URL: https://matteoraso.github.io/im-not-convinced-the-ai-bubble-exists.html#im-not-convinced-the-ai-bubble-exists Comments URL: https://news.ycombinator.com/item?id=50418975 Points: 570 # Comments: 970",
    "published": "2026-11-08T23:44:36+00:00",
    "topics": [],
    "first_seen": "2026-11-09T09:47:50+00:00"
@@ -1655,7 +1946,7 @@
    "link": "https://sergeykuhne.com/blog/fighting-ai-brain-fry",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://sergeykuhne.com/blog/fighting-ai-brain-fry Comments URL: https://news.ycombinator.com/item?id=50416363 Points: 310 # Comments: 215",
+   "summary": "Article URL: https://sergeykuhne.com/blog/fighting-ai-brain-fry Comments URL: https://news.ycombinator.com/item?id=50416363 Points: 313 # Comments: 215",
    "published": "2026-11-08T19:37:42+00:00",
    "topics": [],
    "first_seen": "2026-11-09T01:43:49+00:00"
@@ -1679,7 +1970,7 @@
    "link": "https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers Comments URL: https://news.ycombinator.com/item?id=50415628 Points: 898 # Comments: 488",
+   "summary": "Article URL: https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers Comments URL: https://news.ycombinator.com/item?id=50415628 Points: 901 # Comments: 496",
    "published": "2026-11-08T18:16:07+00:00",
    "topics": [
     "Models"
@@ -1705,7 +1996,7 @@
    "link": "https://caleb.software/posts/claude-to-pi.html",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://caleb.software/posts/claude-to-pi.html Comments URL: https://news.ycombinator.com/item?id=50410107 Points: 814 # Comments: 491",
+   "summary": "Article URL: https://caleb.software/posts/claude-to-pi.html Comments URL: https://news.ycombinator.com/item?id=50410107 Points: 821 # Comments: 492",
    "published": "2026-11-08T03:11:48+00:00",
    "topics": [
     "Models"
@@ -12107,137 +12398,6 @@
     "Tools"
    ],
    "first_seen": "2026-10-14T04:53:12+00:00"
-  },
-  {
-   "id": "ef47cf6a028c4b74",
-   "title": "llm-meta-ai 0.2",
-   "link": "https://simonwillison.net/2026/Oct/12/llm-meta-ai/",
-   "source": "Simon Willison",
-   "kind": "community",
-   "summary": "Release: llm-meta-ai 0.2 Meta AI release Muse Wonder (and Muse Wonder Full), their new \"most capable models\". These look like they may be Meta's first Fable class models - Artificial Analysis scores Muse Wonder (Max) as equivalent to GPT-6.1 Sol. I updated my llm-meta-ai plugin…",
-   "published": "2026-10-12T23:58:46+00:00",
-   "topics": [
-    "Models",
-    "Tools"
-   ],
-   "first_seen": "2026-10-13T22:44:39+00:00"
-  },
-  {
-   "id": "343756543cb3b327",
-   "title": "I turned my unused Kindle into a photo frame with GPT-6 Astra",
-   "link": "https://nirajrajgor.com/blog/kindle-photo-frame-with-ai",
-   "source": "Hacker News",
-   "kind": "community",
-   "summary": "Article URL: https://nirajrajgor.com/blog/kindle-photo-frame-with-ai Comments URL: https://news.ycombinator.com/item?id=50064318 Points: 146 # Comments: 103",
-   "published": "2026-10-12T23:07:25+00:00",
-   "topics": [
-    "Models"
-   ],
-   "first_seen": "2026-10-13T17:36:05+00:00"
-  },
-  {
-   "id": "c41789c5590e4a8d",
-   "title": "AI is a tool and using it well takes skill",
-   "link": "https://yyhh.org/blog/2026/10/ai-is-a-tool/",
-   "source": "Hacker News",
-   "kind": "community",
-   "summary": "Article URL: https://yyhh.org/blog/2026/10/ai-is-a-tool/ Comments URL: https://news.ycombinator.com/item?id=50063427 Points: 757 # Comments: 587",
-   "published": "2026-10-12T21:40:18+00:00",
-   "topics": [],
-   "first_seen": "2026-10-13T17:36:05+00:00"
-  },
-  {
-   "id": "657a150f08e48f41",
-   "title": "Intel D270 GPU AI Accelerator–Up to 480 GB LPDDR5X",
-   "link": "https://www.intel.com/content/www/us/en/products/details/discrete-gpus/data-center-gpu/d-series.html",
-   "source": "Hacker News",
-   "kind": "community",
-   "summary": "Article URL: https://www.intel.com/content/www/us/en/products/details/discrete-gpus/data-center-gpu/d-series.html Comments URL: https://news.ycombinator.com/item?id=50063365 Points: 306 # Comments: 177",
-   "published": "2026-10-12T21:35:35+00:00",
-   "topics": [
-    "Hardware"
-   ],
-   "first_seen": "2026-10-13T17:36:05+00:00"
-  },
-  {
-   "id": "37b5a1e81dc84f2f",
-   "title": "Epic Games reportedly pivoting to \"AI first\" game development model",
-   "link": "https://arstechnica.com/gaming/2026/10/report-epic-games-goes-all-in-on-ai-for-disney-collaboration/",
-   "source": "Ars Technica",
-   "kind": "press",
-   "summary": "\"No more hand-written code\" or AI-free art for delayed Marvel/Star Wars shooter.",
-   "published": "2026-10-12T20:59:50+00:00",
-   "topics": [
-    "Models"
-   ],
-   "first_seen": "2026-10-13T02:00:38+00:00"
-  },
-  {
-   "id": "e6bb69f517c664dd",
-   "title": "AI models may be capable of self-replicating without access to a datacenter",
-   "link": "https://www.anthropic.com/research/self-replicating-ai",
-   "source": "Hacker News",
-   "kind": "community",
-   "summary": "Article URL: https://www.anthropic.com/research/self-replicating-ai Comments URL: https://news.ycombinator.com/item?id=50061603 Points: 115 # Comments: 113",
-   "published": "2026-10-12T19:25:29+00:00",
-   "topics": [
-    "Models",
-    "Research",
-    "Hardware"
-   ],
-   "first_seen": "2026-10-13T22:44:39+00:00"
-  },
-  {
-   "id": "b470d062734aea8f",
-   "title": "Anthropic's Claude AI submitted false murder tip to Philadelphia police",
-   "link": "https://arstechnica.com/tech-policy/2026/10/anthropics-claude-ai-submitted-false-murder-tip-to-philadelphia-police/",
-   "source": "Ars Technica",
-   "kind": "press",
-   "summary": "“I may have information regarding this case,\" Claude AI told Philly police.",
-   "published": "2026-10-12T18:21:36+00:00",
-   "topics": [
-    "Models"
-   ],
-   "first_seen": "2026-10-12T19:48:20+00:00"
-  },
-  {
-   "id": "92f57cbc8464c256",
-   "title": "Hello Python 3.15, goodbye 3.10, and now I can use 3.11",
-   "link": "https://simonwillison.net/2026/Oct/12/python-3-15/",
-   "source": "Simon Willison",
-   "kind": "community",
-   "summary": "Python 3.15 is here ! Here's the essential What's new in Python 3.15 guide, this year curated by 3.14 and 3.15 release manager Hugo van Kemenade. As someone who builds open source software that works in every supported Python version, I get to say goodbye to Python 3.10 and…",
-   "published": "2026-10-12T18:15:38+00:00",
-   "topics": [
-    "Tools"
-   ],
-   "first_seen": "2026-10-12T19:48:20+00:00"
-  },
-  {
-   "id": "5a6b7e23ee06a3b9",
-   "title": "'AI' Is Not a Tool by Rich Hickey",
-   "link": "https://www.linkedin.com/pulse/ai-tool-rich-hickey-kjl8e",
-   "source": "Hacker News",
-   "kind": "community",
-   "summary": "https://gist.github.com/svieira/619d60dea942a8d4498cba3bb6b1... Comments URL: https://news.ycombinator.com/item?id=50060269 Points: 311 # Comments: 189",
-   "published": "2026-10-12T18:00:25+00:00",
-   "topics": [],
-   "first_seen": "2026-10-13T17:36:05+00:00"
-  },
-  {
-   "id": "80d24e11891767c4",
-   "title": "Meta releases its first frontier model, Muse Wonder",
-   "link": "https://techcrunch.com/2026/10/12/meta-releases-its-first-frontier-model-muse-wonder/",
-   "source": "TechCrunch",
-   "kind": "press",
-   "summary": "Where Muse Spark aimed to be a lightweight model that could perform at low latency, the Wonder models are larger and said to be more capable, with higher benchmark scores and better results on complex tasks like coding.",
-   "published": "2026-10-12T17:56:56+00:00",
-   "topics": [
-    "Models",
-    "Research",
-    "Tools"
-   ],
-   "first_seen": "2026-10-12T19:48:20+00:00"
   }
  ]
 }
