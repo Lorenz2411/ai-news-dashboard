@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-12T00:43:14+00:00",
+ "updated": "2026-11-12T09:50:23+00:00",
  "sources": [
   {
    "name": "OpenAI",
@@ -13,9 +13,9 @@
    "name": "Google DeepMind",
    "url": "https://deepmind.google/blog/rss.xml",
    "kind": "lab",
-   "ok": false,
-   "count": 0,
-   "error": "ParseError: not well-formed (invalid token): line 1, column 0"
+   "ok": true,
+   "count": 40,
+   "error": null
   },
   {
    "name": "Google AI",
@@ -92,6 +92,32 @@
  ],
  "items": [
   {
+   "id": "48e6c41241423249",
+   "title": "Who could replace Jensen Huang? A highly unscientific list of possible successors",
+   "link": "https://techcrunch.com/2026/11/11/who-could-replace-jensen-huang-a-highly-unscientific-list-of-possible-successors/",
+   "source": "TechCrunch",
+   "kind": "press",
+   "summary": "Nvidia has no succession plan and a CEO in hot water, so we’ve drafted a shortlist.",
+   "published": "2026-11-12T03:13:10+00:00",
+   "topics": [
+    "Hardware"
+   ],
+   "first_seen": "2026-11-12T09:50:23+00:00"
+  },
+  {
+   "id": "4a6d92631407ef3c",
+   "title": "Nvidia is reportedly preparing to fire Jensen Huang",
+   "link": "https://www.theverge.com/tech/1031652/jensen-huang-rumor",
+   "source": "The Verge",
+   "kind": "press",
+   "summary": "Nvidia's board is preparing to dismiss CEO Jensen Huang following a report from the New York Times about a second alleged extramarital affair, just days after he admitted to a separate affair with a woman alleged to be a Chinese spy, The Wall Street Journal reports. The second…",
+   "published": "2026-11-12T00:55:40+00:00",
+   "topics": [
+    "Hardware"
+   ],
+   "first_seen": "2026-11-12T00:43:14+00:00"
+  },
+  {
    "id": "f28f90d2895a812c",
    "title": "Gilbert + Tobin rethinks the business of law with AI",
    "link": "https://openai.com/index/gilbert-tobin-sam-nickless",
@@ -143,19 +169,6 @@
    "first_seen": "2026-11-12T00:43:14+00:00"
   },
   {
-   "id": "4a6d92631407ef3c",
-   "title": "Nvidia is reportedly preparing to fire Jensen Huang",
-   "link": "https://www.theverge.com/tech/1031652/jensen-huang-rumor",
-   "source": "The Verge",
-   "kind": "press",
-   "summary": "Nvidia's board is preparing to dismiss CEO Jensen Huang following a report from the New York Times about a second alleged extramarital affair, just days after he admitted to a separate affair with a woman alleged to be a Chinese spy, The Wall Street Journal reports. The second…",
-   "published": "2026-11-11T23:10:43+00:00",
-   "topics": [
-    "Hardware"
-   ],
-   "first_seen": "2026-11-12T00:43:14+00:00"
-  },
-  {
    "id": "bb485df9f4f59adb",
    "title": "Gemini Decisions API",
    "link": "https://simonwillison.net/2026/Nov/11/gemini-decisions-api/",
@@ -189,7 +202,7 @@
    "link": "https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/ Comments URL: https://news.ycombinator.com/item?id=50458900 Points: 314 # Comments: 292",
+   "summary": "Article URL: https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/ Comments URL: https://news.ycombinator.com/item?id=50458900 Points: 552 # Comments: 546",
    "published": "2026-11-11T21:24:35+00:00",
    "topics": [
     "Tools"
@@ -252,7 +265,7 @@
    "link": "https://techcrunch.com/2026/11/11/coreweave-turns-to-customer-prepayments-shorter-contracts-to-fund-ai-growth/",
    "source": "TechCrunch",
    "kind": "press",
-   "summary": "CoreWeave is increasingly asking customers to pay upfront, borrowing against specific contracts, and even looking to short-term deals that could lead to higher prices, according to the company’s third-quarter earnings.",
+   "summary": "CoreWeave is increasingly asking customers to pay up front, borrowing against specific contracts, and even looking to short-term deals that could lead to higher prices, according to the company’s third-quarter earnings.",
    "published": "2026-11-11T19:54:00+00:00",
    "topics": [],
    "first_seen": "2026-11-12T00:43:14+00:00"
@@ -290,7 +303,7 @@
    "link": "https://lpeproject.org/blog/your-retirement-savings-are-fueling-the-ai-bubble/",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://lpeproject.org/blog/your-retirement-savings-are-fueling-the-ai-bubble/ Comments URL: https://news.ycombinator.com/item?id=50457164 Points: 133 # Comments: 142",
+   "summary": "Article URL: https://lpeproject.org/blog/your-retirement-savings-are-fueling-the-ai-bubble/ Comments URL: https://news.ycombinator.com/item?id=50457164 Points: 156 # Comments: 165",
    "published": "2026-11-11T19:06:43+00:00",
    "topics": [],
    "first_seen": "2026-11-12T00:43:14+00:00"
@@ -364,7 +377,7 @@
    "link": "https://cabird.com/talks/shipping-faster/",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "https://www.youtube.com/watch?v=0wumMeZsNsI Comments URL: https://news.ycombinator.com/item?id=50455332 Points: 103 # Comments: 100",
+   "summary": "https://www.youtube.com/watch?v=0wumMeZsNsI Comments URL: https://news.ycombinator.com/item?id=50455332 Points: 118 # Comments: 105",
    "published": "2026-11-11T16:33:28+00:00",
    "topics": [],
    "first_seen": "2026-11-12T00:43:14+00:00"
@@ -505,11 +518,11 @@
   },
   {
    "id": "8d8bc38f54a7d350",
-   "title": "My AI agents found an unmapped Maya site",
+   "title": "My AI agents found an unmapped Maya site?",
    "link": "https://pietromiotti.com/latest/maya-site",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://pietromiotti.com/latest/maya-site Comments URL: https://news.ycombinator.com/item?id=50452455 Points: 918 # Comments: 335",
+   "summary": "Article URL: https://pietromiotti.com/latest/maya-site Comments URL: https://news.ycombinator.com/item?id=50452455 Points: 989 # Comments: 359",
    "published": "2026-11-11T12:05:22+00:00",
    "topics": [
     "Tools"
@@ -605,7 +618,7 @@
    "link": "https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/ Comments URL: https://news.ycombinator.com/item?id=50446520 Points: 515 # Comments: 524",
+   "summary": "Article URL: https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/ Comments URL: https://news.ycombinator.com/item?id=50446520 Points: 530 # Comments: 536",
    "published": "2026-11-10T21:25:03+00:00",
    "topics": [
     "Models",
@@ -771,7 +784,7 @@
    "link": "https://claude.com/resources/articles/sheets-whiteboards-data",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://claude.com/resources/articles/sheets-whiteboards-data Comments URL: https://news.ycombinator.com/item?id=50443716 Points: 281 # Comments: 216",
+   "summary": "Article URL: https://claude.com/resources/articles/sheets-whiteboards-data Comments URL: https://news.ycombinator.com/item?id=50443716 Points: 286 # Comments: 216",
    "published": "2026-11-10T17:55:07+00:00",
    "topics": [
     "Models"
@@ -784,7 +797,7 @@
    "link": "https://babuschk.in/posts/2026-01-25-life-on-claude-nine.html",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://babuschk.in/posts/2026-01-25-life-on-claude-nine.html Comments URL: https://news.ycombinator.com/item?id=50443587 Points: 129 # Comments: 85",
+   "summary": "Article URL: https://babuschk.in/posts/2026-01-25-life-on-claude-nine.html Comments URL: https://news.ycombinator.com/item?id=50443587 Points: 134 # Comments: 86",
    "published": "2026-11-10T17:44:44+00:00",
    "topics": [
     "Models"
@@ -1121,7 +1134,7 @@
    "link": "https://evanxmerz.com/post/ai-usage-generates-a-fragile-codebase/",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://evanxmerz.com/post/ai-usage-generates-a-fragile-codebase/ Comments URL: https://news.ycombinator.com/item?id=50438318 Points: 630 # Comments: 606",
+   "summary": "Article URL: https://evanxmerz.com/post/ai-usage-generates-a-fragile-codebase/ Comments URL: https://news.ycombinator.com/item?id=50438318 Points: 635 # Comments: 614",
    "published": "2026-11-10T10:25:58+00:00",
    "topics": [],
    "first_seen": "2026-11-10T20:49:34+00:00"
@@ -1246,7 +1259,7 @@
    "link": "https://www.cnbc.com/2026/11/06/coreweave-bond-yield-tops-16percent-as-ai-credit-stress-rises.html",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://www.cnbc.com/2026/11/06/coreweave-bond-yield-tops-16percent-as-ai-credit-stress-rises.html Comments URL: https://news.ycombinator.com/item?id=50435660 Points: 194 # Comments: 193",
+   "summary": "Article URL: https://www.cnbc.com/2026/11/06/coreweave-bond-yield-tops-16percent-as-ai-credit-stress-rises.html Comments URL: https://news.ycombinator.com/item?id=50435660 Points: 195 # Comments: 191",
    "published": "2026-11-10T03:20:06+00:00",
    "topics": [],
    "first_seen": "2026-11-10T12:38:49+00:00"
@@ -1579,7 +1592,7 @@
    "link": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://www.anthropic.com/claude-fable-and-mythos-5-2 Comments URL: https://news.ycombinator.com/item?id=50429068 Points: 909 # Comments: 1038",
+   "summary": "Article URL: https://www.anthropic.com/claude-fable-and-mythos-5-2 Comments URL: https://news.ycombinator.com/item?id=50429068 Points: 913 # Comments: 1042",
    "published": "2026-11-09T18:01:10+00:00",
    "topics": [
     "Models"
@@ -1848,7 +1861,7 @@
    "link": "https://www.stork.ai/newsletter/2026-11-08-apple-capped-engineers-at-a-200-daily-ai-budget",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://www.stork.ai/newsletter/2026-11-08-apple-capped-engineers-at-a-200-daily-ai-budget Comments URL: https://news.ycombinator.com/item?id=50421426 Points: 113 # Comments: 126",
+   "summary": "Article URL: https://www.stork.ai/newsletter/2026-11-08-apple-capped-engineers-at-a-200-daily-ai-budget Comments URL: https://news.ycombinator.com/item?id=50421426 Points: 114 # Comments: 126",
    "published": "2026-11-09T05:30:11+00:00",
    "topics": [],
    "first_seen": "2026-11-09T20:43:39+00:00"
@@ -1897,7 +1910,7 @@
    "link": "https://matteoraso.github.io/im-not-convinced-the-ai-bubble-exists.html#im-not-convinced-the-ai-bubble-exists",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://matteoraso.github.io/im-not-convinced-the-ai-bubble-exists.html#im-not-convinced-the-ai-bubble-exists Comments URL: https://news.ycombinator.com/item?id=50418975 Points: 570 # Comments: 970",
+   "summary": "Article URL: https://matteoraso.github.io/im-not-convinced-the-ai-bubble-exists.html#im-not-convinced-the-ai-bubble-exists Comments URL: https://news.ycombinator.com/item?id=50418975 Points: 572 # Comments: 972",
    "published": "2026-11-08T23:44:36+00:00",
    "topics": [],
    "first_seen": "2026-11-09T09:47:50+00:00"
@@ -1970,7 +1983,7 @@
    "link": "https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers Comments URL: https://news.ycombinator.com/item?id=50415628 Points: 901 # Comments: 496",
+   "summary": "Article URL: https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers Comments URL: https://news.ycombinator.com/item?id=50415628 Points: 902 # Comments: 496",
    "published": "2026-11-08T18:16:07+00:00",
    "topics": [
     "Models"
@@ -1996,7 +2009,7 @@
    "link": "https://caleb.software/posts/claude-to-pi.html",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://caleb.software/posts/claude-to-pi.html Comments URL: https://news.ycombinator.com/item?id=50410107 Points: 821 # Comments: 492",
+   "summary": "Article URL: https://caleb.software/posts/claude-to-pi.html Comments URL: https://news.ycombinator.com/item?id=50410107 Points: 821 # Comments: 493",
    "published": "2026-11-08T03:11:48+00:00",
    "topics": [
     "Models"
@@ -12321,83 +12334,6 @@
     "Tools"
    ],
    "first_seen": "2026-10-13T17:36:05+00:00"
-  },
-  {
-   "id": "7c431d9eeb01b7e3",
-   "title": "AI labs are buying data from dead startups to train their models",
-   "link": "https://www.technologyreview.com/2026/10/13/1145755/ai-labs-buying-data-from-dead-startups-to-train-models/",
-   "source": "MIT Technology Review",
-   "kind": "press",
-   "summary": "When Keelan Miskell began winding down his crypto startup this year, he didn’t think its data was worth much: the users were anonymous, the company just a few years old. But he’s since turned the firm’s digital archives into real money. He’s netted roughly $25,000 for his code…",
-   "published": "2026-10-13T09:00:00+00:00",
-   "topics": [
-    "Models",
-    "Business"
-   ],
-   "first_seen": "2026-10-13T09:25:08+00:00"
-  },
-  {
-   "id": "3c04da4c4ba342df",
-   "title": "Character.ai has initiated voluntary Chapter 11 bankruptcy",
-   "link": "https://blog.character.ai/an-update-on-character-ai/",
-   "source": "Hacker News",
-   "kind": "community",
-   "summary": "https://www.theverge.com/ai-artificial-intelligence/1009802/... https://techcrunch.com/2026/10/13/just-5-years-in-interactiv... https://www.reuters.com/legal/litigation/characterai-files-b... https://variety.com/2026/biz/news/disney-bids-on-character-a... Comments URL…",
-   "published": "2026-10-13T07:28:34+00:00",
-   "topics": [],
-   "first_seen": "2026-10-13T17:36:05+00:00"
-  },
-  {
-   "id": "9e58dc30161bca32",
-   "title": "Threat of AI share crash puts world financial stability at risk, says IMF",
-   "link": "https://www.theguardian.com/business/2026/oct/13/ai-share-crash-risk-global-imf-debt-corrowing-cyber-attacks",
-   "source": "Hacker News",
-   "kind": "community",
-   "summary": "Article URL: https://www.theguardian.com/business/2026/oct/13/ai-share-crash-risk-global-imf-debt-corrowing-cyber-attacks Comments URL: https://news.ycombinator.com/item?id=50067356 Points: 115 # Comments: 127",
-   "published": "2026-10-13T05:57:32+00:00",
-   "topics": [],
-   "first_seen": "2026-10-13T17:36:05+00:00"
-  },
-  {
-   "id": "43409ec21d5ae7c2",
-   "title": "Ask HN: CAD for wood working with LLM support?",
-   "link": "https://news.ycombinator.com/item?id=50067325",
-   "source": "Hacker News",
-   "kind": "community",
-   "summary": "I’m a hobbyist woodworker. I manually design simple things in Shapr3d with a lot of patience when I build things. I wonder in the time of LLMs if there is an effective way to accelerate the 3D model design using AI.. Anybody tried using AI to model wood projects? Any tools to…",
-   "published": "2026-10-13T05:54:01+00:00",
-   "topics": [
-    "Models"
-   ],
-   "first_seen": "2026-10-15T18:18:17+00:00"
-  },
-  {
-   "id": "224c102190be4dc2",
-   "title": "AI models can provably hide arbitrary capabilities",
-   "link": "https://arxiv.org/abs/2610.13928",
-   "source": "Hacker News",
-   "kind": "community",
-   "summary": "Article URL: https://arxiv.org/abs/2610.13928 Comments URL: https://news.ycombinator.com/item?id=50065692 Points: 279 # Comments: 143",
-   "published": "2026-10-13T02:07:08+00:00",
-   "topics": [
-    "Models",
-    "Research"
-   ],
-   "first_seen": "2026-10-13T17:36:05+00:00"
-  },
-  {
-   "id": "9512e72db4bde2c6",
-   "title": "web-edit 0.1a1",
-   "link": "https://simonwillison.net/2026/Oct/13/web-edit/",
-   "source": "Simon Willison",
-   "kind": "community",
-   "summary": "Release: web-edit 0.1a1 Includes performance optimizations written by Claude Opus 5.5 after I fed it this Python 3.15 profiling report generated by GPT-6 Astra. Tags: profiling , projects",
-   "published": "2026-10-13T01:40:05+00:00",
-   "topics": [
-    "Models",
-    "Tools"
-   ],
-   "first_seen": "2026-10-14T04:53:12+00:00"
   }
  ]
 }
