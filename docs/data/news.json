@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13T01:04:25+00:00",
+ "updated": "2026-11-13T09:30:15+00:00",
  "sources": [
   {
    "name": "OpenAI",
@@ -85,9 +85,9 @@
    "name": "Hacker News",
    "url": "https://hnrss.org/newest?q=AI+OR+LLM+OR+GPT+OR+Claude&points=100",
    "kind": "community",
-   "ok": true,
-   "count": 20,
-   "error": null
+   "ok": false,
+   "count": 0,
+   "error": "HTTPError: HTTP Error 502: Bad Gateway"
   }
  ],
  "items": [
@@ -98,7 +98,7 @@
    "source": "The Verge",
    "kind": "press",
    "summary": "After the leather-jacketed CEO, president, and co-founder of Nvidia, Jensen Huang, acknowledged an affair with Megaspeed exec Alice Huang, his company initially announced an investigation. However, The New York Times reported on Wednesday that there was evidence of another…",
-   "published": "2026-11-13T00:45:25+00:00",
+   "published": "2026-11-13T09:16:25+00:00",
    "topics": [
     "Business",
     "Hardware"
@@ -12283,59 +12283,6 @@
     "Tools"
    ],
    "first_seen": "2026-10-14T17:10:16+00:00"
-  },
-  {
-   "id": "e181547094b0a112",
-   "title": "How Third Moment Research runs 10,000 agents for 36+ hours",
-   "link": "https://openai.com/index/third-moment-research",
-   "source": "OpenAI",
-   "kind": "lab",
-   "summary": "With GPT-6 Astra and GPT-6.1 Sol, Codex, and Daybreak for cybersecurity, this AI lab builds agents that focus for days and improve with use.",
-   "published": "2026-10-14T07:00:00+00:00",
-   "topics": [
-    "Models",
-    "Research",
-    "Tools"
-   ],
-   "first_seen": "2026-10-14T17:10:16+00:00"
-  },
-  {
-   "id": "7d10f0ddfecf202c",
-   "title": "How Block is building AI-powered security with OpenAI technology",
-   "link": "https://openai.com/index/block-ai-powered-security",
-   "source": "OpenAI",
-   "kind": "lab",
-   "summary": "Block is building AI-powered security with OpenAI. Its security team investigates threats faster and proposes patches in minutes.",
-   "published": "2026-10-14T07:00:00+00:00",
-   "topics": [
-    "Business"
-   ],
-   "first_seen": "2026-10-15T00:31:11+00:00"
-  },
-  {
-   "id": "58e4191fcfe4b88c",
-   "title": "Google DeepMind and Singapore Government collaborate to build fine-tuned AI model for scam detection",
-   "link": "https://deepmind.google/blog/on-device-ai-scam-detection-mddi/",
-   "source": "Google DeepMind",
-   "kind": "lab",
-   "summary": "Learn how Google DeepMind and GovTech Singapore uses lightweight on-device Gemma models to intercept conversational scams in private chats with zero cloud data egress.",
-   "published": "2026-10-14T02:00:14+00:00",
-   "topics": [
-    "Models",
-    "Policy"
-   ],
-   "first_seen": "2026-10-14T04:53:12+00:00"
-  },
-  {
-   "id": "8499e5245393adba",
-   "title": "Show HN: I built a tool to track what AI leaders say and how their views change",
-   "link": "https://blumify.io/people",
-   "source": "Hacker News",
-   "kind": "community",
-   "summary": "Article URL: https://blumify.io/people Comments URL: https://news.ycombinator.com/item?id=50081151 Points: 118 # Comments: 76",
-   "published": "2026-10-14T01:09:13+00:00",
-   "topics": [],
-   "first_seen": "2026-10-14T11:51:35+00:00"
   }
  ]
 }
