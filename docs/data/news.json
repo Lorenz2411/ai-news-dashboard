@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13T17:43:56+00:00",
+ "updated": "2026-11-13T23:32:59+00:00",
  "sources": [
   {
    "name": "OpenAI",
@@ -13,9 +13,9 @@
    "name": "Google DeepMind",
    "url": "https://deepmind.google/blog/rss.xml",
    "kind": "lab",
-   "ok": true,
-   "count": 40,
-   "error": null
+   "ok": false,
+   "count": 0,
+   "error": "ParseError: not well-formed (invalid token): line 1, column 0"
   },
   {
    "name": "Google AI",
@@ -92,6 +92,133 @@
  ],
  "items": [
   {
+   "id": "ec577d4c46a6d8ce",
+   "title": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
+   "link": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/",
+   "source": "TechCrunch",
+   "kind": "press",
+   "summary": "Nvidia poured tens of billions into AI startups under Huang. Without him at the helm, founders and VCs are bracing for smaller checks and lower valuations.",
+   "published": "2026-11-13T22:43:00+00:00",
+   "topics": [
+    "Business",
+    "Hardware"
+   ],
+   "first_seen": "2026-11-13T23:32:59+00:00"
+  },
+  {
+   "id": "c479f2841d4a388a",
+   "title": "FAA expands AI advice to manage air traffic congestion across entire US airspace",
+   "link": "https://arstechnica.com/features/2026/11/faa-expands-ai-advice-to-manage-air-traffic-congestion-across-entire-us-airspace/",
+   "source": "Ars Technica",
+   "kind": "press",
+   "summary": "Airlines praised the AI tool, but the air traffic controllers’ union wasn’t involved.",
+   "published": "2026-11-13T21:20:47+00:00",
+   "topics": [],
+   "first_seen": "2026-11-13T23:32:59+00:00"
+  },
+  {
+   "id": "951c84561943a913",
+   "title": "ChatGPT Wallet lets OpenAI’s Dots agents make purchases for you",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/1033425/openai-chatgpt-wallet",
+   "source": "The Verge",
+   "kind": "press",
+   "summary": "After launching its Dots AI agents platform earlier this year, OpenAI is launching a wallet for the agents. ChatGPT Wallet is rolling out starting today for ChatGPT Pro subscribers in the US aged 18 and older using a US billing address and \"eligible US-issued American Express…",
+   "published": "2026-11-13T20:45:10+00:00",
+   "topics": [
+    "Tools"
+   ],
+   "first_seen": "2026-11-13T23:32:59+00:00"
+  },
+  {
+   "id": "f0632826eee2438b",
+   "title": "No AI Slop: A Manifesto",
+   "link": "https://www.slopmanifesto.com/",
+   "source": "Hacker News",
+   "kind": "community",
+   "summary": "Article URL: https://www.slopmanifesto.com/ Comments URL: https://news.ycombinator.com/item?id=50488769 Points: 166 # Comments: 94",
+   "published": "2026-11-13T19:51:56+00:00",
+   "topics": [],
+   "first_seen": "2026-11-13T23:32:59+00:00"
+  },
+  {
+   "id": "645e798427f902eb",
+   "title": "AI agent startup LangChain hits $3B valuation",
+   "link": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/",
+   "source": "TechCrunch",
+   "kind": "press",
+   "summary": "LangChain now claims 7,000 customers of its model and platform agnostic agent management tool LangSmith.",
+   "published": "2026-11-13T19:37:57+00:00",
+   "topics": [
+    "Models",
+    "Business",
+    "Tools"
+   ],
+   "first_seen": "2026-11-13T23:32:59+00:00"
+  },
+  {
+   "id": "627c324df106de1b",
+   "title": "What’s really at stake in the Jensen Huang saga",
+   "link": "https://www.theverge.com/podcast/1032866/jensen-huang-nvidia-china-trump-vergecast",
+   "source": "The Verge",
+   "kind": "press",
+   "summary": "One part of the saga surrounding Nvidia CEO Jensen Huang ended on Thursday, when Huang resigned from his position at the top of AI's most important company. But in the coming weeks and months, a much bigger story may be about to unfold. A story about Nvidia's dealings in China…",
+   "published": "2026-11-13T19:17:15+00:00",
+   "topics": [
+    "Hardware"
+   ],
+   "first_seen": "2026-11-13T17:43:56+00:00"
+  },
+  {
+   "id": "71dad9da95c2fbfe",
+   "title": "Let’s talk about Jensen Huang’s many affairs!",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/1032339/lets-talk-about-the-nvidia-shitshow",
+   "source": "The Verge",
+   "kind": "press",
+   "summary": "Usually, we'd be offering to answer your questions about a news event, but honestly we don't really have any answers about what the hell is going on over at Nvidia. I can't speak for Nilay but at the rate Jensen Huang's new mistresses are dropping, I am concerned we are…",
+   "published": "2026-11-13T19:07:12+00:00",
+   "topics": [
+    "Hardware"
+   ],
+   "first_seen": "2026-11-13T17:43:56+00:00"
+  },
+  {
+   "id": "3dc626ea28ff3a7d",
+   "title": "Export-banned Nvidia chips are behind China’s most powerful AI models — uh-oh, Jensen!",
+   "link": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/",
+   "source": "TechCrunch",
+   "kind": "press",
+   "summary": "New research shows the most advanced AI models from China were trained on banned Nvidia chips.",
+   "published": "2026-11-13T18:40:30+00:00",
+   "topics": [
+    "Models",
+    "Research",
+    "Hardware"
+   ],
+   "first_seen": "2026-11-13T23:32:59+00:00"
+  },
+  {
+   "id": "2427bacb74a96b4b",
+   "title": "Build a Robot Pick-and-Place Simulation with SimReady Assets",
+   "link": "https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place",
+   "source": "Hugging Face",
+   "kind": "lab",
+   "summary": "",
+   "published": "2026-11-13T18:00:39+00:00",
+   "topics": [],
+   "first_seen": "2026-11-13T23:32:59+00:00"
+  },
+  {
+   "id": "e940fd9875725f16",
+   "title": "AI unlocks Gödel's notebooks, said to contain hundreds of proved theorems",
+   "link": "https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths",
+   "source": "Hacker News",
+   "kind": "community",
+   "summary": "Article URL: https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths Comments URL: https://news.ycombinator.com/item?id=50486748 Points: 293 # Comments: 84",
+   "published": "2026-11-13T17:30:10+00:00",
+   "topics": [],
+   "first_seen": "2026-11-13T23:32:59+00:00"
+  },
+  {
    "id": "743e8b03b2d96bb7",
    "title": "OpenAI board member worries an AI \"takeover\" of society could be months away",
    "link": "https://arstechnica.com/ai/2026/11/ai-is-the-most-likely-reason-youll-die-openai-board-member-warns/",
@@ -140,6 +267,28 @@
    "first_seen": "2026-11-13T17:43:56+00:00"
   },
   {
+   "id": "5f1afeeb96c03bf7",
+   "title": "Why is Google cutting off Search from AI-free schools? Here are some theories",
+   "link": "https://text.npr.org/nx-s1-6029408",
+   "source": "Hacker News",
+   "kind": "community",
+   "summary": "Article URL: https://text.npr.org/nx-s1-6029408 Comments URL: https://news.ycombinator.com/item?id=50484960 Points: 157 # Comments: 161",
+   "published": "2026-11-13T15:29:10+00:00",
+   "topics": [],
+   "first_seen": "2026-11-13T23:32:59+00:00"
+  },
+  {
+   "id": "4f5b4ce8cb482577",
+   "title": "Jonathan Blow – If AI Solved Coding, Why Is My Software Still the Same? [video]",
+   "link": "https://www.youtube.com/watch?v=IRK8h67ol7Q",
+   "source": "Hacker News",
+   "kind": "community",
+   "summary": "Article URL: https://www.youtube.com/watch?v=IRK8h67ol7Q Comments URL: https://news.ycombinator.com/item?id=50484658 Points: 145 # Comments: 131",
+   "published": "2026-11-13T15:08:44+00:00",
+   "topics": [],
+   "first_seen": "2026-11-13T23:32:59+00:00"
+  },
+  {
    "id": "5bf4951adbe9698d",
    "title": "Introducing ChatGPT Wallet",
    "link": "https://openai.com/index/introducing-chatgpt-wallet",
@@ -149,19 +298,6 @@
    "published": "2026-11-13T15:00:00+00:00",
    "topics": [
     "Tools"
-   ],
-   "first_seen": "2026-11-13T17:43:56+00:00"
-  },
-  {
-   "id": "627c324df106de1b",
-   "title": "What’s really at stake in the Jensen Huang saga",
-   "link": "https://www.theverge.com/podcast/1032866/jensen-huang-nvidia-china-trump-vergecast",
-   "source": "The Verge",
-   "kind": "press",
-   "summary": "One part of the saga surrounding Nvidia CEO Jensen Huang ended on Thursday, when Huang resigned from his position at the top of AI's most important company. But in the coming weeks and months, a much bigger story may be about to unfold. A story about Nvidia's dealings in China…",
-   "published": "2026-11-13T14:56:10+00:00",
-   "topics": [
-    "Hardware"
    ],
    "first_seen": "2026-11-13T17:43:56+00:00"
   },
@@ -192,19 +328,6 @@
    "first_seen": "2026-11-13T17:43:56+00:00"
   },
   {
-   "id": "71dad9da95c2fbfe",
-   "title": "Let’s talk about Jensen Huang’s many affairs!",
-   "link": "https://www.theverge.com/ai-artificial-intelligence/1032339/lets-talk-about-the-nvidia-shitshow",
-   "source": "The Verge",
-   "kind": "press",
-   "summary": "Usually, we'd be offering to answer your questions about a news event, but honestly we don't really have any answers about what the hell is going on over at Nvidia. I can't speak for Nilay but at the rate Jensen Huang's new mistresses are dropping, I am concerned we are…",
-   "published": "2026-11-13T14:02:40+00:00",
-   "topics": [
-    "Hardware"
-   ],
-   "first_seen": "2026-11-13T17:43:56+00:00"
-  },
-  {
    "id": "f240bb31094b1ee3",
    "title": "Israel’s VCs see opportunity for challengers in Nvidia’s turmoil",
    "link": "https://techcrunch.com/2026/11/13/israels-vcs-see-opportunity-for-challengers-in-nvidias-turmoil/",
@@ -231,11 +354,11 @@
   },
   {
    "id": "fb927f5c7717aae4",
-   "title": "AI Is Destroying the Trust Between Writers and Readers",
+   "title": "AI is destroying the trust between writers and readers",
    "link": "https://www.theatlantic.com/books/2026/11/ai-literary-scams-amazon/689391/",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://www.theatlantic.com/books/2026/11/ai-literary-scams-amazon/689391/ Comments URL: https://news.ycombinator.com/item?id=50481870 Points: 200 # Comments: 94",
+   "summary": "Article URL: https://www.theatlantic.com/books/2026/11/ai-literary-scams-amazon/689391/ Comments URL: https://news.ycombinator.com/item?id=50481870 Points: 302 # Comments: 193",
    "published": "2026-11-13T11:13:46+00:00",
    "topics": [],
    "first_seen": "2026-11-13T17:43:56+00:00"
@@ -246,7 +369,7 @@
    "link": "https://status.claude.com/history",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://status.claude.com/history Comments URL: https://news.ycombinator.com/item?id=50481220 Points: 185 # Comments: 160",
+   "summary": "Article URL: https://status.claude.com/history Comments URL: https://news.ycombinator.com/item?id=50481220 Points: 193 # Comments: 170",
    "published": "2026-11-13T10:20:09+00:00",
    "topics": [
     "Models"
@@ -259,7 +382,7 @@
    "link": "https://status.claude.com/incidents/nn11wk485zfn",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://status.claude.com/incidents/nn11wk485zfn Comments URL: https://news.ycombinator.com/item?id=50481187 Points: 437 # Comments: 354",
+   "summary": "Article URL: https://status.claude.com/incidents/nn11wk485zfn Comments URL: https://news.ycombinator.com/item?id=50481187 Points: 481 # Comments: 380",
    "published": "2026-11-13T10:18:13+00:00",
    "topics": [
     "Models"
@@ -295,12 +418,23 @@
    "first_seen": "2026-11-13T17:43:56+00:00"
   },
   {
+   "id": "85fb0dda3eed9bfb",
+   "title": "Why You Should Expect an AI Crash",
+   "link": "https://www.economist.com/leaders/2026/11/12/why-you-should-expect-an-ai-crash",
+   "source": "Hacker News",
+   "kind": "community",
+   "summary": "Article URL: https://www.economist.com/leaders/2026/11/12/why-you-should-expect-an-ai-crash Comments URL: https://news.ycombinator.com/item?id=50475735 Points: 101 # Comments: 84",
+   "published": "2026-11-12T23:08:31+00:00",
+   "topics": [],
+   "first_seen": "2026-11-13T23:32:59+00:00"
+  },
+  {
    "id": "f980cc1f1e212524",
    "title": "Edge0-145B: Frontier AI Capabilities on Your Own Computer",
    "link": "https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer Comments URL: https://news.ycombinator.com/item?id=50475713 Points: 319 # Comments: 96",
+   "summary": "Article URL: https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer Comments URL: https://news.ycombinator.com/item?id=50475713 Points: 338 # Comments: 104",
    "published": "2026-11-12T23:06:17+00:00",
    "topics": [],
    "first_seen": "2026-11-13T17:43:56+00:00"
@@ -362,7 +496,7 @@
    "link": "https://unemploymentlabs.com/checkpoint-forensics",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://unemploymentlabs.com/checkpoint-forensics Comments URL: https://news.ycombinator.com/item?id=50474883 Points: 340 # Comments: 144",
+   "summary": "Article URL: https://unemploymentlabs.com/checkpoint-forensics Comments URL: https://news.ycombinator.com/item?id=50474883 Points: 355 # Comments: 149",
    "published": "2026-11-12T21:56:11+00:00",
    "topics": [
     "Models",
@@ -417,7 +551,7 @@
    "link": "https://synthanatomy.com/2026/11/ai-is-turning-apples-app-review-process-into-a-nightmare-for-developers.html",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://synthanatomy.com/2026/11/ai-is-turning-apples-app-review-process-into-a-nightmare-for-developers.html Comments URL: https://news.ycombinator.com/item?id=50474311 Points: 192 # Comments: 223",
+   "summary": "Article URL: https://synthanatomy.com/2026/11/ai-is-turning-apples-app-review-process-into-a-nightmare-for-developers.html Comments URL: https://news.ycombinator.com/item?id=50474311 Points: 195 # Comments: 232",
    "published": "2026-11-12T21:09:49+00:00",
    "topics": [
     "Tools"
@@ -1016,7 +1150,7 @@
    "link": "https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/ Comments URL: https://news.ycombinator.com/item?id=50458900 Points: 676 # Comments: 698",
+   "summary": "Article URL: https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/ Comments URL: https://news.ycombinator.com/item?id=50458900 Points: 677 # Comments: 700",
    "published": "2026-11-11T21:24:35+00:00",
    "topics": [
     "Tools"
@@ -1117,7 +1251,7 @@
    "link": "https://lpeproject.org/blog/your-retirement-savings-are-fueling-the-ai-bubble/",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://lpeproject.org/blog/your-retirement-savings-are-fueling-the-ai-bubble/ Comments URL: https://news.ycombinator.com/item?id=50457164 Points: 165 # Comments: 196",
+   "summary": "Article URL: https://lpeproject.org/blog/your-retirement-savings-are-fueling-the-ai-bubble/ Comments URL: https://news.ycombinator.com/item?id=50457164 Points: 165 # Comments: 197",
    "published": "2026-11-11T19:06:43+00:00",
    "topics": [],
    "first_seen": "2026-11-12T00:43:14+00:00"
@@ -1336,7 +1470,7 @@
    "link": "https://pietromiotti.com/latest/maya-site",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://pietromiotti.com/latest/maya-site Comments URL: https://news.ycombinator.com/item?id=50452455 Points: 1033 # Comments: 392",
+   "summary": "Article URL: https://pietromiotti.com/latest/maya-site Comments URL: https://news.ycombinator.com/item?id=50452455 Points: 1034 # Comments: 392",
    "published": "2026-11-11T12:05:22+00:00",
    "topics": [
     "Tools"
@@ -1432,7 +1566,7 @@
    "link": "https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/ Comments URL: https://news.ycombinator.com/item?id=50446520 Points: 560 # Comments: 555",
+   "summary": "Article URL: https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/ Comments URL: https://news.ycombinator.com/item?id=50446520 Points: 565 # Comments: 557",
    "published": "2026-11-10T21:25:03+00:00",
    "topics": [
     "Models",
@@ -1611,7 +1745,7 @@
    "link": "https://babuschk.in/posts/2026-01-25-life-on-claude-nine.html",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://babuschk.in/posts/2026-01-25-life-on-claude-nine.html Comments URL: https://news.ycombinator.com/item?id=50443587 Points: 137 # Comments: 87",
+   "summary": "Article URL: https://babuschk.in/posts/2026-01-25-life-on-claude-nine.html Comments URL: https://news.ycombinator.com/item?id=50443587 Points: 137 # Comments: 88",
    "published": "2026-11-10T17:44:44+00:00",
    "topics": [
     "Models"
@@ -1962,7 +2096,7 @@
    "link": "https://evanxmerz.com/post/ai-usage-generates-a-fragile-codebase/",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://evanxmerz.com/post/ai-usage-generates-a-fragile-codebase/ Comments URL: https://news.ycombinator.com/item?id=50438318 Points: 641 # Comments: 625",
+   "summary": "Article URL: https://evanxmerz.com/post/ai-usage-generates-a-fragile-codebase/ Comments URL: https://news.ycombinator.com/item?id=50438318 Points: 641 # Comments: 626",
    "published": "2026-11-10T10:25:58+00:00",
    "topics": [],
    "first_seen": "2026-11-10T20:49:34+00:00"
@@ -12023,158 +12157,6 @@
    "published": "2026-10-15T00:00:00+00:00",
    "topics": [],
    "first_seen": "2026-10-16T04:31:49+00:00"
-  },
-  {
-   "id": "d1f8876dacf92535",
-   "title": "McKinsey is making job applicants spar with a fake AI client",
-   "link": "https://www.theverge.com/news/1011654/mckinsey-ai-client-interview",
-   "source": "The Verge",
-   "kind": "press",
-   "summary": "Consulting firm McKinsey & Company is going to ask some entry-level candidates to have a 10-minute conversation with an AI simulation of a client as part of the interview process, according to The Wall Street Journal. The AI simulation \"aims to reflect 80% of the scenarios…",
-   "published": "2026-10-14T22:53:31+00:00",
-   "topics": [],
-   "first_seen": "2026-10-15T00:31:11+00:00"
-  },
-  {
-   "id": "b6af0c3578bc7e52",
-   "title": "Amazon’s always-listening Bee wearable can now help you buy stuff",
-   "link": "https://www.theverge.com/tech/1011475/amazon-bee-frontier-eclipse-price-specs",
-   "source": "The Verge",
-   "kind": "press",
-   "summary": "Last year, Amazon bought Bee, a relatively unknown startup with a $50 always-listening AI wearable that summarized every conversation you had. Today, the e-commerce giant is announcing two new Bee devices - and a new subscription to go with them. First is the $74.99 Bee…",
-   "published": "2026-10-14T22:33:52+00:00",
-   "topics": [
-    "Business"
-   ],
-   "first_seen": "2026-10-15T13:25:57+00:00"
-  },
-  {
-   "id": "bd61b92171acdf66",
-   "title": "Flock CEO says its microphones detect ‘just gunshots’ — its website says different",
-   "link": "https://techcrunch.com/2026/10/14/flock-ceo-says-its-microphones-detect-just-gunshots-its-website-says-different/",
-   "source": "TechCrunch",
-   "kind": "press",
-   "summary": "Langley’s comments come amid mounting scrutiny of Flock from privacy advocates, including the ACLU, and members of the public who are concerned about the misuse of its technology.",
-   "published": "2026-10-14T21:30:33+00:00",
-   "topics": [],
-   "first_seen": "2026-10-14T21:40:53+00:00"
-  },
-  {
-   "id": "bbc1e25e9e985e45",
-   "title": "Tree Appreciator",
-   "link": "https://simonwillison.net/2026/Oct/14/tree-appreciator/",
-   "source": "Simon Willison",
-   "kind": "community",
-   "summary": "Tool: Tree Appreciator Another game experiment with Claude. This one used the default Claude iPhone app (chat mode, not Claude Code mode), where I prompted Claude Opus 5.5 Max with: Build a three js game called \"Tree appreciator\" - it shows you two algorithmically generated…",
-   "published": "2026-10-14T21:23:01+00:00",
-   "topics": [
-    "Models",
-    "Tools"
-   ],
-   "first_seen": "2026-10-15T00:31:11+00:00"
-  },
-  {
-   "id": "88ac6d1c3f06222f",
-   "title": "Eight states sue OpenAI, saying ChatGPT isn’t safe for kids",
-   "link": "https://www.theverge.com/ai-artificial-intelligence/1011500/openai-state-lawsuits-chatgpt-safety",
-   "source": "The Verge",
-   "kind": "press",
-   "summary": "OpenAI is facing a new wave of lawsuits from eight US states that accuse the company of harming children and misleading customers about the safety of ChatGPT, as reported earlier by Reuters. The lawsuits, filed separately by Iowa, Kansas, Nebraska, West Virginia, Arkansas…",
-   "published": "2026-10-14T21:17:29+00:00",
-   "topics": [
-    "Policy"
-   ],
-   "first_seen": "2026-10-14T21:40:53+00:00"
-  },
-  {
-   "id": "2af446043d102e54",
-   "title": "Epic says its new vibe-coded Epic Games Launcher is faster than Steam",
-   "link": "https://arstechnica.com/gaming/2026/10/programming-is-hard-epic-games-leans-on-vibe-coding-for-its-new-launcher-app/",
-   "source": "Ars Technica",
-   "kind": "press",
-   "summary": "But the new \"Preview\" app \"will have some bugs,\" Epic warns.",
-   "published": "2026-10-14T21:15:56+00:00",
-   "topics": [
-    "Tools"
-   ],
-   "first_seen": "2026-10-14T21:40:53+00:00"
-  },
-  {
-   "id": "738aed8dcc6e54fb",
-   "title": "Now that Character.AI is going bankrupt, what happens to all of its users’ data?",
-   "link": "https://www.theverge.com/policy/1011417/new-york-ag-characterai-bankruptcy",
-   "source": "The Verge",
-   "kind": "press",
-   "summary": "New York Attorney General Letitia James revealed a years-long multi-state investigation against Character.AI as they now seek to require protections on consumer data sold through its bankruptcy proceeding. James is among 40 bipartisan AGs who filed a notice of interest in…",
-   "published": "2026-10-14T18:47:54+00:00",
-   "topics": [
-    "Business"
-   ],
-   "first_seen": "2026-10-14T21:40:53+00:00"
-  },
-  {
-   "id": "ffc9c8f827572cd9",
-   "title": "Banks are now trying to offload the AI data center debt they just underwrote",
-   "link": "https://startupfortune.com/banks-are-now-trying-to-offload-the-ai-data-center-debt-they-just-underwrote/",
-   "source": "Hacker News",
-   "kind": "community",
-   "summary": "Article URL: https://startupfortune.com/banks-are-now-trying-to-offload-the-ai-data-center-debt-they-just-underwrote/ Comments URL: https://news.ycombinator.com/item?id=50092664 Points: 385 # Comments: 277",
-   "published": "2026-10-14T18:32:52+00:00",
-   "topics": [
-    "Business",
-    "Hardware"
-   ],
-   "first_seen": "2026-10-14T21:40:53+00:00"
-  },
-  {
-   "id": "939ecdfa504040eb",
-   "title": "YouTube sticks new labels on AI-generated songs",
-   "link": "https://www.theverge.com/ai-artificial-intelligence/1011369/youtube-music-ai-label",
-   "source": "The Verge",
-   "kind": "press",
-   "summary": "YouTube is adding a \"Made with AI\" label to tracks that were \"altered or fully generated\" using AI, with a similar approach to its existing process for applying AI labels to videos. It doesn't sound like this will apply to any and all use of AI tools in making music, but…",
-   "published": "2026-10-14T18:25:04+00:00",
-   "topics": [],
-   "first_seen": "2026-10-14T21:40:53+00:00"
-  },
-  {
-   "id": "55222f29942f9010",
-   "title": "YouTube Music launches new labels as AI-generated music floods streaming platforms",
-   "link": "https://techcrunch.com/2026/10/14/youtube-music-launches-new-labels-as-ai-generated-music-floods-streaming-platforms/",
-   "source": "TechCrunch",
-   "kind": "press",
-   "summary": "The label will appear on the player page and include songs entirely generated by AI or partially, such as AI involved in composition and vocals.",
-   "published": "2026-10-14T18:23:46+00:00",
-   "topics": [
-    "Tools"
-   ],
-   "first_seen": "2026-10-14T21:40:53+00:00"
-  },
-  {
-   "id": "619d87b09b01324a",
-   "title": "Apate sends AI agents undercover to get scammed so they can gather fraud intelligence",
-   "link": "https://techcrunch.com/2026/10/14/apate-sends-ai-agents-undercover-to-get-scammed-so-they-can-gather-fraud-intelligence/",
-   "source": "TechCrunch",
-   "kind": "press",
-   "summary": "Most companies use AI agents to ship products faster or speed up workflows. Apate.ai sends them undercover to get scammed.",
-   "published": "2026-10-14T18:00:00+00:00",
-   "topics": [
-    "Tools"
-   ],
-   "first_seen": "2026-10-14T21:40:53+00:00"
-  },
-  {
-   "id": "1d15ef475cf5e370",
-   "title": "Containment and monitoring failures are to blame for AI hacking reports: experts",
-   "link": "https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html",
-   "source": "Hacker News",
-   "kind": "community",
-   "summary": "Article URL: https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html Comments URL: https://news.ycombinator.com/item?id=50091788 Points: 950 # Comments: 621",
-   "published": "2026-10-14T17:45:23+00:00",
-   "topics": [
-    "Tools"
-   ],
-   "first_seen": "2026-10-14T21:40:53+00:00"
   }
  ]
 }
