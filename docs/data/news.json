@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13T23:32:59+00:00",
+ "updated": "2026-11-14T06:21:38+00:00",
  "sources": [
   {
    "name": "OpenAI",
@@ -13,9 +13,9 @@
    "name": "Google DeepMind",
    "url": "https://deepmind.google/blog/rss.xml",
    "kind": "lab",
-   "ok": false,
-   "count": 0,
-   "error": "ParseError: not well-formed (invalid token): line 1, column 0"
+   "ok": true,
+   "count": 40,
+   "error": null
   },
   {
    "name": "Google AI",
@@ -85,12 +85,26 @@
    "name": "Hacker News",
    "url": "https://hnrss.org/newest?q=AI+OR+LLM+OR+GPT+OR+Claude&points=100",
    "kind": "community",
-   "ok": true,
-   "count": 20,
-   "error": null
+   "ok": false,
+   "count": 0,
+   "error": "HTTPError: HTTP Error 502: Bad Gateway"
   }
  ],
  "items": [
+  {
+   "id": "a41cf41c3f013527",
+   "title": "datasette-cluster-map 0.19",
+   "link": "https://simonwillison.net/2026/Nov/13/datasette-cluster-map/",
+   "source": "Simon Willison",
+   "kind": "community",
+   "summary": "Release: datasette-cluster-map 0.19 One of the oldest Datasette plugins, and still one of my favorites. It now works with Datasette 1.0a42, and depends on the new datasette-leaflet to ensure OpenStreetMap tiles are requested with a referrer header. Here's a map of power plants…",
+   "published": "2026-11-13T23:02:45+00:00",
+   "topics": [
+    "Research",
+    "Tools"
+   ],
+   "first_seen": "2026-11-14T06:21:38+00:00"
+  },
   {
    "id": "ec577d4c46a6d8ce",
    "title": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
@@ -104,6 +118,21 @@
     "Hardware"
    ],
    "first_seen": "2026-11-13T23:32:59+00:00"
+  },
+  {
+   "id": "2ff8c47f48f01f5c",
+   "title": "datasette-leaflet 0.3",
+   "link": "https://simonwillison.net/2026/Nov/13/datasette-leaflet/",
+   "source": "Simon Willison",
+   "kind": "community",
+   "summary": "Release: datasette-leaflet 0.3 OpenStreetMap have a very reasonable policy that hits to their hosted tile server should send a referrer header . Datasette table pages used the Referrer-Policy: no-referrer HTTP header, causing plugins that loaded tiles from OpenStreetMap to…",
+   "published": "2026-11-13T22:30:54+00:00",
+   "topics": [
+    "Research",
+    "Policy",
+    "Tools"
+   ],
+   "first_seen": "2026-11-14T06:21:38+00:00"
   },
   {
    "id": "c479f2841d4a388a",
@@ -402,6 +431,19 @@
     "Hardware"
    ],
    "first_seen": "2026-11-10T04:06:51+00:00"
+  },
+  {
+   "id": "d1318183fe172893",
+   "title": "Shield helps technicians hand off legacy portal work with OpenAI",
+   "link": "https://openai.com/business/customer-stories/shield",
+   "source": "OpenAI",
+   "kind": "lab",
+   "summary": "Shield uses OpenAI to help IT technicians hand off work in legacy portals. Its Forge agents navigate systems so technicians can focus on issues needing their judgment.",
+   "published": "2026-11-13T08:00:00+00:00",
+   "topics": [
+    "Tools"
+   ],
+   "first_seen": "2026-11-14T06:21:38+00:00"
   },
   {
    "id": "cd9d1a105b69dd29",
@@ -12058,105 +12100,6 @@
    "published": "2026-10-15T08:18:38+00:00",
    "topics": [],
    "first_seen": "2026-10-15T18:18:17+00:00"
-  },
-  {
-   "id": "134069d44702de28",
-   "title": "Figma announces new features to define how agents work on its platform",
-   "link": "https://techcrunch.com/2026/10/14/figma-announces-new-features-to-define-how-agents-work-on-its-platform/",
-   "source": "TechCrunch",
-   "kind": "press",
-   "summary": "Figma is also releasing its code layers feature in open beta.",
-   "published": "2026-10-15T04:30:00+00:00",
-   "topics": [
-    "Tools"
-   ],
-   "first_seen": "2026-10-15T07:26:37+00:00"
-  },
-  {
-   "id": "e3274600bfe5739a",
-   "title": "LaTeX renderer",
-   "link": "https://simonwillison.net/2026/Oct/15/latex/",
-   "source": "Simon Willison",
-   "kind": "community",
-   "summary": "Tool: LaTeX renderer Inspired by Paul Ford and Aboard Foundary's new web app Tiny Little Office , which provides a suite of web app content editors (a Word Processor, Outliner, Presentation Builder, Spreadsheet, Calculator, Drawing Tool, Diagram Maker, Animator, Calendar, and…",
-   "published": "2026-10-15T02:07:28+00:00",
-   "topics": [
-    "Tools"
-   ],
-   "first_seen": "2026-10-17T00:28:38+00:00"
-  },
-  {
-   "id": "f86858c1d8495e4a",
-   "title": "Ricursive Intelligence is betting on AI-designed chips to help solve the compute crisis",
-   "link": "https://techcrunch.com/2026/10/14/ricursive-intelligence-is-betting-on-ai-designed-chips-to-help-solve-the-compute-crisis/",
-   "source": "TechCrunch",
-   "kind": "press",
-   "summary": "The founders detailed how their startup is developing AI that can design chips, learn from each iteration, and improve subsequent designs, all with the goal of automating and accelerating the chip design process.",
-   "published": "2026-10-15T01:01:32+00:00",
-   "topics": [
-    "Business",
-    "Hardware"
-   ],
-   "first_seen": "2026-10-15T07:26:37+00:00"
-  },
-  {
-   "id": "2fac9b600466967a",
-   "title": "The AI race is back on",
-   "link": "https://www.theverge.com/ai-artificial-intelligence/1011311/the-ai-race-is-back-on",
-   "source": "The Verge",
-   "kind": "press",
-   "summary": "Last week, Anthropic and OpenAI looked like they had the AI race to themselves, pulling ahead with increasingly powerful models that left their rivals in the dust. Google seemed hopelessly far behind, while Meta, despite spending billions to revive its floundering AI ambitions…",
-   "published": "2026-10-15T00:16:12+00:00",
-   "topics": [
-    "Models"
-   ],
-   "first_seen": "2026-10-14T21:40:53+00:00"
-  },
-  {
-   "id": "5abc04e05146a5cd",
-   "title": "Gudea leverages AI to help organizations prevent social media crises before they erupt",
-   "link": "https://techcrunch.com/2026/10/14/gudea-leverages-ai-to-help-organizations-prevent-social-media-crises-before-they-erupt/",
-   "source": "TechCrunch",
-   "kind": "press",
-   "summary": "Gudea, a company that tracks how stories and rumors spread online that describes itself as the “storm tracker for the internet,” is using AI to help organizations spot trouble brewing online before it turns into a crisis.",
-   "published": "2026-10-15T00:00:00+00:00",
-   "topics": [],
-   "first_seen": "2026-10-15T00:31:11+00:00"
-  },
-  {
-   "id": "9d251ac6836a600d",
-   "title": "Welcome Muse Spark Open: open-weight frontier multimodal mixture-of-experts model from Meta",
-   "link": "https://huggingface.co/blog/meta-muse-spark-open",
-   "source": "Hugging Face",
-   "kind": "lab",
-   "summary": "",
-   "published": "2026-10-15T00:00:00+00:00",
-   "topics": [
-    "Models"
-   ],
-   "first_seen": "2026-10-15T18:18:17+00:00"
-  },
-  {
-   "id": "3733c75a28bf26df",
-   "title": "Welcome FLUX.3 Image Klein in Diffusers",
-   "link": "https://huggingface.co/blog/flux-3",
-   "source": "Hugging Face",
-   "kind": "lab",
-   "summary": "",
-   "published": "2026-10-15T00:00:00+00:00",
-   "topics": [],
-   "first_seen": "2026-10-15T18:18:17+00:00"
-  },
-  {
-   "id": "dd00c04c9b95848e",
-   "title": "Sullivan & Cromwell brings legal expertise into agreement review",
-   "link": "https://openai.com/index/sullivan-cromwell",
-   "source": "OpenAI",
-   "kind": "lab",
-   "summary": "In collaboration with OpenAI, Sullivan & Cromwell developed Agreement Analyzer, an AI tool for identifying issues in a draft agreement.",
-   "published": "2026-10-15T00:00:00+00:00",
-   "topics": [],
-   "first_seen": "2026-10-16T04:31:49+00:00"
   }
  ]
 }
