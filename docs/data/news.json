@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T06:21:38+00:00",
+ "updated": "2026-11-14T15:04:29+00:00",
  "sources": [
   {
    "name": "OpenAI",
@@ -91,6 +91,43 @@
   }
  ],
  "items": [
+  {
+   "id": "567fa298898a17ca",
+   "title": "Jensen Huang and the decline of the visionary showman founder CEO",
+   "link": "https://www.theverge.com/tech/1033781/nvidia-jensen-huang-last-visionary-showman-founder-ceo",
+   "source": "The Verge",
+   "kind": "press",
+   "summary": "On January 6th, 2025, Nvidia CEO Jensen Huang got his rockstar moment at last. He strode triumphantly onstage, hand raised in the air, to the claps and cheers of a 14,000-person arena absolutely packed with influencers and fans, their faces awash in blue glow, as he made his…",
+   "published": "2026-11-14T01:34:37+00:00",
+   "topics": [
+    "Hardware"
+   ],
+   "first_seen": "2026-11-14T15:04:29+00:00"
+  },
+  {
+   "id": "d46b516a4c8344dc",
+   "title": "The OpenAI board member who fired Sam Altman says we still can’t trust AI CEOs",
+   "link": "https://www.theverge.com/podcast/1032907/helen-toner-openai-cset-ai-safety-policy-interview",
+   "source": "The Verge",
+   "kind": "press",
+   "summary": "Today, I’m talking with Helen Toner, the executive director of the Center for Security and Emerging Technology at Georgetown University. This episode is part two of our series on AI in real life. Helen is a well-known figure in the AI safety and policy community, though she is…",
+   "published": "2026-11-14T00:06:40+00:00",
+   "topics": [
+    "Policy"
+   ],
+   "first_seen": "2026-11-14T15:04:29+00:00"
+  },
+  {
+   "id": "04367a7d0b10c58a",
+   "title": "Amazon has a plan to index the world’s online shopping data",
+   "link": "https://www.theverge.com/tech/1033697/amazon-world-product-graph-ai-search",
+   "source": "The Verge",
+   "kind": "press",
+   "summary": "Amazon has plans to build a vault of data on every product sold anywhere on the internet, even products Amazon doesn't sell, and make the information available through its own site, according to Reuters. The project, called the \"World Product Graph,\" is meant to make it less…",
+   "published": "2026-11-13T23:49:11+00:00",
+   "topics": [],
+   "first_seen": "2026-11-14T15:04:29+00:00"
+  },
   {
    "id": "a41cf41c3f013527",
    "title": "datasette-cluster-map 0.19",
@@ -11948,156 +11985,6 @@
    "kind": "press",
    "summary": "The AI music labels are rolling out now in YouTube Music and will come to YouTube soon.",
    "published": "2026-10-15T15:12:58+00:00",
-   "topics": [],
-   "first_seen": "2026-10-15T18:18:17+00:00"
-  },
-  {
-   "id": "a040032c190037a3",
-   "title": "AI agents are coming to Rivian’s cars",
-   "link": "https://techcrunch.com/2026/10/15/ai-agents-are-coming-to-rivians-cars/",
-   "source": "TechCrunch",
-   "kind": "press",
-   "summary": "We'll likely learn more about how this will work at the company's upcoming \"AI & Autonomy Day\" event in December.",
-   "published": "2026-10-15T15:02:36+00:00",
-   "topics": [
-    "Tools"
-   ],
-   "first_seen": "2026-10-15T18:18:17+00:00"
-  },
-  {
-   "id": "2702a2f8e6d0052b",
-   "title": "Simons Foundation launches $15M effort to help mathematicians navigate AI era",
-   "link": "https://www.simonsfoundation.org/news/simons-foundation-launches-15m-effort-to-help-mathematicians-navigate-ai-era/",
-   "source": "Hacker News",
-   "kind": "community",
-   "summary": "Article URL: https://www.simonsfoundation.org/news/simons-foundation-launches-15m-effort-to-help-mathematicians-navigate-ai-era/ Comments URL: https://news.ycombinator.com/item?id=50104654 Points: 249 # Comments: 201",
-   "published": "2026-10-15T14:58:48+00:00",
-   "topics": [
-    "Tools"
-   ],
-   "first_seen": "2026-10-15T18:18:17+00:00"
-  },
-  {
-   "id": "faf4d5dfcd6c5d73",
-   "title": "Your secrets aren’t safe with this cute robot toy — they’re on Chinese servers ready to be hacked",
-   "link": "https://www.theverge.com/tech/1010727/eiliko-robot-hack-energize-lab",
-   "source": "The Verge",
-   "kind": "press",
-   "summary": "There's a new digital pet in town - a cute little marshmallow of a robot that can change its cartoony expressions to match your mood. But if you or your kids talk to \"Eiliko\" over Wi-Fi, it'll phone home to China. Its AI companion can store literally everything you tell it on…",
-   "published": "2026-10-15T14:46:20+00:00",
-   "topics": [],
-   "first_seen": "2026-10-15T13:25:57+00:00"
-  },
-  {
-   "id": "5f39f9c1a3f6b999",
-   "title": "Using AI to reverse engineer hardware",
-   "link": "https://blogs.gnome.org/uraeus/2026/10/15/aiandreverseengineerhardware/",
-   "source": "Hacker News",
-   "kind": "community",
-   "summary": "Article URL: https://blogs.gnome.org/uraeus/2026/10/15/aiandreverseengineerhardware/ Comments URL: https://news.ycombinator.com/item?id=50104299 Points: 255 # Comments: 256",
-   "published": "2026-10-15T14:35:15+00:00",
-   "topics": [],
-   "first_seen": "2026-10-16T04:31:49+00:00"
-  },
-  {
-   "id": "b4faeb1cc12acc47",
-   "title": "Google’s Universal Cart shopping tool launches in the US",
-   "link": "https://techcrunch.com/2026/10/15/googles-universal-cart-shopping-tool-launches-in-the-us/",
-   "source": "TechCrunch",
-   "kind": "press",
-   "summary": "The new shopping tool is available in the U.S. across Google Search and the Gemini app.",
-   "published": "2026-10-15T14:29:33+00:00",
-   "topics": [
-    "Models",
-    "Tools"
-   ],
-   "first_seen": "2026-10-15T18:18:17+00:00"
-  },
-  {
-   "id": "35dbf45b5abf3069",
-   "title": "TechCrunch Disrupt 2026: Last day",
-   "link": "https://techcrunch.com/2026/10/15/techcrunch-disrupt-2026-last-day/",
-   "source": "TechCrunch",
-   "kind": "press",
-   "summary": "Last day to be part of TechCrunch Disrupt 2026. Join 10,000+ tech leaders for a day of connections and insights. Save 75% on your pass now.",
-   "published": "2026-10-15T14:00:00+00:00",
-   "topics": [],
-   "first_seen": "2026-10-15T18:18:17+00:00"
-  },
-  {
-   "id": "6702d1aaf0afce3a",
-   "title": "Anthropic tells investors quarterly revenue up nearly 50% to $16.8bn ahead of IPO",
-   "link": "https://simonwillison.net/2026/Oct/15/anthropic-tells-investors/",
-   "source": "Simon Willison",
-   "kind": "community",
-   "summary": "Anthropic tells investors quarterly revenue up nearly 50% to $16.8bn ahead of IPO The phrase \"told investors\" appears four times in this FT article, which reports on Anthropic's day of hosting investors on Wednesday. Lots of details in here from \" people with knowledge of the…",
-   "published": "2026-10-15T13:04:03+00:00",
-   "topics": [
-    "Business"
-   ],
-   "first_seen": "2026-10-15T13:25:57+00:00"
-  },
-  {
-   "id": "fa14b8f7db4605df",
-   "title": "Teaching students to think and learn through questions",
-   "link": "https://openai.com/index/teaching-students-to-think-and-learn-through-questions",
-   "source": "OpenAI",
-   "kind": "lab",
-   "summary": "Celebrate Teachers’ Day with AI for Educators in Brazilian Portuguese and see how Study Mode can help teachers support active, step-by-step learning.",
-   "published": "2026-10-15T13:00:00+00:00",
-   "topics": [
-    "Research"
-   ],
-   "first_seen": "2026-10-15T18:18:17+00:00"
-  },
-  {
-   "id": "a3fa54bbd59382e2",
-   "title": "Amazon’s Bee launches two new personal AI devices, starting at $75",
-   "link": "https://techcrunch.com/2026/10/15/amazons-bee-launches-two-new-personal-ai-devices-starting-at-75/",
-   "source": "TechCrunch",
-   "kind": "press",
-   "summary": "Amazon-owned Bee has launched its first new AI devices since its acquisition, including an updated wearable and a credit-card-sized recorder that attaches to smartphones. The devices can summarize conversations, create to-do lists, and integrate with Alexa and Amazon shopping…",
-   "published": "2026-10-15T12:00:00+00:00",
-   "topics": [
-    "Tools"
-   ],
-   "first_seen": "2026-10-15T13:25:57+00:00"
-  },
-  {
-   "id": "adaf79e50c2e54f8",
-   "title": "Google launches its ‘universal’ online shopping cart ahead of the holidays",
-   "link": "https://www.theverge.com/tech/1011797/google-ai-universal-cart-shopping-tool-launch",
-   "source": "The Verge",
-   "kind": "press",
-   "summary": "Google's intelligent AI shopping cart is finally here, and just in time to tempt users into Black Friday and seasonal holiday spending. The Universal Cart tool Google previewed at its I/O event in May is now rolling out in the US across the Gemini app and Google Search, with the…",
-   "published": "2026-10-15T11:23:42+00:00",
-   "topics": [
-    "Models",
-    "Tools"
-   ],
-   "first_seen": "2026-10-15T13:25:57+00:00"
-  },
-  {
-   "id": "e3c36d4422c6129b",
-   "title": "Apertus 1.5 Release Notes",
-   "link": "https://huggingface.co/blog/swiss-ai/apertus-v15-release-notes",
-   "source": "Hugging Face",
-   "kind": "lab",
-   "summary": "",
-   "published": "2026-10-15T09:08:45+00:00",
-   "topics": [
-    "Tools"
-   ],
-   "first_seen": "2026-10-15T18:18:17+00:00"
-  },
-  {
-   "id": "dad987a1f1a7751c",
-   "title": "AI was great until it was not",
-   "link": "https://thetheorygirlie.substack.com/p/ai-was-great-until-it-was-not",
-   "source": "Hacker News",
-   "kind": "community",
-   "summary": "Article URL: https://thetheorygirlie.substack.com/p/ai-was-great-until-it-was-not Comments URL: https://news.ycombinator.com/item?id=50100791 Points: 124 # Comments: 77",
-   "published": "2026-10-15T08:18:38+00:00",
    "topics": [],
    "first_seen": "2026-10-15T18:18:17+00:00"
   }
