@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-15T09:24:49+00:00",
+ "updated": "2026-11-15T17:10:11+00:00",
  "sources": [
   {
    "name": "OpenAI",
@@ -91,6 +91,32 @@
   }
  ],
  "items": [
+  {
+   "id": "df7a37179ad8aadd",
+   "title": "All AI-generated code should be Open Source",
+   "link": "https://jakub.jankiewicz.org/blog/ai-code-open-source/",
+   "source": "Hacker News",
+   "kind": "community",
+   "summary": "Article URL: https://jakub.jankiewicz.org/blog/ai-code-open-source/ Comments URL: https://news.ycombinator.com/item?id=50507303 Points: 370 # Comments: 235",
+   "published": "2026-11-15T14:46:58+00:00",
+   "topics": [
+    "Tools"
+   ],
+   "first_seen": "2026-11-15T17:10:11+00:00"
+  },
+  {
+   "id": "4c525e5e54fa3645",
+   "title": "An overview of Jensen Huang’s messy days",
+   "link": "https://www.theverge.com/column/1033943/jensen-huang-nvidia-china-spying-scandal-resignation",
+   "source": "The Verge",
+   "kind": "press",
+   "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on Jensen Huang's resignation and the fallout from Nvidia's leadership crisis, follow Terrence O'Brien. The Stepback arrives in our subscribers' inboxes on Sunday at 8AM ET…",
+   "published": "2026-11-15T00:09:10+00:00",
+   "topics": [
+    "Hardware"
+   ],
+   "first_seen": "2026-11-15T17:10:11+00:00"
+  },
   {
    "id": "acaf00569e865f08",
    "title": "Where was Nvidia’s security team?",
@@ -194,7 +220,7 @@
    "link": "https://www.netmeister.org/blog/claude-delusion.html",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://www.netmeister.org/blog/claude-delusion.html Comments URL: https://news.ycombinator.com/item?id=50496921 Points: 147 # Comments: 192",
+   "summary": "Article URL: https://www.netmeister.org/blog/claude-delusion.html Comments URL: https://news.ycombinator.com/item?id=50496921 Points: 149 # Comments: 197",
    "published": "2026-11-14T13:36:17+00:00",
    "topics": [
     "Models"
@@ -207,7 +233,7 @@
    "link": "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus Comments URL: https://news.ycombinator.com/item?id=50493251 Points: 1070 # Comments: 635",
+   "summary": "Article URL: https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus Comments URL: https://news.ycombinator.com/item?id=50493251 Points: 1085 # Comments: 644",
    "published": "2026-11-14T02:52:59+00:00",
    "topics": [
     "Business",
@@ -273,7 +299,7 @@
    "link": "https://claude.com/resources/articles/claude-meetings",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://claude.com/resources/articles/claude-meetings Comments URL: https://news.ycombinator.com/item?id=50491097 Points: 111 # Comments: 87",
+   "summary": "Article URL: https://claude.com/resources/articles/claude-meetings Comments URL: https://news.ycombinator.com/item?id=50491097 Points: 111 # Comments: 88",
    "published": "2026-11-13T22:39:15+00:00",
    "topics": [
     "Models"
@@ -325,7 +351,7 @@
    "link": "https://www.slopmanifesto.com/",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://www.slopmanifesto.com/ Comments URL: https://news.ycombinator.com/item?id=50488769 Points: 219 # Comments: 131",
+   "summary": "Article URL: https://www.slopmanifesto.com/ Comments URL: https://news.ycombinator.com/item?id=50488769 Points: 221 # Comments: 133",
    "published": "2026-11-13T19:51:56+00:00",
    "topics": [],
    "first_seen": "2026-11-13T23:32:59+00:00"
@@ -403,7 +429,7 @@
    "link": "https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths Comments URL: https://news.ycombinator.com/item?id=50486748 Points: 429 # Comments: 108",
+   "summary": "Article URL: https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths Comments URL: https://news.ycombinator.com/item?id=50486748 Points: 431 # Comments: 110",
    "published": "2026-11-13T17:30:10+00:00",
    "topics": [],
    "first_seen": "2026-11-13T23:32:59+00:00"
@@ -462,7 +488,7 @@
    "link": "https://text.npr.org/nx-s1-6029408",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://text.npr.org/nx-s1-6029408 Comments URL: https://news.ycombinator.com/item?id=50484960 Points: 194 # Comments: 193",
+   "summary": "Article URL: https://text.npr.org/nx-s1-6029408 Comments URL: https://news.ycombinator.com/item?id=50484960 Points: 194 # Comments: 195",
    "published": "2026-11-13T15:29:10+00:00",
    "topics": [],
    "first_seen": "2026-11-13T23:32:59+00:00"
@@ -473,7 +499,7 @@
    "link": "https://www.youtube.com/watch?v=IRK8h67ol7Q",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://www.youtube.com/watch?v=IRK8h67ol7Q Comments URL: https://news.ycombinator.com/item?id=50484658 Points: 470 # Comments: 696",
+   "summary": "Article URL: https://www.youtube.com/watch?v=IRK8h67ol7Q Comments URL: https://news.ycombinator.com/item?id=50484658 Points: 476 # Comments: 723",
    "published": "2026-11-13T15:08:44+00:00",
    "topics": [],
    "first_seen": "2026-11-13T23:32:59+00:00"
@@ -548,7 +574,7 @@
    "link": "https://www.theatlantic.com/books/2026/11/ai-literary-scams-amazon/689391/",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://www.theatlantic.com/books/2026/11/ai-literary-scams-amazon/689391/ Comments URL: https://news.ycombinator.com/item?id=50481870 Points: 366 # Comments: 230",
+   "summary": "Article URL: https://www.theatlantic.com/books/2026/11/ai-literary-scams-amazon/689391/ Comments URL: https://news.ycombinator.com/item?id=50481870 Points: 368 # Comments: 232",
    "published": "2026-11-13T11:13:46+00:00",
    "topics": [],
    "first_seen": "2026-11-13T17:43:56+00:00"
@@ -637,7 +663,7 @@
    "link": "https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer Comments URL: https://news.ycombinator.com/item?id=50475713 Points: 353 # Comments: 105",
+   "summary": "Article URL: https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer Comments URL: https://news.ycombinator.com/item?id=50475713 Points: 354 # Comments: 105",
    "published": "2026-11-12T23:06:17+00:00",
    "topics": [],
    "first_seen": "2026-11-13T17:43:56+00:00"
@@ -699,7 +725,7 @@
    "link": "https://unemploymentlabs.com/checkpoint-forensics",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "https://twitter.com/willdepue/status/2120992457630326841 Comments URL: https://news.ycombinator.com/item?id=50474883 Points: 399 # Comments: 174",
+   "summary": "https://twitter.com/willdepue/status/2120992457630326841 Comments URL: https://news.ycombinator.com/item?id=50474883 Points: 410 # Comments: 178",
    "published": "2026-11-12T21:56:11+00:00",
    "topics": [
     "Models",
@@ -754,7 +780,7 @@
    "link": "https://synthanatomy.com/2026/11/ai-is-turning-apples-app-review-process-into-a-nightmare-for-developers.html",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://synthanatomy.com/2026/11/ai-is-turning-apples-app-review-process-into-a-nightmare-for-developers.html Comments URL: https://news.ycombinator.com/item?id=50474311 Points: 198 # Comments: 233",
+   "summary": "Article URL: https://synthanatomy.com/2026/11/ai-is-turning-apples-app-review-process-into-a-nightmare-for-developers.html Comments URL: https://news.ycombinator.com/item?id=50474311 Points: 199 # Comments: 234",
    "published": "2026-11-12T21:09:49+00:00",
    "topics": [
     "Tools"
@@ -1353,7 +1379,7 @@
    "link": "https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/ Comments URL: https://news.ycombinator.com/item?id=50458900 Points: 680 # Comments: 707",
+   "summary": "Article URL: https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/ Comments URL: https://news.ycombinator.com/item?id=50458900 Points: 681 # Comments: 707",
    "published": "2026-11-11T21:24:35+00:00",
    "topics": [
     "Tools"
@@ -1528,7 +1554,7 @@
    "link": "https://cabird.com/talks/shipping-faster/",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "https://www.youtube.com/watch?v=0wumMeZsNsI Comments URL: https://news.ycombinator.com/item?id=50455332 Points: 130 # Comments: 112",
+   "summary": "https://www.youtube.com/watch?v=0wumMeZsNsI Comments URL: https://news.ycombinator.com/item?id=50455332 Points: 131 # Comments: 112",
    "published": "2026-11-11T16:33:28+00:00",
    "topics": [],
    "first_seen": "2026-11-12T00:43:14+00:00"
@@ -1673,7 +1699,7 @@
    "link": "https://pietromiotti.com/latest/maya-site",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://pietromiotti.com/latest/maya-site Comments URL: https://news.ycombinator.com/item?id=50452455 Points: 1035 # Comments: 392",
+   "summary": "Article URL: https://pietromiotti.com/latest/maya-site Comments URL: https://news.ycombinator.com/item?id=50452455 Points: 1036 # Comments: 392",
    "published": "2026-11-11T12:05:22+00:00",
    "topics": [
     "Tools"
@@ -1769,7 +1795,7 @@
    "link": "https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/ Comments URL: https://news.ycombinator.com/item?id=50446520 Points: 571 # Comments: 564",
+   "summary": "Article URL: https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/ Comments URL: https://news.ycombinator.com/item?id=50446520 Points: 572 # Comments: 564",
    "published": "2026-11-10T21:25:03+00:00",
    "topics": [
     "Models",
@@ -11587,172 +11613,6 @@
     "Tools"
    ],
    "first_seen": "2026-10-16T21:07:49+00:00"
-  },
-  {
-   "id": "9795228c1bdcf12d",
-   "title": "90% of US working hours are spent on tasks not covered well by AI benchmarks",
-   "link": "https://www.mercor.com/research/labor-index/benchmark-map/",
-   "source": "Hacker News",
-   "kind": "community",
-   "summary": "Article URL: https://www.mercor.com/research/labor-index/benchmark-map/ Comments URL: https://news.ycombinator.com/item?id=50121179 Points: 628 # Comments: 575",
-   "published": "2026-10-16T17:08:38+00:00",
-   "topics": [
-    "Research"
-   ],
-   "first_seen": "2026-10-16T21:07:49+00:00"
-  },
-  {
-   "id": "1f9b468e86423e35",
-   "title": "An Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet",
-   "link": "https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/",
-   "source": "TechCrunch",
-   "kind": "press",
-   "summary": "Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA’s robotics platforms, says robotics is currently in its “Lego era,” with the basic building blocks like actuators, robotic hands, software, and safety standards still being rebuilt. This view runs…",
-   "published": "2026-10-16T16:30:00+00:00",
-   "topics": [
-    "Policy",
-    "Hardware"
-   ],
-   "first_seen": "2026-10-16T16:39:15+00:00"
-  },
-  {
-   "id": "3ee888866ef9d7e3",
-   "title": "Physical AI is more than robots, says the Nvidia veteran now investing in it",
-   "link": "https://techcrunch.com/podcast/physical-ai-is-more-than-robots-says-the-nvidia-veteran-now-investing-in-it/",
-   "source": "TechCrunch",
-   "kind": "press",
-   "summary": "Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA’s robotics platforms, says robotics is currently in its “Lego era,” with the basic building blocks like actuators, robotic hands, software, and safety standards still being rebuilt. This view runs…",
-   "published": "2026-10-16T16:30:00+00:00",
-   "topics": [
-    "Policy",
-    "Business",
-    "Hardware"
-   ],
-   "first_seen": "2026-10-16T16:39:15+00:00"
-  },
-  {
-   "id": "66efd2f87608334b",
-   "title": "The tech backlash is now in theaters",
-   "link": "https://www.theverge.com/entertainment/1012438/hollywood-tech-backlash-you-can-see-everything-musk-the-social-reckoning-artificial",
-   "source": "The Verge",
-   "kind": "press",
-   "summary": "Though movies about disruptive tech founders are nothing new, 2026 has been unusually stacked with features that take a much more critical look at how Silicon Valley is reshaping our reality. Aaron Sorkin's The Social Reckoning frames Mark Zuckerberg as a robotic villain whose…",
-   "published": "2026-10-16T16:26:17+00:00",
-   "topics": [],
-   "first_seen": "2026-10-15T23:04:24+00:00"
-  },
-  {
-   "id": "6f0ec75f9d13aede",
-   "title": "Elorian’s first AI model wants to reason with images, not just about them",
-   "link": "https://techcrunch.com/2026/10/16/elorians-first-ai-model-wants-to-reason-with-images-not-just-about-them/",
-   "source": "TechCrunch",
-   "kind": "press",
-   "summary": "According to Elorian's evaluations, Glimpse outperforms even GPT-6 Astra on scientific chart reasoning and short-form video captioning, with competitive results on other visual reasoning tasks.",
-   "published": "2026-10-16T16:01:37+00:00",
-   "topics": [
-    "Models"
-   ],
-   "first_seen": "2026-10-16T16:39:15+00:00"
-  },
-  {
-   "id": "e4018d8e9eb4c3e6",
-   "title": "Postgres 19 delayed after AI reviewers find more bugs than humans can fix",
-   "link": "https://www.theregister.com/databases/2026/10/16/postgres-19-delayed-after-ai-reviewers-find-more-bugs-than-humans-can-fix/5303471",
-   "source": "Hacker News",
-   "kind": "community",
-   "summary": "Article URL: https://www.theregister.com/databases/2026/10/16/postgres-19-delayed-after-ai-reviewers-find-more-bugs-than-humans-can-fix/5303471 Comments URL: https://news.ycombinator.com/item?id=50119991 Points: 225 # Comments: 93",
-   "published": "2026-10-16T15:55:40+00:00",
-   "topics": [],
-   "first_seen": "2026-10-16T21:07:49+00:00"
-  },
-  {
-   "id": "ae8741fad8038911",
-   "title": "Meta may use sweeping new commercial TOS to avoid millions in AI licensing fees",
-   "link": "https://arstechnica.com/tech-policy/2026/10/meta-may-use-sweeping-new-commercial-tos-to-avoid-millions-in-ai-licensing-fees/",
-   "source": "Ars Technica",
-   "kind": "press",
-   "summary": "Meta “streamlined” its commercial TOS. Legal experts warn it’s an AI power grab.",
-   "published": "2026-10-16T15:41:00+00:00",
-   "topics": [],
-   "first_seen": "2026-10-16T16:39:15+00:00"
-  },
-  {
-   "id": "7524c167f0c40ac1",
-   "title": "Jev is Vercel’s fastest-adopted AI model ever",
-   "link": "https://techcrunch.com/2026/10/16/jev-is-vercels-fastest-adopted-ai-model-ever/",
-   "source": "TechCrunch",
-   "kind": "press",
-   "summary": "The data comes from Vercel's AI gateway, a unified API service similar to OpenRouter.",
-   "published": "2026-10-16T15:33:49+00:00",
-   "topics": [
-    "Models",
-    "Tools"
-   ],
-   "first_seen": "2026-10-16T16:39:15+00:00"
-  },
-  {
-   "id": "3d6f16cf09a8486c",
-   "title": "A week with RTX Spark: everything we’ve learned using Nvidia’s new laptops",
-   "link": "https://www.theverge.com/tech/1012748/nvidia-rtx-spark-windows-arm-laptops-asus-hp-lenovo-impressions",
-   "source": "The Verge",
-   "kind": "press",
-   "summary": "Nvidia's RTX Spark N1X processor is finally here, and we've been collectively testing a small fortune's worth of powerful laptops sporting this new \"superchip.\" RTX Spark is designed to be a high-performing Arm-based SoC for laptops and small desktop computers, rivaling the best…",
-   "published": "2026-10-16T15:26:47+00:00",
-   "topics": [
-    "Hardware"
-   ],
-   "first_seen": "2026-10-16T16:39:15+00:00"
-  },
-  {
-   "id": "9d337093f9bfed1d",
-   "title": "Mark Wahlberg on using AI in film ‘the right way’ and being open to an AI clone carrying on his legacy",
-   "link": "https://techcrunch.com/2026/10/16/mark-wahlberg-on-using-ai-in-film-the-right-way-and-being-open-to-an-ai-clone-carrying-on-his-legacy/",
-   "source": "TechCrunch",
-   "kind": "press",
-   "summary": "Actor and angel investor Mark Wahlberg says he's OK with using AI in filmmaking, provided it's used \"to enhance what you're doing.\"",
-   "published": "2026-10-16T14:26:51+00:00",
-   "topics": [
-    "Business"
-   ],
-   "first_seen": "2026-10-16T16:39:15+00:00"
-  },
-  {
-   "id": "bbf1b6b9791d9c9d",
-   "title": "Super Scam Me documentary shows what it takes to catch a romance scammer",
-   "link": "https://arstechnica.com/tech-policy/2026/10/romance-scam-doc-super-scam-me-takes-viewers-deep-into-love-bombing-terrain/",
-   "source": "Ars Technica",
-   "kind": "press",
-   "summary": "Watch an exclusive clip from Super Scam Me where a victim tracks down her scammer.",
-   "published": "2026-10-16T14:00:59+00:00",
-   "topics": [],
-   "first_seen": "2026-10-16T16:39:15+00:00"
-  },
-  {
-   "id": "03e02abc3531a994",
-   "title": "Veritas expands its anti-counterfeit chip to jewelry, trophies, and fragrance bottles",
-   "link": "https://techcrunch.com/2026/10/16/veritas-is-building-a-chip-to-verify-luxury-goods/",
-   "source": "TechCrunch",
-   "kind": "press",
-   "summary": "Counterfeiters are getting better at replicating brands' marks and passing off dupes, known as \"superfakes,\" as genuine items. A startup called Veritas wants to tackle the problem with its own chip that verifies goods.",
-   "published": "2026-10-16T14:00:00+00:00",
-   "topics": [
-    "Business",
-    "Hardware"
-   ],
-   "first_seen": "2026-10-16T16:39:15+00:00"
-  },
-  {
-   "id": "fa1478d9672f8f4a",
-   "title": "Replit’s CEO says the future of work is the ‘self-driving company’",
-   "link": "https://techcrunch.com/2026/10/16/replits-ceo-says-the-future-of-work-is-the-self-driving-company/",
-   "source": "TechCrunch",
-   "kind": "press",
-   "summary": "Replit CEO Amjad Masad envisions a future of “self-driving companies,” where AI agents handle day-to-day tasks and people focus on higher-level decisions.",
-   "published": "2026-10-16T12:55:09+00:00",
-   "topics": [
-    "Tools"
-   ],
-   "first_seen": "2026-10-16T16:39:15+00:00"
   }
  ]
 }
