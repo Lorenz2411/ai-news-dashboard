@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T20:42:49+00:00",
+ "updated": "2026-11-15T01:54:58+00:00",
  "sources": [
   {
    "name": "OpenAI",
@@ -92,6 +92,47 @@
  ],
  "items": [
   {
+   "id": "acaf00569e865f08",
+   "title": "Where was Nvidia’s security team?",
+   "link": "https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/",
+   "source": "TechCrunch",
+   "kind": "press",
+   "summary": "Nvidia’s security chief quietly left in August, and now that CEO Jensen Huang has stepped down over his relationships, including one with an executive at a company suspected of funneling chips to China, a former intelligence officer says it’s the kind of leak that runs everyday…",
+   "published": "2026-11-15T00:08:07+00:00",
+   "topics": [
+    "Hardware"
+   ],
+   "first_seen": "2026-11-15T01:54:58+00:00"
+  },
+  {
+   "id": "2059ff8340bbc5f6",
+   "title": "datasette-llm 0.1a11",
+   "link": "https://simonwillison.net/2026/Nov/14/datasette-llm/",
+   "source": "Simon Willison",
+   "kind": "community",
+   "summary": "Release: datasette-llm 0.1a11 datasette-llm is the intermediate plugin for Datasette that supports configuring LLMs for use with other Datasette plugins. This release adds support for OpenAI-compatible endpoints, so you can configure Datasette to use an LLM hosted anywhere that…",
+   "published": "2026-11-14T23:59:28+00:00",
+   "topics": [
+    "Models",
+    "Research",
+    "Tools"
+   ],
+   "first_seen": "2026-11-15T01:54:58+00:00"
+  },
+  {
+   "id": "a4a92fbcda03532a",
+   "title": "Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang",
+   "link": "https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/",
+   "source": "TechCrunch",
+   "kind": "press",
+   "summary": "The petition had attracted more than 115,000 signatures as of Saturday afternoon.",
+   "published": "2026-11-14T21:41:22+00:00",
+   "topics": [
+    "Hardware"
+   ],
+   "first_seen": "2026-11-15T01:54:58+00:00"
+  },
+  {
    "id": "7134e7e1ad670b60",
    "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
    "link": "https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
@@ -104,6 +145,20 @@
     "Tools"
    ],
    "first_seen": "2026-11-14T20:42:49+00:00"
+  },
+  {
+   "id": "cd67e7c432145cf1",
+   "title": "datasette-vega 0.7",
+   "link": "https://simonwillison.net/2026/Nov/14/datasette-vega/",
+   "source": "Simon Willison",
+   "kind": "community",
+   "summary": "Release: datasette-vega 0.7 A new release of Datasette's longest untouched plugin, for rendering charts (using Vega-Lite ) against data in a table or custom query. The last release was in July 2018! I finally bumped it for compatibility with the latest Datasette alphas, plus…",
+   "published": "2026-11-14T17:09:09+00:00",
+   "topics": [
+    "Research",
+    "Tools"
+   ],
+   "first_seen": "2026-11-15T01:54:58+00:00"
   },
   {
    "id": "075bbfb634c2a8a5",
@@ -139,7 +194,7 @@
    "link": "https://www.netmeister.org/blog/claude-delusion.html",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://www.netmeister.org/blog/claude-delusion.html Comments URL: https://news.ycombinator.com/item?id=50496921 Points: 134 # Comments: 180",
+   "summary": "Article URL: https://www.netmeister.org/blog/claude-delusion.html Comments URL: https://news.ycombinator.com/item?id=50496921 Points: 145 # Comments: 182",
    "published": "2026-11-14T13:36:17+00:00",
    "topics": [
     "Models"
@@ -152,7 +207,7 @@
    "link": "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus Comments URL: https://news.ycombinator.com/item?id=50493251 Points: 1000 # Comments: 600",
+   "summary": "Article URL: https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus Comments URL: https://news.ycombinator.com/item?id=50493251 Points: 1036 # Comments: 620",
    "published": "2026-11-14T02:52:59+00:00",
    "topics": [
     "Business",
@@ -218,7 +273,7 @@
    "link": "https://claude.com/resources/articles/claude-meetings",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://claude.com/resources/articles/claude-meetings Comments URL: https://news.ycombinator.com/item?id=50491097 Points: 107 # Comments: 86",
+   "summary": "Article URL: https://claude.com/resources/articles/claude-meetings Comments URL: https://news.ycombinator.com/item?id=50491097 Points: 109 # Comments: 87",
    "published": "2026-11-13T22:39:15+00:00",
    "topics": [
     "Models"
@@ -270,7 +325,7 @@
    "link": "https://www.slopmanifesto.com/",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://www.slopmanifesto.com/ Comments URL: https://news.ycombinator.com/item?id=50488769 Points: 215 # Comments: 129",
+   "summary": "Article URL: https://www.slopmanifesto.com/ Comments URL: https://news.ycombinator.com/item?id=50488769 Points: 216 # Comments: 129",
    "published": "2026-11-13T19:51:56+00:00",
    "topics": [],
    "first_seen": "2026-11-13T23:32:59+00:00"
@@ -348,7 +403,7 @@
    "link": "https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths Comments URL: https://news.ycombinator.com/item?id=50486748 Points: 416 # Comments: 107",
+   "summary": "Article URL: https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths Comments URL: https://news.ycombinator.com/item?id=50486748 Points: 423 # Comments: 107",
    "published": "2026-11-13T17:30:10+00:00",
    "topics": [],
    "first_seen": "2026-11-13T23:32:59+00:00"
@@ -407,7 +462,7 @@
    "link": "https://text.npr.org/nx-s1-6029408",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://text.npr.org/nx-s1-6029408 Comments URL: https://news.ycombinator.com/item?id=50484960 Points: 191 # Comments: 186",
+   "summary": "Article URL: https://text.npr.org/nx-s1-6029408 Comments URL: https://news.ycombinator.com/item?id=50484960 Points: 192 # Comments: 191",
    "published": "2026-11-13T15:29:10+00:00",
    "topics": [],
    "first_seen": "2026-11-13T23:32:59+00:00"
@@ -418,7 +473,7 @@
    "link": "https://www.youtube.com/watch?v=IRK8h67ol7Q",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://www.youtube.com/watch?v=IRK8h67ol7Q Comments URL: https://news.ycombinator.com/item?id=50484658 Points: 444 # Comments: 638",
+   "summary": "Article URL: https://www.youtube.com/watch?v=IRK8h67ol7Q Comments URL: https://news.ycombinator.com/item?id=50484658 Points: 460 # Comments: 671",
    "published": "2026-11-13T15:08:44+00:00",
    "topics": [],
    "first_seen": "2026-11-13T23:32:59+00:00"
@@ -493,7 +548,7 @@
    "link": "https://www.theatlantic.com/books/2026/11/ai-literary-scams-amazon/689391/",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://www.theatlantic.com/books/2026/11/ai-literary-scams-amazon/689391/ Comments URL: https://news.ycombinator.com/item?id=50481870 Points: 362 # Comments: 227",
+   "summary": "Article URL: https://www.theatlantic.com/books/2026/11/ai-literary-scams-amazon/689391/ Comments URL: https://news.ycombinator.com/item?id=50481870 Points: 364 # Comments: 230",
    "published": "2026-11-13T11:13:46+00:00",
    "topics": [],
    "first_seen": "2026-11-13T17:43:56+00:00"
@@ -517,7 +572,7 @@
    "link": "https://status.claude.com/incidents/nn11wk485zfn",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://status.claude.com/incidents/nn11wk485zfn Comments URL: https://news.ycombinator.com/item?id=50481187 Points: 492 # Comments: 390",
+   "summary": "Article URL: https://status.claude.com/incidents/nn11wk485zfn Comments URL: https://news.ycombinator.com/item?id=50481187 Points: 493 # Comments: 390",
    "published": "2026-11-13T10:18:13+00:00",
    "topics": [
     "Models"
@@ -582,7 +637,7 @@
    "link": "https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer Comments URL: https://news.ycombinator.com/item?id=50475713 Points: 349 # Comments: 105",
+   "summary": "Article URL: https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer Comments URL: https://news.ycombinator.com/item?id=50475713 Points: 352 # Comments: 105",
    "published": "2026-11-12T23:06:17+00:00",
    "topics": [],
    "first_seen": "2026-11-13T17:43:56+00:00"
@@ -644,7 +699,7 @@
    "link": "https://unemploymentlabs.com/checkpoint-forensics",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://unemploymentlabs.com/checkpoint-forensics Comments URL: https://news.ycombinator.com/item?id=50474883 Points: 370 # Comments: 160",
+   "summary": "https://twitter.com/willdepue/status/2120992457630326841 Comments URL: https://news.ycombinator.com/item?id=50474883 Points: 375 # Comments: 161",
    "published": "2026-11-12T21:56:11+00:00",
    "topics": [
     "Models",
@@ -699,7 +754,7 @@
    "link": "https://synthanatomy.com/2026/11/ai-is-turning-apples-app-review-process-into-a-nightmare-for-developers.html",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://synthanatomy.com/2026/11/ai-is-turning-apples-app-review-process-into-a-nightmare-for-developers.html Comments URL: https://news.ycombinator.com/item?id=50474311 Points: 197 # Comments: 232",
+   "summary": "Article URL: https://synthanatomy.com/2026/11/ai-is-turning-apples-app-review-process-into-a-nightmare-for-developers.html Comments URL: https://news.ycombinator.com/item?id=50474311 Points: 197 # Comments: 233",
    "published": "2026-11-12T21:09:49+00:00",
    "topics": [
     "Tools"
@@ -1298,7 +1353,7 @@
    "link": "https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/ Comments URL: https://news.ycombinator.com/item?id=50458900 Points: 679 # Comments: 706",
+   "summary": "Article URL: https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/ Comments URL: https://news.ycombinator.com/item?id=50458900 Points: 680 # Comments: 706",
    "published": "2026-11-11T21:24:35+00:00",
    "topics": [
     "Tools"
@@ -11712,130 +11767,6 @@
     "Research"
    ],
    "first_seen": "2026-10-21T18:38:59+00:00"
-  },
-  {
-   "id": "ba4e7337aba280a4",
-   "title": "Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline",
-   "link": "https://huggingface.co/blog/nvidia/scaling-indic-pretraining",
-   "source": "Hugging Face",
-   "kind": "lab",
-   "summary": "",
-   "published": "2026-10-16T01:44:47+00:00",
-   "topics": [],
-   "first_seen": "2026-10-16T04:31:49+00:00"
-  },
-  {
-   "id": "849b423196d125cc",
-   "title": "Welcome Beam: a 501B open model you can own, customize, and scale",
-   "link": "https://huggingface.co/blog/reflection-beam",
-   "source": "Hugging Face",
-   "kind": "lab",
-   "summary": "",
-   "published": "2026-10-16T00:00:00+00:00",
-   "topics": [
-    "Models"
-   ],
-   "first_seen": "2026-10-16T16:39:15+00:00"
-  },
-  {
-   "id": "9db4940a53f86840",
-   "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
-   "link": "https://openai.com/index/stack-overflow-chatgpt-plugin",
-   "source": "OpenAI",
-   "kind": "lab",
-   "summary": "Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10× growth in agent creation.",
-   "published": "2026-10-16T00:00:00+00:00",
-   "topics": [
-    "Tools"
-   ],
-   "first_seen": "2026-10-16T21:07:49+00:00"
-  },
-  {
-   "id": "4a2f3ca18eb9cee6",
-   "title": "Benefit Street Partners answers questions faster with Codex",
-   "link": "https://openai.com/index/benefit-street-partners",
-   "source": "OpenAI",
-   "kind": "lab",
-   "summary": "Anant Kumar builds tools to compare loan valuations and analyze credit agreements, using Codex for code review and faster follow-ups.",
-   "published": "2026-10-16T00:00:00+00:00",
-   "topics": [
-    "Business"
-   ],
-   "first_seen": "2026-10-17T06:57:21+00:00"
-  },
-  {
-   "id": "1d7d75b47c31f4d0",
-   "title": "How Grupo Boticário uses AI to strengthen human connections",
-   "link": "https://openai.com/index/grupo-boticario",
-   "source": "OpenAI",
-   "kind": "lab",
-   "summary": "Almost 50 years after starting in a compounding pharmacy in Paraná, the group operates a proprietary agent platform that autonomously resolves up to 80% of resellers’ operational requests—enabling the sales force to take on an advisory role.",
-   "published": "2026-10-16T00:00:00+00:00",
-   "topics": [
-    "Tools"
-   ],
-   "first_seen": "2026-10-28T01:21:30+00:00"
-  },
-  {
-   "id": "827221925d8dc2bc",
-   "title": "How Localiza reorganized work around generative AI",
-   "link": "https://openai.com/index/localiza-generative-ai",
-   "source": "OpenAI",
-   "kind": "lab",
-   "summary": "See how Localiza uses ChatGPT Enterprise, the OpenAI API, Codex, and 60+ specialized agents to reorganize work and build AI-native mobility experiences.",
-   "published": "2026-10-16T00:00:00+00:00",
-   "topics": [
-    "Tools"
-   ],
-   "first_seen": "2026-10-28T01:21:30+00:00"
-  },
-  {
-   "id": "c9c43f1e32a507cc",
-   "title": "When it came to Cal AI’s viral success, a small army of influencers paid off",
-   "link": "https://techcrunch.com/2026/10/15/when-it-came-to-cal-ais-viral-success-a-small-army-of-influencers-paid-off/",
-   "source": "TechCrunch",
-   "kind": "press",
-   "summary": "The company generated over $30 million in revenue in two years and was acquired by MyFitnessPal for an undisclosed amount of money in March.",
-   "published": "2026-10-15T23:44:56+00:00",
-   "topics": [
-    "Business"
-   ],
-   "first_seen": "2026-10-16T04:31:49+00:00"
-  },
-  {
-   "id": "924ca13842a36839",
-   "title": "ChatGPT can peek at your Chrome tabs now",
-   "link": "https://www.theverge.com/ai-artificial-intelligence/1012510/openai-chatgpt-google-chrome-tabs",
-   "source": "The Verge",
-   "kind": "press",
-   "summary": "OpenAI's ChatGPT Atlas browser is gone, but now ChatGPT's Google Chrome extension is getting some upgrades that allow it to use the browser tabs you already have open. With the extension installed, OpenAI says ChatGPT can now view your browser tabs when you tag Chrome in…",
-   "published": "2026-10-15T22:43:23+00:00",
-   "topics": [],
-   "first_seen": "2026-10-15T23:04:24+00:00"
-  },
-  {
-   "id": "b78fa0f3af3a7b6b",
-   "title": "Sega pulls Total War: Shogun 2 remaster from sale following disastrous launch",
-   "link": "https://www.theverge.com/games/1012512/sega-total-war-shogun-2-remaster-pulled",
-   "source": "The Verge",
-   "kind": "press",
-   "summary": "Sega is removing Total War: Shogun 2 - Complete Edition from storefronts following a disastrous launch where users complained about issues like bugs and upscaling that appears to have been done by AI. Complete Edition, a remaster of the 2011 strategy game, launched on Tuesday…",
-   "published": "2026-10-15T22:35:55+00:00",
-   "topics": [
-    "Tools"
-   ],
-   "first_seen": "2026-10-15T23:04:24+00:00"
-  },
-  {
-   "id": "54d7a618ecd38be0",
-   "title": "Trump posts AI-edited photo to brag about White House restoration work",
-   "link": "https://www.theverge.com/policy/1012445/donald-trump-ai-photo-white-house-rennovation-column",
-   "source": "The Verge",
-   "kind": "press",
-   "summary": "President Donald Trump posted a series of photos on Truth Social showing off renovations to the White House - but one of them appears to be modified with AI. The picture, which compares an old White House column to a \"restored\" one, has several discrepancies and was flagged by…",
-   "published": "2026-10-15T21:32:54+00:00",
-   "topics": [],
-   "first_seen": "2026-10-15T23:04:24+00:00"
   }
  ]
 }
