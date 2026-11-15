@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-15T01:54:58+00:00",
+ "updated": "2026-11-15T09:24:49+00:00",
  "sources": [
   {
    "name": "OpenAI",
@@ -13,9 +13,9 @@
    "name": "Google DeepMind",
    "url": "https://deepmind.google/blog/rss.xml",
    "kind": "lab",
-   "ok": false,
-   "count": 0,
-   "error": "ParseError: not well-formed (invalid token): line 1, column 0"
+   "ok": true,
+   "count": 40,
+   "error": null
   },
   {
    "name": "Google AI",
@@ -194,7 +194,7 @@
    "link": "https://www.netmeister.org/blog/claude-delusion.html",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://www.netmeister.org/blog/claude-delusion.html Comments URL: https://news.ycombinator.com/item?id=50496921 Points: 145 # Comments: 182",
+   "summary": "Article URL: https://www.netmeister.org/blog/claude-delusion.html Comments URL: https://news.ycombinator.com/item?id=50496921 Points: 147 # Comments: 192",
    "published": "2026-11-14T13:36:17+00:00",
    "topics": [
     "Models"
@@ -207,7 +207,7 @@
    "link": "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus Comments URL: https://news.ycombinator.com/item?id=50493251 Points: 1036 # Comments: 620",
+   "summary": "Article URL: https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus Comments URL: https://news.ycombinator.com/item?id=50493251 Points: 1070 # Comments: 635",
    "published": "2026-11-14T02:52:59+00:00",
    "topics": [
     "Business",
@@ -273,7 +273,7 @@
    "link": "https://claude.com/resources/articles/claude-meetings",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://claude.com/resources/articles/claude-meetings Comments URL: https://news.ycombinator.com/item?id=50491097 Points: 109 # Comments: 87",
+   "summary": "Article URL: https://claude.com/resources/articles/claude-meetings Comments URL: https://news.ycombinator.com/item?id=50491097 Points: 111 # Comments: 87",
    "published": "2026-11-13T22:39:15+00:00",
    "topics": [
     "Models"
@@ -325,7 +325,7 @@
    "link": "https://www.slopmanifesto.com/",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://www.slopmanifesto.com/ Comments URL: https://news.ycombinator.com/item?id=50488769 Points: 216 # Comments: 129",
+   "summary": "Article URL: https://www.slopmanifesto.com/ Comments URL: https://news.ycombinator.com/item?id=50488769 Points: 219 # Comments: 131",
    "published": "2026-11-13T19:51:56+00:00",
    "topics": [],
    "first_seen": "2026-11-13T23:32:59+00:00"
@@ -403,7 +403,7 @@
    "link": "https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths Comments URL: https://news.ycombinator.com/item?id=50486748 Points: 423 # Comments: 107",
+   "summary": "Article URL: https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths Comments URL: https://news.ycombinator.com/item?id=50486748 Points: 429 # Comments: 108",
    "published": "2026-11-13T17:30:10+00:00",
    "topics": [],
    "first_seen": "2026-11-13T23:32:59+00:00"
@@ -462,7 +462,7 @@
    "link": "https://text.npr.org/nx-s1-6029408",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://text.npr.org/nx-s1-6029408 Comments URL: https://news.ycombinator.com/item?id=50484960 Points: 192 # Comments: 191",
+   "summary": "Article URL: https://text.npr.org/nx-s1-6029408 Comments URL: https://news.ycombinator.com/item?id=50484960 Points: 194 # Comments: 193",
    "published": "2026-11-13T15:29:10+00:00",
    "topics": [],
    "first_seen": "2026-11-13T23:32:59+00:00"
@@ -473,7 +473,7 @@
    "link": "https://www.youtube.com/watch?v=IRK8h67ol7Q",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://www.youtube.com/watch?v=IRK8h67ol7Q Comments URL: https://news.ycombinator.com/item?id=50484658 Points: 460 # Comments: 671",
+   "summary": "Article URL: https://www.youtube.com/watch?v=IRK8h67ol7Q Comments URL: https://news.ycombinator.com/item?id=50484658 Points: 470 # Comments: 696",
    "published": "2026-11-13T15:08:44+00:00",
    "topics": [],
    "first_seen": "2026-11-13T23:32:59+00:00"
@@ -548,7 +548,7 @@
    "link": "https://www.theatlantic.com/books/2026/11/ai-literary-scams-amazon/689391/",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://www.theatlantic.com/books/2026/11/ai-literary-scams-amazon/689391/ Comments URL: https://news.ycombinator.com/item?id=50481870 Points: 364 # Comments: 230",
+   "summary": "Article URL: https://www.theatlantic.com/books/2026/11/ai-literary-scams-amazon/689391/ Comments URL: https://news.ycombinator.com/item?id=50481870 Points: 366 # Comments: 230",
    "published": "2026-11-13T11:13:46+00:00",
    "topics": [],
    "first_seen": "2026-11-13T17:43:56+00:00"
@@ -559,7 +559,7 @@
    "link": "https://status.claude.com/history",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://status.claude.com/history Comments URL: https://news.ycombinator.com/item?id=50481220 Points: 199 # Comments: 179",
+   "summary": "Article URL: https://status.claude.com/history Comments URL: https://news.ycombinator.com/item?id=50481220 Points: 200 # Comments: 179",
    "published": "2026-11-13T10:20:09+00:00",
    "topics": [
     "Models"
@@ -572,7 +572,7 @@
    "link": "https://status.claude.com/incidents/nn11wk485zfn",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://status.claude.com/incidents/nn11wk485zfn Comments URL: https://news.ycombinator.com/item?id=50481187 Points: 493 # Comments: 390",
+   "summary": "Article URL: https://status.claude.com/incidents/nn11wk485zfn Comments URL: https://news.ycombinator.com/item?id=50481187 Points: 493 # Comments: 389",
    "published": "2026-11-13T10:18:13+00:00",
    "topics": [
     "Models"
@@ -637,7 +637,7 @@
    "link": "https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer Comments URL: https://news.ycombinator.com/item?id=50475713 Points: 352 # Comments: 105",
+   "summary": "Article URL: https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer Comments URL: https://news.ycombinator.com/item?id=50475713 Points: 353 # Comments: 105",
    "published": "2026-11-12T23:06:17+00:00",
    "topics": [],
    "first_seen": "2026-11-13T17:43:56+00:00"
@@ -699,7 +699,7 @@
    "link": "https://unemploymentlabs.com/checkpoint-forensics",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "https://twitter.com/willdepue/status/2120992457630326841 Comments URL: https://news.ycombinator.com/item?id=50474883 Points: 375 # Comments: 161",
+   "summary": "https://twitter.com/willdepue/status/2120992457630326841 Comments URL: https://news.ycombinator.com/item?id=50474883 Points: 399 # Comments: 174",
    "published": "2026-11-12T21:56:11+00:00",
    "topics": [
     "Models",
@@ -754,7 +754,7 @@
    "link": "https://synthanatomy.com/2026/11/ai-is-turning-apples-app-review-process-into-a-nightmare-for-developers.html",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://synthanatomy.com/2026/11/ai-is-turning-apples-app-review-process-into-a-nightmare-for-developers.html Comments URL: https://news.ycombinator.com/item?id=50474311 Points: 197 # Comments: 233",
+   "summary": "Article URL: https://synthanatomy.com/2026/11/ai-is-turning-apples-app-review-process-into-a-nightmare-for-developers.html Comments URL: https://news.ycombinator.com/item?id=50474311 Points: 198 # Comments: 233",
    "published": "2026-11-12T21:09:49+00:00",
    "topics": [
     "Tools"
@@ -1353,7 +1353,7 @@
    "link": "https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/ Comments URL: https://news.ycombinator.com/item?id=50458900 Points: 680 # Comments: 706",
+   "summary": "Article URL: https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/ Comments URL: https://news.ycombinator.com/item?id=50458900 Points: 680 # Comments: 707",
    "published": "2026-11-11T21:24:35+00:00",
    "topics": [
     "Tools"
@@ -1769,7 +1769,7 @@
    "link": "https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/ Comments URL: https://news.ycombinator.com/item?id=50446520 Points: 569 # Comments: 559",
+   "summary": "Article URL: https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/ Comments URL: https://news.ycombinator.com/item?id=50446520 Points: 571 # Comments: 564",
    "published": "2026-11-10T21:25:03+00:00",
    "topics": [
     "Models",
@@ -11753,20 +11753,6 @@
     "Tools"
    ],
    "first_seen": "2026-10-16T16:39:15+00:00"
-  },
-  {
-   "id": "00c66b5eda27345f",
-   "title": "sparqlite: SPARQL 1.1 inside SQLite, written in Rust",
-   "link": "https://simonwillison.net/2026/Oct/16/sqlite-sparql-rust/",
-   "source": "Simon Willison",
-   "kind": "community",
-   "summary": "Research: sparqlite: SPARQL 1.1 inside SQLite, written in Rust This research task is really an experiment in running Claude Code for web in \"Ultracode\" mode, as described in Orchestrate subagents at scale with dynamic workflows in the Claude Code documentation. With Ultracode…",
-   "published": "2026-10-16T01:58:00+00:00",
-   "topics": [
-    "Models",
-    "Research"
-   ],
-   "first_seen": "2026-10-21T18:38:59+00:00"
   }
  ]
 }
