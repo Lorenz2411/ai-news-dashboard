@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-15T22:47:39+00:00",
+ "updated": "2026-11-16T06:27:48+00:00",
  "sources": [
   {
    "name": "OpenAI",
@@ -13,9 +13,9 @@
    "name": "Google DeepMind",
    "url": "https://deepmind.google/blog/rss.xml",
    "kind": "lab",
-   "ok": true,
-   "count": 40,
-   "error": null
+   "ok": false,
+   "count": 0,
+   "error": "ParseError: not well-formed (invalid token): line 1, column 0"
   },
   {
    "name": "Google AI",
@@ -92,6 +92,103 @@
  ],
  "items": [
   {
+   "id": "2f1f5cbf7ce833ab",
+   "title": "Jensen Huang might be plotting a return and more of the latest Nvidia drama",
+   "link": "https://www.theverge.com/tech/1033999/jensen-huang-return-nvidia-megaspeed",
+   "source": "The Verge",
+   "kind": "press",
+   "summary": "The drama around Nvidia co-founder and former CEO Jensen Huang is evolving quickly. The latest edition of our Stepback newsletter should get you up to speed, but there have already been a number of new developments since this morning. That includes rumors that Jensen Huang might…",
+   "published": "2026-11-16T04:17:05+00:00",
+   "topics": [
+    "Hardware"
+   ],
+   "first_seen": "2026-11-15T22:47:39+00:00"
+  },
+  {
+   "id": "f7214e14d1e100a3",
+   "title": "Apple’s new study looks to improve the effectiveness of AI health tools",
+   "link": "https://www.theverge.com/tech/1033355/apples-new-study-looks-to-improve-the-effectiveness-of-ai-health-tools",
+   "source": "The Verge",
+   "kind": "press",
+   "summary": "Apple announced a new study today with the goal of better understanding how people interact with conversational AI health tools and how useful their responses actually are. The company is conducting the Apple Health AI Usage Study in collaboration with OpenEvidence, a clinical…",
+   "published": "2026-11-16T01:47:16+00:00",
+   "topics": [
+    "Research"
+   ],
+   "first_seen": "2026-11-16T06:27:48+00:00"
+  },
+  {
+   "id": "77828770ffb5c4ae",
+   "title": "Apple launches new app to study how people use AI for health",
+   "link": "https://techcrunch.com/2026/11/15/apple-launches-new-app-to-study-how-people-use-ai-for-health/",
+   "source": "TechCrunch",
+   "kind": "press",
+   "summary": "Apple's new app for a study will answer everyday medical questions",
+   "published": "2026-11-16T01:30:00+00:00",
+   "topics": [
+    "Research",
+    "Tools"
+   ],
+   "first_seen": "2026-11-16T06:27:48+00:00"
+  },
+  {
+   "id": "128a04bf78b6cc3a",
+   "title": "datasette-maplibre 0.1a0",
+   "link": "https://simonwillison.net/2026/Nov/15/datasette-maplibre/",
+   "source": "Simon Willison",
+   "kind": "community",
+   "summary": "Release: datasette-maplibre 0.1a0 The first new Datasette geospatial plugin in quite a while! This one combines the excellent MapLibre GL library with OpenFreeMap , the free vector map server operated by Zsolt Ero (you should sponsor Zsolt on GitHub .) I built most of this with…",
+   "published": "2026-11-15T23:58:36+00:00",
+   "topics": [
+    "Research",
+    "Tools"
+   ],
+   "first_seen": "2026-11-16T06:27:48+00:00"
+  },
+  {
+   "id": "fa232e2aaf8a1962",
+   "title": "Indian chip startup Bharat Semi lands $24M seed round as it eyes global AI sensor market",
+   "link": "https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market/",
+   "source": "TechCrunch",
+   "kind": "press",
+   "summary": "Bharat Semi says it has secured design wins for its AI-enabled sensor technology with companies including General Atomics.",
+   "published": "2026-11-15T23:30:00+00:00",
+   "topics": [
+    "Business",
+    "Hardware"
+   ],
+   "first_seen": "2026-11-16T06:27:48+00:00"
+  },
+  {
+   "id": "67eb98ac1cd8e0ee",
+   "title": "datasette 1.0a43",
+   "link": "https://simonwillison.net/2026/Nov/15/datasette/",
+   "source": "Simon Willison",
+   "kind": "community",
+   "summary": "Release: datasette 1.0a43 I've been leaning hard into Claude Fable 5.2 to help knock things off the 1.0 milestone , which is now 53% complete. The biggest 1.0 item in this release is streaming support for output renderers - the built-in TSV and CSV export mechanisms now use this…",
+   "published": "2026-11-15T23:20:27+00:00",
+   "topics": [
+    "Models",
+    "Research",
+    "Tools"
+   ],
+   "first_seen": "2026-11-16T06:27:48+00:00"
+  },
+  {
+   "id": "3f50af67247cd945",
+   "title": "datasette 0.65.6",
+   "link": "https://simonwillison.net/2026/Nov/15/datasette-2/",
+   "source": "Simon Willison",
+   "kind": "community",
+   "summary": "Release: datasette 0.65.6 I backported a minor security fix from 1.0a43: Fixed a security issue where a database registered using add_database(db, name=..., route=...) with a route that differs from its name could be downloaded from /<route>.db by actors who were denied access…",
+   "published": "2026-11-15T23:18:17+00:00",
+   "topics": [
+    "Research",
+    "Tools"
+   ],
+   "first_seen": "2026-11-16T06:27:48+00:00"
+  },
+  {
    "id": "87d7014c15ee68a3",
    "title": "A step toward defining the Standard Model on a lattice",
    "link": "https://openai.com/index/step-toward-defining-the-standard-model",
@@ -129,19 +226,6 @@
    "first_seen": "2026-11-15T22:47:39+00:00"
   },
   {
-   "id": "2f1f5cbf7ce833ab",
-   "title": "Jensen Huang might be plotting a return and more of the latest Nvidia drama",
-   "link": "https://www.theverge.com/tech/1033999/jensen-huang-return-nvidia-megaspeed",
-   "source": "The Verge",
-   "kind": "press",
-   "summary": "The drama around Nvidia co-founder and former CEO Jensen Huang is evolving quickly. The latest edition of our Stepback newsletter should get you up to speed, but there have already been a number of new developments since this morning. That includes rumors that Jensen Huang might…",
-   "published": "2026-11-15T20:49:29+00:00",
-   "topics": [
-    "Hardware"
-   ],
-   "first_seen": "2026-11-15T22:47:39+00:00"
-  },
-  {
    "id": "d9bb72c7b4b43418",
    "title": "SNL gathers all the tech tycoons for a lesson in dating and spycraft",
    "link": "https://techcrunch.com/2026/11/15/snl-gathers-all-the-tech-tycoons-for-a-lesson-in-dating-and-spycraft/",
@@ -172,12 +256,41 @@
    "link": "https://jakub.jankiewicz.org/blog/ai-code-open-source/",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://jakub.jankiewicz.org/blog/ai-code-open-source/ Comments URL: https://news.ycombinator.com/item?id=50507303 Points: 1014 # Comments: 561",
+   "summary": "Article URL: https://jakub.jankiewicz.org/blog/ai-code-open-source/ Comments URL: https://news.ycombinator.com/item?id=50507303 Points: 1130 # Comments: 609",
    "published": "2026-11-15T14:46:58+00:00",
    "topics": [
     "Tools"
    ],
    "first_seen": "2026-11-15T17:10:11+00:00"
+  },
+  {
+   "id": "968e4ab4d9bb9e07",
+   "title": "datasette-apps 0.4a0",
+   "link": "https://simonwillison.net/2026/Nov/15/datasette-apps/",
+   "source": "Simon Willison",
+   "kind": "community",
+   "summary": "Release: datasette-apps 0.4a0 Datasette Apps are sandboxed HTML and JavaScript applications that live inside Datasette - think Claude Artifacts, but these ones can run SQL queries against your data. 0.4a0 adds support for linking: you can link to an app with #fragments in the…",
+   "published": "2026-11-15T04:02:45+00:00",
+   "topics": [
+    "Models",
+    "Research",
+    "Tools"
+   ],
+   "first_seen": "2026-11-16T06:27:48+00:00"
+  },
+  {
+   "id": "cc7b7d65085832de",
+   "title": "datasette-agent 0.6a0",
+   "link": "https://simonwillison.net/2026/Nov/15/datasette-agent/",
+   "source": "Simon Willison",
+   "kind": "community",
+   "summary": "Release: datasette-agent 0.6a0 Accumulated small fixes for Datasette Agent, my agent plugin for Datasette that lets you ask questions about your data. Most notably, it now adds an agent prompt directly to the Datasette homepage, with support for hash-mentions of tables and…",
+   "published": "2026-11-15T03:49:47+00:00",
+   "topics": [
+    "Research",
+    "Tools"
+   ],
+   "first_seen": "2026-11-16T06:27:48+00:00"
   },
   {
    "id": "4c525e5e54fa3645",
@@ -295,7 +408,7 @@
    "link": "https://www.netmeister.org/blog/claude-delusion.html",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://www.netmeister.org/blog/claude-delusion.html Comments URL: https://news.ycombinator.com/item?id=50496921 Points: 151 # Comments: 199",
+   "summary": "Article URL: https://www.netmeister.org/blog/claude-delusion.html Comments URL: https://news.ycombinator.com/item?id=50496921 Points: 152 # Comments: 199",
    "published": "2026-11-14T13:36:17+00:00",
    "topics": [
     "Models"
@@ -308,7 +421,7 @@
    "link": "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus Comments URL: https://news.ycombinator.com/item?id=50493251 Points: 1097 # Comments: 646",
+   "summary": "Article URL: https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus Comments URL: https://news.ycombinator.com/item?id=50493251 Points: 1102 # Comments: 649",
    "published": "2026-11-14T02:52:59+00:00",
    "topics": [
     "Business",
@@ -387,7 +500,7 @@
    "link": "https://claude.com/resources/articles/claude-meetings",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://claude.com/resources/articles/claude-meetings Comments URL: https://news.ycombinator.com/item?id=50491097 Points: 111 # Comments: 88",
+   "summary": "Article URL: https://claude.com/resources/articles/claude-meetings Comments URL: https://news.ycombinator.com/item?id=50491097 Points: 112 # Comments: 88",
    "published": "2026-11-13T22:39:15+00:00",
    "topics": [
     "Models"
@@ -439,7 +552,7 @@
    "link": "https://www.slopmanifesto.com/",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://www.slopmanifesto.com/ Comments URL: https://news.ycombinator.com/item?id=50488769 Points: 222 # Comments: 133",
+   "summary": "Article URL: https://www.slopmanifesto.com/ Comments URL: https://news.ycombinator.com/item?id=50488769 Points: 223 # Comments: 133",
    "published": "2026-11-13T19:51:56+00:00",
    "topics": [],
    "first_seen": "2026-11-13T23:32:59+00:00"
@@ -517,7 +630,7 @@
    "link": "https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths Comments URL: https://news.ycombinator.com/item?id=50486748 Points: 437 # Comments: 110",
+   "summary": "Article URL: https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths Comments URL: https://news.ycombinator.com/item?id=50486748 Points: 438 # Comments: 110",
    "published": "2026-11-13T17:30:10+00:00",
    "topics": [],
    "first_seen": "2026-11-13T23:32:59+00:00"
@@ -576,7 +689,7 @@
    "link": "https://text.npr.org/nx-s1-6029408",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://text.npr.org/nx-s1-6029408 Comments URL: https://news.ycombinator.com/item?id=50484960 Points: 195 # Comments: 196",
+   "summary": "Article URL: https://text.npr.org/nx-s1-6029408 Comments URL: https://news.ycombinator.com/item?id=50484960 Points: 196 # Comments: 196",
    "published": "2026-11-13T15:29:10+00:00",
    "topics": [],
    "first_seen": "2026-11-13T23:32:59+00:00"
@@ -587,7 +700,7 @@
    "link": "https://www.youtube.com/watch?v=IRK8h67ol7Q",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://www.youtube.com/watch?v=IRK8h67ol7Q Comments URL: https://news.ycombinator.com/item?id=50484658 Points: 482 # Comments: 724",
+   "summary": "Article URL: https://www.youtube.com/watch?v=IRK8h67ol7Q Comments URL: https://news.ycombinator.com/item?id=50484658 Points: 483 # Comments: 727",
    "published": "2026-11-13T15:08:44+00:00",
    "topics": [],
    "first_seen": "2026-11-13T23:32:59+00:00"
@@ -662,7 +775,7 @@
    "link": "https://www.theatlantic.com/books/2026/11/ai-literary-scams-amazon/689391/",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://www.theatlantic.com/books/2026/11/ai-literary-scams-amazon/689391/ Comments URL: https://news.ycombinator.com/item?id=50481870 Points: 369 # Comments: 234",
+   "summary": "Article URL: https://www.theatlantic.com/books/2026/11/ai-literary-scams-amazon/689391/ Comments URL: https://news.ycombinator.com/item?id=50481870 Points: 370 # Comments: 234",
    "published": "2026-11-13T11:13:46+00:00",
    "topics": [],
    "first_seen": "2026-11-13T17:43:56+00:00"
@@ -686,7 +799,7 @@
    "link": "https://status.claude.com/incidents/nn11wk485zfn",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://status.claude.com/incidents/nn11wk485zfn Comments URL: https://news.ycombinator.com/item?id=50481187 Points: 493 # Comments: 389",
+   "summary": "Article URL: https://status.claude.com/incidents/nn11wk485zfn Comments URL: https://news.ycombinator.com/item?id=50481187 Points: 493 # Comments: 390",
    "published": "2026-11-13T10:18:13+00:00",
    "topics": [
     "Models"
@@ -751,7 +864,7 @@
    "link": "https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer Comments URL: https://news.ycombinator.com/item?id=50475713 Points: 355 # Comments: 105",
+   "summary": "Article URL: https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer Comments URL: https://news.ycombinator.com/item?id=50475713 Points: 356 # Comments: 105",
    "published": "2026-11-12T23:06:17+00:00",
    "topics": [],
    "first_seen": "2026-11-13T17:43:56+00:00"
@@ -813,7 +926,7 @@
    "link": "https://unemploymentlabs.com/checkpoint-forensics",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "https://twitter.com/willdepue/status/2120992457630326841 Comments URL: https://news.ycombinator.com/item?id=50474883 Points: 430 # Comments: 181",
+   "summary": "https://twitter.com/willdepue/status/2120992457630326841 Comments URL: https://news.ycombinator.com/item?id=50474883 Points: 438 # Comments: 185",
    "published": "2026-11-12T21:56:11+00:00",
    "topics": [
     "Models",
@@ -1348,7 +1461,7 @@
    "link": "https://www.youtube.com/watch?v=WPj3aQ-xxpI",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://www.youtube.com/watch?v=WPj3aQ-xxpI Comments URL: https://news.ycombinator.com/item?id=50463399 Points: 277 # Comments: 145",
+   "summary": "Article URL: https://www.youtube.com/watch?v=WPj3aQ-xxpI Comments URL: https://news.ycombinator.com/item?id=50463399 Points: 400 # Comments: 196",
    "published": "2026-11-12T05:29:24+00:00",
    "topics": [
     "Models"
@@ -1480,7 +1593,7 @@
    "link": "https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/ Comments URL: https://news.ycombinator.com/item?id=50458900 Points: 681 # Comments: 708",
+   "summary": "Article URL: https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/ Comments URL: https://news.ycombinator.com/item?id=50458900 Points: 681 # Comments: 709",
    "published": "2026-11-11T21:24:35+00:00",
    "topics": [
     "Tools"
@@ -11574,19 +11687,6 @@
     "Tools"
    ],
    "first_seen": "2026-10-18T04:33:08+00:00"
-  },
-  {
-   "id": "0913988ccbedf140",
-   "title": "Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware",
-   "link": "https://llmspeed.dev/",
-   "source": "Hacker News",
-   "kind": "community",
-   "summary": "Article URL: https://llmspeed.dev/ Comments URL: https://news.ycombinator.com/item?id=50127979 Points: 329 # Comments: 86",
-   "published": "2026-10-17T04:36:53+00:00",
-   "topics": [
-    "Models"
-   ],
-   "first_seen": "2026-10-17T12:11:23+00:00"
   }
  ]
 }
