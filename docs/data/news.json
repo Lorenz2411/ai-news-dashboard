@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-16T06:27:48+00:00",
+ "updated": "2026-11-16T18:31:46+00:00",
  "sources": [
   {
    "name": "OpenAI",
@@ -13,9 +13,9 @@
    "name": "Google DeepMind",
    "url": "https://deepmind.google/blog/rss.xml",
    "kind": "lab",
-   "ok": false,
-   "count": 0,
-   "error": "ParseError: not well-formed (invalid token): line 1, column 0"
+   "ok": true,
+   "count": 40,
+   "error": null
   },
   {
    "name": "Google AI",
@@ -85,12 +85,335 @@
    "name": "Hacker News",
    "url": "https://hnrss.org/newest?q=AI+OR+LLM+OR+GPT+OR+Claude&points=100",
    "kind": "community",
-   "ok": true,
-   "count": 20,
-   "error": null
+   "ok": false,
+   "count": 0,
+   "error": "HTTPError: HTTP Error 502: Bad Gateway"
   }
  ],
  "items": [
+  {
+   "id": "0b5fe7dce536bb45",
+   "title": "Sam Altman on Nvidia without Jensen Huang: the industry will be ‘fine’",
+   "link": "https://techcrunch.com/2026/11/16/sam-altman-on-nvidia-without-jensen-huang-the-industry-will-be-fine/",
+   "source": "TechCrunch",
+   "kind": "press",
+   "summary": "OpenAI CEO Sam Altman acknowledged the special role Nvidia CEO Jensen Huang has played in the AI boom, but ultimately thinks the industry will be “fine” without him at the helm.",
+   "published": "2026-11-16T18:11:10+00:00",
+   "topics": [
+    "Hardware"
+   ],
+   "first_seen": "2026-11-16T18:31:46+00:00"
+  },
+  {
+   "id": "690a9aa8938dfa2f",
+   "title": "FBI says Artex AI open-source hacking tool used to breach networks in ‘under three hours’",
+   "link": "https://techcrunch.com/2026/11/16/fbi-says-artex-ai-open-source-hacking-tool-used-to-breach-networks-in-under-three-hours/",
+   "source": "TechCrunch",
+   "kind": "press",
+   "summary": "The FBI says that the open-source hacking tool was used in cyberattacks targeting a U.S. IT giant and the South Korean financial industry.",
+   "published": "2026-11-16T17:36:43+00:00",
+   "topics": [
+    "Tools"
+   ],
+   "first_seen": "2026-11-16T18:31:46+00:00"
+  },
+  {
+   "id": "98a6b93915396a17",
+   "title": "Jordan Belfort’s new AI voice startup, Tone, wants to sell like the ‘Wolf of Wall Street’",
+   "link": "https://techcrunch.com/2026/11/16/jordan-belforts-new-ai-voice-startup-tone-wants-to-sell-like-the-wolf-of-wall-street/",
+   "source": "TechCrunch",
+   "kind": "press",
+   "summary": "Belfort claims his AI sales voice can already close deals almost as well as the best human salespeople, and he thinks it will catch up in a year.",
+   "published": "2026-11-16T17:10:00+00:00",
+   "topics": [
+    "Business"
+   ],
+   "first_seen": "2026-11-16T18:31:46+00:00"
+  },
+  {
+   "id": "2b2bb87b4857660b",
+   "title": "The Nvidia scandal isn’t slowing down",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/1031740/jensen-huang-nvidia-scandal-isnt-slowing-down",
+   "source": "The Verge",
+   "kind": "press",
+   "summary": "For years, Jensen Huang has had an almost unprecedented power to shape AI's advancement as Nvidia's CEO, cofounder, and president. As The Verge wrote last week, Nvidia's chips are \"the bedrock upon which advanced AI technology in the US is being built.\" Ever-increasing demand…",
+   "published": "2026-11-16T17:05:03+00:00",
+   "topics": [
+    "Hardware"
+   ],
+   "first_seen": "2026-11-16T18:31:46+00:00"
+  },
+  {
+   "id": "6d05b4dbd591c899",
+   "title": "OpenAI will embed Apollo researchers to investigate AI subversion",
+   "link": "https://techcrunch.com/2026/11/16/openai-will-embed-apollo-researchers-to-investigate-ai-subversion/",
+   "source": "TechCrunch",
+   "kind": "press",
+   "summary": "OpenAI will embed six Apollo Research evaluators to investigate whether its AI models engage in subversive behavior, but restrictions on access and disclosure raise questions about their independence.",
+   "published": "2026-11-16T17:02:43+00:00",
+   "topics": [
+    "Models",
+    "Research",
+    "Business"
+   ],
+   "first_seen": "2026-11-16T18:31:46+00:00"
+  },
+  {
+   "id": "f26f2a4dfd6b9b95",
+   "title": "Broadening access to AI for scientists",
+   "link": "https://openai.com/index/expanding-chatgpt-for-academic-researchers",
+   "source": "OpenAI",
+   "kind": "lab",
+   "summary": "We’re expanding our ChatGPT for Academic Researchers program to offer 200,000 researchers worldwide free access to our frontier models.",
+   "published": "2026-11-16T17:00:00+00:00",
+   "topics": [
+    "Models"
+   ],
+   "first_seen": "2026-11-16T18:31:46+00:00"
+  },
+  {
+   "id": "b1c71d07875ac772",
+   "title": "Strengthening the fight against online child sexual abuse with new tools and support",
+   "link": "https://openai.com/index/strengthening-online-child-safety",
+   "source": "OpenAI",
+   "kind": "lab",
+   "summary": "New tools, practical guidance, and partnerships will help prevent, detect and respond to online child sexual exploitation and abuse.",
+   "published": "2026-11-16T17:00:00+00:00",
+   "topics": [
+    "Business"
+   ],
+   "first_seen": "2026-11-16T18:31:46+00:00"
+  },
+  {
+   "id": "63e5e5cd26566702",
+   "title": "OpenAI releases a new image classifier and ChatGPT warnings to combat CSAM",
+   "link": "https://techcrunch.com/2026/11/16/openai-releases-a-new-image-classifier-and-chatgpt-warnings-to-combat-csam/",
+   "source": "TechCrunch",
+   "kind": "press",
+   "summary": "ChatGPT will ban an account trying to access CSAM content for 24 hours as a warning",
+   "published": "2026-11-16T17:00:00+00:00",
+   "topics": [
+    "Tools"
+   ],
+   "first_seen": "2026-11-16T18:31:46+00:00"
+  },
+  {
+   "id": "29a19e1aacc64ded",
+   "title": "Audible is trying to make it easier to find audiobooks you’ll actually like",
+   "link": "https://www.theverge.com/tech/1034083/audible-audio-discovery-ai-feature-availability",
+   "source": "The Verge",
+   "kind": "press",
+   "summary": "Audible is introducing an AI-assisted synopsis feature that's designed to help users determine whether they'll enjoy an audiobook before they jump in and start listening to it. The new audio discovery feature combines audiobook samples, AI overviews, and author commentary to…",
+   "published": "2026-11-16T16:45:35+00:00",
+   "topics": [],
+   "first_seen": "2026-11-16T18:31:46+00:00"
+  },
+  {
+   "id": "adba844aff176e0b",
+   "title": "Building trustworthy AI by fencing it in, not predicting it",
+   "link": "https://www.technologyreview.com/2026/11/16/1148565/building-trustworthy-ai-by-fencing-it-in-not-predicting-it/",
+   "source": "MIT Technology Review",
+   "kind": "press",
+   "summary": "In October this year, OpenAI disclosed that two of its AI agents had switched off the systems built to monitor them. One muted its own safety alerts after misreading an instruction not to send messages; the other removed its monitoring integration during migration, then said it…",
+   "published": "2026-11-16T16:04:28+00:00",
+   "topics": [
+    "Policy",
+    "Tools"
+   ],
+   "first_seen": "2026-11-16T18:31:46+00:00"
+  },
+  {
+   "id": "7163ff8dd6d11077",
+   "title": "Audible turns to AI to help users discover audiobooks",
+   "link": "https://techcrunch.com/2026/11/16/audible-turns-to-ai-to-help-users-discover-audiobooks/",
+   "source": "TechCrunch",
+   "kind": "press",
+   "summary": "Audible's new AI-generated audio previews summarize a book's themes and what readers liked about it, in addition to playing the narrated sample.",
+   "published": "2026-11-16T15:52:19+00:00",
+   "topics": [],
+   "first_seen": "2026-11-16T18:31:46+00:00"
+  },
+  {
+   "id": "d46b516a4c8344dc",
+   "title": "The OpenAI board member who fired Sam Altman says we still can’t trust AI CEOs",
+   "link": "https://www.theverge.com/podcast/1032907/helen-toner-openai-cset-ai-safety-policy-interview",
+   "source": "The Verge",
+   "kind": "press",
+   "summary": "Today, I’m talking with Helen Toner, the executive director of the Center for Security and Emerging Technology at Georgetown University. This episode is part two of our series on AI in real life. Helen is a well-known figure in the AI safety and policy community, though she is…",
+   "published": "2026-11-16T15:40:14+00:00",
+   "topics": [
+    "Policy"
+   ],
+   "first_seen": "2026-11-14T15:04:29+00:00"
+  },
+  {
+   "id": "4c525e5e54fa3645",
+   "title": "An overview of Jensen Huang’s messy days",
+   "link": "https://www.theverge.com/column/1033943/jensen-huang-nvidia-china-spying-scandal-resignation",
+   "source": "The Verge",
+   "kind": "press",
+   "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on Jensen Huang's resignation and the fallout from Nvidia's leadership crisis, follow Terrence O'Brien. The Stepback arrives in our subscribers' inboxes on Sunday at 8AM ET…",
+   "published": "2026-11-16T15:39:29+00:00",
+   "topics": [
+    "Hardware"
+   ],
+   "first_seen": "2026-11-15T17:10:11+00:00"
+  },
+  {
+   "id": "43465bb556008cf4",
+   "title": "US tightens AI chip export controls to deter Chinese companies from accessing compute remotely",
+   "link": "https://techcrunch.com/2026/11/16/us-tightens-ai-chip-export-controls-to-deter-chinese-companies-from-accessing-compute-remotely/",
+   "source": "TechCrunch",
+   "kind": "press",
+   "summary": "Under the interim rule, the U.S. will require firms to get licenses to export AI chips if they may provide compute to China or other restricted countries.",
+   "published": "2026-11-16T15:02:34+00:00",
+   "topics": [
+    "Hardware"
+   ],
+   "first_seen": "2026-11-16T18:31:46+00:00"
+  },
+  {
+   "id": "cc64e684881ce257",
+   "title": "Google Maps can now build trip itineraries with real-time details about each stop",
+   "link": "https://techcrunch.com/2026/11/16/google-maps-can-now-build-trip-itineraries-with-real-time-details-about-each-stop/",
+   "source": "TechCrunch",
+   "kind": "press",
+   "summary": "You could use Ask Maps to plan a holiday shopping day trip or something more complex, like a three-day road trip featuring coastal hikes and oceanfront dining.",
+   "published": "2026-11-16T14:48:13+00:00",
+   "topics": [],
+   "first_seen": "2026-11-16T18:31:46+00:00"
+  },
+  {
+   "id": "dd02c35afc864bbe",
+   "title": "Google Maps can now create trip itineraries for you",
+   "link": "https://www.theverge.com/tech/1034110/google-ask-maps-ai-trip-planning",
+   "source": "The Verge",
+   "kind": "press",
+   "summary": "Google is launching a new AI trip-planning feature for Maps that allows the app to create custom itineraries for you and provide real-time details about each stop. The update, which is rolling out to the Gemini-powered Ask Maps chatbot inside the app, lets you plan a one-day…",
+   "published": "2026-11-16T14:06:43+00:00",
+   "topics": [
+    "Models",
+    "Tools"
+   ],
+   "first_seen": "2026-11-16T18:31:46+00:00"
+  },
+  {
+   "id": "c0787d91eb5d8df5",
+   "title": "Jensen Huang allies build a \"war room\" to get him back at Nvidia",
+   "link": "https://arstechnica.com/ai/2026/11/jensen-huang-allies-build-a-war-room-to-get-him-back-at-nvidia/",
+   "source": "Ars Technica",
+   "kind": "press",
+   "summary": "Huang is weighing a return just days after resigning amid a deepening scandal.",
+   "published": "2026-11-16T14:06:16+00:00",
+   "topics": [
+    "Hardware"
+   ],
+   "first_seen": "2026-11-16T18:31:46+00:00"
+  },
+  {
+   "id": "717626b76ea030ce",
+   "title": "New Ask Maps features to help with holiday travel and prep",
+   "link": "https://blog.google/products-and-platforms/products/maps/ask-maps-holiday-travel-features-2026/",
+   "source": "Google AI",
+   "kind": "lab",
+   "summary": "",
+   "published": "2026-11-16T14:00:00+00:00",
+   "topics": [],
+   "first_seen": "2026-11-16T18:31:46+00:00"
+  },
+  {
+   "id": "e6b37f5da94e2fd1",
+   "title": "Building AI that can work across the enterprise",
+   "link": "https://www.technologyreview.com/2026/11/16/1146070/building-ai-that-can-work-across-the-enterprise/",
+   "source": "MIT Technology Review",
+   "kind": "press",
+   "summary": "For years, enterprises have approached AI as a series of discrete experiments. Now, as AI agents begin to move into the workflows that run the business, that model is starting to look inadequate. Organizations moving from isolated pilots toward AI agents and autonomous workflows…",
+   "published": "2026-11-16T13:00:00+00:00",
+   "topics": [
+    "Models",
+    "Tools"
+   ],
+   "first_seen": "2026-11-16T18:31:46+00:00"
+  },
+  {
+   "id": "8cd345b9ca86f67c",
+   "title": "Freshworks alums raise $53M to take on Salesforce, HubSpot with AI-native CRM",
+   "link": "https://techcrunch.com/2026/11/16/freshworks-alums-raise-53m-to-take-on-salesforce-hubspot-with-ai-native-crm/",
+   "source": "TechCrunch",
+   "kind": "press",
+   "summary": "Dreamteam has signed up more than 100 customers across 13 countries, with some businesses switching from established CRMs.",
+   "published": "2026-11-16T12:30:00+00:00",
+   "topics": [
+    "Business"
+   ],
+   "first_seen": "2026-11-16T18:31:46+00:00"
+  },
+  {
+   "id": "f891bd93f3d21469",
+   "title": "Science at the Frontier: How scientists use ChatGPT",
+   "link": "https://openai.com/index/science-at-the-frontier",
+   "source": "OpenAI",
+   "kind": "lab",
+   "summary": "Explore how more than 1,800 scientists use ChatGPT in research. See findings on daily workflows, reported productivity, and expectations for discovery.",
+   "published": "2026-11-16T12:00:00+00:00",
+   "topics": [
+    "Research"
+   ],
+   "first_seen": "2026-11-16T18:31:46+00:00"
+  },
+  {
+   "id": "91e58e2ea930c2fa",
+   "title": "LVMH’s Media Division announces strategic partnership with OpenAI",
+   "link": "https://openai.com/index/lvmh-media-division-partnership",
+   "source": "OpenAI",
+   "kind": "lab",
+   "summary": "LVMH’s Media Division and OpenAI announce a partnership to support journalism with AI and make its publications more accessible through ChatGPT.",
+   "published": "2026-11-16T09:00:00+00:00",
+   "topics": [
+    "Business"
+   ],
+   "first_seen": "2026-11-16T18:31:46+00:00"
+  },
+  {
+   "id": "ebd9eb94963902d2",
+   "title": "Our first phase of embedded assessments",
+   "link": "https://openai.com/index/our-first-phase-of-embedded-assessments",
+   "source": "OpenAI",
+   "kind": "lab",
+   "summary": "OpenAI begins embedded assessments with Apollo Research, METR, and Transluce, and Goodfire to independently evaluate model alignment, safeguards, and monitoring systems.",
+   "published": "2026-11-16T08:00:00+00:00",
+   "topics": [
+    "Models",
+    "Research"
+   ],
+   "first_seen": "2026-11-16T18:31:46+00:00"
+  },
+  {
+   "id": "b0ded74e06b06613",
+   "title": "Advancing computer-use agents for healthcare teams",
+   "link": "https://openai.com/index/advancing-computer-use-for-healthcare-teams",
+   "source": "OpenAI",
+   "kind": "lab",
+   "summary": "",
+   "published": "2026-11-16T06:00:00+00:00",
+   "topics": [
+    "Tools"
+   ],
+   "first_seen": "2026-11-16T18:31:46+00:00"
+  },
+  {
+   "id": "cfcc7acb02e9ca79",
+   "title": "More ways to move care forward with ChatGPT for Healthcare",
+   "link": "https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare",
+   "source": "OpenAI",
+   "kind": "lab",
+   "summary": "Introducing computer-use agents, improved clinical answers, and new healthcare plugins that work across healthcare software to get real work done.",
+   "published": "2026-11-16T06:00:00+00:00",
+   "topics": [
+    "Tools"
+   ],
+   "first_seen": "2026-11-16T18:31:46+00:00"
+  },
   {
    "id": "2f1f5cbf7ce833ab",
    "title": "Jensen Huang might be plotting a return and more of the latest Nvidia drama",
@@ -130,6 +453,33 @@
     "Tools"
    ],
    "first_seen": "2026-11-16T06:27:48+00:00"
+  },
+  {
+   "id": "e3915f7e4cf071c4",
+   "title": "The King’s Trust and OpenAI launch £1m partnership",
+   "link": "https://openai.com/index/the-kings-trust-and-openai",
+   "source": "OpenAI",
+   "kind": "lab",
+   "summary": "The King’s Trust and OpenAI launch a £1m partnership to help up to 25,000 young people across the UK build practical AI skills for work.",
+   "published": "2026-11-16T00:00:00+00:00",
+   "topics": [
+    "Business",
+    "Tools"
+   ],
+   "first_seen": "2026-11-16T18:31:46+00:00"
+  },
+  {
+   "id": "853b24ff0d6ecd3f",
+   "title": "Hugging Face and OpenRouter join forces to make open-weight models easy to run",
+   "link": "https://huggingface.co/blog/openrouter",
+   "source": "Hugging Face",
+   "kind": "lab",
+   "summary": "",
+   "published": "2026-11-16T00:00:00+00:00",
+   "topics": [
+    "Models"
+   ],
+   "first_seen": "2026-11-16T18:31:46+00:00"
   },
   {
    "id": "128a04bf78b6cc3a",
@@ -293,19 +643,6 @@
    "first_seen": "2026-11-16T06:27:48+00:00"
   },
   {
-   "id": "4c525e5e54fa3645",
-   "title": "An overview of Jensen Huang’s messy days",
-   "link": "https://www.theverge.com/column/1033943/jensen-huang-nvidia-china-spying-scandal-resignation",
-   "source": "The Verge",
-   "kind": "press",
-   "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on Jensen Huang's resignation and the fallout from Nvidia's leadership crisis, follow Terrence O'Brien. The Stepback arrives in our subscribers' inboxes on Sunday at 8AM ET…",
-   "published": "2026-11-15T00:09:10+00:00",
-   "topics": [
-    "Hardware"
-   ],
-   "first_seen": "2026-11-15T17:10:11+00:00"
-  },
-  {
    "id": "acaf00569e865f08",
    "title": "Where was Nvidia’s security team?",
    "link": "https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/",
@@ -441,19 +778,6 @@
     "Models"
    ],
    "first_seen": "2026-11-15T22:47:39+00:00"
-  },
-  {
-   "id": "d46b516a4c8344dc",
-   "title": "The OpenAI board member who fired Sam Altman says we still can’t trust AI CEOs",
-   "link": "https://www.theverge.com/podcast/1032907/helen-toner-openai-cset-ai-safety-policy-interview",
-   "source": "The Verge",
-   "kind": "press",
-   "summary": "Today, I’m talking with Helen Toner, the executive director of the Center for Security and Emerging Technology at Georgetown University. This episode is part two of our series on AI in real life. Helen is a well-known figure in the AI safety and policy community, though she is…",
-   "published": "2026-11-14T00:06:40+00:00",
-   "topics": [
-    "Policy"
-   ],
-   "first_seen": "2026-11-14T15:04:29+00:00"
   },
   {
    "id": "04367a7d0b10c58a",
@@ -11641,52 +11965,6 @@
     "Business"
    ],
    "first_seen": "2026-10-17T22:18:07+00:00"
-  },
-  {
-   "id": "ca34855deda27f35",
-   "title": "Amazon uses AI to monitor union risk in UK warehouses",
-   "link": "https://www.opendemocracy.net/amazon-ai-surveillance-monitor-union-activity-uk-warehouses-birmingham-coventry-atlas-sutton-coldfield/",
-   "source": "Hacker News",
-   "kind": "community",
-   "summary": "Article URL: https://www.opendemocracy.net/amazon-ai-surveillance-monitor-union-activity-uk-warehouses-birmingham-coventry-atlas-sutton-coldfield/ Comments URL: https://news.ycombinator.com/item?id=50132278 Points: 173 # Comments: 61",
-   "published": "2026-10-17T16:04:23+00:00",
-   "topics": [],
-   "first_seen": "2026-10-17T18:30:40+00:00"
-  },
-  {
-   "id": "ad3a47861a304e90",
-   "title": "Meta’s new terms may allow it to train AI on news sites for free",
-   "link": "https://www.theverge.com/tech/1012846/meta-business-terms-scrape-news-publishers",
-   "source": "The Verge",
-   "kind": "press",
-   "summary": "Meta's new terms appear to give it permission to crawl and scrape websites \"associated\" with the businesses that use its platforms - including online publishers, according to a report from Nieman Lab. The new terms, which go into effect on October 30th, say Meta can use this…",
-   "published": "2026-10-17T15:08:35+00:00",
-   "topics": [],
-   "first_seen": "2026-10-16T16:39:15+00:00"
-  },
-  {
-   "id": "ac0eba5f39915c21",
-   "title": "Meta removes language that may have allowed it to scrape news sites",
-   "link": "https://www.theverge.com/tech/1013409/meta-removes-language-that-may-have-allowed-it-to-scrape-news-sites",
-   "source": "The Verge",
-   "kind": "press",
-   "summary": "After backlash, Meta is updating its terms again to remove language that suggested it could scrape content from sites, including news sites, to train its AI. Specifically, the following language no longer appears on the commercial terms page: … Meta may use any content from such…",
-   "published": "2026-10-17T15:04:36+00:00",
-   "topics": [],
-   "first_seen": "2026-10-17T15:34:23+00:00"
-  },
-  {
-   "id": "d6c06ffc09a8bd33",
-   "title": "web-edit 0.1a2",
-   "link": "https://simonwillison.net/2026/Oct/17/web-edit/",
-   "source": "Simon Willison",
-   "kind": "community",
-   "summary": "Release: web-edit 0.1a2 web-edit ( previously ) is my tiny web app for browsing and editing files in a folder. I mainly built it for editing files on different machines via Tailscale. I added a \"copy to clipboard\" option for both text and image data. I needed this because I was…",
-   "published": "2026-10-17T13:16:49+00:00",
-   "topics": [
-    "Tools"
-   ],
-   "first_seen": "2026-10-18T04:33:08+00:00"
   }
  ]
 }
