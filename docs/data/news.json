@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-16T18:31:46+00:00",
+ "updated": "2026-11-17T02:55:25+00:00",
  "sources": [
   {
    "name": "OpenAI",
@@ -85,15 +85,228 @@
    "name": "Hacker News",
    "url": "https://hnrss.org/newest?q=AI+OR+LLM+OR+GPT+OR+Claude&points=100",
    "kind": "community",
-   "ok": false,
-   "count": 0,
-   "error": "HTTPError: HTTP Error 502: Bad Gateway"
+   "ok": true,
+   "count": 20,
+   "error": null
   }
  ],
  "items": [
   {
+   "id": "3ae3a490dc724670",
+   "title": "llm 0.37.3",
+   "link": "https://simonwillison.net/2026/Nov/16/llm/",
+   "source": "Simon Willison",
+   "kind": "community",
+   "summary": "Release: llm 0.37.3 A bug fix release for LLM , mainly to cover a problem with the most recent Homebrew package of the software. Homebrew now ships the latest SQLite, 3.54.1 , which includes a fix that broke LLM's logging code . Short version: in SQLite 3.54.0 the following SQL…",
+   "published": "2026-11-16T23:57:26+00:00",
+   "topics": [
+    "Models",
+    "Tools"
+   ],
+   "first_seen": "2026-11-17T02:55:25+00:00"
+  },
+  {
+   "id": "aae8c4832e631e5c",
+   "title": "Cybersecurity AI startup Corma reaches $1B valuation in about 3 months",
+   "link": "https://techcrunch.com/2026/11/16/cybersecurity-ai-startup-corma-reaches-1b-valuation-in-about-3-months/",
+   "source": "TechCrunch",
+   "kind": "press",
+   "summary": "Three months since introducing its product, AI cybersecurity startup Corba has raised a $125 million Series A at a $1 billion valuation led by NEA.",
+   "published": "2026-11-16T23:32:32+00:00",
+   "topics": [
+    "Business"
+   ],
+   "first_seen": "2026-11-17T02:55:25+00:00"
+  },
+  {
+   "id": "a59424729711a810",
+   "title": "Tech leaders are convinced that Jensen Huang’s exit was a plot against him",
+   "link": "https://www.theverge.com/tech/1035027/tech-leaders-nvidia-jensen-huang-theories",
+   "source": "The Verge",
+   "kind": "press",
+   "summary": "Jensen Huang's stunning resignation from Nvidia after more than 33 years has sent shockwaves throughout the tech industry. Now prominent figures are calling for Huang's reinstatement, and many are also hopping on board with a theory spreading throughout Silicon Valley: that the…",
+   "published": "2026-11-16T23:20:44+00:00",
+   "topics": [
+    "Hardware"
+   ],
+   "first_seen": "2026-11-17T02:55:25+00:00"
+  },
+  {
+   "id": "d0b83026be95e613",
+   "title": "California sues OpenAI over rogue AI hacking incidents",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/1034815/california-openai-hugging-face-lawsuit",
+   "source": "The Verge",
+   "kind": "press",
+   "summary": "California is suing OpenAI after its AI agents broke out of their testing environment and hacked other companies, including Hugging Face. In a lawsuit filed Monday, Attorney General Rob Bonta accuses OpenAI of violating consumer safety law by knowingly developing a \"dangerous…",
+   "published": "2026-11-16T23:04:02+00:00",
+   "topics": [
+    "Policy",
+    "Tools"
+   ],
+   "first_seen": "2026-11-17T02:55:25+00:00"
+  },
+  {
+   "id": "c9bdcaf265096e22",
+   "title": "Robo-soldier startup backed by Eric Trump misses payroll, may collapse",
+   "link": "https://arstechnica.com/ai/2026/11/robo-soldier-startup-backed-by-eric-trump-misses-payroll-may-collapse/",
+   "source": "Ars Technica",
+   "kind": "press",
+   "summary": "Robotics startup misses payroll a year after CEO used funds for luxury home.",
+   "published": "2026-11-16T22:58:27+00:00",
+   "topics": [
+    "Business"
+   ],
+   "first_seen": "2026-11-17T02:55:25+00:00"
+  },
+  {
+   "id": "6dc341b82897f439",
+   "title": "Sam Altman says he wants everyone ‘to have a lot of RAM’",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/1034787/sam-altman-ram-shortage-semafor",
+   "source": "The Verge",
+   "kind": "press",
+   "summary": "OpenAI CEO Sam Altman is once again addressing his controversial comments on PC RAM purchases. \"I want to be clear, I want people to have a lot of RAM, I think everybody should be able to buy a lot of RAM for their own computer,\" Altman said today. \"I think the home tinkering is…",
+   "published": "2026-11-16T22:47:14+00:00",
+   "topics": [],
+   "first_seen": "2026-11-17T02:55:25+00:00"
+  },
+  {
+   "id": "ac8ed7d9657ddc76",
+   "title": "All the questions Nvidia should answer on Tuesday — but probably won’t",
+   "link": "https://techcrunch.com/2026/11/16/all-the-questions-nvidia-should-answer-on-tuesday-but-probably-wont/",
+   "source": "TechCrunch",
+   "kind": "press",
+   "summary": "Nvidia interim CEO and longtime CFO Colette Kress is about to have one of the biggest days of her career on Tuesday when the company reports its third-quarter results. Given the turmoil Nvidia is in, there are a number of questions that Nvidia should answer.",
+   "published": "2026-11-16T22:03:02+00:00",
+   "topics": [
+    "Hardware"
+   ],
+   "first_seen": "2026-11-17T02:55:25+00:00"
+  },
+  {
+   "id": "0873131c018e5da5",
+   "title": "Big Nuclear isn’t worried about the Democrats stopping data centers",
+   "link": "https://www.theverge.com/science/1034694/nuclear-energy-constellation-earnings-data-centers-democrats",
+   "source": "The Verge",
+   "kind": "press",
+   "summary": "Constellation Energy - America's largest operator of nuclear power plants - does not share Wall Street's concerns that the Democrats will slow down data center development. On the company's third-quarter earnings call last week, CEO Joe Dominguez was, for lack of a better word…",
+   "published": "2026-11-16T20:32:51+00:00",
+   "topics": [
+    "Hardware"
+   ],
+   "first_seen": "2026-11-17T02:55:25+00:00"
+  },
+  {
+   "id": "94e979efd7382a51",
+   "title": "US data centers now burn more electricity than a midsized country",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/1034668/data-centers-electricity-climate-pollution-study-harvard",
+   "source": "The Verge",
+   "kind": "press",
+   "summary": "Fossil fuels are still the biggest source of electricity for hyperscale data centers in the US, a new paper published in the journal Nature Sustainability shows. They likely burn through more electricity collectively than many countries do, resulting in a serious amount of…",
+   "published": "2026-11-16T20:27:58+00:00",
+   "topics": [
+    "Research",
+    "Hardware"
+   ],
+   "first_seen": "2026-11-17T02:55:25+00:00"
+  },
+  {
+   "id": "b16b5f3f20484c92",
+   "title": "California state AG sues OpenAI over rogue agent incidents",
+   "link": "https://techcrunch.com/2026/11/16/california-state-ag-sues-openai-over-rogue-agent-incidents/",
+   "source": "TechCrunch",
+   "kind": "press",
+   "summary": "The California lawsuit represents one of the first attempts to hold an AI lab legally accountable for a rogue agent incident.",
+   "published": "2026-11-16T20:07:13+00:00",
+   "topics": [
+    "Policy",
+    "Tools"
+   ],
+   "first_seen": "2026-11-17T02:55:25+00:00"
+  },
+  {
+   "id": "cd9a297fa8a4dcbf",
+   "title": "Apple is testing daily usage limits for more complex Siri AI interactions",
+   "link": "https://www.theverge.com/tech/1034581/apple-intelligence-siri-ai-daily-usage-limits-icloud-subscription",
+   "source": "The Verge",
+   "kind": "press",
+   "summary": "Apple released betas of iOS 27.3, iPadOS 27.3, and macOS 27.3 today, and the company is using the update to test new per device daily usage limits for some Siri AI and Apple Intelligence features, according to MacRumors. Basic Siri commands and requests will remain free and…",
+   "published": "2026-11-16T19:25:42+00:00",
+   "topics": [
+    "Tools"
+   ],
+   "first_seen": "2026-11-17T02:55:25+00:00"
+  },
+  {
+   "id": "5f72fbdc79b9385d",
+   "title": "OpenAI wants to stop deepfakes from overwhelming child abuse tiplines",
+   "link": "https://www.theverge.com/policy/1034527/openai-csam-classifier",
+   "source": "The Verge",
+   "kind": "press",
+   "summary": "OpenAI is announcing a tool that it says will help child sexual abuse investigators cut through the noise to find harmful material they can act on quickly. At a Monday press briefing in Washington, DC, OpenAI announced a classifier it says can better detect abusive imagery of…",
+   "published": "2026-11-16T19:23:45+00:00",
+   "topics": [
+    "Business"
+   ],
+   "first_seen": "2026-11-17T02:55:25+00:00"
+  },
+  {
+   "id": "d1bee759e86a69db",
+   "title": "Trump says ex-Nvidia CEO Jensen Huang’s affair with an alleged Chinese spy did not threaten national security",
+   "link": "https://techcrunch.com/2026/11/16/trump-says-ex-nvidia-ceo-jensen-huangs-affair-with-an-alleged-chinese-spy-did-not-threaten-national-security/",
+   "source": "TechCrunch",
+   "kind": "press",
+   "summary": "Trump contradicted his own government's intelligence officials, who reportedly concluded that Alice Huang is a Chinese spy.",
+   "published": "2026-11-16T19:12:02+00:00",
+   "topics": [
+    "Policy",
+    "Hardware"
+   ],
+   "first_seen": "2026-11-17T02:55:25+00:00"
+  },
+  {
+   "id": "df8e5203f1144bae",
+   "title": "US moves to cut China’s remote access to AI chips",
+   "link": "https://arstechnica.com/tech-policy/2026/11/us-moves-to-cut-chinas-remote-access-to-ai-chips/",
+   "source": "Ars Technica",
+   "kind": "press",
+   "summary": "Trump bets China won’t mind US blocking remote access to AI chips.",
+   "published": "2026-11-16T19:10:09+00:00",
+   "topics": [
+    "Hardware"
+   ],
+   "first_seen": "2026-11-17T02:55:25+00:00"
+  },
+  {
+   "id": "bd7cc537cd570a59",
+   "title": "Nvidia’s board is reportedly ‘not considering’ hiring Jensen Huang back",
+   "link": "https://www.theverge.com/tech/1034501/nvidia-board-jensen-huang-not-bringing-back",
+   "source": "The Verge",
+   "kind": "press",
+   "summary": "Nvidia's board of directors \"isn't considering\" having Jensen Huang return as CEO, according to a report from CNBC. A source tells the outlet the board \"is focused on an investigation into Huang, and is not in discussions to bring him back.\" Since Huang's resignation last week…",
+   "published": "2026-11-16T18:43:35+00:00",
+   "topics": [
+    "Business",
+    "Hardware"
+   ],
+   "first_seen": "2026-11-17T02:55:25+00:00"
+  },
+  {
+   "id": "9c493a96e3fa6482",
+   "title": "The open-source movement wants Jensen Huang back",
+   "link": "https://www.technologyreview.com/2026/11/16/1148624/the-open-source-movement-wants-jensen-huang-back/",
+   "source": "MIT Technology Review",
+   "kind": "press",
+   "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. On Friday, a petition to reinstate Jensen Huang as CEO of Nvidia began circulating on social media, and by Monday it listed some notable…",
+   "published": "2026-11-16T18:38:47+00:00",
+   "topics": [
+    "Tools",
+    "Hardware"
+   ],
+   "first_seen": "2026-11-17T02:55:25+00:00"
+  },
+  {
    "id": "0b5fe7dce536bb45",
-   "title": "Sam Altman on Nvidia without Jensen Huang: the industry will be ‘fine’",
+   "title": "Sam Altman on Nvidia without Jensen Huang: The industry will be ‘fine’",
    "link": "https://techcrunch.com/2026/11/16/sam-altman-on-nvidia-without-jensen-huang-the-industry-will-be-fine/",
    "source": "TechCrunch",
    "kind": "press",
@@ -106,11 +319,11 @@
   },
   {
    "id": "690a9aa8938dfa2f",
-   "title": "FBI says Artex AI open-source hacking tool used to breach networks in ‘under three hours’",
+   "title": "FBI says Artex AI open source hacking tool used to breach networks in ‘under three hours’",
    "link": "https://techcrunch.com/2026/11/16/fbi-says-artex-ai-open-source-hacking-tool-used-to-breach-networks-in-under-three-hours/",
    "source": "TechCrunch",
    "kind": "press",
-   "summary": "The FBI says that the open-source hacking tool was used in cyberattacks targeting a U.S. IT giant and the South Korean financial industry.",
+   "summary": "The FBI says that the open source hacking tool was used in cyberattacks targeting a U.S. IT giant and the South Korean financial industry.",
    "published": "2026-11-16T17:36:43+00:00",
    "topics": [
     "Tools"
@@ -145,7 +358,7 @@
   },
   {
    "id": "6d05b4dbd591c899",
-   "title": "OpenAI will embed Apollo researchers to investigate AI subversion",
+   "title": "OpenAI will embed safety researchers to investigate AI subversion",
    "link": "https://techcrunch.com/2026/11/16/openai-will-embed-apollo-researchers-to-investigate-ai-subversion/",
    "source": "TechCrunch",
    "kind": "press",
@@ -154,6 +367,7 @@
    "topics": [
     "Models",
     "Research",
+    "Policy",
     "Business"
    ],
    "first_seen": "2026-11-16T18:31:46+00:00"
@@ -190,7 +404,7 @@
    "link": "https://techcrunch.com/2026/11/16/openai-releases-a-new-image-classifier-and-chatgpt-warnings-to-combat-csam/",
    "source": "TechCrunch",
    "kind": "press",
-   "summary": "ChatGPT will ban an account trying to access CSAM content for 24 hours as a warning",
+   "summary": "ChatGPT will ban an account trying to access CSAM content for 24 hours as a warning.",
    "published": "2026-11-16T17:00:00+00:00",
    "topics": [
     "Tools"
@@ -446,7 +660,7 @@
    "link": "https://techcrunch.com/2026/11/15/apple-launches-new-app-to-study-how-people-use-ai-for-health/",
    "source": "TechCrunch",
    "kind": "press",
-   "summary": "Apple's new app for a study will answer everyday medical questions",
+   "summary": "Apple's new app for a study will answer everyday medical questions.",
    "published": "2026-11-16T01:30:00+00:00",
    "topics": [
     "Research",
@@ -482,6 +696,19 @@
    "first_seen": "2026-11-16T18:31:46+00:00"
   },
   {
+   "id": "3899b6e8ee3cc1f1",
+   "title": "At Holiday Extras, dots get to work before anyone asks",
+   "link": "https://openai.com/business/customer-stories/holiday-extras-dots",
+   "source": "OpenAI",
+   "kind": "lab",
+   "summary": "Dots deliver launch reports unprompted, flag issues people might miss, and talk through upcoming meetings on the commute to work.",
+   "published": "2026-11-16T00:00:00+00:00",
+   "topics": [
+    "Tools"
+   ],
+   "first_seen": "2026-11-17T02:55:25+00:00"
+  },
+  {
    "id": "128a04bf78b6cc3a",
    "title": "datasette-maplibre 0.1a0",
    "link": "https://simonwillison.net/2026/Nov/15/datasette-maplibre/",
@@ -501,7 +728,7 @@
    "link": "https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market/",
    "source": "TechCrunch",
    "kind": "press",
-   "summary": "Bharat Semi says it has secured design wins for its AI-enabled sensor technology with companies including General Atomics.",
+   "summary": "Bharat Semi says it has secured design wins for its AI-enabled sensor technology with companies, including General Atomics.",
    "published": "2026-11-15T23:30:00+00:00",
    "topics": [
     "Business",
@@ -577,7 +804,7 @@
   },
   {
    "id": "d9bb72c7b4b43418",
-   "title": "SNL gathers all the tech tycoons for a lesson in dating and spycraft",
+   "title": "‘SNL’ gathers all the tech tycoons for a lesson in dating and spycraft",
    "link": "https://techcrunch.com/2026/11/15/snl-gathers-all-the-tech-tycoons-for-a-lesson-in-dating-and-spycraft/",
    "source": "TechCrunch",
    "kind": "press",
@@ -606,7 +833,7 @@
    "link": "https://jakub.jankiewicz.org/blog/ai-code-open-source/",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://jakub.jankiewicz.org/blog/ai-code-open-source/ Comments URL: https://news.ycombinator.com/item?id=50507303 Points: 1130 # Comments: 609",
+   "summary": "Article URL: https://jakub.jankiewicz.org/blog/ai-code-open-source/ Comments URL: https://news.ycombinator.com/item?id=50507303 Points: 1266 # Comments: 655",
    "published": "2026-11-15T14:46:58+00:00",
    "topics": [
     "Tools"
@@ -745,7 +972,7 @@
    "link": "https://www.netmeister.org/blog/claude-delusion.html",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://www.netmeister.org/blog/claude-delusion.html Comments URL: https://news.ycombinator.com/item?id=50496921 Points: 152 # Comments: 199",
+   "summary": "Article URL: https://www.netmeister.org/blog/claude-delusion.html Comments URL: https://news.ycombinator.com/item?id=50496921 Points: 152 # Comments: 202",
    "published": "2026-11-14T13:36:17+00:00",
    "topics": [
     "Models"
@@ -758,7 +985,7 @@
    "link": "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus Comments URL: https://news.ycombinator.com/item?id=50493251 Points: 1102 # Comments: 649",
+   "summary": "Article URL: https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus Comments URL: https://news.ycombinator.com/item?id=50493251 Points: 1112 # Comments: 649",
    "published": "2026-11-14T02:52:59+00:00",
    "topics": [
     "Business",
@@ -772,7 +999,7 @@
    "link": "https://claude.com/resources/articles/projects-redesigned",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://claude.com/resources/articles/projects-redesigned Comments URL: https://news.ycombinator.com/item?id=50492141 Points: 100 # Comments: 95",
+   "summary": "Article URL: https://claude.com/resources/articles/projects-redesigned Comments URL: https://news.ycombinator.com/item?id=50492141 Points: 100 # Comments: 96",
    "published": "2026-11-14T00:28:11+00:00",
    "topics": [
     "Models"
@@ -824,7 +1051,7 @@
    "link": "https://claude.com/resources/articles/claude-meetings",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://claude.com/resources/articles/claude-meetings Comments URL: https://news.ycombinator.com/item?id=50491097 Points: 112 # Comments: 88",
+   "summary": "Article URL: https://claude.com/resources/articles/claude-meetings Comments URL: https://news.ycombinator.com/item?id=50491097 Points: 113 # Comments: 89",
    "published": "2026-11-13T22:39:15+00:00",
    "topics": [
     "Models"
@@ -876,7 +1103,7 @@
    "link": "https://www.slopmanifesto.com/",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://www.slopmanifesto.com/ Comments URL: https://news.ycombinator.com/item?id=50488769 Points: 223 # Comments: 133",
+   "summary": "Article URL: https://www.slopmanifesto.com/ Comments URL: https://news.ycombinator.com/item?id=50488769 Points: 228 # Comments: 133",
    "published": "2026-11-13T19:51:56+00:00",
    "topics": [],
    "first_seen": "2026-11-13T23:32:59+00:00"
@@ -954,7 +1181,7 @@
    "link": "https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths Comments URL: https://news.ycombinator.com/item?id=50486748 Points: 438 # Comments: 110",
+   "summary": "Article URL: https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths Comments URL: https://news.ycombinator.com/item?id=50486748 Points: 442 # Comments: 111",
    "published": "2026-11-13T17:30:10+00:00",
    "topics": [],
    "first_seen": "2026-11-13T23:32:59+00:00"
@@ -1013,7 +1240,7 @@
    "link": "https://text.npr.org/nx-s1-6029408",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://text.npr.org/nx-s1-6029408 Comments URL: https://news.ycombinator.com/item?id=50484960 Points: 196 # Comments: 196",
+   "summary": "Article URL: https://text.npr.org/nx-s1-6029408 Comments URL: https://news.ycombinator.com/item?id=50484960 Points: 197 # Comments: 197",
    "published": "2026-11-13T15:29:10+00:00",
    "topics": [],
    "first_seen": "2026-11-13T23:32:59+00:00"
@@ -1024,7 +1251,7 @@
    "link": "https://www.youtube.com/watch?v=IRK8h67ol7Q",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://www.youtube.com/watch?v=IRK8h67ol7Q Comments URL: https://news.ycombinator.com/item?id=50484658 Points: 483 # Comments: 727",
+   "summary": "Article URL: https://www.youtube.com/watch?v=IRK8h67ol7Q Comments URL: https://news.ycombinator.com/item?id=50484658 Points: 489 # Comments: 731",
    "published": "2026-11-13T15:08:44+00:00",
    "topics": [],
    "first_seen": "2026-11-13T23:32:59+00:00"
@@ -1099,7 +1326,7 @@
    "link": "https://www.theatlantic.com/books/2026/11/ai-literary-scams-amazon/689391/",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://www.theatlantic.com/books/2026/11/ai-literary-scams-amazon/689391/ Comments URL: https://news.ycombinator.com/item?id=50481870 Points: 370 # Comments: 234",
+   "summary": "Article URL: https://www.theatlantic.com/books/2026/11/ai-literary-scams-amazon/689391/ Comments URL: https://news.ycombinator.com/item?id=50481870 Points: 371 # Comments: 239",
    "published": "2026-11-13T11:13:46+00:00",
    "topics": [],
    "first_seen": "2026-11-13T17:43:56+00:00"
@@ -1123,7 +1350,7 @@
    "link": "https://status.claude.com/incidents/nn11wk485zfn",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://status.claude.com/incidents/nn11wk485zfn Comments URL: https://news.ycombinator.com/item?id=50481187 Points: 493 # Comments: 390",
+   "summary": "Article URL: https://status.claude.com/incidents/nn11wk485zfn Comments URL: https://news.ycombinator.com/item?id=50481187 Points: 493 # Comments: 392",
    "published": "2026-11-13T10:18:13+00:00",
    "topics": [
     "Models"
@@ -1188,7 +1415,7 @@
    "link": "https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer Comments URL: https://news.ycombinator.com/item?id=50475713 Points: 356 # Comments: 105",
+   "summary": "Article URL: https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer Comments URL: https://news.ycombinator.com/item?id=50475713 Points: 357 # Comments: 105",
    "published": "2026-11-12T23:06:17+00:00",
    "topics": [],
    "first_seen": "2026-11-13T17:43:56+00:00"
@@ -1250,7 +1477,7 @@
    "link": "https://unemploymentlabs.com/checkpoint-forensics",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "https://twitter.com/willdepue/status/2120992457630326841 Comments URL: https://news.ycombinator.com/item?id=50474883 Points: 438 # Comments: 185",
+   "summary": "https://twitter.com/willdepue/status/2120992457630326841 Comments URL: https://news.ycombinator.com/item?id=50474883 Points: 448 # Comments: 193",
    "published": "2026-11-12T21:56:11+00:00",
    "topics": [
     "Models",
@@ -1785,7 +2012,7 @@
    "link": "https://www.youtube.com/watch?v=WPj3aQ-xxpI",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://www.youtube.com/watch?v=WPj3aQ-xxpI Comments URL: https://news.ycombinator.com/item?id=50463399 Points: 400 # Comments: 196",
+   "summary": "Article URL: https://www.youtube.com/watch?v=WPj3aQ-xxpI Comments URL: https://news.ycombinator.com/item?id=50463399 Points: 450 # Comments: 236",
    "published": "2026-11-12T05:29:24+00:00",
    "topics": [
     "Models"
@@ -1917,7 +2144,7 @@
    "link": "https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/ Comments URL: https://news.ycombinator.com/item?id=50458900 Points: 681 # Comments: 709",
+   "summary": "Article URL: https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/ Comments URL: https://news.ycombinator.com/item?id=50458900 Points: 681 # Comments: 710",
    "published": "2026-11-11T21:24:35+00:00",
    "topics": [
     "Tools"
@@ -11919,52 +12146,6 @@
     "Tools"
    ],
    "first_seen": "2026-10-18T18:38:28+00:00"
-  },
-  {
-   "id": "568162b981af2493",
-   "title": "Meta removes language that raised scraping and AI training concerns",
-   "link": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/",
-   "source": "TechCrunch",
-   "kind": "press",
-   "summary": "A Meta spokesperson insisted that the updated terms did not reflect a change in the way Meta crawls the web.",
-   "published": "2026-10-17T21:31:32+00:00",
-   "topics": [],
-   "first_seen": "2026-10-17T22:18:07+00:00"
-  },
-  {
-   "id": "69ead926e6899b5e",
-   "title": "Inline rendering with document​.currentScript",
-   "link": "https://simonwillison.net/2026/Oct/17/document-currentscript/",
-   "source": "Simon Willison",
-   "kind": "community",
-   "summary": "Inline rendering with document​.currentScript Lean Rada describes a neat trick that takes advantage of the document.currentScript property. You can use that to drop in a tiny inline <script> element that replaces itself when the page loads: The year is <script>…",
-   "published": "2026-10-17T21:11:12+00:00",
-   "topics": [],
-   "first_seen": "2026-10-18T04:33:08+00:00"
-  },
-  {
-   "id": "b769f5e984a396b0",
-   "title": "Anthropic says its workforce has become less junior and is spending more time in meetings",
-   "link": "https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings/",
-   "source": "TechCrunch",
-   "kind": "press",
-   "summary": "The composition of Anthropic’s workforce and the type of work getting done have changed significantly in the past year.",
-   "published": "2026-10-17T20:21:19+00:00",
-   "topics": [],
-   "first_seen": "2026-10-17T22:18:07+00:00"
-  },
-  {
-   "id": "51c1c9a5e48bf763",
-   "title": "Replit makes OpenAI its default over Anthropic, CEO says",
-   "link": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/",
-   "source": "TechCrunch",
-   "kind": "press",
-   "summary": "Masad said the decision was made for a number of different reasons, including cost. Replit announced a partnership with OpenAI in August, but there was never any indication that it was no longer partnering with Anthropic.",
-   "published": "2026-10-17T18:48:08+00:00",
-   "topics": [
-    "Business"
-   ],
-   "first_seen": "2026-10-17T22:18:07+00:00"
   }
  ]
 }
