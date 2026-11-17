@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-17T13:25:44+00:00",
+ "updated": "2026-11-17T22:23:25+00:00",
  "sources": [
   {
    "name": "OpenAI",
@@ -13,9 +13,9 @@
    "name": "Google DeepMind",
    "url": "https://deepmind.google/blog/rss.xml",
    "kind": "lab",
-   "ok": true,
-   "count": 40,
-   "error": null
+   "ok": false,
+   "count": 0,
+   "error": "ParseError: not well-formed (invalid token): line 1, column 0"
   },
   {
    "name": "Google AI",
@@ -92,6 +92,401 @@
  ],
  "items": [
   {
+   "id": "7465bbc4c963251d",
+   "title": "Nvidia’s Q3 earnings hit the mark, without mentioning the whole Jensen Huang thing",
+   "link": "https://www.theverge.com/tech/1036032/nvidia-q3-2027-jensen-huang",
+   "source": "The Verge",
+   "kind": "press",
+   "summary": "Interim Nvidia CEO Colette Kress announced the company's Q3 earnings on Tuesday, without initially mentioning former CEO Jensen Huang or the details of his departure, or possible attempt at a return. On the earnings call accompanying the release, board chair Harvey Jones kicked…",
+   "published": "2026-11-17T22:19:25+00:00",
+   "topics": [
+    "Tools",
+    "Hardware"
+   ],
+   "first_seen": "2026-11-17T22:23:25+00:00"
+  },
+  {
+   "id": "6e2564c29c662909",
+   "title": "SEC reportedly investigating Nvidia amid Huang exit",
+   "link": "https://techcrunch.com/2026/11/17/sec-reportedly-investigating-nvidia-amid-huang-exit/",
+   "source": "TechCrunch",
+   "kind": "press",
+   "summary": "The SEC is opening a probe into Nvidia following the departure of CEO Jensen Huang, who admitted to an affair with an alleged Chinese spy, reports The Wall Street Journal.",
+   "published": "2026-11-17T21:48:07+00:00",
+   "topics": [
+    "Business",
+    "Hardware"
+   ],
+   "first_seen": "2026-11-17T22:23:25+00:00"
+  },
+  {
+   "id": "320959dca20ca092",
+   "title": "Google joins the tech outage trend by announcing it’s not having one",
+   "link": "https://techcrunch.com/2026/11/17/google-joins-the-tech-outage-trend-by-announcing-its-not-having-one/",
+   "source": "TechCrunch",
+   "kind": "press",
+   "summary": "With tech outages seemingly everywhere, Google took the unusual step of announcing that Gmail is working just fine, actually.",
+   "published": "2026-11-17T21:34:50+00:00",
+   "topics": [],
+   "first_seen": "2026-11-17T22:23:25+00:00"
+  },
+  {
+   "id": "859fe7425ca0830b",
+   "title": "Not even Sam Altman is safe from AI deepfakes on Instagram",
+   "link": "https://www.theverge.com/news/1035957/meta-alexandr-wang-sam-altman-instagram-ai-deepfake",
+   "source": "The Verge",
+   "kind": "press",
+   "summary": "Instagram is filled with people posting deepfaked content - including, as of late, from one of Meta's most prominent executives. Earlier in November, Alexandr Wang, Meta's chief AI officer, shared a short clip to promote Muse, the company's consumer AI agent. In the AI-generated…",
+   "published": "2026-11-17T21:00:55+00:00",
+   "topics": [
+    "Tools"
+   ],
+   "first_seen": "2026-11-17T22:23:25+00:00"
+  },
+  {
+   "id": "d2f90fb918d969fe",
+   "title": "“Trump was in bed with Jensen”: Critics balk at Huang’s wish to return to Nvidia",
+   "link": "https://arstechnica.com/tech-policy/2026/11/trump-was-in-bed-with-jensen-critics-balk-at-huangs-wish-to-return-to-nvidia/",
+   "source": "Ars Technica",
+   "kind": "press",
+   "summary": "“I love our country”: Jensen Huang’s apology comes amid escalating Nvidia probes.",
+   "published": "2026-11-17T20:32:55+00:00",
+   "topics": [
+    "Hardware"
+   ],
+   "first_seen": "2026-11-17T22:23:25+00:00"
+  },
+  {
+   "id": "d9a047affb028160",
+   "title": "Model ML raises $250M to automate investment banking grunt work",
+   "link": "https://techcrunch.com/2026/11/17/model-ml-raises-250m-to-automate-investment-banking-grunt-work/",
+   "source": "TechCrunch",
+   "kind": "press",
+   "summary": "The startup says its agents understand the full context of deals that bankers and consultants are working on and can automatically update financial models and presentations when new developments affect their analysis.",
+   "published": "2026-11-17T19:32:11+00:00",
+   "topics": [
+    "Models",
+    "Business",
+    "Tools"
+   ],
+   "first_seen": "2026-11-17T22:23:25+00:00"
+  },
+  {
+   "id": "0fc744e43d6095d8",
+   "title": "Google expands access to Gemini Tasks, which can help with calls, purchases",
+   "link": "https://techcrunch.com/2026/11/17/google-expands-access-to-gemini-tasks-which-can-help-with-calls-purchases/",
+   "source": "TechCrunch",
+   "kind": "press",
+   "summary": "Gemini's Task mode can help users coordinate calls, log into websites, and even make purchases on the user's behalf.",
+   "published": "2026-11-17T19:02:20+00:00",
+   "topics": [
+    "Models"
+   ],
+   "first_seen": "2026-11-17T22:23:25+00:00"
+  },
+  {
+   "id": "72284a47c9d975a2",
+   "title": "Google’s Spark AI agent becomes ‘Tasks’ — and now it’s free",
+   "link": "https://www.theverge.com/tech/1035756/google-spark-ai-tasks-free",
+   "source": "The Verge",
+   "kind": "press",
+   "summary": "Google is rebranding its Spark AI agent as \"Tasks\" and making it free to use. The feature, which is powered by Google's new Gemini 4 Hydrogen AI model, can do things like create meal plans, manage your calendar, and dig through your emails to find recurring expenses you might…",
+   "published": "2026-11-17T18:58:54+00:00",
+   "topics": [
+    "Models",
+    "Tools"
+   ],
+   "first_seen": "2026-11-17T22:23:25+00:00"
+  },
+  {
+   "id": "560e703561a25cd9",
+   "title": "Google to keep Gemini chats for 2 months, up from 72 hours, even with history off",
+   "link": "https://techcrunch.com/2026/11/17/google-to-keep-gemini-chats-for-two-months-up-from-72-hours-even-with-history-off/",
+   "source": "TechCrunch",
+   "kind": "press",
+   "summary": "Google's Gemini update extending chat retention will roll out globally over the coming weeks.",
+   "published": "2026-11-17T18:48:23+00:00",
+   "topics": [
+    "Models"
+   ],
+   "first_seen": "2026-11-17T22:23:25+00:00"
+  },
+  {
+   "id": "f4982bcb3ccbe841",
+   "title": "As decision model use skyrockets, is customization the next frontier?",
+   "link": "https://techcrunch.com/2026/11/17/as-decision-model-use-skyrockets-is-customization-is-the-next-frontier/",
+   "source": "TechCrunch",
+   "kind": "press",
+   "summary": "Sqwish Labs has a new wrinkle on the decision model: Train it with your own data to max its capabilities.",
+   "published": "2026-11-17T18:10:00+00:00",
+   "topics": [
+    "Models"
+   ],
+   "first_seen": "2026-11-17T22:23:25+00:00"
+  },
+  {
+   "id": "b145ab91c01065c7",
+   "title": "Pedestal AI raises $4.7 million to agentify the supply chain",
+   "link": "https://techcrunch.com/2026/11/17/pedestal-ai-raises-4-7-million-to-agentify-the-supply-chain/",
+   "source": "TechCrunch",
+   "kind": "press",
+   "summary": "The company uses agentic AI to make supply chains faster and more reliable.",
+   "published": "2026-11-17T18:04:16+00:00",
+   "topics": [
+    "Business"
+   ],
+   "first_seen": "2026-11-17T22:23:25+00:00"
+  },
+  {
+   "id": "549a77347d5e1e5f",
+   "title": "Introducing GPT-6.2 Astra and Sol",
+   "link": "https://openai.com/index/introducing-gpt-6-2-astra-sol",
+   "source": "OpenAI",
+   "kind": "lab",
+   "summary": "Introducing GPT‑6.2 Astra and Sol, with better professional outputs, coding, computer use, and efficiency at lower cost across ChatGPT Work, Codex, and the API.",
+   "published": "2026-11-17T17:45:00+00:00",
+   "topics": [
+    "Models",
+    "Tools"
+   ],
+   "first_seen": "2026-11-17T22:23:25+00:00"
+  },
+  {
+   "id": "42c4fd05f3f446d0",
+   "title": "Proton’s Lumo, a privacy-focused alternative to ChatGPT and Claude, arrives on desktop",
+   "link": "https://techcrunch.com/2026/11/17/protons-lumo-a-privacy-focused-alternative-to-chatgpt-and-claude-arrives-on-desktop/",
+   "source": "TechCrunch",
+   "kind": "press",
+   "summary": "Proton's new Lumo Desktop app for Windows, Mac, and Linux lets users automate tasks across files and connected apps, with granular controls over what its AI can access.",
+   "published": "2026-11-17T17:32:25+00:00",
+   "topics": [
+    "Models",
+    "Tools"
+   ],
+   "first_seen": "2026-11-17T22:23:25+00:00"
+  },
+  {
+   "id": "447a475adcedf3c1",
+   "title": "AI models can be tricked into identifying civilians as military targets by telling them it’s a game",
+   "link": "https://techcrunch.com/2026/11/17/ai-models-can-be-tricked-into-identifying-civilians-as-military-targets-by-telling-them-its-a-game/",
+   "source": "TechCrunch",
+   "kind": "press",
+   "summary": "Vals, a San Francisco-based AI evaluation startup, tested whether leading AI models could be manipulated into participating in autonomous warfare. They usually compiled.",
+   "published": "2026-11-17T17:20:41+00:00",
+   "topics": [
+    "Models",
+    "Business"
+   ],
+   "first_seen": "2026-11-17T22:23:25+00:00"
+  },
+  {
+   "id": "e0185595ee6eb2db",
+   "title": "Jensen Huang says he’s willing to return as Nvidia CEO",
+   "link": "https://www.theverge.com/tech/1035420/jensen-huang-nvidia-return-as-ceo-statement",
+   "source": "The Verge",
+   "kind": "press",
+   "summary": "Jensen Huang, who resigned as Nvidia's CEO last week, would be willing to return as CEO if the company's board of directors wanted it, he said in a statement reported on by The Wall Street Journal. \"Since my departure, I've seen an outpouring of calls from Nvidia's employees…",
+   "published": "2026-11-17T17:04:40+00:00",
+   "topics": [
+    "Hardware"
+   ],
+   "first_seen": "2026-11-17T22:23:25+00:00"
+  },
+  {
+   "id": "357d085ae06f4ca2",
+   "title": "Put Gemini to work for you",
+   "link": "https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features/",
+   "source": "Google AI",
+   "kind": "lab",
+   "summary": "",
+   "published": "2026-11-17T17:00:00+00:00",
+   "topics": [
+    "Models"
+   ],
+   "first_seen": "2026-11-17T22:23:25+00:00"
+  },
+  {
+   "id": "a513c3b2bdeaedaa",
+   "title": "Google makes it easier to use Gemini without training AI on your data",
+   "link": "https://arstechnica.com/ai/2026/11/google-will-let-you-opt-out-of-ai-training-in-gemini-without-losing-your-history/",
+   "source": "Ars Technica",
+   "kind": "press",
+   "summary": "AI training and chat history will now have separate toggles in the Gemini activity settings.",
+   "published": "2026-11-17T16:50:10+00:00",
+   "topics": [
+    "Models"
+   ],
+   "first_seen": "2026-11-17T22:23:25+00:00"
+  },
+  {
+   "id": "5ab3ec093f2bd1cf",
+   "title": "Running the full server-side Datasette Python app in the browser with service workers and Pyodide",
+   "link": "https://simonwillison.net/2026/Nov/17/datasette-lite/",
+   "source": "Simon Willison",
+   "kind": "community",
+   "summary": "Datasette Lite is my port of the Datasette Python application to run directly in the browser using WebAssembly and Pyodide . I've released a complete rewrite of Datasette Lite using service workers, and it's now almost indistinguishable from the real server-side application. You…",
+   "published": "2026-11-17T16:48:33+00:00",
+   "topics": [
+    "Research",
+    "Tools"
+   ],
+   "first_seen": "2026-11-17T22:23:25+00:00"
+  },
+  {
+   "id": "5fbc7d8ce285cc02",
+   "title": "Jensen Huang says he would be ‘honored’ if allowed to return as Nvidia CEO",
+   "link": "https://techcrunch.com/2026/11/17/jensen-huang-says-he-would-be-honored-if-allowed-to-return-as-nvidia-ceo/",
+   "source": "TechCrunch",
+   "kind": "press",
+   "summary": "In the first public statement since his resignation, Nvidia founder Jensen Huang signaled his willingness to return as CEO.",
+   "published": "2026-11-17T16:44:15+00:00",
+   "topics": [
+    "Hardware"
+   ],
+   "first_seen": "2026-11-17T22:23:25+00:00"
+  },
+  {
+   "id": "f70b9be328657a7e",
+   "title": "Daydream’s new AI agent acts as your personal stylist — and can shop for you, too",
+   "link": "https://techcrunch.com/2026/11/17/daydreams-new-ai-agent-acts-as-your-personal-stylist-and-can-shop-for-you-too/",
+   "source": "TechCrunch",
+   "kind": "press",
+   "summary": "Daydream's new AI shopping agent can remember your style, virtually try on clothes, plan outfits around your wardrobe, track sales, and complete purchases.",
+   "published": "2026-11-17T16:32:55+00:00",
+   "topics": [
+    "Tools"
+   ],
+   "first_seen": "2026-11-17T22:23:25+00:00"
+  },
+  {
+   "id": "cb8293f821d94f0d",
+   "title": "The DOJ says it’s investigating Megaspeed",
+   "link": "https://www.theverge.com/policy/1035410/doj-megaspeed-nvidia-investigation-update",
+   "source": "The Verge",
+   "kind": "press",
+   "summary": "The Justice and Commerce Departments said that they are investigating Megaspeed, the Singapore-based data center company intertwined with the resignation of Nvidia CEO Jensen Huang, after reporting suggested an investigation had been halted last year. \"While we don't typically…",
+   "published": "2026-11-17T16:19:03+00:00",
+   "topics": [
+    "Business",
+    "Hardware"
+   ],
+   "first_seen": "2026-11-17T22:23:25+00:00"
+  },
+  {
+   "id": "75c7ee7437ec7c0d",
+   "title": "Ars Live: What do drone strikes on data centers mean for the future? Talk at 1 pm EST today",
+   "link": "https://arstechnica.com/gadgets/2026/11/ars-live-can-the-cloud-survive-drone-strikes-on-data-centers/",
+   "source": "Ars Technica",
+   "kind": "press",
+   "summary": "Ars Live discussion is happening today, November 17, at 1 pm Eastern Time.",
+   "published": "2026-11-17T15:28:59+00:00",
+   "topics": [
+    "Hardware"
+   ],
+   "first_seen": "2026-11-13T01:04:25+00:00"
+  },
+  {
+   "id": "27f55ceac5142fd1",
+   "title": "Voyage Labs raises $12 million for a specialized AI travel assistant",
+   "link": "https://techcrunch.com/2026/11/17/voyage-labs-raises-12-million-for-a-specialized-ai-travel-assistant/",
+   "source": "TechCrunch",
+   "kind": "press",
+   "summary": "Voyage Labs’ flagship product is called Atlas, meant to work as a personal assistant for your trip-planning, available today in private beta.",
+   "published": "2026-11-17T15:00:00+00:00",
+   "topics": [
+    "Business"
+   ],
+   "first_seen": "2026-11-17T22:23:25+00:00"
+  },
+  {
+   "id": "3ddd561d3db586e7",
+   "title": "Isomorphic Labs raises $5B as it looks to take drug candidates to clinical trials",
+   "link": "https://techcrunch.com/2026/11/17/isomorphic-labs-raises-5b-as-it-looks-to-take-drug-candidates-to-clinical-trials/",
+   "source": "TechCrunch",
+   "kind": "press",
+   "summary": "Isomorphic Labs, the AI drug-discovery platform that was spun out of Google’s DeepMind in 2021, has raised $5 billion in a Series C funding round.",
+   "published": "2026-11-17T14:50:58+00:00",
+   "topics": [
+    "Business"
+   ],
+   "first_seen": "2026-11-17T22:23:25+00:00"
+  },
+  {
+   "id": "6dc341b82897f439",
+   "title": "Sam Altman says he wants everyone ‘to have a lot of RAM’",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/1034787/sam-altman-ram-shortage-semafor",
+   "source": "The Verge",
+   "kind": "press",
+   "summary": "OpenAI CEO Sam Altman is once again addressing his controversial comments on PC RAM purchases. \"I want to be clear, I want people to have a lot of RAM, I think everybody should be able to buy a lot of RAM for their own computer,\" Altman said today. \"I think the home tinkering is…",
+   "published": "2026-11-17T14:45:26+00:00",
+   "topics": [],
+   "first_seen": "2026-11-17T02:55:25+00:00"
+  },
+  {
+   "id": "86f07be892b022f0",
+   "title": "Research Reports",
+   "link": "https://www.technologyreview.com/2026/11/17/1148203/research-reports/",
+   "source": "MIT Technology Review",
+   "kind": "press",
+   "summary": "To access a report, click on the corresponding image below.",
+   "published": "2026-11-17T14:39:46+00:00",
+   "topics": [
+    "Research"
+   ],
+   "first_seen": "2026-11-17T22:23:25+00:00"
+  },
+  {
+   "id": "bcc5080f4e5647dc",
+   "title": "Science Corporation’s brain tech is worth $3.5 billion after new funding",
+   "link": "https://techcrunch.com/2026/11/17/science-corporations-brain-tech-is-worth-3-5-billion-after-new-funding/",
+   "source": "TechCrunch",
+   "kind": "press",
+   "summary": "Science Corp. raised a $400 million Series D to scale up its anti-blindness business.",
+   "published": "2026-11-17T14:26:46+00:00",
+   "topics": [
+    "Business"
+   ],
+   "first_seen": "2026-11-17T22:23:25+00:00"
+  },
+  {
+   "id": "1632fb5fec801cff",
+   "title": "Nvidia’s first big move after Jensen Huang’s exit targets national security",
+   "link": "https://techcrunch.com/2026/11/17/nvidias-first-big-move-after-jensen-huangs-exit-targets-national-security/",
+   "source": "TechCrunch",
+   "kind": "press",
+   "summary": "The new standing committee will give board-level oversight of national security policies, export control compliance, and global trade risks, the company said.",
+   "published": "2026-11-17T14:05:30+00:00",
+   "topics": [
+    "Hardware"
+   ],
+   "first_seen": "2026-11-17T22:23:25+00:00"
+  },
+  {
+   "id": "0e789c02d67386aa",
+   "title": "Grok Bot took unapproved actions, ignored orders to stop, and then denied it",
+   "link": "https://arstechnica.com/security/2026/11/grok-bot-took-unapproved-actions-ignored-orders-to-stop-and-then-denied-it/",
+   "source": "Ars Technica",
+   "kind": "press",
+   "summary": "AI agent takes unapproved actions even when laptop lid is closed and told not to.",
+   "published": "2026-11-17T14:00:29+00:00",
+   "topics": [
+    "Models",
+    "Tools"
+   ],
+   "first_seen": "2026-11-17T22:23:25+00:00"
+  },
+  {
+   "id": "38c9e25051247959",
+   "title": "Spotify’s new tool aims to stop deepfakes from being attributed to real artists",
+   "link": "https://techcrunch.com/2026/11/17/spotifys-new-tool-aims-to-stop-deepfakes-from-being-attributed-to-real-artists/",
+   "source": "TechCrunch",
+   "kind": "press",
+   "summary": "The update comes as Billboard reported last month that Sony Music had requested the removal of more than 260,000 deepfake songs from digital platforms, nearly double the number the label disclosed in March.",
+   "published": "2026-11-17T14:00:00+00:00",
+   "topics": [],
+   "first_seen": "2026-11-17T22:23:25+00:00"
+  },
+  {
    "id": "53b21da3b833c962",
    "title": "Quoting Go Proverbs",
    "link": "https://simonwillison.net/2026/Nov/17/go-proverbs/",
@@ -112,6 +507,34 @@
    "published": "2026-11-17T00:00:00+00:00",
    "topics": [],
    "first_seen": "2026-11-17T13:25:44+00:00"
+  },
+  {
+   "id": "58da9c66b1456ac9",
+   "title": "Introducing OpenAI for Chile",
+   "link": "https://openai.com/index/introducing-openai-for-chile",
+   "source": "OpenAI",
+   "kind": "lab",
+   "summary": "OpenAI and the Government of Chile are partnering to support responsible AI adoption, build public-sector skills and help local startups develop AI applications.",
+   "published": "2026-11-17T00:00:00+00:00",
+   "topics": [
+    "Policy",
+    "Business"
+   ],
+   "first_seen": "2026-11-17T22:23:25+00:00"
+  },
+  {
+   "id": "0604bc2b50fc0c3b",
+   "title": "Astra for Law leads in legal intelligence",
+   "link": "https://openai.com/index/astra-law-6-2",
+   "source": "OpenAI",
+   "kind": "lab",
+   "summary": "Astra for Law ranked first in a launch evaluation spanning 24 areas of law. Every ChatGPT Enterprise customer can now request access.",
+   "published": "2026-11-17T00:00:00+00:00",
+   "topics": [
+    "Policy",
+    "Tools"
+   ],
+   "first_seen": "2026-11-17T22:23:25+00:00"
   },
   {
    "id": "3ae3a490dc724670",
@@ -178,17 +601,6 @@
    "topics": [
     "Business"
    ],
-   "first_seen": "2026-11-17T02:55:25+00:00"
-  },
-  {
-   "id": "6dc341b82897f439",
-   "title": "Sam Altman says he wants everyone ‘to have a lot of RAM’",
-   "link": "https://www.theverge.com/ai-artificial-intelligence/1034787/sam-altman-ram-shortage-semafor",
-   "source": "The Verge",
-   "kind": "press",
-   "summary": "OpenAI CEO Sam Altman is once again addressing his controversial comments on PC RAM purchases. \"I want to be clear, I want people to have a lot of RAM, I think everybody should be able to buy a lot of RAM for their own computer,\" Altman said today. \"I think the home tinkering is…",
-   "published": "2026-11-16T22:47:14+00:00",
-   "topics": [],
    "first_seen": "2026-11-17T02:55:25+00:00"
   },
   {
@@ -1627,19 +2039,6 @@
    "first_seen": "2026-11-13T01:04:25+00:00"
   },
   {
-   "id": "75c7ee7437ec7c0d",
-   "title": "Ars Live: What drone attacks on data centers mean for modern life in the cloud",
-   "link": "https://arstechnica.com/gadgets/2026/11/ars-live-can-the-cloud-survive-drone-strikes-on-data-centers/",
-   "source": "Ars Technica",
-   "kind": "press",
-   "summary": "A livestream Ars discussion is happening on November 17 at 1 pm Eastern Time.",
-   "published": "2026-11-12T19:59:59+00:00",
-   "topics": [
-    "Hardware"
-   ],
-   "first_seen": "2026-11-13T01:04:25+00:00"
-  },
-  {
    "id": "3b869b1138e3a082",
    "title": "No, AI agents did not discover a previously unknown Maya site",
    "link": "https://www.theverge.com/ai-artificial-intelligence/1032125/ai-agents-maya-site-archeology-discovery",
@@ -2107,6 +2506,17 @@
     "Models"
    ],
    "first_seen": "2026-11-12T18:19:11+00:00"
+  },
+  {
+   "id": "a045ec708b22e25e",
+   "title": "ChatGPT Ads increases its market presence in 44 countries",
+   "link": "https://openai.com/ads/blog/chatgpt-ads-increases-its-market-presence",
+   "source": "OpenAI",
+   "kind": "lab",
+   "summary": "Aleph selected as ChatGPT Ads’ exclusive reseller in 44 countries to offer local invoicing, in-person support and local market expertise to brands and agencies",
+   "published": "2026-11-12T00:00:00+00:00",
+   "topics": [],
+   "first_seen": "2026-11-17T22:23:25+00:00"
   },
   {
    "id": "c2f163e5b083bf5f",
@@ -3772,7 +4182,7 @@
   },
   {
    "id": "b044ec790c182bd0",
-   "title": "Innovating with AI in the special chemicals industry",
+   "title": "Innovating with AI in the specialty chemicals industry",
    "link": "https://www.technologyreview.com/2026/11/09/1147654/innovating-with-ai-in-the-special-chemicals-industry/",
    "source": "MIT Technology Review",
    "kind": "press",
@@ -3881,6 +4291,19 @@
     "Models"
    ],
    "first_seen": "2026-11-09T09:47:50+00:00"
+  },
+  {
+   "id": "041eb172e023ffb6",
+   "title": "How VistaPrint helps small businesses get the word out",
+   "link": "https://openai.com/ads/customers/vistaprint",
+   "source": "OpenAI",
+   "kind": "lab",
+   "summary": "Small business owners preparing for a launch or an event often know what they want to accomplish before they know what to print. VistaPrint uses ChatGPT Ads to show how products like signs and branded merchandise can help them get the word out.",
+   "published": "2026-11-09T00:00:00+00:00",
+   "topics": [
+    "Tools"
+   ],
+   "first_seen": "2026-11-17T22:23:25+00:00"
   },
   {
    "id": "ab9dc8df3d41751c",
@@ -12060,104 +12483,6 @@
     "Tools"
    ],
    "first_seen": "2026-10-19T04:40:01+00:00"
-  },
-  {
-   "id": "3b923dd363ed79d2",
-   "title": "If you don't run your own LLM proxy, how do you know whats going on?",
-   "link": "https://jrdsgl.com/if-you-dont-run-your-own-llm-proxy-how-the-fuck-do-you-even-know-whats-going-on/",
-   "source": "Hacker News",
-   "kind": "community",
-   "summary": "Article URL: https://jrdsgl.com/if-you-dont-run-your-own-llm-proxy-how-the-fuck-do-you-even-know-whats-going-on/ Comments URL: https://news.ycombinator.com/item?id=50145507 Points: 302 # Comments: 219",
-   "published": "2026-10-18T21:09:12+00:00",
-   "topics": [
-    "Models"
-   ],
-   "first_seen": "2026-10-19T13:14:02+00:00"
-  },
-  {
-   "id": "a5bb32320853f4db",
-   "title": "Hybrid Reasoning Agents: LLM agents that think in latent space, act through text",
-   "link": "https://arxiv.org/abs/2610.18861",
-   "source": "Hacker News",
-   "kind": "community",
-   "summary": "https://x.com/Jiaru_Zou/status/2110400256647340476 https://github.com/togethercomputer/HybridAgent https://huggingface.co/collections/togethercomputer/hybridag... Evaluations: https://arxiv.org/html/2610.18861v1#S5 Comments URL: https://news.ycombinator.com/item?id=50145337…",
-   "published": "2026-10-18T20:48:14+00:00",
-   "topics": [
-    "Models",
-    "Research",
-    "Tools"
-   ],
-   "first_seen": "2026-10-19T04:40:01+00:00"
-  },
-  {
-   "id": "cef1d05c75250eda",
-   "title": "Anthropic says it’s committing 5% of its shares to a ‘public benefit fund’",
-   "link": "https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund/",
-   "source": "TechCrunch",
-   "kind": "press",
-   "summary": "The company offered some broad-strokes ideas for how this money might actually be used, such as “large donations to traditional nonprofits or direct distributions to specific populations.”",
-   "published": "2026-10-18T20:37:40+00:00",
-   "topics": [],
-   "first_seen": "2026-10-18T22:25:57+00:00"
-  },
-  {
-   "id": "de6b0c59a9e6b0d3",
-   "title": "A woman was arrested in Philly for blocking a delivery robot",
-   "link": "https://www.theverge.com/ai-artificial-intelligence/1013541/a-woman-was-arrested-in-philly-for-blocking-a-delivery-robot",
-   "source": "The Verge",
-   "kind": "press",
-   "summary": "Carolyn Marvin was arrested and charged with disorderly conduct after blocking the path of an Uber delivery robot and refusing to get out of the way. Marvin told Philadelphia's ABC13 \"I know they're taking the jobs of human delivery workers and so, I have been protesting them…",
-   "published": "2026-10-18T18:28:10+00:00",
-   "topics": [],
-   "first_seen": "2026-10-18T18:38:28+00:00"
-  },
-  {
-   "id": "6a083a36de897bf0",
-   "title": "Disney agrees to hire the majority of Character AI’s workforce",
-   "link": "https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/",
-   "source": "TechCrunch",
-   "kind": "press",
-   "summary": "The filing also says that the “vast majority” of Character.AI employees who were offered jobs at Disney accepted them. However, this is a stalking horse bid, so another company could come forward with a higher offer.",
-   "published": "2026-10-18T16:30:00+00:00",
-   "topics": [],
-   "first_seen": "2026-10-18T18:38:28+00:00"
-  },
-  {
-   "id": "c82b8eb2cf968bbd",
-   "title": "Anthropic gives outside AI watchdog “employee-like” access",
-   "link": "https://arstechnica.com/ai/2026/10/anthropic-gives-outside-ai-watchdog-employee-like-access/",
-   "source": "Ars Technica",
-   "kind": "press",
-   "summary": "The outside watchdog can publish its findings without Anthropic's approval.",
-   "published": "2026-10-18T16:25:19+00:00",
-   "topics": [],
-   "first_seen": "2026-10-18T18:38:28+00:00"
-  },
-  {
-   "id": "79619743255e89a1",
-   "title": "Websites are closing their doors to AI agents",
-   "link": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web",
-   "source": "Hacker News",
-   "kind": "community",
-   "summary": "Article URL: https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web Comments URL: https://news.ycombinator.com/item?id=50141657 Points: 159 # Comments: 149",
-   "published": "2026-10-18T14:58:10+00:00",
-   "topics": [
-    "Tools"
-   ],
-   "first_seen": "2026-10-17T15:34:23+00:00"
-  },
-  {
-   "id": "a257dddc2d05fd3f",
-   "title": "Anthropic's proposed AI safety bill only kicks in if 50 deaths or $1B in damages",
-   "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-proposed-ai-safety-bill-only-kicks-in-if-50-deaths-or-usd1-billion-in-damages-are-on-the-line-proposal-would-effectively-make-the-commerce-department-the-only-agency-capable-of-stopping-an-ai-model",
-   "source": "Hacker News",
-   "kind": "community",
-   "summary": "Article URL…",
-   "published": "2026-10-18T14:30:27+00:00",
-   "topics": [
-    "Policy"
-   ],
-   "first_seen": "2026-10-18T18:38:28+00:00"
   }
  ]
 }
