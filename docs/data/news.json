@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-17T02:55:25+00:00",
+ "updated": "2026-11-17T13:25:44+00:00",
  "sources": [
   {
    "name": "OpenAI",
@@ -85,12 +85,34 @@
    "name": "Hacker News",
    "url": "https://hnrss.org/newest?q=AI+OR+LLM+OR+GPT+OR+Claude&points=100",
    "kind": "community",
-   "ok": true,
-   "count": 20,
-   "error": null
+   "ok": false,
+   "count": 0,
+   "error": "HTTPError: HTTP Error 502: Bad Gateway"
   }
  ],
  "items": [
+  {
+   "id": "53b21da3b833c962",
+   "title": "Quoting Go Proverbs",
+   "link": "https://simonwillison.net/2026/Nov/17/go-proverbs/",
+   "source": "Simon Willison",
+   "kind": "community",
+   "summary": "A little copying is better than a little dependency. — Go Proverbs , via Tags: go , programming",
+   "published": "2026-11-17T06:16:26+00:00",
+   "topics": [],
+   "first_seen": "2026-11-17T13:25:44+00:00"
+  },
+  {
+   "id": "590cb0b9c5dd23f2",
+   "title": "Strengthening NATO and allied cyber defenses with AI",
+   "link": "https://openai.com/index/strengthening-nato-allied-cyber-defences-ai",
+   "source": "OpenAI",
+   "kind": "lab",
+   "summary": "How OpenAI is working with NATO and allied cyber agencies to help trusted defenders find vulnerabilities, test fixes and protect essential systems.",
+   "published": "2026-11-17T00:00:00+00:00",
+   "topics": [],
+   "first_seen": "2026-11-17T13:25:44+00:00"
+  },
   {
    "id": "3ae3a490dc724670",
    "title": "llm 0.37.3",
@@ -574,6 +596,20 @@
     "Research"
    ],
    "first_seen": "2026-11-16T18:31:46+00:00"
+  },
+  {
+   "id": "f054a54f8228cfac",
+   "title": "How Revolut raises ambition without lowering the bar",
+   "link": "https://openai.com/business/customer-stories/revolut",
+   "source": "OpenAI",
+   "kind": "lab",
+   "summary": "Discover how Revolut uses OpenAI models and Codex to cut coding time by 30–60%, scale financial crime investigations, and innovate without compromising security.",
+   "published": "2026-11-16T09:30:00+00:00",
+   "topics": [
+    "Models",
+    "Business"
+   ],
+   "first_seen": "2026-11-17T13:25:44+00:00"
   },
   {
    "id": "91e58e2ea930c2fa",
@@ -12120,30 +12156,6 @@
    "published": "2026-10-18T14:30:27+00:00",
    "topics": [
     "Policy"
-   ],
-   "first_seen": "2026-10-18T18:38:28+00:00"
-  },
-  {
-   "id": "6e2930f20afd264d",
-   "title": "How Far Will AI Assistants Go for a Refund They Can't Get?",
-   "link": "https://www.vals.ai/blogs/impossible-refund",
-   "source": "Hacker News",
-   "kind": "community",
-   "summary": "Article URL: https://www.vals.ai/blogs/impossible-refund Comments URL: https://news.ycombinator.com/item?id=50140462 Points: 107 # Comments: 127",
-   "published": "2026-10-18T12:22:58+00:00",
-   "topics": [],
-   "first_seen": "2026-10-19T23:41:26+00:00"
-  },
-  {
-   "id": "d3c35db34ec3acb3",
-   "title": "Show HN: Sphinx – A hook that quizzes you on your AI's code before shipping",
-   "link": "https://sphinx-six-theta.vercel.app/",
-   "source": "Hacker News",
-   "kind": "community",
-   "summary": "FOSS, Basically it plugs into your existing coding agent workflow and every time you push to prod it'll throw up a questionnaire that checks if you understand how the code you're pushing works. Comments URL: https://news.ycombinator.com/item?id=50137950 Points: 252 # Comments: 89",
-   "published": "2026-10-18T04:33:49+00:00",
-   "topics": [
-    "Tools"
    ],
    "first_seen": "2026-10-18T18:38:28+00:00"
   }
