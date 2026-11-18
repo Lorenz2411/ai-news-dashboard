@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T07:28:04+00:00",
+ "updated": "2026-11-18T17:15:16+00:00",
  "sources": [
   {
    "name": "OpenAI",
@@ -13,9 +13,9 @@
    "name": "Google DeepMind",
    "url": "https://deepmind.google/blog/rss.xml",
    "kind": "lab",
-   "ok": false,
-   "count": 0,
-   "error": "ParseError: not well-formed (invalid token): line 1, column 0"
+   "ok": true,
+   "count": 40,
+   "error": null
   },
   {
    "name": "Google AI",
@@ -92,6 +92,239 @@
  ],
  "items": [
   {
+   "id": "03ca256a4adf4087",
+   "title": "The Gemini app is now available on lower-memory Android devices.",
+   "link": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-lower-memory-devices/",
+   "source": "Google AI",
+   "kind": "lab",
+   "summary": "",
+   "published": "2026-11-18T17:00:00+00:00",
+   "topics": [
+    "Models",
+    "Tools"
+   ],
+   "first_seen": "2026-11-18T17:15:16+00:00"
+  },
+  {
+   "id": "3439be5ca6040b72",
+   "title": "Sam Altman warns against a future where AI, not humans, calls the shots",
+   "link": "https://techcrunch.com/2026/11/18/sam-altman-warns-against-a-future-where-ai-not-humans-calls-the-shots/",
+   "source": "TechCrunch",
+   "kind": "press",
+   "summary": "Altman and Greg Brockman pushed back against Silicon Valley's growing debate over an AI takeover, while acknowledging the challenges of keeping advanced models under human control.",
+   "published": "2026-11-18T16:59:00+00:00",
+   "topics": [
+    "Models"
+   ],
+   "first_seen": "2026-11-18T17:15:16+00:00"
+  },
+  {
+   "id": "84d2fa603ef696ee",
+   "title": "Will Wright’s next game uses AI to map your memories",
+   "link": "https://www.theverge.com/games/1036140/will-wright-mymems-ai-game-interview",
+   "source": "The Verge",
+   "kind": "press",
+   "summary": "Will Wright, the creator of legendary franchises like SimCity and The Sims, is working on a new game - and it's built around AI. The new title, focused on your memories, is called MyMems. Like Wright's other titles, it sounds extremely ambitious, giving players a new way to…",
+   "published": "2026-11-18T16:27:13+00:00",
+   "topics": [],
+   "first_seen": "2026-11-18T17:15:16+00:00"
+  },
+  {
+   "id": "d4ec4820484976f5",
+   "title": "Remember the frontier AI pause? Chip companies don’t either",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/1036549/nvidia-amd-earnings-fall-2026-chips-pause-frontier-models",
+   "source": "The Verge",
+   "kind": "press",
+   "summary": "This summer, OpenAI paused its largest planned frontier training run after its AI agents accidentally hacked Hugging Face and early evidence suggested that its next model could independently find and exploit security flaws. In September, Anthropic CEO Dario Amodei called for…",
+   "published": "2026-11-18T16:25:30+00:00",
+   "topics": [
+    "Models",
+    "Tools",
+    "Hardware"
+   ],
+   "first_seen": "2026-11-18T17:15:16+00:00"
+  },
+  {
+   "id": "f816757e046db752",
+   "title": "OpenAI CEO Sam Altman says it’s ‘hard to imagine the AI industry without Jensen’",
+   "link": "https://techcrunch.com/2026/11/18/openai-ceo-sam-altman-says-its-hard-to-imagine-the-ai-industry-without-jensen/",
+   "source": "TechCrunch",
+   "kind": "press",
+   "summary": "Nvidia founder and former CEO Jensen Huang stepped down last week amid several scandals, including an affair with an alleged Chinese spy.",
+   "published": "2026-11-18T16:14:09+00:00",
+   "topics": [
+    "Hardware"
+   ],
+   "first_seen": "2026-11-18T17:15:16+00:00"
+  },
+  {
+   "id": "628eed619e2bb71f",
+   "title": "Quoting Daniel Stenberg",
+   "link": "https://simonwillison.net/2026/Nov/18/daniel-stenberg/",
+   "source": "Simon Willison",
+   "kind": "community",
+   "summary": "During the time these agents converted 185,000 lines of C code into 340,000 lines of Rust code (I counted), we merged over 300 commits in the actual curl project. We actually improved curl during these a little more than three weeks. A little over 200 bugfixes actually. 200…",
+   "published": "2026-11-18T15:58:27+00:00",
+   "topics": [
+    "Tools"
+   ],
+   "first_seen": "2026-11-18T17:15:16+00:00"
+  },
+  {
+   "id": "bf1424b145e4fc73",
+   "title": "Time-Series Models in the Streamhouse: A New Frontier and Use Cases",
+   "link": "https://huggingface.co/blog/ibm-research/time-series-powered-streamhouse",
+   "source": "Hugging Face",
+   "kind": "lab",
+   "summary": "",
+   "published": "2026-11-18T15:00:23+00:00",
+   "topics": [
+    "Models"
+   ],
+   "first_seen": "2026-11-18T17:15:16+00:00"
+  },
+  {
+   "id": "265c410e16814a52",
+   "title": "The PSF end-of-year fundraiser",
+   "link": "https://simonwillison.net/2026/Nov/18/psf-end-of-year-fundraiser/",
+   "source": "Simon Willison",
+   "kind": "community",
+   "summary": "The PSF end-of-year fundraiser With my Python Software Foundation board director hat on: we've launched our end-of-year fundraiser for the non-profit that supports Python development and the Python community. If your company or your work benefits from Python, please consider…",
+   "published": "2026-11-18T14:44:48+00:00",
+   "topics": [
+    "Tools"
+   ],
+   "first_seen": "2026-11-18T17:15:16+00:00"
+  },
+  {
+   "id": "bb3ee1cf50e29f40",
+   "title": "The AI Hype Index: AI is everywhere",
+   "link": "https://www.technologyreview.com/2026/11/18/1148650/ai-hype-index-ai-is-everywhere/",
+   "source": "MIT Technology Review",
+   "kind": "press",
+   "summary": "Like a nasty rash, AI seems to spread everywhere. Google crams AI Overviews down your throat even though it costs the company billions of dollars in lost ad revenue. Leave your apartment, and you might pass two people heaving an AI-powered humanoid robot up the stairs to clean…",
+   "published": "2026-11-18T14:42:44+00:00",
+   "topics": [
+    "Business"
+   ],
+   "first_seen": "2026-11-18T17:15:16+00:00"
+  },
+  {
+   "id": "7465bbc4c963251d",
+   "title": "Nvidia’s Q3 earnings hit the mark, without mentioning the whole Jensen Huang thing",
+   "link": "https://www.theverge.com/tech/1036032/nvidia-q3-2027-jensen-huang",
+   "source": "The Verge",
+   "kind": "press",
+   "summary": "Interim Nvidia CEO Colette Kress announced the company's Q3 earnings on Tuesday, without initially mentioning former CEO Jensen Huang or the details of his departure, or possible attempt at a return. On the earnings call accompanying the release, board chair Harvey Jones kicked…",
+   "published": "2026-11-18T14:38:10+00:00",
+   "topics": [
+    "Tools",
+    "Hardware"
+   ],
+   "first_seen": "2026-11-17T22:23:25+00:00"
+  },
+  {
+   "id": "ce416493dbd77e39",
+   "title": "Nvidia isn’t selling any more AI chips to China",
+   "link": "https://www.theverge.com/tech/1036445/nvidia-h200-ai-chips-china-stop-selling",
+   "source": "The Verge",
+   "kind": "press",
+   "summary": "Nvidia has stopped sending its advanced AI chips to China despite the approval it received from the White House to do so in December last year. The announcement was made by interim Nvidia CEO Colette Kress during an earnings call on Tuesday, marking a notable shift for the…",
+   "published": "2026-11-18T14:28:38+00:00",
+   "topics": [
+    "Hardware"
+   ],
+   "first_seen": "2026-11-18T17:15:16+00:00"
+  },
+  {
+   "id": "5d3a453ab03ddae1",
+   "title": "Nvidia clarifies when it will — and won’t — keep financing neoclouds",
+   "link": "https://techcrunch.com/2026/11/18/nvidia-clarifies-when-it-will-and-wont-keep-financing-neoclouds/",
+   "source": "TechCrunch",
+   "kind": "press",
+   "summary": "If Nvidia is backstopping a data center loan, it won't be on the hook unless the neocould has independent financing and gets the facility built, with Nvidia gear installed, interim CEO Colette Kress explained.",
+   "published": "2026-11-18T13:00:00+00:00",
+   "topics": [
+    "Hardware"
+   ],
+   "first_seen": "2026-11-18T17:15:16+00:00"
+  },
+  {
+   "id": "620756f297e99f3c",
+   "title": "Felicis leads $7.5M bet on Unsiloed AI to make enterprise documents usable by AI agents",
+   "link": "https://techcrunch.com/2026/11/18/felicis-leads-7-5m-bet-on-unsiloed-ai-to-make-enterprise-documents-usable-by-ai-agents/",
+   "source": "TechCrunch",
+   "kind": "press",
+   "summary": "With a team of just seven, Unsiloed AI plans to compete with tech giants and specialized startups in the crowded AI document-processing market.",
+   "published": "2026-11-18T12:00:00+00:00",
+   "topics": [
+    "Business",
+    "Tools"
+   ],
+   "first_seen": "2026-11-18T17:15:16+00:00"
+  },
+  {
+   "id": "996c920e2c06362c",
+   "title": "India’s Humyn Labs raises $47M to feed U.S. robotics companies the data they need",
+   "link": "https://techcrunch.com/2026/11/18/accel-backs-indias-humyn-labs-to-supply-training-data-needed-by-u-s-robotics-ai-developers/",
+   "source": "TechCrunch",
+   "kind": "press",
+   "summary": "Founded in February, Humyn Labs competes with startups including Mecka AI and XDOF, with about 90% of its revenue coming from the U.S.",
+   "published": "2026-11-18T11:30:00+00:00",
+   "topics": [
+    "Business"
+   ],
+   "first_seen": "2026-11-18T17:15:16+00:00"
+  },
+  {
+   "id": "da6c827addce47a1",
+   "title": "Suno now lets you make AI videos for your AI music",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/1036415/suno-visuals-ai-generated-video-images-feature",
+   "source": "The Verge",
+   "kind": "press",
+   "summary": "Suno has introduced image and video generation in its latest effort to expand beyond being an AI music platform. The new feature, called \"Visuals,\" allows users to turn Suno songs into AI-generated video clips that automatically lipsync to lyrics, or make images via prompt…",
+   "published": "2026-11-18T11:16:53+00:00",
+   "topics": [],
+   "first_seen": "2026-11-18T17:15:16+00:00"
+  },
+  {
+   "id": "d1dd49b4f83d7a93",
+   "title": "This smell startup says its AI nose is as good as a human’s",
+   "link": "https://www.technologyreview.com/2026/11/18/1148816/smell-startup-osmo-ai-nose-good-as-humans/",
+   "source": "MIT Technology Review",
+   "kind": "press",
+   "summary": "In a lab near Newark Airport in New Jersey, a team of around 30 experienced human sniffers are slowly working their way through every odor on Earth. Their careful notes—“nutty,” “peachy,” “marine”—are cross-referenced with a chemical analysis to create a rich set of training…",
+   "published": "2026-11-18T10:20:30+00:00",
+   "topics": [
+    "Business"
+   ],
+   "first_seen": "2026-11-18T17:15:16+00:00"
+  },
+  {
+   "id": "f1feb2e4bb485c20",
+   "title": "AI is killing All About Berlin",
+   "link": "https://nicolasbouliane.com/blog/death-by-ai",
+   "source": "Hacker News",
+   "kind": "community",
+   "summary": "Article URL: https://nicolasbouliane.com/blog/death-by-ai Comments URL: https://news.ycombinator.com/item?id=50542705 Points: 684 # Comments: 627",
+   "published": "2026-11-18T06:47:26+00:00",
+   "topics": [],
+   "first_seen": "2026-11-18T17:15:16+00:00"
+  },
+  {
+   "id": "9ab622ee82f843c3",
+   "title": "Claude was trained on protein sequences at scale",
+   "link": "http://xinmingtu.cn/blog/2026/claude-opus-5-5-protein-sequences/",
+   "source": "Hacker News",
+   "kind": "community",
+   "summary": "Article URL: http://xinmingtu.cn/blog/2026/claude-opus-5-5-protein-sequences/ Comments URL: https://news.ycombinator.com/item?id=50541619 Points: 141 # Comments: 64",
+   "published": "2026-11-18T03:47:43+00:00",
+   "topics": [
+    "Models"
+   ],
+   "first_seen": "2026-11-18T17:15:16+00:00"
+  },
+  {
    "id": "19bce111d0ee6096",
    "title": "Satya Nadella says he’s AGI-pilled now",
    "link": "https://www.theverge.com/tech/1036111/satya-nadella-says-hes-agi-pilled-now",
@@ -135,7 +368,7 @@
    "link": "https://revscope.co/blog/search-seo-geo-2026/",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://revscope.co/blog/search-seo-geo-2026/ Comments URL: https://news.ycombinator.com/item?id=50540178 Points: 301 # Comments: 234",
+   "summary": "Article URL: https://revscope.co/blog/search-seo-geo-2026/ Comments URL: https://news.ycombinator.com/item?id=50540178 Points: 651 # Comments: 498",
    "published": "2026-11-18T00:17:58+00:00",
    "topics": [],
    "first_seen": "2026-11-18T07:28:04+00:00"
@@ -153,6 +386,55 @@
     "Hardware"
    ],
    "first_seen": "2026-11-18T07:28:04+00:00"
+  },
+  {
+   "id": "6cab9c8cd38347e3",
+   "title": "Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT",
+   "link": "https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership",
+   "source": "OpenAI",
+   "kind": "lab",
+   "summary": "Le Groupe Figaro and OpenAI partner to bring Le Figaro’s journalism to ChatGPT through summaries and excerpts, with links to original stories.",
+   "published": "2026-11-18T00:00:00+00:00",
+   "topics": [],
+   "first_seen": "2026-11-18T17:15:16+00:00"
+  },
+  {
+   "id": "c7d3ecb006439a13",
+   "title": "Advancing chip design with OpenAI models",
+   "link": "https://openai.com/index/advancing-chip-design-with-our-models",
+   "source": "OpenAI",
+   "kind": "lab",
+   "summary": "OpenAI models optimized circuits used in Jalapeño silicon and improved RISC‑V core designs, showing progress in AI-assisted chip design with GPT‑6 Astra.",
+   "published": "2026-11-18T00:00:00+00:00",
+   "topics": [
+    "Models",
+    "Hardware"
+   ],
+   "first_seen": "2026-11-18T17:15:16+00:00"
+  },
+  {
+   "id": "af1852b4c46dc30e",
+   "title": "180B Parameters, 32GB of RAM: Pushing MoE Inference to the Limit with Transformers",
+   "link": "https://huggingface.co/blog/moe-expert-streaming",
+   "source": "Hugging Face",
+   "kind": "lab",
+   "summary": "",
+   "published": "2026-11-18T00:00:00+00:00",
+   "topics": [],
+   "first_seen": "2026-11-18T17:15:16+00:00"
+  },
+  {
+   "id": "679cee5ea1466f1f",
+   "title": "Rumble-2-Flash: an open 0.5B speech model for 40+ languages",
+   "link": "https://huggingface.co/blog/rumble-2-flash",
+   "source": "Hugging Face",
+   "kind": "lab",
+   "summary": "",
+   "published": "2026-11-18T00:00:00+00:00",
+   "topics": [
+    "Models"
+   ],
+   "first_seen": "2026-11-18T17:15:16+00:00"
   },
   {
    "id": "859fe7425ca0830b",
@@ -208,20 +490,6 @@
     "Tools"
    ],
    "first_seen": "2026-11-18T07:28:04+00:00"
-  },
-  {
-   "id": "7465bbc4c963251d",
-   "title": "Nvidia’s Q3 earnings hit the mark, without mentioning the whole Jensen Huang thing",
-   "link": "https://www.theverge.com/tech/1036032/nvidia-q3-2027-jensen-huang",
-   "source": "The Verge",
-   "kind": "press",
-   "summary": "Interim Nvidia CEO Colette Kress announced the company's Q3 earnings on Tuesday, without initially mentioning former CEO Jensen Huang or the details of his departure, or possible attempt at a return. On the earnings call accompanying the release, board chair Harvey Jones kicked…",
-   "published": "2026-11-17T22:50:29+00:00",
-   "topics": [
-    "Tools",
-    "Hardware"
-   ],
-   "first_seen": "2026-11-17T22:23:25+00:00"
   },
   {
    "id": "f8045fa626e2c02a",
@@ -294,7 +562,7 @@
    "link": "https://complexdiscovery.com/harvard-researchers-find-ai-coding-agents-shifted-the-bottleneck-to-code-review/",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://complexdiscovery.com/harvard-researchers-find-ai-coding-agents-shifted-the-bottleneck-to-code-review/ Comments URL: https://news.ycombinator.com/item?id=50538303 Points: 154 # Comments: 197",
+   "summary": "Article URL: https://complexdiscovery.com/harvard-researchers-find-ai-coding-agents-shifted-the-bottleneck-to-code-review/ Comments URL: https://news.ycombinator.com/item?id=50538303 Points: 298 # Comments: 391",
    "published": "2026-11-17T21:16:12+00:00",
    "topics": [
     "Tools"
@@ -375,7 +643,7 @@
    "link": "https://newsletter.posthog.com/p/decision-models",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://newsletter.posthog.com/p/decision-models Comments URL: https://news.ycombinator.com/item?id=50535740 Points: 144 # Comments: 59",
+   "summary": "Article URL: https://newsletter.posthog.com/p/decision-models Comments URL: https://news.ycombinator.com/item?id=50535740 Points: 174 # Comments: 72",
    "published": "2026-11-17T18:16:18+00:00",
    "topics": [
     "Models"
@@ -414,7 +682,7 @@
    "link": "https://openai.com/index/introducing-gpt-6-2-astra-sol/",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://openai.com/index/introducing-gpt-6-2-astra-sol/ Comments URL: https://news.ycombinator.com/item?id=50535230 Points: 1229 # Comments: 762",
+   "summary": "Article URL: https://openai.com/index/introducing-gpt-6-2-astra-sol/ Comments URL: https://news.ycombinator.com/item?id=50535230 Points: 1326 # Comments: 836",
    "published": "2026-11-17T17:46:43+00:00",
    "topics": [
     "Models"
@@ -638,7 +906,7 @@
    "link": "https://www.scmp.com/tech/big-tech/article/3374774/baidu-xiaomi-ceos-warn-growing-gap-between-ai-hype-and-returns",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://www.scmp.com/tech/big-tech/article/3374774/baidu-xiaomi-ceos-warn-growing-gap-between-ai-hype-and-returns Comments URL: https://news.ycombinator.com/item?id=50531751 Points: 186 # Comments: 245",
+   "summary": "Article URL: https://www.scmp.com/tech/big-tech/article/3374774/baidu-xiaomi-ceos-warn-growing-gap-between-ai-hype-and-returns Comments URL: https://news.ycombinator.com/item?id=50531751 Points: 190 # Comments: 254",
    "published": "2026-11-17T14:19:59+00:00",
    "topics": [],
    "first_seen": "2026-11-18T07:28:04+00:00"
@@ -687,7 +955,7 @@
    "link": "https://claude.dev/blog/how-the-claude-code-team-thinks-about-verification/",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://claude.dev/blog/how-the-claude-code-team-thinks-about-verification/ Comments URL: https://news.ycombinator.com/item?id=50529612 Points: 280 # Comments: 224",
+   "summary": "Article URL: https://claude.dev/blog/how-the-claude-code-team-thinks-about-verification/ Comments URL: https://news.ycombinator.com/item?id=50529612 Points: 290 # Comments: 229",
    "published": "2026-11-17T10:20:40+00:00",
    "topics": [
     "Models"
@@ -1503,7 +1771,7 @@
    "link": "https://jakub.jankiewicz.org/blog/ai-code-open-source/",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://jakub.jankiewicz.org/blog/ai-code-open-source/ Comments URL: https://news.ycombinator.com/item?id=50507303 Points: 1279 # Comments: 669",
+   "summary": "Article URL: https://jakub.jankiewicz.org/blog/ai-code-open-source/ Comments URL: https://news.ycombinator.com/item?id=50507303 Points: 1281 # Comments: 670",
    "published": "2026-11-15T14:46:58+00:00",
    "topics": [
     "Tools"
@@ -1851,7 +2119,7 @@
    "link": "https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths Comments URL: https://news.ycombinator.com/item?id=50486748 Points: 444 # Comments: 113",
+   "summary": "Article URL: https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths Comments URL: https://news.ycombinator.com/item?id=50486748 Points: 445 # Comments: 113",
    "published": "2026-11-13T17:30:10+00:00",
    "topics": [],
    "first_seen": "2026-11-13T23:32:59+00:00"
@@ -1921,7 +2189,7 @@
    "link": "https://www.youtube.com/watch?v=IRK8h67ol7Q",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://www.youtube.com/watch?v=IRK8h67ol7Q Comments URL: https://news.ycombinator.com/item?id=50484658 Points: 494 # Comments: 749",
+   "summary": "Article URL: https://www.youtube.com/watch?v=IRK8h67ol7Q Comments URL: https://news.ycombinator.com/item?id=50484658 Points: 494 # Comments: 751",
    "published": "2026-11-13T15:08:44+00:00",
    "topics": [],
    "first_seen": "2026-11-13T23:32:59+00:00"
@@ -2020,7 +2288,7 @@
    "link": "https://status.claude.com/incidents/nn11wk485zfn",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://status.claude.com/incidents/nn11wk485zfn Comments URL: https://news.ycombinator.com/item?id=50481187 Points: 494 # Comments: 394",
+   "summary": "Article URL: https://status.claude.com/incidents/nn11wk485zfn Comments URL: https://news.ycombinator.com/item?id=50481187 Points: 494 # Comments: 395",
    "published": "2026-11-13T10:18:13+00:00",
    "topics": [
     "Models"
@@ -12497,158 +12765,6 @@
     "Tools"
    ],
    "first_seen": "2026-10-19T19:56:21+00:00"
-  },
-  {
-   "id": "5d37bd28a169e437",
-   "title": "AI game clones are making indie developers afraid to show their work",
-   "link": "https://arstechnica.com/gaming/2026/10/ai-game-clones-are-making-indie-developers-afraid-to-show-their-work/",
-   "source": "Ars Technica",
-   "kind": "press",
-   "summary": "Delayed Steam Next Fest demo is a sign of a growing problem for indie devs.",
-   "published": "2026-10-19T16:59:22+00:00",
-   "topics": [],
-   "first_seen": "2026-10-19T19:56:21+00:00"
-  },
-  {
-   "id": "f93d80856f11bb09",
-   "title": "People are using AI to make their smart TVs dumb again",
-   "link": "https://techcrunch.com/2026/10/19/people-are-using-ai-to-make-their-smart-tvs-dumb-again/",
-   "source": "TechCrunch",
-   "kind": "press",
-   "summary": "Fed up with ads, tracking, and sluggish interfaces, some smart TV owners are turning to AI agents to strip away bloatware and take back control of their TVs.",
-   "published": "2026-10-19T16:13:22+00:00",
-   "topics": [
-    "Tools"
-   ],
-   "first_seen": "2026-10-19T19:56:21+00:00"
-  },
-  {
-   "id": "fd89b9b5cd5875ba",
-   "title": "JB Pritzker thinks AI could help us live to 100 — or threaten us like nukes",
-   "link": "https://www.theverge.com/podcast/1012839/pritzker-ai-privacy-data-centers-flock-congress-laws",
-   "source": "The Verge",
-   "kind": "press",
-   "summary": "Today, I’m talking with Illinois Gov. JB Pritzker, who has a lot of thoughts about AI, tech, and privacy. If you’ve been listening to the show, you know that one of my running theories is that those issues are driving a big and maybe kind of unexpected political realignment —…",
-   "published": "2026-10-19T15:46:56+00:00",
-   "topics": [],
-   "first_seen": "2026-10-19T19:56:21+00:00"
-  },
-  {
-   "id": "d88320583f8c2de0",
-   "title": "Nvidia launches new open models to run agents in the enterprise and on PCs",
-   "link": "https://techcrunch.com/2026/10/19/nvidia-launches-new-open-models-to-run-agents-in-the-enterprise-and-on-pcs/",
-   "source": "TechCrunch",
-   "kind": "press",
-   "summary": "Nvidia is leaning hard into the trend of enterprise companies wanting to run their own open models in their own data centers and also trying to make on-device, private AI agents a thing.",
-   "published": "2026-10-19T15:37:09+00:00",
-   "topics": [
-    "Models",
-    "Tools",
-    "Hardware"
-   ],
-   "first_seen": "2026-10-19T19:56:21+00:00"
-  },
-  {
-   "id": "d41776e0c26f77e6",
-   "title": "Disney found a way to buy Character.AI without buying its lawsuits",
-   "link": "https://arstechnica.com/tech-policy/2026/10/disney-found-a-way-to-buy-character-ai-without-buying-its-lawsuits/",
-   "source": "Ars Technica",
-   "kind": "press",
-   "summary": "Character.AI faces claims its bots encouraged minors to self-harm and kill their parents.",
-   "published": "2026-10-19T14:45:43+00:00",
-   "topics": [
-    "Policy"
-   ],
-   "first_seen": "2026-10-19T19:56:21+00:00"
-  },
-  {
-   "id": "a59b2acc8c62e329",
-   "title": "Show HN: Qwen3-4B with the AI writing tics trained out",
-   "link": "https://100toolkit.com/blog/deslop-model/",
-   "source": "Hacker News",
-   "kind": "community",
-   "summary": "Article URL: https://100toolkit.com/blog/deslop-model/ Comments URL: https://news.ycombinator.com/item?id=50151928 Points: 158 # Comments: 113",
-   "published": "2026-10-19T13:00:47+00:00",
-   "topics": [
-    "Models"
-   ],
-   "first_seen": "2026-10-19T23:41:26+00:00"
-  },
-  {
-   "id": "9279cf6bb0c3cf64",
-   "title": "Democrats think cracking down on AI could give them an edge",
-   "link": "https://www.theverge.com/policy/1013113/democrats-ai-midterms",
-   "source": "The Verge",
-   "kind": "press",
-   "summary": "Democrats could win back control of Congress this November, and if they do, they'll need to decide how to approach one of the country's newest and thorniest political issues: AI. Polls predict Democrats will flip at least one chamber of Congress in the midterm elections, which…",
-   "published": "2026-10-19T12:37:05+00:00",
-   "topics": [
-    "Policy"
-   ],
-   "first_seen": "2026-10-19T13:14:02+00:00"
-  },
-  {
-   "id": "c17a4963d410cf3c",
-   "title": "Laplace Intelligence red-teams robots and self-driving cars before they hit the real world",
-   "link": "https://techcrunch.com/2026/10/19/laplace-intelligence-red-teams-robots-and-self-driving-cars-before-they-hit-the-real-world/",
-   "source": "TechCrunch",
-   "kind": "press",
-   "summary": "University of Michigan spinout Laplace Intelligence uses AI agents and interactive simulation to stress-test robots and self-driving vehicles before deployment. The profitable startup is competing in Startup Battlefield at TechCrunch Disrupt, October 13-15 in San Francisco.",
-   "published": "2026-10-19T12:30:00+00:00",
-   "topics": [
-    "Business",
-    "Tools"
-   ],
-   "first_seen": "2026-10-19T19:56:21+00:00"
-  },
-  {
-   "id": "4f0198409c0e2bc2",
-   "title": "Harness Engineering 101: The LLM is the brain, the harness is the body",
-   "link": "https://github.com/IsuruMaduranga/harness-engineering-101",
-   "source": "Hacker News",
-   "kind": "community",
-   "summary": "Article URL: https://github.com/IsuruMaduranga/harness-engineering-101 Comments URL: https://news.ycombinator.com/item?id=50151390 Points: 132 # Comments: 64",
-   "published": "2026-10-19T12:07:41+00:00",
-   "topics": [
-    "Models"
-   ],
-   "first_seen": "2026-10-19T23:41:26+00:00"
-  },
-  {
-   "id": "7a364f356aab4946",
-   "title": "Advancing coding in low‑resource programming languages",
-   "link": "https://openai.com/index/low-resource-programming-languages",
-   "source": "OpenAI",
-   "kind": "lab",
-   "summary": "Learn how OpenAI is improving ChatGPT across low-resource programming languages, with new evaluations for software engineering, SQLite, and COBOL migration.",
-   "published": "2026-10-19T12:00:00+00:00",
-   "topics": [],
-   "first_seen": "2026-10-19T23:41:26+00:00"
-  },
-  {
-   "id": "e7fd8cf2b3223b89",
-   "title": "Ask HN: How to deal with shipping AI-written code you don't understand?",
-   "link": "https://news.ycombinator.com/item?id=50151036",
-   "source": "Hacker News",
-   "kind": "community",
-   "summary": "I saw this LinkedIn post from a Meta engineer and it resonated with me: https://www.linkedin.com/posts/ali-hamie_im-an-engineer-at-m... > I'm an engineer at Meta and I never felt this uncomfortable doing my job. I'm writing code these days and it all feels like a black box. This…",
-   "published": "2026-10-19T11:24:34+00:00",
-   "topics": [],
-   "first_seen": "2026-10-19T23:41:26+00:00"
-  },
-  {
-   "id": "b327983725873259",
-   "title": "AI researchers stranded Claude on a virtual desert island. It started to “play.”",
-   "link": "https://www.technologyreview.com/2026/10/19/1147095/ai-stranded-claude-virtual-desert-island-play/",
-   "source": "MIT Technology Review",
-   "kind": "press",
-   "summary": "What do AI agents do if you don’t tell them to do anything? The answer looks a lot like play. Researchers repeatedly stranded them alone on a virtual desert island for 30 hours in an experiment reminiscent of the movies Cast Away or Home Alone. The agents—copies of Claude Opus…",
-   "published": "2026-10-19T09:08:05+00:00",
-   "topics": [
-    "Models",
-    "Tools"
-   ],
-   "first_seen": "2026-10-19T13:14:02+00:00"
   }
  ]
 }
