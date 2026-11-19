@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T00:21:59+00:00",
+ "updated": "2026-11-19T10:19:37+00:00",
  "sources": [
   {
    "name": "OpenAI",
@@ -85,12 +85,37 @@
    "name": "Hacker News",
    "url": "https://hnrss.org/newest?q=AI+OR+LLM+OR+GPT+OR+Claude&points=100",
    "kind": "community",
-   "ok": true,
-   "count": 20,
-   "error": null
+   "ok": false,
+   "count": 0,
+   "error": "HTTPError: HTTP Error 502: Bad Gateway"
   }
  ],
  "items": [
+  {
+   "id": "a8022fb06095c478",
+   "title": "Microsoft CEO Satya Nadella explains why he asked 60K employees to quit",
+   "link": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-explains-why-he-asked-60k-employees-to-quit/",
+   "source": "TechCrunch",
+   "kind": "press",
+   "summary": "Microsoft CEO Satya Nadella explained why he offered buyouts to 60,000 of his employees in October, essentially urging them to voluntarily quit, rather than reducing the workforce via another massive layoff. The short answer is AI, but not in the way you might expect.",
+   "published": "2026-11-19T00:42:56+00:00",
+   "topics": [],
+   "first_seen": "2026-11-19T10:19:37+00:00"
+  },
+  {
+   "id": "fd1897fc7619b29c",
+   "title": "llm-gemini 0.38",
+   "link": "https://simonwillison.net/2026/Nov/18/llm-gemini/",
+   "source": "Simon Willison",
+   "kind": "community",
+   "summary": "Release: llm-gemini 0.38 Today Google introduced Gemini 4 Neon . I wrote recently about how confusing the pricing for the Gemini 4 series was - Neon has somehow made this even worse. Previously the Gemini 4 lineup was Hydrogen, Argon, and Carbon - where Argon and Carbon were the…",
+   "published": "2026-11-18T23:59:20+00:00",
+   "topics": [
+    "Models",
+    "Tools"
+   ],
+   "first_seen": "2026-11-19T10:19:37+00:00"
+  },
   {
    "id": "44255eb49d7cccbd",
    "title": "Amidst fears of AI cyberattacks, Satya Nadella says lots of critical infrastructure is ‘unpatchable’",
@@ -166,7 +191,7 @@
   },
   {
    "id": "6b4b11d8558c175e",
-   "title": "Anthropic reportedly prices IPO at $83 a share, above projected range",
+   "title": "Anthropic prices IPO at $83 a share, above projected range",
    "link": "https://techcrunch.com/2026/11/18/anthropic-reportedly-prices-ipo-at-83-a-share-above-projected-range/",
    "source": "TechCrunch",
    "kind": "press",
@@ -377,6 +402,20 @@
     "Tools"
    ],
    "first_seen": "2026-11-19T00:21:59+00:00"
+  },
+  {
+   "id": "25233b116d91ffbe",
+   "title": "datasette-arrows 0.1a0",
+   "link": "https://simonwillison.net/2026/Nov/18/datasette-arrows/",
+   "source": "Simon Willison",
+   "kind": "community",
+   "summary": "Release: datasette-arrows 0.1a0 Datasette 1.0a43 added the ability for plugins to implement streaming export formats. Datasette core supports streaming CSV and TSV - you can export millions of lines of data from a table without needing to load it all into memory, because those…",
+   "published": "2026-11-18T17:09:59+00:00",
+   "topics": [
+    "Research",
+    "Tools"
+   ],
+   "first_seen": "2026-11-19T10:19:37+00:00"
   },
   {
    "id": "03ca256a4adf4087",
@@ -12853,59 +12892,6 @@
     "Business"
    ],
    "first_seen": "2026-10-19T23:41:26+00:00"
-  },
-  {
-   "id": "b3fcb2e42d321123",
-   "title": "Franchisee reconciles cash in 94% less time with ChatGPT Work",
-   "link": "https://openai.com/index/ted-taylor-restaurant",
-   "source": "OpenAI",
-   "kind": "lab",
-   "summary": "An independent Schlotzsky’s and Cinnabon franchisee cut menu repricing time by 95% and built a workflow that could free up $100K in cash flow.",
-   "published": "2026-10-20T10:00:00+00:00",
-   "topics": [],
-   "first_seen": "2026-10-20T21:37:04+00:00"
-  },
-  {
-   "id": "506646dbe51b1aa8",
-   "title": "A visit to Samsung’s massive new semiconductor hub",
-   "link": "https://www.technologyreview.com/2026/10/20/1145916/dispatch-visit-to-samsung-massive-new-semiconductor-hub/",
-   "source": "MIT Technology Review",
-   "kind": "press",
-   "summary": "Generative AI models run on powerful chips known as GPUs, which depend on stacks of specialized memory chips packaged with the processor. To meet growing demand for memory, Samsung is building a massive new semiconductor manufacturing complex in Pyeongtaek, South Korea. Three…",
-   "published": "2026-10-20T09:00:00+00:00",
-   "topics": [
-    "Models",
-    "Hardware"
-   ],
-   "first_seen": "2026-10-20T11:35:33+00:00"
-  },
-  {
-   "id": "a84b6a7bee5c68a6",
-   "title": "Terminal X matches senior investor judgment 88.6% with GPT-6.1",
-   "link": "https://openai.com/index/terminal-x",
-   "source": "OpenAI",
-   "kind": "lab",
-   "summary": "Terminal X’s Eval Agent grades outputs against a 54-criterion rubric, catching 25% more deviances from a fund’s mandate with GPT-6.1 Sol.",
-   "published": "2026-10-20T07:00:00+00:00",
-   "topics": [
-    "Models",
-    "Business",
-    "Tools"
-   ],
-   "first_seen": "2026-10-21T07:39:23+00:00"
-  },
-  {
-   "id": "ed298111b59a085c",
-   "title": "Mamdani says feds have abdicated on AI, urges New Yorkers to push back",
-   "link": "https://techcrunch.com/2026/10/19/mamdani-says-feds-have-abdicated-on-ai-urges-new-yorkers-to-push-back/",
-   "source": "TechCrunch",
-   "kind": "press",
-   "summary": "Mayor Zohran Mamdani said Monday night that New Yorkers must resist the narrative that an AI takeover is inevitable and demand regulations that protect the public and put power back in their hands.",
-   "published": "2026-10-20T01:27:03+00:00",
-   "topics": [
-    "Policy"
-   ],
-   "first_seen": "2026-10-20T04:50:27+00:00"
   }
  ]
 }
