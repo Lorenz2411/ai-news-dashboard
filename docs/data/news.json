@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T12:53:38+00:00",
+ "updated": "2026-11-20T21:48:42+00:00",
  "sources": [
   {
    "name": "OpenAI",
@@ -13,9 +13,9 @@
    "name": "Google DeepMind",
    "url": "https://deepmind.google/blog/rss.xml",
    "kind": "lab",
-   "ok": false,
-   "count": 0,
-   "error": "ParseError: not well-formed (invalid token): line 1, column 0"
+   "ok": true,
+   "count": 40,
+   "error": null
   },
   {
    "name": "Google AI",
@@ -85,12 +85,162 @@
    "name": "Hacker News",
    "url": "https://hnrss.org/newest?q=AI+OR+LLM+OR+GPT+OR+Claude&points=100",
    "kind": "community",
-   "ok": true,
-   "count": 20,
-   "error": null
+   "ok": false,
+   "count": 0,
+   "error": "URLError: <urlopen error [Errno 104] Connection reset by peer>"
   }
  ],
  "items": [
+  {
+   "id": "c4b0222f29f2f6ae",
+   "title": "Meta reconsiders 2030 net-zero goal amid record emissions from AI data centers",
+   "link": "https://arstechnica.com/ai/2026/11/meta-reconsiders-2030-net-zero-goal-amid-record-emissions-from-ai-data-centers/",
+   "source": "Ars Technica",
+   "kind": "press",
+   "summary": "Meta is “re-evaluating” 2030 sustainability goals. Will others follow?",
+   "published": "2026-11-20T21:47:10+00:00",
+   "topics": [
+    "Hardware"
+   ],
+   "first_seen": "2026-11-20T21:48:42+00:00"
+  },
+  {
+   "id": "99727b65c29013d0",
+   "title": "Researcher plants 2m canaries into the AI supply chain. A privacy disaster surfaced.",
+   "link": "https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/",
+   "source": "Ars Technica",
+   "kind": "press",
+   "summary": "Test using prompts with unique, trackable secrets proves that data doesn't stay private.",
+   "published": "2026-11-20T20:59:08+00:00",
+   "topics": [],
+   "first_seen": "2026-11-20T21:48:42+00:00"
+  },
+  {
+   "id": "340614cb1d4599fc",
+   "title": "Daniel Ek backs AI researcher’s fusion power startup. Here’s what they’re building.",
+   "link": "https://techcrunch.com/2026/11/20/daniel-ek-backs-ai-researchers-fusion-power-startup-heres-what-theyre-building/",
+   "source": "TechCrunch",
+   "kind": "press",
+   "summary": "Spotify founder Daniel Ek is backing Europa Fusion, a fusion power startup founded by an AI researcher. Here's what the startup is building.",
+   "published": "2026-11-20T19:53:41+00:00",
+   "topics": [
+    "Business"
+   ],
+   "first_seen": "2026-11-20T21:48:42+00:00"
+  },
+  {
+   "id": "d6bff5841b5a64e7",
+   "title": "AI claimed a solution to the 167-year-old Riemann Hypothesis — and a human did, too",
+   "link": "https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/",
+   "source": "TechCrunch",
+   "kind": "press",
+   "summary": "Mathematicians are having their minds blown by the latest AI-driven result — and there's a competing human solution, too.",
+   "published": "2026-11-20T19:32:08+00:00",
+   "topics": [],
+   "first_seen": "2026-11-20T21:48:42+00:00"
+  },
+  {
+   "id": "6a73fdd651f90d83",
+   "title": "Quoting Ravi Vakil",
+   "link": "https://simonwillison.net/2026/Nov/20/ravi-vakil/",
+   "source": "Simon Willison",
+   "kind": "community",
+   "summary": "Alessandro Masullo has a proposed proof of [Generalized Riemann Hypothesis], and Brian Conrad has been looking closely at it for months and gave extensive feedback which is being incorporated, and it is so far looking good. It is all human, with no AI. The hope was to bring…",
+   "published": "2026-11-20T19:21:49+00:00",
+   "topics": [],
+   "first_seen": "2026-11-20T21:48:42+00:00"
+  },
+  {
+   "id": "3a0cb236fd3220da",
+   "title": "Trump threatens ‘tremendous tax’ for moving AI data centers outside the US",
+   "link": "https://www.theverge.com/policy/1038892/trump-foreign-data-centers-tax",
+   "source": "The Verge",
+   "kind": "press",
+   "summary": "President Donald Trump promised to put a \"tremendous tax\" on companies that build data centers outside of the US, even as states and cities around the country are placing restrictions on new applications to build them. \"We're not going to allow our companies to build data…",
+   "published": "2026-11-20T18:50:19+00:00",
+   "topics": [
+    "Hardware"
+   ],
+   "first_seen": "2026-11-20T21:48:42+00:00"
+  },
+  {
+   "id": "01449c61c8b86a22",
+   "title": "The most misunderstood graph in AI just got a major update",
+   "link": "https://www.technologyreview.com/2026/11/20/1149399/the-most-misunderstood-graph-in-ai-just-got-a-major-update/",
+   "source": "MIT Technology Review",
+   "kind": "press",
+   "summary": "A new report from the AI evaluation nonprofit METR finds that some AI capabilities are continuing to improve along an exponential trajectory—but it also indicates that models aren’t quite as good at tasks that require judgment as they are at coding. The report is an update to…",
+   "published": "2026-11-20T18:15:15+00:00",
+   "topics": [
+    "Models"
+   ],
+   "first_seen": "2026-11-20T21:48:42+00:00"
+  },
+  {
+   "id": "079373956374b3c3",
+   "title": "Chips can survive the space environment — can their financing?",
+   "link": "https://techcrunch.com/2026/11/20/chips-can-survive-the-space-environment-can-their-financing/",
+   "source": "TechCrunch",
+   "kind": "press",
+   "summary": "Lenders don't want SpaceX shooting their collateral into orbit. What does that mean for space data centers writ large?",
+   "published": "2026-11-20T17:40:01+00:00",
+   "topics": [
+    "Hardware"
+   ],
+   "first_seen": "2026-11-20T21:48:42+00:00"
+  },
+  {
+   "id": "859ee3ec8c206bcf",
+   "title": "Anthropic mathematician claims to have solved prestigious Millennium Prize problem with Claude",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/1010051/anthropic-riemann-hypothesis-millennium-prize-problem",
+   "source": "The Verge",
+   "kind": "press",
+   "summary": "Anthropic mathematician Levent Alpöge claims he has proved the Riemann hypothesis, one of mathematics's most notoriously difficult problems, with the help of Claude, cracking a puzzle that has eluded some of the world's best mathematicians for decades. If verified, it would mark…",
+   "published": "2026-11-20T16:57:47+00:00",
+   "topics": [
+    "Models"
+   ],
+   "first_seen": "2026-11-20T21:48:42+00:00"
+  },
+  {
+   "id": "9e188d65b5accd0c",
+   "title": "Quoting Levent Alpöge",
+   "link": "https://simonwillison.net/2026/Nov/20/levent-alpoge/",
+   "source": "Simon Willison",
+   "kind": "community",
+   "summary": "I believe I have, working with Claude, discovered a proof of the Riemann Hypothesis. In fact, the method easily extends much further, resolving the so-called Generalized Riemann Hypothesis, and I expect, with more time, the Extended Riemann Hypothesis too. Claude and I have also…",
+   "published": "2026-11-20T16:30:48+00:00",
+   "topics": [
+    "Models"
+   ],
+   "first_seen": "2026-11-20T21:48:42+00:00"
+  },
+  {
+   "id": "a22c687c439c6aed",
+   "title": "Apple is hiring engineers to build its own AI agent",
+   "link": "https://www.theverge.com/tech/1038227/apple-ai-agent-engineer-job-listing",
+   "source": "The Verge",
+   "kind": "press",
+   "summary": "Apple is working on its own AI agent that can perform a range of tasks for you, including browsing the web, working across apps, writing code, and calling services. That's according to a now-removed job listing spotted by Bloomberg, which said Apple is looking for an engineer to…",
+   "published": "2026-11-20T15:13:37+00:00",
+   "topics": [
+    "Tools"
+   ],
+   "first_seen": "2026-11-20T03:14:01+00:00"
+  },
+  {
+   "id": "92c1cc867c014247",
+   "title": "The fallout from Nvidia’s Jensen Huang scandal continues",
+   "link": "https://techcrunch.com/podcast/the-fallout-from-nvidias-jensen-huang-scandal-continues/",
+   "source": "TechCrunch",
+   "kind": "press",
+   "summary": "In the midst of dealing with the fallout from its ouster of CEO Jensen Huang, Nvidia delivered its latest earnings report this week, with healthy growth and promises that the good times will continue. At the same time, the chipmaker said it will stop selling its H200 chips in…",
+   "published": "2026-11-20T14:55:44+00:00",
+   "topics": [
+    "Hardware"
+   ],
+   "first_seen": "2026-11-20T21:48:42+00:00"
+  },
   {
    "id": "779ccf54081cfd88",
    "title": "Signal is blocking Gemini and Siri AI from reading your screen",
@@ -98,12 +248,47 @@
    "source": "The Verge",
    "kind": "press",
    "summary": "Signal is restricting the ability to take screenshots on Android and iOS devices in an effort to prevent AI agents from reading users' messages and other data. The agentic AI capabilities built into operating systems that analyze on-screen information to learn more about the…",
-   "published": "2026-11-20T12:30:47+00:00",
+   "published": "2026-11-20T14:36:42+00:00",
    "topics": [
     "Models",
     "Tools"
    ],
    "first_seen": "2026-11-20T12:53:38+00:00"
+  },
+  {
+   "id": "74e2df77898470ff",
+   "title": "A brief history of Nvidia’s recent stock fluctuations",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/1038063/nvidia-stock-market-price-earnings",
+   "source": "The Verge",
+   "kind": "press",
+   "summary": "\"We've got this,\" Colette Kress, interim CEO of Nvidia, said Tuesday night as she closed out the embattled chip company's third quarter earnings call. By Thursday, the company's stock price was hovering at around $150 per share, a nearly 40 percent drop from its all-time high on…",
+   "published": "2026-11-20T14:20:13+00:00",
+   "topics": [
+    "Hardware"
+   ],
+   "first_seen": "2026-11-20T03:14:01+00:00"
+  },
+  {
+   "id": "299291fdd5181a56",
+   "title": "The week everything fell apart",
+   "link": "https://www.theverge.com/podcast/1038419/outage-outlook-ground-stop-tech-failure-vergecast",
+   "source": "The Verge",
+   "kind": "press",
+   "summary": "There was a dayslong Outlook outage. A nationwide ground stop for only the second time in 25 years. Banks seemed to suddenly stop working. Even iCloud couldn't stay up and running. This week, it felt like the technological world simply collapsed. And it felt like this might be…",
+   "published": "2026-11-20T14:06:59+00:00",
+   "topics": [],
+   "first_seen": "2026-11-20T21:48:42+00:00"
+  },
+  {
+   "id": "7d8981ef54762173",
+   "title": "Six AI-powered gadgets that could make your home office smarter",
+   "link": "https://techcrunch.com/2026/11/20/6-ai-powered-gadgets-that-could-make-your-home-office-smarter/",
+   "source": "TechCrunch",
+   "kind": "press",
+   "summary": "From notetakers to webcams, here are six AI-powered gadgets to upgrade your workspace.",
+   "published": "2026-11-20T14:00:00+00:00",
+   "topics": [],
+   "first_seen": "2026-11-20T21:48:42+00:00"
   },
   {
    "id": "0000282282406879",
@@ -115,6 +300,19 @@
    "published": "2026-11-20T10:01:41+00:00",
    "topics": [],
    "first_seen": "2026-11-20T12:53:38+00:00"
+  },
+  {
+   "id": "3ea993db7e3c60d1",
+   "title": "Combatting adversarial distillation",
+   "link": "https://openai.com/index/combatting-adversarial-distillation",
+   "source": "OpenAI",
+   "kind": "lab",
+   "summary": "OpenAI’s layered approach to adversarial distillation combines model training, safeguards, detection, and enforcement to protect against capability extraction.",
+   "published": "2026-11-20T10:00:00+00:00",
+   "topics": [
+    "Models"
+   ],
+   "first_seen": "2026-11-20T21:48:42+00:00"
   },
   {
    "id": "f32d5bea8abf85e8",
@@ -157,30 +355,55 @@
    "first_seen": "2026-11-20T03:14:01+00:00"
   },
   {
-   "id": "a22c687c439c6aed",
-   "title": "Apple is hiring engineers to build its own AI agent",
-   "link": "https://www.theverge.com/tech/1038227/apple-ai-agent-engineer-job-listing",
-   "source": "The Verge",
-   "kind": "press",
-   "summary": "Apple is working on its own AI agent that can perform a range of tasks for you, including browsing the web, working across apps, writing code, and calling services. That's according to a job listing spotted by Bloomberg, which says Apple is looking for an engineer to lead the…",
-   "published": "2026-11-19T23:13:01+00:00",
+   "id": "d15c45643214b444",
+   "title": "Hebbia sees improvements in financial research with GPT-6 Astra",
+   "link": "https://openai.com/business/customer-stories/hebbia",
+   "source": "OpenAI",
+   "kind": "lab",
+   "summary": "Hebbia tested GPT-6 Astra for financial research. Its prerelease evaluations found gains in source coverage, citation relevance, and presentation quality.",
+   "published": "2026-11-20T00:00:00+00:00",
    "topics": [
-    "Tools"
+    "Models",
+    "Research"
    ],
-   "first_seen": "2026-11-20T03:14:01+00:00"
+   "first_seen": "2026-11-20T21:48:42+00:00"
   },
   {
-   "id": "74e2df77898470ff",
-   "title": "A brief history of Nvidia’s recent stock fluctuations",
-   "link": "https://www.theverge.com/ai-artificial-intelligence/1038063/nvidia-stock-market-price-earnings",
-   "source": "The Verge",
-   "kind": "press",
-   "summary": "\"We've got this,\" Colette Kress, interim CEO of Nvidia, said Tuesday night as she closed out the embattled chip company's third quarter earnings call. By Thursday, the company's stock price was hovering at around $150 per share, a nearly 40 percent drop from its all-time high on…",
-   "published": "2026-11-19T21:59:35+00:00",
+   "id": "f4784c30400364a2",
+   "title": "Can AI help scientists identify promising drug candidates?",
+   "link": "https://openai.com/index/introducing-medchembench",
+   "source": "OpenAI",
+   "kind": "lab",
+   "summary": "MedChemBench evaluates how well AI models interpret molecular structures, reason from experimental evidence, and select compounds in early drug discovery.",
+   "published": "2026-11-20T00:00:00+00:00",
    "topics": [
-    "Hardware"
+    "Models"
    ],
-   "first_seen": "2026-11-20T03:14:01+00:00"
+   "first_seen": "2026-11-20T21:48:42+00:00"
+  },
+  {
+   "id": "80d31a6dee298bbd",
+   "title": "Welcome Inkling 2 Mini, Cutting-edge Performance for your Local Setup",
+   "link": "https://huggingface.co/blog/inkling2mini",
+   "source": "Hugging Face",
+   "kind": "lab",
+   "summary": "",
+   "published": "2026-11-20T00:00:00+00:00",
+   "topics": [],
+   "first_seen": "2026-11-20T21:48:42+00:00"
+  },
+  {
+   "id": "211fbe8009a45ecd",
+   "title": "Introducing harness adapters: adapt your favorite model to your harness to improve performance and cost",
+   "link": "https://huggingface.co/blog/harness-adapters-at-scale",
+   "source": "Hugging Face",
+   "kind": "lab",
+   "summary": "",
+   "published": "2026-11-20T00:00:00+00:00",
+   "topics": [
+    "Models"
+   ],
+   "first_seen": "2026-11-20T21:48:42+00:00"
   },
   {
    "id": "6f0f2d869f0fe635",
@@ -12488,382 +12711,6 @@
     "Hardware"
    ],
    "first_seen": "2026-10-21T23:18:36+00:00"
-  },
-  {
-   "id": "89a2c6e8757c1903",
-   "title": "Walmart is inviting AI agents to shop for you",
-   "link": "https://www.theverge.com/ai-artificial-intelligence/1015715/walmart-ai-shopping-agents",
-   "source": "The Verge",
-   "kind": "press",
-   "summary": "Walmart will soon let AI agents shop on its website for you. Next month, the retail giant will allow you to use an AI agent on the site, with systems in place to let you approve and review purchases and set spending limits. The embrace of AI agents stands in stark contrast to…",
-   "published": "2026-10-21T21:36:21+00:00",
-   "topics": [
-    "Tools"
-   ],
-   "first_seen": "2026-10-21T23:18:36+00:00"
-  },
-  {
-   "id": "86bbef590f282368",
-   "title": "Meta to create a new class of shares to fund AI push",
-   "link": "https://www.theverge.com/tech/1015799/meta-shares-class-ai-q3-2026-earnings",
-   "source": "The Verge",
-   "kind": "press",
-   "summary": "Meta says it's issuing a new class of shares to fund its AI initiatives. As part of its third-quarter earnings report released on Wednesday, the company says the non-voting stock will also go toward potential acquisitions and employee compensation, with trading beginning in…",
-   "published": "2026-10-21T21:30:02+00:00",
-   "topics": [
-    "Tools"
-   ],
-   "first_seen": "2026-10-21T23:18:36+00:00"
-  },
-  {
-   "id": "063c29a16ff7723c",
-   "title": "TechCrunch Founder Summit 2026: Everything you need to know",
-   "link": "https://techcrunch.com/2026/10/21/techcrunch-founder-summit-2026-everything-you-need-to-know/",
-   "source": "TechCrunch",
-   "kind": "press",
-   "summary": "TechCrunch Founder Summit is a full-day gathering in Boston on November 4 where founders across all stages connect with top VCs and experienced entrepreneurs to gain tactical insights on building and scaling their companies.",
-   "published": "2026-10-21T21:16:20+00:00",
-   "topics": [],
-   "first_seen": "2026-10-21T23:18:36+00:00"
-  },
-  {
-   "id": "21039cf535863304",
-   "title": "Meta says Muse has over 10M users, with shopping a top activity",
-   "link": "https://techcrunch.com/2026/10/21/meta-says-muse-has-over-10m-users-with-shopping-a-top-activity/",
-   "source": "TechCrunch",
-   "kind": "press",
-   "summary": "Meta Muse users are adopting the app for shopping and personal productivity, the company said during its Q3 earnings call. The AI app now has over 10M users.",
-   "published": "2026-10-21T21:14:19+00:00",
-   "topics": [
-    "Tools"
-   ],
-   "first_seen": "2026-10-21T23:18:36+00:00"
-  },
-  {
-   "id": "2ed22a61b2f19a0c",
-   "title": "Broad access through consistent standards",
-   "link": "https://openai.com/index/broad-access-through-consistent-standards",
-   "source": "OpenAI",
-   "kind": "lab",
-   "summary": "How OpenAI works with distribution partners to uphold consistent safeguards, support responsible access, and clarify expectations in our Usage Policies.",
-   "published": "2026-10-21T21:00:00+00:00",
-   "topics": [],
-   "first_seen": "2026-10-21T23:18:36+00:00"
-  },
-  {
-   "id": "dc1c99f7973e826c",
-   "title": "Recursive launches Flint, a laptop coding model it says was largely built by AI",
-   "link": "https://techcrunch.com/2026/10/21/recursive-launches-flint-a-laptop-coding-model-it-says-was-largely-built-by-ai/",
-   "source": "TechCrunch",
-   "kind": "press",
-   "summary": "Startup Recursive has released Flint, a free, laptop-sized coding model built largely by its own AI research system, as an early test of AI that improves itself.",
-   "published": "2026-10-21T20:27:41+00:00",
-   "topics": [
-    "Models",
-    "Research",
-    "Business",
-    "Tools"
-   ],
-   "first_seen": "2026-10-21T23:18:36+00:00"
-  },
-  {
-   "id": "0d8d033795840d49",
-   "title": "Anthropic takes on Muse with Claude Duet, its new AI agent",
-   "link": "https://www.theverge.com/ai-artificial-intelligence/1015843/anthropic-claude-duet-ai-agent",
-   "source": "The Verge",
-   "kind": "press",
-   "summary": "Anthropic just announced an AI agent competitor to Meta's Muse and OpenAI's Dots: Claude Duet. The new agent, designed for professionals and small business owners, is launching as a \"research preview,\" according to Anthropic, and it's available as a standalone app on iOS and…",
-   "published": "2026-10-21T19:54:52+00:00",
-   "topics": [
-    "Models",
-    "Research",
-    "Tools"
-   ],
-   "first_seen": "2026-10-21T23:18:36+00:00"
-  },
-  {
-   "id": "140d853f0e3f908f",
-   "title": "The new human-crafted Apple Music brand matters in an AI world",
-   "link": "https://arstechnica.com/culture/2026/10/the-new-human-crafted-apple-music-brand-matters-in-an-ai-world/",
-   "source": "Ars Technica",
-   "kind": "press",
-   "summary": "Opinion: In a world of AI slop, showing the human hands making things helps.",
-   "published": "2026-10-21T19:44:40+00:00",
-   "topics": [],
-   "first_seen": "2026-10-21T23:18:36+00:00"
-  },
-  {
-   "id": "a9cc4be8b0bea8a2",
-   "title": "While Amazon blocks AI agents, Walmart rolls out the welcome mat",
-   "link": "https://techcrunch.com/2026/10/21/while-amazon-blocks-ai-agents-walmart-rolls-out-the-welcome-mat/",
-   "source": "TechCrunch",
-   "kind": "press",
-   "summary": "As Amazon blocks AI agents from shopping on its site, Walmart is taking the opposite approach, introducing new technology that lets AI agents make purchases on customers' behalf, with controls over spending and transaction approvals.",
-   "published": "2026-10-21T19:30:00+00:00",
-   "topics": [
-    "Tools"
-   ],
-   "first_seen": "2026-10-21T23:18:36+00:00"
-  },
-  {
-   "id": "eb0f1c4495dc1cfc",
-   "title": "Google staff resign in backlash over its AI contracts with military",
-   "link": "https://www.bbc.com/news/articles/cmreyvepnv0po",
-   "source": "Hacker News",
-   "kind": "community",
-   "summary": "Article URL: https://www.bbc.com/news/articles/cmreyvepnv0po Comments URL: https://news.ycombinator.com/item?id=50186043 Points: 128 # Comments: 26",
-   "published": "2026-10-21T19:14:21+00:00",
-   "topics": [],
-   "first_seen": "2026-10-22T04:44:18+00:00"
-  },
-  {
-   "id": "5dbb54a005401fc7",
-   "title": "Claude Duet",
-   "link": "https://claude.com/product/claude-duet",
-   "source": "Hacker News",
-   "kind": "community",
-   "summary": "Article URL: https://claude.com/product/claude-duet Comments URL: https://news.ycombinator.com/item?id=50186037 Points: 567 # Comments: 535",
-   "published": "2026-10-21T19:14:01+00:00",
-   "topics": [
-    "Models"
-   ],
-   "first_seen": "2026-10-21T23:18:36+00:00"
-  },
-  {
-   "id": "53db5cc109270879",
-   "title": "OpenAI's latest AI models are coming to Google Cloud and Antigravity",
-   "link": "https://arstechnica.com/ai/2026/10/openais-latest-ai-models-are-coming-to-google-cloud-and-antigravity/",
-   "source": "Ars Technica",
-   "kind": "press",
-   "summary": "Google Cloud will have GPT 6.1 Astra, Sol, and Luna in the coming weeks.",
-   "published": "2026-10-21T18:51:42+00:00",
-   "topics": [
-    "Models"
-   ],
-   "first_seen": "2026-10-21T23:18:36+00:00"
-  },
-  {
-   "id": "952285572a8e70b9",
-   "title": "Today's PHP Security Release, and How We're Strengthening PHP Security",
-   "link": "https://simonwillison.net/2026/Oct/21/php-security-release/",
-   "source": "Simon Willison",
-   "kind": "community",
-   "summary": "Today's PHP Security Release, and How We're Strengthening PHP Security If you're running anything on PHP it's vital you upgrade - today's updates (across the entire PHP 8.x line) address two remote code execution holes, and there have been exploits circulating since last night…",
-   "published": "2026-10-21T18:41:53+00:00",
-   "topics": [
-    "Tools"
-   ],
-   "first_seen": "2026-10-21T23:18:36+00:00"
-  },
-  {
-   "id": "7104bc51c29585cc",
-   "title": "NVIDIA Kumo Relational Outperforms Supervised Machine Learning on Relational Data, No Training Required",
-   "link": "https://huggingface.co/blog/nvidia/kumo-relational",
-   "source": "Hugging Face",
-   "kind": "lab",
-   "summary": "",
-   "published": "2026-10-21T18:26:30+00:00",
-   "topics": [
-    "Hardware"
-   ],
-   "first_seen": "2026-10-21T18:38:59+00:00"
-  },
-  {
-   "id": "5cbd98ec79a60fdf",
-   "title": "Judge rejects Trump’s wild claim EPA can dismiss data center pollution lawsuits",
-   "link": "https://arstechnica.com/tech-policy/2026/10/judge-rejects-trumps-wild-claim-epa-can-dismiss-data-center-pollution-lawsuits/",
-   "source": "Ars Technica",
-   "kind": "press",
-   "summary": "Trump’s EPA can't unilaterally dismiss SpaceXAI pollution lawsuit, court rules.",
-   "published": "2026-10-21T18:20:40+00:00",
-   "topics": [
-    "Policy",
-    "Hardware"
-   ],
-   "first_seen": "2026-10-21T18:38:59+00:00"
-  },
-  {
-   "id": "66d6885dea0a4d03",
-   "title": "PHP Armageddon: OpenAI, Google’s Wiz find ancient holes, panicking the internet",
-   "link": "https://techcrunch.com/2026/10/21/php-armageddon-openai-googles-wiz-find-ancient-holes-panicking-the-internet/",
-   "source": "TechCrunch",
-   "kind": "press",
-   "summary": "This is the kind of security issue that was found and prevented by AI, but is also a high risk because of AI.",
-   "published": "2026-10-21T17:59:12+00:00",
-   "topics": [],
-   "first_seen": "2026-10-21T23:18:36+00:00"
-  },
-  {
-   "id": "354f89a6c7dbf10c",
-   "title": "How Specializing the Vocabulary of SLMs Can Cut Inference Cost by 77% in Real Applications",
-   "link": "https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization",
-   "source": "Hugging Face",
-   "kind": "lab",
-   "summary": "",
-   "published": "2026-10-21T17:35:36+00:00",
-   "topics": [],
-   "first_seen": "2026-10-21T18:38:59+00:00"
-  },
-  {
-   "id": "49c4538f4284d648",
-   "title": "Blacksmith hits unicorn valuation after Sequoia leads Series C",
-   "link": "https://techcrunch.com/2026/10/21/blacksmith-hits-unicorn-valuation-after-sequoia-leads-series-c/",
-   "source": "TechCrunch",
-   "kind": "press",
-   "summary": "Blacksmith, a platform that lets companies build and test AI code more effectively, just announced a $66 million Series C round led by Sequoia that values the company at $1 billion.",
-   "published": "2026-10-21T17:18:27+00:00",
-   "topics": [
-    "Business"
-   ],
-   "first_seen": "2026-10-21T23:18:36+00:00"
-  },
-  {
-   "id": "4ab93569e260b2b0",
-   "title": "How AT&T is rethinking in-house legal work with OpenAI",
-   "link": "https://openai.com/index/att-legal",
-   "source": "OpenAI",
-   "kind": "lab",
-   "summary": "AT&T is working with OpenAI to make legal knowledge easier to access. Learn how its LegalEdge team is rethinking intake and scaling legal judgment.",
-   "published": "2026-10-21T17:00:00+00:00",
-   "topics": [],
-   "first_seen": "2026-10-21T18:38:59+00:00"
-  },
-  {
-   "id": "b328ea6101ebd166",
-   "title": "Show HN: Omnara – Open-source alternative to Claude Managed Agents",
-   "link": "https://github.com/omnara-ai/omnara",
-   "source": "Hacker News",
-   "kind": "community",
-   "summary": "Hey all, Kartik from Omnara ( https://omnara.com ) here. We're building an open-source API for running durable agents. You create an agent with an API call, and Omnara runs the agent loop, gives the agent sandboxes to run commands in, and handles secrets, permissions, and RBAC…",
-   "published": "2026-10-21T16:44:53+00:00",
-   "topics": [
-    "Models",
-    "Tools"
-   ],
-   "first_seen": "2026-10-22T21:35:16+00:00"
-  },
-  {
-   "id": "6c1da1b548c04122",
-   "title": "Panache — RTS Belle Époque pour mobile",
-   "link": "https://simonwillison.net/2026/Oct/21/panache/",
-   "source": "Simon Willison",
-   "kind": "community",
-   "summary": "Panache — RTS Belle Époque pour mobile Well this is delightful: I released Battle Drones yesterday under an Apache 2.0 License and there's already a French language fork by Gabriel Turpin which reskins the game to take place in steampunk 1900s France and adds an animated intro!…",
-   "published": "2026-10-21T16:25:16+00:00",
-   "topics": [
-    "Tools"
-   ],
-   "first_seen": "2026-10-21T18:38:59+00:00"
-  },
-  {
-   "id": "f9b499debdda31c0",
-   "title": "Profiling TorchNeuron (Part 1): System-level profiling on AWS Trainium.",
-   "link": "https://huggingface.co/blog/amazon/profiling-torchneuron-part-1",
-   "source": "Hugging Face",
-   "kind": "lab",
-   "summary": "",
-   "published": "2026-10-21T16:04:43+00:00",
-   "topics": [],
-   "first_seen": "2026-10-21T18:38:59+00:00"
-  },
-  {
-   "id": "2f67d3a79def457f",
-   "title": "The $15 billion ad-powered AI startup your doctor may already be using",
-   "link": "https://arstechnica.com/ai/2026/10/the-15-billion-ad-powered-ai-startup-your-doctor-may-already-be-using/",
-   "source": "Ars Technica",
-   "kind": "press",
-   "summary": "OpenEvidence is booming despite questions about accuracy and ads.",
-   "published": "2026-10-21T15:14:07+00:00",
-   "topics": [
-    "Business"
-   ],
-   "first_seen": "2026-10-21T18:38:59+00:00"
-  },
-  {
-   "id": "9b35c0bfb2f0e3cd",
-   "title": "Granite Speech 5.0: Transcribe, Translate, and Attribute more Accurately and Faster",
-   "link": "https://huggingface.co/blog/ibm-granite/granite-speech-5",
-   "source": "Hugging Face",
-   "kind": "lab",
-   "summary": "",
-   "published": "2026-10-21T14:58:18+00:00",
-   "topics": [],
-   "first_seen": "2026-10-21T18:38:59+00:00"
-  },
-  {
-   "id": "0b138e9a1d82325f",
-   "title": "AI promises productivity, but for managers, it’s mostly a headache for now",
-   "link": "https://techcrunch.com/2026/10/21/ai-promises-productivity-but-for-managers-its-mostly-a-headache-for-now-says-new-survey/",
-   "source": "TechCrunch",
-   "kind": "press",
-   "summary": "More than 50% of managers say they're finding it harder to evaluate employees' work after adopting AI, according to a new survey.",
-   "published": "2026-10-21T14:00:00+00:00",
-   "topics": [],
-   "first_seen": "2026-10-21T18:38:59+00:00"
-  },
-  {
-   "id": "c55b4c3c8ca25718",
-   "title": "OpenAI says an AI agent lied about disabling its safety monitoring system",
-   "link": "https://www.theverge.com/ai-artificial-intelligence/1015316/openai-ai-agent-disabling-monitoring-systems",
-   "source": "The Verge",
-   "kind": "press",
-   "summary": "OpenAI disclosed a pair of safety incidents that involved AI agents weakening their safety monitoring systems during internal coding tasks. In one incident, OpenAI says its GPT-6 Astra agent disabled its safety monitor when copying reference code - and then lied about it. \"The…",
-   "published": "2026-10-21T13:57:43+00:00",
-   "topics": [
-    "Models",
-    "Policy",
-    "Tools"
-   ],
-   "first_seen": "2026-10-21T18:38:59+00:00"
-  },
-  {
-   "id": "d31a18ead424650d",
-   "title": "PHP2Shell: AI uncovers critical RCE in PHP",
-   "link": "https://www.wiz.io/blog/php2shell-php-rce",
-   "source": "Hacker News",
-   "kind": "community",
-   "summary": "https://www.php2shell.com/ Comments URL: https://news.ycombinator.com/item?id=50180836 Points: 455 # Comments: 185",
-   "published": "2026-10-21T13:43:19+00:00",
-   "topics": [],
-   "first_seen": "2026-10-21T18:38:59+00:00"
-  },
-  {
-   "id": "e3212a9c9359a209",
-   "title": "Using thousands of AI agents to uncover new leads in biological data",
-   "link": "https://openai.com/index/scaling-ai-research-for-complex-biological-data/",
-   "source": "Hacker News",
-   "kind": "community",
-   "summary": "Article URL: https://openai.com/index/scaling-ai-research-for-complex-biological-data/ Comments URL: https://news.ycombinator.com/item?id=50180752 Points: 160 # Comments: 106",
-   "published": "2026-10-21T13:37:00+00:00",
-   "topics": [
-    "Research",
-    "Tools"
-   ],
-   "first_seen": "2026-10-21T23:18:36+00:00"
-  },
-  {
-   "id": "1bbb4f6fc3d14211",
-   "title": "Conversational Gemini navigation comes to Apple CarPlay",
-   "link": "https://www.theverge.com/transportation/1015281/gemini-ai-apple-carplay-voice-google-maps",
-   "source": "The Verge",
-   "kind": "press",
-   "summary": "After introducing its Gemini AI assistant to Android Auto last year, Google is now bringing it to Apple CarPlay users. The conversational Gemini in navigation is available today for US drivers, with \"rollout happening globally too,\" according to Google (we've asked for specific…",
-   "published": "2026-10-21T13:01:28+00:00",
-   "topics": [
-    "Models"
-   ],
-   "first_seen": "2026-10-21T18:38:59+00:00"
-  },
-  {
-   "id": "74fcf21eca7add4a",
-   "title": "ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform",
-   "link": "https://openai.com/index/chatgpt-ads-expands-26-new-countries",
-   "source": "OpenAI",
-   "kind": "lab",
-   "summary": "From local businesses to global brands, more advertisers can now reach people as they explore, compare and decide what to buy in ChatGPT.",
-   "published": "2026-10-21T13:00:00+00:00",
-   "topics": [],
-   "first_seen": "2026-10-21T18:38:59+00:00"
   }
  ]
 }
