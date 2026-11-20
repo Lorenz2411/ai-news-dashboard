@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T03:14:01+00:00",
+ "updated": "2026-11-20T12:53:38+00:00",
  "sources": [
   {
    "name": "OpenAI",
@@ -85,12 +85,37 @@
    "name": "Hacker News",
    "url": "https://hnrss.org/newest?q=AI+OR+LLM+OR+GPT+OR+Claude&points=100",
    "kind": "community",
-   "ok": false,
-   "count": 0,
-   "error": "HTTPError: HTTP Error 502: Bad Gateway"
+   "ok": true,
+   "count": 20,
+   "error": null
   }
  ],
  "items": [
+  {
+   "id": "779ccf54081cfd88",
+   "title": "Signal is blocking Gemini and Siri AI from reading your screen",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/1038390/signal-blocking-ai-agent-screenshots-mobile-app",
+   "source": "The Verge",
+   "kind": "press",
+   "summary": "Signal is restricting the ability to take screenshots on Android and iOS devices in an effort to prevent AI agents from reading users' messages and other data. The agentic AI capabilities built into operating systems that analyze on-screen information to learn more about the…",
+   "published": "2026-11-20T12:30:47+00:00",
+   "topics": [
+    "Models",
+    "Tools"
+   ],
+   "first_seen": "2026-11-20T12:53:38+00:00"
+  },
+  {
+   "id": "0000282282406879",
+   "title": "Frostbite: A new CPU architecture discovered, designed and verified by AI",
+   "link": "https://architectlabs.com/blog/frostbite",
+   "source": "Hacker News",
+   "kind": "community",
+   "summary": "Article URL: https://architectlabs.com/blog/frostbite Comments URL: https://news.ycombinator.com/item?id=50572503 Points: 188 # Comments: 118",
+   "published": "2026-11-20T10:01:41+00:00",
+   "topics": [],
+   "first_seen": "2026-11-20T12:53:38+00:00"
+  },
   {
    "id": "f32d5bea8abf85e8",
    "title": "Token fraud is here and it’s BAD (YouTube)",
@@ -296,6 +321,19 @@
    "first_seen": "2026-11-19T20:36:16+00:00"
   },
   {
+   "id": "8b28f73342009518",
+   "title": "Should governments slow frontier AI? Jacob Coxon and Robin Hanson debate [video]",
+   "link": "https://www.youtube.com/watch?v=lwfewYL7X0o",
+   "source": "Hacker News",
+   "kind": "community",
+   "summary": "Article URL: https://www.youtube.com/watch?v=lwfewYL7X0o Comments URL: https://news.ycombinator.com/item?id=50564366 Points: 109 # Comments: 221",
+   "published": "2026-11-19T18:47:16+00:00",
+   "topics": [
+    "Policy"
+   ],
+   "first_seen": "2026-11-20T12:53:38+00:00"
+  },
+  {
    "id": "1054662f25c3d852",
    "title": "Google gives Gemini the ability to use your Mac for you",
    "link": "https://techcrunch.com/2026/11/19/google-gives-gemini-the-ability-to-use-your-mac-for-you/",
@@ -342,7 +380,7 @@
    "link": "https://www.anthropic.com/research/claude-black-hole-physics",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://www.anthropic.com/research/claude-black-hole-physics Comments URL: https://news.ycombinator.com/item?id=50563148 Points: 236 # Comments: 85",
+   "summary": "Article URL: https://www.anthropic.com/research/claude-black-hole-physics Comments URL: https://news.ycombinator.com/item?id=50563148 Points: 515 # Comments: 242",
    "published": "2026-11-19T17:30:44+00:00",
    "topics": [
     "Models",
@@ -388,12 +426,34 @@
    "first_seen": "2026-11-19T20:36:16+00:00"
   },
   {
+   "id": "3f1108dfd06d5091",
+   "title": "Chrome AI features wasting much bandwidth",
+   "link": "https://perishablepress.com/chrome-ai-wasting-much-bandwidth/",
+   "source": "Hacker News",
+   "kind": "community",
+   "summary": "Article URL: https://perishablepress.com/chrome-ai-wasting-much-bandwidth/ Comments URL: https://news.ycombinator.com/item?id=50562636 Points: 130 # Comments: 49",
+   "published": "2026-11-19T16:54:25+00:00",
+   "topics": [],
+   "first_seen": "2026-11-20T12:53:38+00:00"
+  },
+  {
+   "id": "d027c2330022e939",
+   "title": "AI isn't replacing your job. It's turning it into low-paid gig work",
+   "link": "https://restofworld.org/2026/ai-jobs-skills-gig-work/",
+   "source": "Hacker News",
+   "kind": "community",
+   "summary": "Article URL: https://restofworld.org/2026/ai-jobs-skills-gig-work/ Comments URL: https://news.ycombinator.com/item?id=50562500 Points: 140 # Comments: 69",
+   "published": "2026-11-19T16:45:50+00:00",
+   "topics": [],
+   "first_seen": "2026-11-20T12:53:38+00:00"
+  },
+  {
    "id": "9cb51fd9a48f5f0e",
    "title": "Fuck Your AI Safeguards",
    "link": "https://ounapuu.ee/posts/2026/11/19/unsafeguards/",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://ounapuu.ee/posts/2026/11/19/unsafeguards/ Comments URL: https://news.ycombinator.com/item?id=50562262 Points: 287 # Comments: 104",
+   "summary": "Article URL: https://ounapuu.ee/posts/2026/11/19/unsafeguards/ Comments URL: https://news.ycombinator.com/item?id=50562262 Points: 565 # Comments: 227",
    "published": "2026-11-19T16:30:18+00:00",
    "topics": [],
    "first_seen": "2026-11-19T20:36:16+00:00"
@@ -411,11 +471,11 @@
   },
   {
    "id": "82dccdff1c4b48dc",
-   "title": "Pete warden on local AI, open models, voice interfaces, the future of hardware",
+   "title": "Pete Warden on local AI, open models, voice interfaces, the future of hardware",
    "link": "https://thedataexchange.media/pete-warden-moonshine/",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://thedataexchange.media/pete-warden-moonshine/ Comments URL: https://news.ycombinator.com/item?id=50561508 Points: 171 # Comments: 156",
+   "summary": "Article URL: https://thedataexchange.media/pete-warden-moonshine/ Comments URL: https://news.ycombinator.com/item?id=50561508 Points: 260 # Comments: 227",
    "published": "2026-11-19T15:38:12+00:00",
    "topics": [
     "Models"
@@ -478,7 +538,7 @@
    "link": "https://spectrum.ieee.org/ai-superintelligence-debate",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://spectrum.ieee.org/ai-superintelligence-debate Comments URL: https://news.ycombinator.com/item?id=50559140 Points: 101 # Comments: 155",
+   "summary": "Article URL: https://spectrum.ieee.org/ai-superintelligence-debate Comments URL: https://news.ycombinator.com/item?id=50559140 Points: 103 # Comments: 160",
    "published": "2026-11-19T12:17:10+00:00",
    "topics": [],
    "first_seen": "2026-11-19T20:36:16+00:00"
@@ -500,7 +560,7 @@
    "link": "https://colossus.com/article/ai-will-not-make-you-rich/",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://colossus.com/article/ai-will-not-make-you-rich/ Comments URL: https://news.ycombinator.com/item?id=50555093 Points: 105 # Comments: 68",
+   "summary": "Article URL: https://colossus.com/article/ai-will-not-make-you-rich/ Comments URL: https://news.ycombinator.com/item?id=50555093 Points: 107 # Comments: 68",
    "published": "2026-11-19T01:51:28+00:00",
    "topics": [],
    "first_seen": "2026-11-19T20:36:16+00:00"
@@ -511,7 +571,7 @@
    "link": "https://www.lawyerscommittee.org/lawyers-committee-files-lawsuit-on-behalf-of-black-students-detained-and-searched-due-to-ai-alert-falsely-identifying-a-bag-of-chips-as-a-firearm/",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://www.lawyerscommittee.org/lawyers-committee-files-lawsuit-on-behalf-of-black-students-detained-and-searched-due-to-ai-alert-falsely-identifying-a-bag-of-chips-as-a-firearm/ Comments URL: https://news.ycombinator.com/item?id=50554641 Points: 109 # Comments: 81",
+   "summary": "Article URL: https://www.lawyerscommittee.org/lawyers-committee-files-lawsuit-on-behalf-of-black-students-detained-and-searched-due-to-ai-alert-falsely-identifying-a-bag-of-chips-as-a-firearm/ Comments URL: https://news.ycombinator.com/item?id=50554641 Points: 117 # Comments: 90",
    "published": "2026-11-19T00:57:20+00:00",
    "topics": [
     "Policy",
@@ -670,7 +730,7 @@
    "link": "https://www.slowchronicle.com/posts/llm-assisted-reverse-engineering",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://www.slowchronicle.com/posts/llm-assisted-reverse-engineering Comments URL: https://news.ycombinator.com/item?id=50553225 Points: 294 # Comments: 74",
+   "summary": "Article URL: https://www.slowchronicle.com/posts/llm-assisted-reverse-engineering Comments URL: https://news.ycombinator.com/item?id=50553225 Points: 306 # Comments: 79",
    "published": "2026-11-18T22:29:13+00:00",
    "topics": [
     "Models"
@@ -1017,7 +1077,7 @@
    "link": "https://europeanbusinessmagazine.com/ai-agents-better-questions-kpmg/",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://europeanbusinessmagazine.com/ai-agents-better-questions-kpmg/ Comments URL: https://news.ycombinator.com/item?id=50547777 Points: 478 # Comments: 245",
+   "summary": "Article URL: https://europeanbusinessmagazine.com/ai-agents-better-questions-kpmg/ Comments URL: https://news.ycombinator.com/item?id=50547777 Points: 492 # Comments: 260",
    "published": "2026-11-18T15:49:34+00:00",
    "topics": [
     "Tools"
@@ -1210,7 +1270,7 @@
    "link": "https://nicolasbouliane.com/blog/death-by-ai",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://nicolasbouliane.com/blog/death-by-ai Comments URL: https://news.ycombinator.com/item?id=50542705 Points: 801 # Comments: 709",
+   "summary": "Article URL: https://nicolasbouliane.com/blog/death-by-ai Comments URL: https://news.ycombinator.com/item?id=50542705 Points: 810 # Comments: 711",
    "published": "2026-11-18T06:47:26+00:00",
    "topics": [],
    "first_seen": "2026-11-18T17:15:16+00:00"
@@ -1234,7 +1294,7 @@
    "link": "http://xinmingtu.cn/blog/2026/claude-opus-5-5-protein-sequences/",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: http://xinmingtu.cn/blog/2026/claude-opus-5-5-protein-sequences/ Comments URL: https://news.ycombinator.com/item?id=50541619 Points: 176 # Comments: 76",
+   "summary": "Article URL: http://xinmingtu.cn/blog/2026/claude-opus-5-5-protein-sequences/ Comments URL: https://news.ycombinator.com/item?id=50541619 Points: 178 # Comments: 76",
    "published": "2026-11-18T03:47:43+00:00",
    "topics": [
     "Models"
@@ -1285,7 +1345,7 @@
    "link": "https://revscope.co/blog/search-seo-geo-2026/",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://revscope.co/blog/search-seo-geo-2026/ Comments URL: https://news.ycombinator.com/item?id=50540178 Points: 708 # Comments: 562",
+   "summary": "Article URL: https://revscope.co/blog/search-seo-geo-2026/ Comments URL: https://news.ycombinator.com/item?id=50540178 Points: 709 # Comments: 564",
    "published": "2026-11-18T00:17:58+00:00",
    "topics": [],
    "first_seen": "2026-11-18T07:28:04+00:00"
@@ -1479,7 +1539,7 @@
    "link": "https://complexdiscovery.com/harvard-researchers-find-ai-coding-agents-shifted-the-bottleneck-to-code-review/",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://complexdiscovery.com/harvard-researchers-find-ai-coding-agents-shifted-the-bottleneck-to-code-review/ Comments URL: https://news.ycombinator.com/item?id=50538303 Points: 322 # Comments: 455",
+   "summary": "Article URL: https://complexdiscovery.com/harvard-researchers-find-ai-coding-agents-shifted-the-bottleneck-to-code-review/ Comments URL: https://news.ycombinator.com/item?id=50538303 Points: 326 # Comments: 462",
    "published": "2026-11-17T21:16:12+00:00",
    "topics": [
     "Tools"
@@ -1599,7 +1659,7 @@
    "link": "https://openai.com/index/introducing-gpt-6-2-astra-sol/",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://openai.com/index/introducing-gpt-6-2-astra-sol/ Comments URL: https://news.ycombinator.com/item?id=50535230 Points: 1345 # Comments: 859",
+   "summary": "Article URL: https://openai.com/index/introducing-gpt-6-2-astra-sol/ Comments URL: https://news.ycombinator.com/item?id=50535230 Points: 1346 # Comments: 862",
    "published": "2026-11-17T17:46:43+00:00",
    "topics": [
     "Models"
@@ -1823,7 +1883,7 @@
    "link": "https://www.scmp.com/tech/big-tech/article/3374774/baidu-xiaomi-ceos-warn-growing-gap-between-ai-hype-and-returns",
    "source": "Hacker News",
    "kind": "community",
-   "summary": "Article URL: https://www.scmp.com/tech/big-tech/article/3374774/baidu-xiaomi-ceos-warn-growing-gap-between-ai-hype-and-returns Comments URL: https://news.ycombinator.com/item?id=50531751 Points: 191 # Comments: 258",
+   "summary": "Article URL: https://www.scmp.com/tech/big-tech/article/3374774/baidu-xiaomi-ceos-warn-growing-gap-between-ai-hype-and-returns Comments URL: https://news.ycombinator.com/item?id=50531751 Points: 191 # Comments: 259",
    "published": "2026-11-17T14:19:59+00:00",
    "topics": [],
    "first_seen": "2026-11-18T07:28:04+00:00"
@@ -12803,110 +12863,6 @@
    "summary": "From local businesses to global brands, more advertisers can now reach people as they explore, compare and decide what to buy in ChatGPT.",
    "published": "2026-10-21T13:00:00+00:00",
    "topics": [],
-   "first_seen": "2026-10-21T18:38:59+00:00"
-  },
-  {
-   "id": "38715d90bd30f009",
-   "title": "NVIDIA Kumo Forecast Combines Pretrained Time-Series Representations with Historical Pattern Retrieval and Interpretability",
-   "link": "https://huggingface.co/blog/nvidia/kumo-forecast",
-   "source": "Hugging Face",
-   "kind": "lab",
-   "summary": "",
-   "published": "2026-10-21T12:51:24+00:00",
-   "topics": [
-    "Hardware"
-   ],
-   "first_seen": "2026-10-21T13:48:16+00:00"
-  },
-  {
-   "id": "61f4d0141ff303c0",
-   "title": "OpenAI models are coming to Google Cloud",
-   "link": "https://openai.com/index/openai-models-google-cloud",
-   "source": "OpenAI",
-   "kind": "lab",
-   "summary": "OpenAI and Google Cloud are bringing frontier models and Codex workflows to Gemini’s Model Garden, available through Google Cloud Marketplace.",
-   "published": "2026-10-21T12:00:00+00:00",
-   "topics": [
-    "Models"
-   ],
-   "first_seen": "2026-10-21T13:48:16+00:00"
-  },
-  {
-   "id": "d3f519557f32dd3d",
-   "title": "Patch the Planet: global response coordination as agents uncover critical vulnerabilities",
-   "link": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities",
-   "source": "OpenAI",
-   "kind": "lab",
-   "summary": "Patch the Planet connects security researchers, maintainers, and incident responders to help address critical vulnerabilities across open source.",
-   "published": "2026-10-21T07:00:00+00:00",
-   "topics": [
-    "Tools"
-   ],
-   "first_seen": "2026-10-21T18:38:59+00:00"
-  },
-  {
-   "id": "edef63b51aedc012",
-   "title": "How we built ChatGPT’s novel ad stack for user trust and relevance",
-   "link": "https://openai.com/index/building-chatgpt-ad-stack",
-   "source": "OpenAI",
-   "kind": "lab",
-   "summary": "Learn how OpenAI built ChatGPT’s LLM-powered ad stack to understand conversational intent, keep ads separate from answers, and deliver relevant ads at scale.",
-   "published": "2026-10-21T07:00:00+00:00",
-   "topics": [
-    "Models"
-   ],
-   "first_seen": "2026-10-21T18:38:59+00:00"
-  },
-  {
-   "id": "1de8e62ff715d1f1",
-   "title": "Using thousands of AI agents to uncover new leads in biological data",
-   "link": "https://openai.com/index/scaling-ai-research-for-complex-biological-data",
-   "source": "OpenAI",
-   "kind": "lab",
-   "summary": "See how OpenAI, PerturbAI, and Scripps Research used distributed AI agents to uncover promising research leads in data from millions of brain cells.",
-   "published": "2026-10-21T04:50:00+00:00",
-   "topics": [
-    "Research",
-    "Tools"
-   ],
-   "first_seen": "2026-10-21T18:38:59+00:00"
-  },
-  {
-   "id": "0ef7b7288d260e9a",
-   "title": "Using LLM for confidence scoring is a bad idea",
-   "link": "https://rumple.github.io/blog/2026/10/20/asking-llm-for-confidence.html",
-   "source": "Hacker News",
-   "kind": "community",
-   "summary": "Article URL: https://rumple.github.io/blog/2026/10/20/asking-llm-for-confidence.html Comments URL: https://news.ycombinator.com/item?id=50176082 Points: 226 # Comments: 105",
-   "published": "2026-10-21T04:27:51+00:00",
-   "topics": [
-    "Models"
-   ],
-   "first_seen": "2026-10-22T11:51:52+00:00"
-  },
-  {
-   "id": "1778fb273dbb6c0b",
-   "title": "Southeast Asia’s digital economy to hit $368 billion",
-   "link": "https://blog.google/company-news/inside-google/around-the-globe/google-asia/e-conomy-sea-report-2026/",
-   "source": "Google AI",
-   "kind": "lab",
-   "summary": "",
-   "published": "2026-10-21T04:00:00+00:00",
-   "topics": [],
-   "first_seen": "2026-10-21T07:39:23+00:00"
-  },
-  {
-   "id": "341f11e78b1225e8",
-   "title": "Using Claude to reduce the attack surface of code",
-   "link": "https://www.anthropic.com/research/attack-surface-reduction",
-   "source": "Hacker News",
-   "kind": "community",
-   "summary": "Article URL: https://www.anthropic.com/research/attack-surface-reduction Comments URL: https://news.ycombinator.com/item?id=50175779 Points: 137 # Comments: 91",
-   "published": "2026-10-21T03:36:43+00:00",
-   "topics": [
-    "Models",
-    "Research"
-   ],
    "first_seen": "2026-10-21T18:38:59+00:00"
   }
  ]
